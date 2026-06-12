@@ -26,3 +26,7 @@ Both families settled in **Stranton**, the inner township making up much of West
 **Richard Norman's family** ([[norman-randall-1875]]): Richard worked as a labourer across a long working life — labourer (1881), general labourer (1891), labourer at cement works (1901), general labourer for West Hartlepool Borough Council (1911). He and Ann had eleven children. Richard named his ninth child **George Norman** (1895) after his brother who lived nearby.
 
 West Hartlepool was absorbed into the enlarged Hartlepool borough in 1967.
+
+## The Swavesey diaspora
+
+The Norman brothers were part of a much larger migration from Swavesey to Stranton. A census search across 1871, 1881, and 1891 identified 56 records of Swavesey-born individuals in the Hartlepool area, representing at least 25 distinct family surnames, almost all concentrated in Stranton. At least six couples where both spouses were born in Swavesey indicate a genuine enclave rather than dispersed individual migration. George and Richard Norman arrived in 1875 in the middle of an established wave, not at its start — John Bowd and John Wright were already in Stranton by 1871. Full analysis: [[swavesey-stranton-diaspora]].
