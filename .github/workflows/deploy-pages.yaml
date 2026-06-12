@@ -43,7 +43,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-plugins-
 
-      - name: Install dependencies
+      - name: Install npm dependencies
         run: npm ci
 
       - name: Install Quartz plugins
@@ -52,7 +52,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build Quartz
-        run: npx quartz build
+        run: npx quartz build --verbose
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
