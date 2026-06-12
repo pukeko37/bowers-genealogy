@@ -4,8 +4,7 @@ configuration:
   pageTitleSuffix: " — Bowers Genealogy"
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: null
+  analytics: {}
   locale: en-US
   baseUrl: pukeko37.github.io/bowers-genealogy
   ignorePatterns:
