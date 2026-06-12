@@ -20,12 +20,14 @@ related-families:
   - "[[cook-brandsom-1868]]"
   - "[[thody-cook-1894]]"
   - "[[hain-bransom-1905]]"
+  - "[[perry-bransom-1898]]"
 sources:
   - "[[edwin-bransom-print-view-familysearch]]"
   - "[[edwin-bransom-sources-familysearch]]"
   - "[[william-allen-thody-sources-familysearch]]"
+  - "[[florence-bransom-print-view-familysearch]]"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-06-13
 ---
 
 ## Parents
@@ -50,7 +52,7 @@ All seven children were christened at the Wesleyan Methodist chapel in Dunstable
 
 ## Family Life
 
-The family lived in Whipsnade throughout. By 1901 Edwin and Mary were alone, all children having left home. The 1911 census shows them with their daughter Florence (by then "Florence Perry", age 37) and Florence's daughter Florence Hilda Perry (age 8), and a young Dora Minne Hain (age 0). Edwin died in 1928; Mary outlived him by nearly a decade, dying in 1937 (death registered in the Luton district).
+The family lived in Whipsnade throughout. By 1901 Edwin and Mary were alone, all children having left home. The 1911 census shows them with their daughter Florence (by then "Florence Perry Bransone", age 37) and Florence's daughter [[florence-hilda-perry-1903|Florence Hilda Perry]] (age 8), and a young Dora Minne Hain (age 0). Florence had married [[arthur-perry-1866|Arthur Perry]] in 1898; by 1911 she was living back with her parents at Whipsnade while Arthur remained in Dunstable with their son Percy and daughter Elsie — see [[perry-bransom-1898]]. Edwin died in 1928; Mary outlived him by nearly a decade, dying in 1937 (death registered in the Luton district).
 
 ## Significance
 

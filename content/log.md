@@ -1,3 +1,14 @@
+## [2026-06-13] ingest | Florence Bransom (1873), Clara Lucy Bransom (1877), Arthur Perry — Perry family clippings
+
+Ingested five clippings (Florence Bransom print view; Arthur Perry sources; Percy Arthur Perry, Florence Hilda Perry, Elsie Perry print views) clipped 2026-06-13.
+
+Key findings: Florence Bransom married Arthur Perry in 1898 at Luton (marriage registration confirmed). Three children: Percy Arthur Perry (1900, Dunstable), Florence Hilda Perry (1903, Whipsnade), Elsie Perry (1907, Dunstable). Florence died June 1963 in Luton. The 1911 census shows a split household: Florence was at her parents' Whipsnade home with Florence Hilda (age 8), while Arthur remained in Dunstable with Percy (11) and Elsie (4), and Clara Lucy Bransom was living there as his sister-in-law.
+
+Corrections: Florence's death place updated from "unknown" to Luton. Clara's person page rewritten to clarify the "sister-in-law" relationship — previously left uncertain, now resolved by the confirmed Perry marriage.
+
+Pages created: [[arthur-perry-1866]], [[perry-bransom-1898]], [[percy-arthur-perry-1900]], [[florence-hilda-perry-1903]], [[elsie-perry-1907]], [[florence-bransom-print-view-familysearch]], [[arthur-perry-sources-familysearch]]
+Pages updated: [[florence-bransom-1873]], [[clara-lucy-bransom-1877]], [[cook-bransom-1871]]
+
 ## [2026-06-10] query | Longevity analysis — refinements: cause of death, male transmission, regional pool
 
 Three rounds of refinement to the longevity analysis.
