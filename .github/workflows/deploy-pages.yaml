@@ -43,8 +43,11 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-plugins-
 
-      - name: Rewrite SSH GitHub URLs to HTTPS
-        run: git config --global url."https://github.com/".insteadOf "git+ssh://git@github.com/"
+      - name: Configure git to use HTTPS instead of SSH
+        run: |
+          git config --global url."https://github.com/".insteadOf "git+ssh://git@github.com/"
+          git config --global url."https://github.com/".insteadOf "ssh://git@github.com/"
+          git config --global url."https://github.com/".insteadOf "git@github.com:"
 
       - name: Install npm dependencies
         run: npm ci
@@ -55,7 +58,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build Quartz
-        run: npx quartz build --verbose
+        run: npx quartz build --verbose 2>&1 | tee /tmp/quartz-build.log; exit ${PIPESTATUS[0]}
+
+      - name: Upload build log on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: quartz-build-log
+          path: /tmp/quartz-build.log
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
