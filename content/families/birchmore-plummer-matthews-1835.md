@@ -11,9 +11,6 @@ places:
 related-families:
   - "[[birchmore-plummer-batchelor-1859]]"
   - "[[birchmore-plummer-cooke-1867]]"
-related-families:
-  - "[[birchmore-plummer-batchelor-1859]]"
-  - "[[birchmore-plummer-cooke-1867]]"
   - "[[matthews-wilson-1801]]"
   - "[[cook-matthews-whipsnade]]"
 sources:
