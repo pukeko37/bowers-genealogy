@@ -34,13 +34,9 @@ updated: 2026-05-14
 
 Richard's death date is unknown; Ann died in 1933, outliving him by an uncertain number of years.
 
-## The Fenstanton thread and the Randall connection
+## The Fenstanton thread
 
-Ann's Fenstanton birthplace is among the most striking details in this family. Fenstanton is where the Norman family's maternal roots ran deepest — through Ann Tabram (christened Fenstanton 1829), Mary Eusden (died and buried there c.1841), and Thomas Euseden (buried there November 1842). Richard Norman, Ann Tabram's grandson, married a woman from the same small Fenland village his grandmother had left forty years earlier.
-
-Census research into the broader Stranton migration community adds a further dimension. The **Randall family was a major Fen Drayton presence in Stranton**: at least five Randall men from Fen Drayton, Cambridgeshire were in Stranton across the 1871–1891 censuses (Richard b.1834, John b.1847, John b.1848, Robert b.1846, William b.1846 — four to five separate households). Fen Drayton and Fenstanton are adjacent parishes separated only by a county boundary. Whether Ann Elizabeth Randall was from a Fenstanton branch of the same Fen Drayton Randall family, or whether her birthplace was recorded with characteristic imprecision for adjacent parishes, is not yet established.
-
-What is clear is that when Richard Norman arrived in Stranton in 1875 and married Ann Randall that October, he was almost certainly marrying into a family already embedded in the fenland community around him. The Randalls had been in Stranton since at least 1871. His marriage was not a chance encounter with a local stranger — it was a marriage within the transplanted network. See [[swavesey-stranton-diaspora]] for the full analysis.
+Ann's Fenstanton birthplace is among the most striking details in this family. Fenstanton is where the Norman family's maternal roots ran deepest — through Ann Tabram (christened Fenstanton 1829), Mary Eusden (died and buried there c.1841), and Thomas Euseden (buried there November 1842). Richard Norman, Ann Tabram's grandson, married a woman from the same small Fenland village his grandmother had left forty years earlier. Whether this reflects a maintained family connection to Fenstanton, or a coincidence of the Hartlepool immigration community, cannot be established from available sources.
 
 ## Children
 

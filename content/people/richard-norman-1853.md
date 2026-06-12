@@ -2,9 +2,9 @@
 title: "Richard Norman"
 type: person
 born: "1853"
-died: "1929"
+died: "unknown"
 birth-place: "[[swavesey]]"
-death-place: "[[west-hartlepool]]"
+death-place: "unknown"
 family-of-origin: "[[norman-tabram-1850]]"
 families-as-parent:
   - "[[norman-randall-1875]]"
@@ -75,7 +75,3 @@ The naming pattern — "Charles" attempted three times, "George" once — shows 
 The FamilySearch sources page for Richard Norman (94N7-QWG) includes a Marriage Registration Index entry for "Richard Norman married Margaret Garry, 1875, Hartlepool, Vol 10A page 190." This is almost certainly George Norman's marriage record — George married **Margaret J Garry** at Christ Church, West Hartlepool, December 1875. All census records for Richard show his wife was Annie/Ann from Huntingdonshire; no record supports Margaret Garry as Richard's wife. The source appears to have been wrongly attached to Richard's profile in FamilySearch.
 
 See [[norman-randall-1875]] and [[norman-garry-1875]].
-
-## Death
-
-Richard died in 1929 in Hartlepool, aged **76** — having spent over fifty years as an unskilled labourer in one of England's heaviest industrial towns. The cement works and corporation labouring of his middle years were not gentle occupations. His survival to 76 compares well with the Norman siblings who remained in rural Cambridgeshire: Tom Norman (69), Robert Henry Norman (86), Mary Ann Norman (90). Richard fell in the middle of that range despite far harsher working conditions.
