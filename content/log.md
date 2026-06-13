@@ -1,3 +1,15 @@
+## [2026-06-13] update | Frederick Bunker, Roland Bunker, bunker-geary-1892 — post-war contraction, Oakley Road, estrangement
+
+Added analysis of the post-WWI building slump to Frederick's person page: the contraction from 105 Hartley Road to 50 Hampton Road as structural economic failure rather than personal failure; speculative note on depression consistent with the documented facts; balanced by the Oakley Road evidence (Frederick helped build 9 Oakley Road for Beulah and Harry in the 1920s, photograph survives). Clarified that the estrangement was Eliza's — relationships with Beulah, Harry, and Roland remained warm throughout. Added the Oakley Road irony (Frederick built it; Eliza died in it). Roland's person page updated with the boom/bust origin of his drive: he was 13 at 105 Hartley Road, came home from naval training to 50 Hampton Road, and built his entire life around structural durability in direct contrast to his father's trade-cycle exposure.
+
+Pages updated: [[frederick-bunker-1869]], [[roland-herbert-bunker-1898]], [[bunker-geary-1892]]
+
+## [2026-06-13] update | Eliza Geary (1859) — person page and family page enriched
+
+Corrected Lydia Rose Geary's status in the 1921 Southend references on both pages: she was not widowed but unmarried, with an illegitimate son; "widowed" was a social fiction. Added analysis of the move to Luton before 1911 (Elizabeth and Albert Geary already established there — a sibling pull). Added discussion of 105 Hartley Road (large double-fronted house, Edwardian building boom the primary explanation, inheritance from a woodman's estate considered and found weak). Added discussion of the downward shift from 105 Hartley Road to 50 Hampton Road (post-WWI contraction, children leaving home). Open questions updated on the family page.
+
+Pages updated: [[eliza-geary-1859]], [[bunker-geary-1892]]
+
 ## [2026-06-13] ingest | Rebecca Arnold (1778), Joseph Sanders (1774) — Elizabeth Saunders's parentage established
 
 Ingested three clippings: Rebecca Arnold FamilySearch sources page, Joseph Sanders FamilySearch sources page, and a screenshot of Samuel Arnold's 1790 will.
