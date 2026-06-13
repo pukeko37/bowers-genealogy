@@ -1,3 +1,9 @@
+## [2026-06-13] update | Richard Norman (1723) — FamilySearch data quality review; Mary Essex attribution withdrawn
+
+Reviewed the Richard Norman (P68D-T5X) FamilySearch profile critically. The Mary Essex marriage previously recorded as his "first marriage" is almost certainly a FamilySearch data error — the same 1740 Cottenham marriage is attached to a second profile (L565-ZVH, Richard Norman 1718–1753) with a different set of children, and accepting both marriages for P68D-T5X creates a bigamy impossibility (Mary Essex died 1765, sixteen years after the Hall marriage in 1749). The Essex marriage has been withdrawn from the narrative and the family page flagged as disputed. Additional contamination noted: 1834 daughter, spurious 1810 burial as parentage evidence, duplicate sons. The Mary Hall marriage (1749) and Robert Norman (1769) parentage are retained as the credible core.
+
+Pages updated: [[richard-norman-1723]], [[norman-essex-1740]], [[mary-essex-1722]], [[richard-norman-1723-print-view-familysearch]], [[richard-norman-1723-sources-familysearch]]
+
 ## [2026-06-13] ingest | Richard Norman (1723), Mary Essex (1722), Robert Norman (1769) — Norman ancestry pushed back two generations
 
 Ingested five clippings: Richard Norman print view and sources page (16 sources), Robert Norman print view (second clip confirming parentage), and Mary Essex print view.
