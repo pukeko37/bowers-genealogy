@@ -1,3 +1,17 @@
+## [2026-06-13] update | Structural gaps resolved — 16 missing pages created
+
+Created all missing pages identified in the lint. 7 family pages: [[hain-unknown-whipsnade]], [[fuller-fuller-hemingford]], [[arnold-cardington]], [[thody-gardner-1804]], [[thody-dance-1845]], [[batchelor-bingham-flamstead]] (upgraded from stub), [[maynard-rumball-luton]]. 9 person pages: [[mary-hall-1730]], [[susannah-durrant-1739]], [[elizabeth-myers-unknown]], [[robert-eric-thody-1924]], [[marguerite-dorreen-thody-1926]], [[john-brian-thody-1936]], [[john-isaac-mason-1913]], [[catherine-ellen-mason-1916]], [[george-r-mason-1919]], [[leslie-thomas-cook-1907]]. All added to index.
+
+## [2026-06-13] update | norman-briggs-1710 family page created
+
+Created the missing family page for William Norman (1687–1747) and Alice Briggs (1685–1766), married 3 May 1710 at Cottenham, Cambridgeshire. This was the most significant broken link in the wiki — the page was listed in the index and linked from `[[richard-norman-1723]]` but had never been written. Sources: FamilySearch print view (original and corrected) for Richard Norman. Lists seven known children including multiple short-lived Thomas entries. Notes the L565-ZVH question (possible sibling or cousin Richard Norman also at Cottenham 1718–1753).
+
+Pages created: [[norman-briggs-1710]]
+
+## [2026-06-13] lint | Full wiki lint
+
+Ran full lint. 241 people · 85 families · 303 sources · 31 places. Key findings: `[[norman-briggs-1710]]` is in the index and linked from person pages but no file exists; 8 other family pages actively linked but missing; 8 untracked `Search Results` clippings in raw/clippings/ need verification; research-state stale (last updated 2026-05-11). Full report at `outputs/lint-2026-06-13.md`.
+
 ## [2026-06-13] ingest | Richard Norman (1723), Robert Norman (1769) — FamilySearch corrections confirmed
 
 Ingested two corrected print-view clippings after FamilySearch data was fixed. The Mary Essex marriage has been removed from Richard Norman's profile (P68D-T5X) — the profile now shows only the Mary Hall marriage (1749, Over) and Robert Norman (1769) as sole child. This confirms the analysis from the earlier data quality review. Robert Norman's corrected print view adds Alice Morling's dates (born 1785, died 1849) — she was sixteen years younger than Robert and outlived him by seven years.

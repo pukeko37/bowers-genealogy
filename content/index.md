@@ -33,6 +33,7 @@
 - [[norman-causer-1883]] — Mary Ann Norman & George Causer, married 1883 Huntingdonshire; 6 children; George died 1898; Mary Ann widowed laundress
 - [[norman-squires-1899]] — Robert Henry Norman & Ada Squires, married 1899 St Ives; 2 daughters; Middle Watch Swavesey
 - [[tabraham-eusden-1828]] — Richard Tabraham & Mary Eusden, married 1828 Fen Stanton; Ann Tabram's parents
+- [[fuller-fuller-hemingford]] — Thomas Fuller & Rachael Fuller, Hemingford Abbots; Adeliza Fuller's parents; 3 known children
 - [[birchmore-plummer-batchelor-1859]] — George Birchmore Plummer & Eliza Batchelor, married 1859 St Pancras, 3 children
 - [[birchmore-plummer-matthews-1835]] — George Birchmore Plummer & Anne Matthews, married 1835 Whipsnade, 1 child
 - [[birchmore-plummer-cooke-1867]] — George Birchmore Plummer & Ruth Cooke, married 1867 Whipsnade, no children
@@ -41,6 +42,7 @@
 - [[birchmore-redding-1784]] — George Birchmore (1762) & Susannah Redding, married Flamstead 1784; GBP Sr's paternal grandparents
 - [[birchmore-morse-1874]] — George Birchmore Plummer Jr & Elizabeth Morse, married 1871 Kentish Town, St Pancras milkman; died Devon
 - [[batchelor-bingham-flamstead]] — Joseph Batchelor & Sarah Bingham, Flamstead Hertfordshire; Thomas Bachelor's parents; 10 children
+- [[maynard-rumball-luton]] — George Maynard & Sarah Rumball, married Luton 1794; Susan Maynard's parents; Nonconformist/Baptist family
 - [[heels-anne-whipsnade]] — Samuel Heels & Anne (1803–1840), first marriage; 4 children; Totternhoe/Whipsnade area
 - [[cook-birchmore-1810]] — Daniel Cook & Mary Birchmore, Whipsnade; Ruth Cooke's parents; 7 children including Ruth, David, Lois, Jesse
 - [[cook-frost-1842]] — David Cook & Elizabeth Frost, married 1842 Kensworth; 3 children including Charles Cook (1843–1908) and James Cook (1843); Elizabeth died 1843
@@ -50,6 +52,7 @@
 - [[cook-matthews-whipsnade]] — David Cook & Charlotte Matthews, married 1856 Whipsnade; David's second marriage; 6 children; Charlotte is Anne's sister, David is Ruth Cooke's brother
 - [[cook-bransom-1871]] — Edwin Bransom & Mary Saunders Cook, married 1871 Whipsnade; 7 children; Florence Bransom (1873–1963) witnessed the 1894 Thody-Cook wedding
 - [[bransom-mary-1893]] — Albert Bransom & Mary (maiden name unknown), married 1893; son Frederick killed at the Somme 1916; Albert helped plant the Whipsnade Tree Cathedral 1930
+- [[hain-unknown-whipsnade]] — James Edward Hain (1832–1911) & wife unknown; Dell Farm Whipsnade; children James Hain (1877) and Margaret D Hain
 - [[hain-bransom-1905]] — James Hain (1877–1932) & Margaret Anne Bransom (1880–1964), married December 1905 Whipsnade; farmers at Dell Farm; 2 daughters
 - [[perry-bransom-1898]] — Arthur Perry (c.1866) & Florence Bransom (1873–1963), married 1898 Luton; Railway Porter; 3 children; household split in 1911
 - [[cook-brandsom-1868]] — Charles Cook (1843–1908) & Lois Brandsom, married 1868 Whipsnade; 8 children including Walter Cook (1869)
@@ -61,8 +64,11 @@
 - [[matthews-gates-1825]] — Peter Matthews (1802) & Sarah Gates, married 1825 Studham; 11 children; high infant mortality; William (1837) lifelong Houchen End
 - [[batchelor-heels-whipsnade]] — Abraham Batchelor & Hannah Maria Heels; probable Chequers licensees ~1843–1867
 - [[bachelor-woodcroft-1816]] — Thomas Bachelor & Alice Woodcroft, married Whipsnade 1816; Abraham's parents
+- [[arnold-cardington]] — Samuel Arnold (Cotton End farmer, d.1790) & Mary Arnold; Rebecca Arnold's family of origin; 4 children named in will
 - [[sanders-arnold-1799]] — Joseph Sanders (shoemaker) & Rebecca Arnold (farmer's daughter), married 1799 Cardington; parents of Elizabeth Saunders's half-siblings; Rebecca died 1812
+- [[thody-gardner-1804]] — William Thody & Alice Gardner, married January 1804 Hastings; one child Elizabeth Thody; Alice died before 1809
 - [[thody-myers-1809]] — William Thody (Waterloo veteran) & Elizabeth (formerly Meyers), married Badajoz Spain c.1809; parents of Allen Thody
+- [[thody-dance-1845]] — William Thody & Jane Dance (Elizabeth in register), married February 1845 Holy Trinity Brompton; no children; Chelsea
 - [[thody-saunders-1834]] — Allen Thody & Elizabeth Saunders, married 1834 Cardington; 5 children; Allen born Spain to Waterloo veteran father
 - [[thody-parent-1873]] — William Thody & Mathilde Parent, married 1873 Chicago; transatlantic life; 4 children; Tillie died 1892
 - [[thody-cook-1894]] — William Thody & Lucy Cook, married 1894 Whipsnade, 1 child; step-children Clarence & Florence also in household
@@ -126,6 +132,7 @@
 - [[mary-elizabeth-angus-1885]] — Mary Elizabeth Angus (1885–1969), Thomas George Norman's wife, born Little Thurlow Suffolk
 - [[george-stewart-main-1919]] — George Main (1919–?), NZ High Commission; cared for Norman aunts in Kent; songwriter
 - [[richard-norman-1723]] — Richard Norman (abt 1723–1783), weaver at Over, Cambridgeshire; son of William Norman & Alice Briggs; father of Robert Norman (1769)
+- [[mary-hall-1730]] — Mary Hall (1730–1782), Richard Norman's wife; parentage unknown; mother of Robert Norman (1769)
 - [[mary-essex-1722]] — Mary Essex (1722–1765), Cottenham; Richard Norman's first wife; daughter of John Essex
 - [[robert-norman-1769]] — Robert Norman (1769–1842), Over, Cambridgeshire; married Frances Green 1788; father of Thomas Norman (1793)
 - [[frances-green-1769]] — Frances Green (1769–1810), Swavesey; married Robert Norman; complex surname (Green/Mann/Marks); died 1810
@@ -164,7 +171,10 @@
 - [[catherine-james-1852]] — Catherine James (1852–1900), aka Kate Mason; born Llanfihangel Geneur Glynn; ran Hosier Lane dairy alone 1890–1900; buried Abney Park
 - [[richard-william-mason-1875]] — Richard William Mason (1875–1948), eldest Mason brother; dairy/grocer trade; lifelong bachelor; died London SW2; buried Abney Park
 - [[john-james-mason-1878]] — John James Mason (Jack, 1878–1962), Mabel's husband, newsagent 150 Acre Lane; died 16 Daysbrook Road SW2
+- [[john-isaac-mason-1913]] — John Isaac Mason (1913–1984), son of John James Mason & Mabel Norman; emigrated Brazil 1961
+- [[catherine-ellen-mason-1916]] — Catherine Ellen Mason (1916–1970), daughter of John James Mason & Mabel Norman
 - [[isaac-mason-1882]] — Isaac Mason (Ike, 1882–1955), newsagent Balham; married Alice Norman 1918; died 17 Daysbrook Road Streatham
+- [[george-r-mason-1919]] — George R Mason (b. 1919), only child of Isaac Mason & Alice Norman
 - [[george-birchmore-plummer-1813]] — George Birchmore Plummer (1813–1884), complex name history, three marriages
 - [[eliza-batchelor-1829]] — Eliza Batchelor (1829–1867), George Birchmore Plummer's second wife, Ellen's mother
 - [[elizabeth-birchmore-1862]] — Elizabeth Birchmore (1862–1954), GBP Sr's daughter; domestic servant; lived with Alice & Isaac Mason in Balham
@@ -217,6 +227,7 @@
 - [[james-cook-1843]] — James Cook (1843), son of David Cook & Elizabeth Frost; same birth year as brother Charles; probably the James Cook of Harpenden (children 1876–1882); see [[cook-harpenden-1876]]
 - [[thomas-cook-1882]] — Thomas Edward Cook (9 Apr 1882 – 3 Sep 1955), probable grandson of David Cook (1816); born Harpenden; married Alice Dumpleton 1906; buried Kensworth
 - [[alice-dumpleton-1883]] — Alice Mabel Dumpleton (1883 – 13 Nov 1940), daughter of Alfred Dumpleton & Emma Hucklesby; married Thomas Cook 1906; buried Kensworth
+- [[leslie-thomas-cook-1907]] — Leslie Thomas Cook (1907–?), only child of Thomas Cook & Alice Dumpleton; born Harpenden; unresearched
 - [[alfred-dumpleton]] — Alfred Dumpleton (1848–1917), born Chalgrave; married Emma Hucklesby 1870 Sundon; settled Kensworth 1881; 4 sons and Alice Mabel
 - [[emma-hucklesby]] — Emma Hucklesby, born Sundon, Bedfordshire; married Alfred Dumpleton 1870; uncommon surname — research lead
 - [[thomas-batchelar-1803]] — Thomas Batchelar (1803–1872), Eliza Batchelor's father; born Dagnall, Bucks; son of David Batchelor; shepherd/labourer Whipsnade
@@ -228,6 +239,7 @@
 - [[peter-matthews-1702]] — Peter Matthews (~1702–1748), son of Peter (1665); Dunstable; married Mary Busby 1727; 9 children; buried Dunstable 1748
 - [[mary-busby-1709]] — Mary Busby (1709–1760), christened Millbrook; parents Thomas Busby & Elizabeth; married Peter Matthews (1702) 1727
 - [[peter-matthews-1734]] — Peter Matthews (1734–1812), son of Peter (1702); born Kensworth; married Susannah Durrant at Flamstead 1761; died Kensworth 1812
+- [[susannah-durrant-1739]] — Susannah Durrant (1739–1821), married Peter Matthews (1734) at Flamstead 1761; mother of Peter Matthews (1770); outlived husband by 9 years
 - [[peter-matthews-1770]] — Peter Matthews (1770–?), Susan Matthews's father; born Kensworth Herts; 8 children at Whipsnade; son of Peter Matthews (1734)
 - [[peter-matthews-1802]] — Peter Matthews (1802–1892), son of Peter (1770); married Sarah Gates 1825 Studham; 11 children at Whipsnade; long widower after 1851; died aged ~90
 - [[sarah-gates-1803]] — Sarah Gates (1803–1851), Peter Matthews (1802)'s wife; christened Aldbury Hertfordshire; parents Joseph Gates & Elizabeth Inward; died Whipsnade 1851
@@ -257,6 +269,10 @@
 - [[george-thody-1844]] — George Thody (1844–1935), third child; died ~91
 - [[elizabeth-thody-1847]] — Elizabeth Thody (1847–1940), fourth child; died ~93; with William in 1861 census
 - [[harry-thody-1894]] — Harry Thody (1894–1986), WW1 veteran, co-founded Thody Bros with Roland Bunker
+- [[robert-eric-thody-1924]] — Robert Eric Thody (1924–deceased), eldest child of Harry & Beulah; born Luton
+- [[marguerite-dorreen-thody-1926]] — Marguerite Dorreen Thody (1926–2016), second child of Harry & Beulah; born Luton
+- [[john-brian-thody-1936]] — John Brian Thody (1936–1996), youngest child of Harry & Beulah; born Luton
+- [[elizabeth-myers-unknown]] — Elizabeth (née unknown, formerly Meyers), William Thody's second wife; married Badajoz ~1809; mother of Allen Thody
 
 ### Matthews · LDS
 

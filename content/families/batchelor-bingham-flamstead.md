@@ -3,16 +3,20 @@ title: "Family of Joseph Batchelor and Sarah Bingham"
 type: family
 parents:
   - "[[joseph-batchelor-1755]]"
-children: []
-places: []
+children:
+  - "[[thomas-bachelor-1781]]"
+places:
+  - "[[flamstead]]"
+  - "[[great-gaddesden]]"
 related-families:
   - "[[bachelor-woodcroft-1816]]"
+  - "[[batchelor-ann-1801]]"
 sources:
   - "[[joseph-batchelor-print-view-familysearch]]"
   - "[[thomas-bachelor-print-view-familysearch]]"
   - "[[st-john-baptist-great-gaddesden-findagrave]]"
 created: 2026-05-14
-updated: 2026-06-06
+updated: 2026-06-13
 ---
 
 ## Parents
