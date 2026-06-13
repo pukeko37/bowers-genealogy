@@ -11,6 +11,9 @@
 
 ### Norman · Birchmore · Cook · Thody
 
+- [[norman-briggs-1710]] — William Norman & Alice Briggs, married 1710 Cottenham; Richard Norman's parents
+- [[norman-essex-1740]] — Richard Norman (weaver) & Mary Essex, married 1740 Cottenham; first marriage
+- [[norman-hall-1749]] — Richard Norman & Mary Hall, married 1749 Over; parents of Robert Norman (1769)
 - [[norman-green-1788]] — Robert Norman & Frances Green, married 1788 Swavesey; 7 children; Frances died 1810
 - [[norman-fear-1815]] — Thomas Norman (1793) & Elizabeth Fear, married 1815 Swavesey; Elizabeth died 1832 in childbirth
 - [[norman-tabram-1850]] — Thomas Norman & Ann Tabram, married 1850 Cambridgeshire
@@ -122,6 +125,8 @@
 - [[norah-winifred-norman-1902]] — Norah Winifred Norman (1902–1996), youngest child, cared for mother Ellen
 - [[mary-elizabeth-angus-1885]] — Mary Elizabeth Angus (1885–1969), Thomas George Norman's wife, born Little Thurlow Suffolk
 - [[george-stewart-main-1919]] — George Main (1919–?), NZ High Commission; cared for Norman aunts in Kent; songwriter
+- [[richard-norman-1723]] — Richard Norman (abt 1723–1783), weaver at Over, Cambridgeshire; son of William Norman & Alice Briggs; father of Robert Norman (1769)
+- [[mary-essex-1722]] — Mary Essex (1722–1765), Cottenham; Richard Norman's first wife; daughter of John Essex
 - [[robert-norman-1769]] — Robert Norman (1769–1842), Over, Cambridgeshire; married Frances Green 1788; father of Thomas Norman (1793)
 - [[frances-green-1769]] — Frances Green (1769–1810), Swavesey; married Robert Norman; complex surname (Green/Mann/Marks); died 1810
 - [[thomas-norman-1793]] — Thomas Norman (1793–1855), Over/Swavesey; widower from 1832; agricultural labourer; father of Thomas Norman (1827)
@@ -544,6 +549,9 @@
 - [[find-a-grave-kensworth]] — ~200 memorials at Kensworth; Thomas Edward Cook (1882–1955) & Alice Mabel Dumpleton (1883–1940); probable grandchildren of David Cook (1816) via James Cook (1843); Edna Evelyn Maynard (1906–2001) unconnected
 - [[carter-paterson-perplexity]] — Perplexity research; Carter Paterson & Co. history; founded 1860; 128 Goswell Road EC1; 700 horses by 1890; nationalized 1948
 - [[carter-paterson-operations]] — Detailed operational background: Goswell Road multi-storey stables, 700–3,000 horses 1890–1905, 20 London depots, staffing estimates; context for Charles Norman's foreman role
+- [[richard-norman-1723-print-view-familysearch]] — FamilySearch print view; Richard Norman (1723–1783), weaver Over; two marriages; father of Robert Norman (1769)
+- [[richard-norman-1723-sources-familysearch]] — FamilySearch sources (16 sources); baptism 1723 Cottenham; marriages 1740 & 1749; children confirmed
+- [[mary-essex-1722-print-view-familysearch]] — FamilySearch print view; Mary Essex (1722–1765), Cottenham; Richard Norman's first wife
 - [[robert-norman-print-view-familysearch]] — FamilySearch print view; Robert Norman (1769–1842), Over; married Frances Green 1788; 7 children
 - [[robert-norman-sources-familysearch]] — FamilySearch sources page; marriage 1788; 1841 census Church End Over; death/burial 1842
 - [[frances-green-print-view-familysearch]] — FamilySearch print view; Frances Green (1769–1810); parents Francis Mann & Elizabeth Green; complex surname

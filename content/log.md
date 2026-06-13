@@ -1,3 +1,18 @@
+## [2026-06-13] ingest | Richard Norman (1723), Mary Essex (1722), Robert Norman (1769) — Norman ancestry pushed back two generations
+
+Ingested five clippings: Richard Norman print view and sources page (16 sources), Robert Norman print view (second clip confirming parentage), and Mary Essex print view.
+
+**Headline findings:**
+- Robert Norman's parentage confirmed: son of Richard Norman (1723–1783) and Mary Hall (1730–1782), married 1 Oct 1749 at Over. Previously unknown.
+- Richard Norman was a **Weaver** in Over — a skilled trade, not agricultural. Pushes the Norman line's occupational history back.
+- Richard's own parents: William Norman (1687–1747) and Alice Briggs (1685–1766), married 3 May 1710 Cottenham. Norman family now traced four confirmed generations in the Over/Swavesey/Cottenham cluster.
+- Richard had two marriages: (1) Mary Essex, 1740 Cottenham — children William (1739) and Richard (1745); (2) Mary Hall, 1749 Over — son Robert (1769).
+- Correction to existing Robert Norman page: he did remarry after Frances Green's death — **Alice Morling**, 2 November 1818 at Over. Previously recorded as "no second marriage."
+- FamilySearch data quality issue noted: Mary Essex attached to two conflicting Richard Norman profiles. Documented in source summary; our research follows P68D-T5X.
+
+Pages created: [[richard-norman-1723]], [[mary-essex-1722]], [[norman-essex-1740]], [[norman-hall-1749]], [[richard-norman-1723-print-view-familysearch]], [[richard-norman-1723-sources-familysearch]], [[mary-essex-1722-print-view-familysearch]]
+Pages updated: [[robert-norman-1769]] (parentage filled, second marriage added)
+
 ## [2026-06-13] update | Frederick Bunker, Roland Bunker, bunker-geary-1892 — post-war contraction, Oakley Road, estrangement
 
 Added analysis of the post-WWI building slump to Frederick's person page: the contraction from 105 Hartley Road to 50 Hampton Road as structural economic failure rather than personal failure; speculative note on depression consistent with the documented facts; balanced by the Oakley Road evidence (Frederick helped build 9 Oakley Road for Beulah and Harry in the 1920s, photograph survives). Clarified that the estrangement was Eliza's — relationships with Beulah, Harry, and Roland remained warm throughout. Added the Oakley Road irony (Frederick built it; Eliza died in it). Roland's person page updated with the boom/bust origin of his drive: he was 13 at 105 Hartley Road, came home from naval training to 50 Hampton Road, and built his entire life around structural durability in direct contrast to his father's trade-cycle exposure.
