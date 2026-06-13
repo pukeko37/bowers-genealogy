@@ -24,7 +24,7 @@ updated: 2026-05-09
 
 ## Parents
 
-[[allen-thody-1813|Allen Thody]] (1813–1898) and [[elizabeth-saunders-1811|Elizabeth Saunders]] (1811–1898) married 19 October 1834 at St. Mary Cardington, Bedfordshire. Allen was a farm labourer. The 1851 census records his birthplace as "Spain British Subject" — he was a British national born in Spain, date of birth c. 1813.
+[[allen-thody-1813|Allen Thody]] (5 October 1813 – 22 March 1898) and [[elizabeth-saunders-1811|Elizabeth Saunders]] (baptised 25 August 1811 – 11 October 1898) married 19 October 1834 at St. Mary Cardington, Bedfordshire. Allen was a farm labourer. He was born in Spain on 5 October 1813 — his father, [[william-thody-1774|William Thody]], was a soldier of the 40th Regiment of Foot serving in the Peninsular War. Elizabeth was the illegitimate daughter of [[rebecca-arnold-1778|Rebecca Arnold]] (widow of [[joseph-sanders-1774|Joseph Sanders]], shoemaker) and an unknown father; her maternal grandfather was Samuel Arnold, a farmer at Cotton End — the very hamlet where Allen and Elizabeth would settle. The witnesses at the wedding were **John Arnold** and **Elizabeth Arnold**, almost certainly relatives of Elizabeth's maternal Arnold family. See [[sanders-arnold-1799]].
 
 ## Children
 
@@ -46,8 +46,13 @@ The remarkable longevity in this family is striking: Ann (1835–1913) and Georg
 
 - [[william-allen-thody-print-view-familysearch]] — family structure from FamilySearch tree
 - [[william-allen-thody-sources-familysearch]] — birth certificate (1850), 1851 census, 1894 marriage certificate
+- [[allen-thody-familysearch]] — Allen Thody's own FamilySearch sources; census 1841–1891; death certificate 1898
+- [[elizabeth-saunders-familysearch]] — Elizabeth Saunders's FamilySearch sources; baptism 1811; census 1841–1891; death 1898
+- [[william-thody-familysearch]] — William Thody (Allen's father); confirms Peninsular War birth; Waterloo Medal
+- [[rebecca-arnold-familysearch]] — Rebecca Arnold; Samuel Arnold's 1790 will; 1799 marriage; Elizabeth's 1811 baptism; Rebecca's 1812 burial
+- [[joseph-sanders-familysearch]] — Joseph Sanders; 1774 baptism; 1799 marriage; 1810 burial (shoemaker)
 
 ## Open Questions
 
-- Birthplace "Spain British Subject" for Allen Thody: what was the family connection to Spain? Possibly military service — the Napoleonic Wars brought many British soldiers to the Iberian Peninsula.
-- Did any of William's siblings maintain contact with him after his emigration and return?
+- Did any of William Allen Thody's siblings maintain contact with him after his emigration and return?
+- Burial places for Allen and Elizabeth not yet found.

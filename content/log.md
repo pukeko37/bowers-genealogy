@@ -1,3 +1,33 @@
+## [2026-06-13] ingest | Rebecca Arnold (1778), Joseph Sanders (1774) — Elizabeth Saunders's parentage established
+
+Ingested three clippings: Rebecca Arnold FamilySearch sources page, Joseph Sanders FamilySearch sources page, and a screenshot of Samuel Arnold's 1790 will.
+
+**Headline finding:** Elizabeth Saunders's full parentage is now documented. Her mother was **Rebecca Arnold** (abt 1778–August 1812), daughter of **Samuel Arnold**, a farmer at **Cotton End, Cardington** — the same hamlet where Elizabeth later lived. Samuel Arnold's will (proved 2 November 1790) left £150 specifically to Rebecca, identifying the family as property-owning farming stock.
+
+Rebecca married **Joseph Sanders** (shoemaker) in Cardington in May 1799. They had three daughters: Mary (born 1800), Anne (christened 1804), Sarah (born c. 1808). Joseph was buried June 1810. Thirteen months later, Rebecca had an illegitimate child — Elizabeth, born c. 24 June 1811. Elizabeth's father is unknown. Rebecca died August 1812, leaving Elizabeth an orphan at 14 months.
+
+On 25 August 1811, Rebecca had two children baptised at Cardington on the same day: the long-delayed Sarah (born c. 1808) and the newborn Elizabeth (aged nine weeks).
+
+The 1790 will named Samuel Arnold's brothers **Robert Arnold** and **John Arnold** as co-executors. The witnesses at Allen and Elizabeth's 1834 wedding were **John Arnold** and **Elizabeth Arnold** — almost certainly from the same Arnold family, completing the circle.
+
+Pages created: [[rebecca-arnold-1778]], [[joseph-sanders-1774]], [[sanders-arnold-1799]], [[rebecca-arnold-familysearch]], [[joseph-sanders-familysearch]]
+Pages updated: [[elizabeth-saunders-1811]], [[thody-saunders-1834]], [[cardington-bedfordshire]]
+
+## [2026-06-13] ingest | William Thody (1774), Allen Thody (1813), Elizabeth Saunders (1811) — Thody ancestry clippings
+
+Ingested six clippings (three full FamilySearch sources pages + three print views) for William Thody, Allen Thody, and Elizabeth Saunders, clipped 2026-06-13.
+
+**Headline finding:** Allen Thody's father is confirmed as **William Thody (abt 1774–1858)**, a soldier of the 40th Regiment of Foot. William received the **Waterloo Medal in 1815** — he was "in the action at Waterloo." He had married Allen's mother (a widow named Elizabeth, formerly Meyers) at **Badajoz, Spain, c. 1809** during the Peninsular War. Allen was born 5 October 1813 in Spain during the campaign. This resolves the long-standing open question about Allen's Spanish birthplace.
+
+William was born in Cardington (confirmed by the 1782 Cardington inhabitants survey, aged 7, son of Samuel Thody and Elizabeth Pearsey). He was wounded at Waterloo, honourably discharged, and admitted as a Chelsea Pensioner on 19 September 1816. He spent his final decades in Chelsea and died 7 August 1858 at 15 Paradise Walk.
+
+**New for Allen:** exact birth date confirmed (5 October 1813) from family history manuscript; exact death date and place confirmed (22 March 1898, Cotton End, Eastcotts; cause: Decay; informant: daughter Ann Thody).
+
+**New for Elizabeth Saunders:** she was **illegitimate** — baptised 25 August 1811 as "Elizabeth, illegitimate Child of Rebecca Saunders, Widow." Her father is unknown. Exact death date confirmed: 11 October 1898.
+
+Pages created: [[william-thody-1774]], [[thody-myers-1809]], [[william-thody-familysearch]], [[allen-thody-familysearch]], [[elizabeth-saunders-familysearch]]
+Pages updated: [[allen-thody-1813]], [[elizabeth-saunders-1811]], [[thody-saunders-1834]], [[cardington-bedfordshire]]
+
 ## [2026-06-13] ingest | Florence Bransom (1873), Clara Lucy Bransom (1877), Arthur Perry — Perry family clippings
 
 Ingested five clippings (Florence Bransom print view; Arthur Perry sources; Percy Arthur Perry, Florence Hilda Perry, Elsie Perry print views) clipped 2026-06-13.

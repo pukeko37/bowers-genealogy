@@ -58,7 +58,9 @@
 - [[matthews-gates-1825]] — Peter Matthews (1802) & Sarah Gates, married 1825 Studham; 11 children; high infant mortality; William (1837) lifelong Houchen End
 - [[batchelor-heels-whipsnade]] — Abraham Batchelor & Hannah Maria Heels; probable Chequers licensees ~1843–1867
 - [[bachelor-woodcroft-1816]] — Thomas Bachelor & Alice Woodcroft, married Whipsnade 1816; Abraham's parents
-- [[thody-saunders-1834]] — Allen Thody & Elizabeth Saunders, married 1834 Cardington; 5 children; father born Spain (British subject)
+- [[sanders-arnold-1799]] — Joseph Sanders (shoemaker) & Rebecca Arnold (farmer's daughter), married 1799 Cardington; parents of Elizabeth Saunders's half-siblings; Rebecca died 1812
+- [[thody-myers-1809]] — William Thody (Waterloo veteran) & Elizabeth (formerly Meyers), married Badajoz Spain c.1809; parents of Allen Thody
+- [[thody-saunders-1834]] — Allen Thody & Elizabeth Saunders, married 1834 Cardington; 5 children; Allen born Spain to Waterloo veteran father
 - [[thody-parent-1873]] — William Thody & Mathilde Parent, married 1873 Chicago; transatlantic life; 4 children; Tillie died 1892
 - [[thody-cook-1894]] — William Thody & Lucy Cook, married 1894 Whipsnade, 1 child; step-children Clarence & Florence also in household
 - [[thody-bunker-1920]] — Harry Thody & Beulah Bunker, married 1920 Little Gaddesden
@@ -232,9 +234,12 @@
 - [[hannah-maria-heels-1814]] — Hannah Maria Heels (1814–1886), first wife of Samuel Heels (1843 Chequers tenant), then wife of Abraham Batchelor; born Lockinge Berks
 - [[samuel-heels-1797]] — Samuel Heels (abt 1797–1845), Chequers Inn tenant 1843; second wife Hannah Maria; died 1845 leaving her a widow
 - [[joseph-batchelor-1755]] — Joseph Batchelor (1755–?), born Flamstead Herts; Thomas Bachelor's father; family rooted at Leighton Buzzard from 1748
+- [[william-thody-1774]] — William Thody (abt 1774–1858), 40th Regiment of Foot; Waterloo veteran; Chelsea Pensioner; Allen's father
 - [[william-allen-thody-1850]] — William Allen Thody (1850–1911), born Cotton End, US Army deserter 1873, Police Constable Bedfordshire, Lucy Cook's husband
-- [[allen-thody-1813]] — Allen Thody (1813–1898), farm labourer, born Spain (British subject), William's father
-- [[elizabeth-saunders-1811]] — Elizabeth Saunders (1811–1898), born Cardington, William's mother
+- [[allen-thody-1813]] — Allen Thody (5 Oct 1813–1898), farm labourer, born Spain to Waterloo veteran; William's father
+- [[elizabeth-saunders-1811]] — Elizabeth Saunders (1811–1898), baptised Cardington; illegitimate daughter of Rebecca Arnold (widow of Joseph Sanders); maternal grandfather Samuel Arnold, Cotton End farmer
+- [[rebecca-arnold-1778]] — Rebecca Arnold (abt 1778–1812), daughter of Samuel Arnold (farmer, Cotton End); wife of Joseph Sanders; mother of Elizabeth Saunders; died leaving Elizabeth an orphan at 14 months
+- [[joseph-sanders-1774]] — Joseph Sanders (1774–1810), Cardington shoemaker; husband of Rebecca Arnold; died 1810; not Elizabeth Saunders's father
 - [[mathilde-parent-1853]] — Mathilde Elizabeth Parent (1853–1892), "Tillie," born Sandwich Ontario, William's first wife
 - [[george-allen-thody-1874]] — George Allen Thody (1874–1958), born Sandwich Ontario, William's eldest son
 - [[louis-albert-thody-1876]] — Louis Albert Thody (1876–1975), born Cotton End, LDS Utah 1904, married Los Angeles 1938; died ~98
@@ -686,3 +691,8 @@
 - [[john-geary-1825-sources-familysearch]] — FamilySearch sources page; John Geary (1825–1895); woodman; Haynes then Maulden; Eliza's father; 1901/1911 census; burial St Mary Maulden 1895
 - [[kinsbourne-green-area-guide]] — Herts Advertiser area guide; Kinsbourne Green hamlet near Harpenden; context for Ron and Ivy's final English home c.1962–1970
 - [[kinsbourne-green-harpenden-history]] — Harpenden History Society; Kinsbourne Green; Annables Estate; village character and history
+- [[william-thody-familysearch]] — FamilySearch sources page (18 sources); 1782 Cardington inhabitants; military records; Waterloo Medal 1815; Chelsea Pensioner 1816; death Chelsea 1858
+- [[allen-thody-familysearch]] — FamilySearch sources page (14 sources); census 1841–1891; marriage 1834; death certificate 22 March 1898 Cotton End
+- [[elizabeth-saunders-familysearch]] — FamilySearch sources page (13 sources); baptism 25 Aug 1811 (illegitimate, Rebecca Saunders widow); census 1841–1891; death 11 Oct 1898
+- [[rebecca-arnold-familysearch]] — FamilySearch sources page (7 sources); Samuel Arnold will 1790 (Cotton End farmer, £150 to Rebecca); marriage 1799; children's christenings; Elizabeth's 1811 baptism; Rebecca's 1812 burial
+- [[joseph-sanders-familysearch]] — FamilySearch sources page (7 sources); baptism 1774 (son of John Sanders & Elizabeth); marriage 1799; children; burial 1810 (Shoemaker)
