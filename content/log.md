@@ -1,3 +1,12 @@
+## [2026-06-13] ingest | Richard Norman (1723), Robert Norman (1769) — FamilySearch corrections confirmed
+
+Ingested two corrected print-view clippings after FamilySearch data was fixed. The Mary Essex marriage has been removed from Richard Norman's profile (P68D-T5X) — the profile now shows only the Mary Hall marriage (1749, Over) and Robert Norman (1769) as sole child. This confirms the analysis from the earlier data quality review. Robert Norman's corrected print view adds Alice Morling's dates (born 1785, died 1849) — she was sixteen years younger than Robert and outlived him by seven years.
+
+Richard Norman's person page simplified: the lengthy disputed section replaced by a brief historical note. Norman-essex-1740 family page updated from active caveat to resolved reference record.
+
+Pages updated: [[richard-norman-1723]], [[norman-essex-1740]], [[robert-norman-1769]]
+Sources created: [[richard-norman-1723-print-view-2-familysearch]], [[robert-norman-1769-print-view-2-familysearch]]
+
 ## [2026-06-13] update | Richard Norman (1723) — FamilySearch data quality review; Mary Essex attribution withdrawn
 
 Reviewed the Richard Norman (P68D-T5X) FamilySearch profile critically. The Mary Essex marriage previously recorded as his "first marriage" is almost certainly a FamilySearch data error — the same 1740 Cottenham marriage is attached to a second profile (L565-ZVH, Richard Norman 1718–1753) with a different set of children, and accepting both marriages for P68D-T5X creates a bigamy impossibility (Mary Essex died 1765, sixteen years after the Hall marriage in 1749). The Essex marriage has been withdrawn from the narrative and the family page flagged as disputed. Additional contamination noted: 1834 daughter, spurious 1810 burial as parentage evidence, duplicate sons. The Mary Hall marriage (1749) and Robert Norman (1769) parentage are retained as the credible core.

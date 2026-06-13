@@ -549,10 +549,12 @@
 - [[find-a-grave-kensworth]] — ~200 memorials at Kensworth; Thomas Edward Cook (1882–1955) & Alice Mabel Dumpleton (1883–1940); probable grandchildren of David Cook (1816) via James Cook (1843); Edna Evelyn Maynard (1906–2001) unconnected
 - [[carter-paterson-perplexity]] — Perplexity research; Carter Paterson & Co. history; founded 1860; 128 Goswell Road EC1; 700 horses by 1890; nationalized 1948
 - [[carter-paterson-operations]] — Detailed operational background: Goswell Road multi-storey stables, 700–3,000 horses 1890–1905, 20 London depots, staffing estimates; context for Charles Norman's foreman role
-- [[richard-norman-1723-print-view-familysearch]] — FamilySearch print view; Richard Norman (1723–1783), weaver Over; two marriages; father of Robert Norman (1769)
-- [[richard-norman-1723-sources-familysearch]] — FamilySearch sources (16 sources); baptism 1723 Cottenham; marriages 1740 & 1749; children confirmed
-- [[mary-essex-1722-print-view-familysearch]] — FamilySearch print view; Mary Essex (1722–1765), Cottenham; Richard Norman's first wife
-- [[robert-norman-print-view-familysearch]] — FamilySearch print view; Robert Norman (1769–1842), Over; married Frances Green 1788; 7 children
+- [[richard-norman-1723-print-view-familysearch]] — FamilySearch print view (original); Richard Norman (1723–1783); contained erroneous Mary Essex marriage
+- [[richard-norman-1723-print-view-2-familysearch]] — FamilySearch print view (corrected); Essex marriage removed; one marriage to Mary Hall confirmed
+- [[richard-norman-1723-sources-familysearch]] — FamilySearch sources (16 sources); data quality analysis; multiple contamination errors documented
+- [[mary-essex-1722-print-view-familysearch]] — FamilySearch print view; Mary Essex (1722–1765), Cottenham; married a Richard Norman 1740 (not our Richard)
+- [[robert-norman-print-view-familysearch]] — FamilySearch print view (original); Robert Norman (1769–1842), Over; married Frances Green 1788; 7 children
+- [[robert-norman-1769-print-view-2-familysearch]] — FamilySearch print view (corrected); adds Alice Morling dates (1785–1849); confirms Richard Norman parentage
 - [[robert-norman-sources-familysearch]] — FamilySearch sources page; marriage 1788; 1841 census Church End Over; death/burial 1842
 - [[frances-green-print-view-familysearch]] — FamilySearch print view; Frances Green (1769–1810); parents Francis Mann & Elizabeth Green; complex surname
 - [[frances-green-sources-familysearch]] — FamilySearch sources page; birth 1769 as "Frances Marks/Mann"; marriage 1788 as "Frances Green or Mann"

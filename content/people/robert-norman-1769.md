@@ -12,6 +12,7 @@ sources:
   - "[[robert-norman-print-view-familysearch]]"
   - "[[robert-norman-sources-familysearch]]"
   - "[[richard-norman-1723-print-view-familysearch]]"
+  - "[[robert-norman-1769-print-view-2-familysearch]]"
 created: 2026-05-14
 updated: 2026-05-14
 ---
@@ -22,6 +23,6 @@ Robert Norman was born in February 1769 in Over, Cambridgeshire, and died there 
 
 He married [[frances-green-1769|Frances Green]] on 16 November 1788 at Swavesey — the parish just a few miles south of Over. The marriage record records her surname as "Green or Mann" — "Mann" may indicate a previous married name (widow) or a clerical uncertainty. Frances (1769–1810) was born the same year as Robert, in Swavesey itself. Together they had seven children, all born in the Over/Swavesey area: Alice (~1787, born before the marriage), Mary (1790), [[thomas-norman-1793|Thomas]] (1793–1855), Elizabeth (1795–1877), James (1801–1872), Luke (1803–1878), and Richard (1805–1890).
 
-Frances died in 1810, leaving Robert a widower with children ranging in age from about five to about twenty-three. He remarried: **Alice Morling**, on 2 November 1818 at Over. No children of this second marriage have been identified. The 1841 census finds Robert at Church End, Over, aged 70, sharing the household with Alice Norman (F, 50) — almost certainly his eldest daughter Alice, then in her mid-fifties (the 1841 census rounded adult ages).
+Frances died in 1810, leaving Robert a widower with children ranging in age from about five to about twenty-three. He remarried: **Alice Morling** (1785–1849), on 2 November 1818 at Over. Alice was sixteen years his junior — born the same year Frances Green married Robert. No children of this second marriage have been identified. Alice outlived Robert by seven years, dying in 1849. The 1841 census finds Robert at Church End, Over, aged 70, sharing the household with Alice Norman (F, 50) — almost certainly his eldest daughter Alice, then in her mid-fifties (the 1841 census rounded adult ages).
 
 Robert died at 73, having outlived his first wife by thirty-two years. His son [[thomas-norman-1793|Thomas]] survived him by thirteen years, eventually dying in Swavesey in 1855.
