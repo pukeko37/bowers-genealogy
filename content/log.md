@@ -95,6 +95,21 @@ Corrections: Florence's death place updated from "unknown" to Luton. Clara's per
 Pages created: [[arthur-perry-1866]], [[perry-bransom-1898]], [[percy-arthur-perry-1900]], [[florence-hilda-perry-1903]], [[elsie-perry-1907]], [[florence-bransom-print-view-familysearch]], [[arthur-perry-sources-familysearch]]
 Pages updated: [[florence-bransom-1873]], [[clara-lucy-bransom-1877]], [[cook-bransom-1871]]
 
+## [2026-06-13] ingest | FamilySearch — Samuel Fensome sources (24 records)
+
+Sources: `Samuel Fensome (1842–1920) • Person • Family Tree.md` and `Samuel Fensome (1842–1920) • Person • Family Tree 1.md`, clipped 2026-06-13. Together these cover all 24 FamilySearch sources attached to Samuel Fensome (ID: M98H-FDH).
+
+Key findings:
+- **Occupation resolved**: Samuel was an iron works labourer in Bedford in 1871, then a shoemaker from 1881 through 1911. The open question on the family page is closed. He did not work in the Pilsley collieries.
+- **Helen Fensome confirmed**: a first-born child (abt 1864, Bedford) previously missing from all family records. She appears in the 1871 census (daughter, age 7) and married John George Mason at Pilsley on 28 December 1891. The family had nine children, not eight.
+- **Precise birthplaces**: Herbert Charles was born at Pertenhall, Bedfordshire (not Bedford); Edgar at Ravensden — finer detail than previously recorded.
+- **Children's marriages**: six of the nine children married at Pilsley parish church between 1889 and 1902, confirming the family's deep rootedness in the village.
+
+Pages created: [[samuel-fensome-sources-familysearch]]
+Pages updated: [[samuel-fensome-1842]], [[bunker-fensome-1863]], index
+
+---
+
 ## [2026-06-10] query | Longevity analysis — refinements: cause of death, male transmission, regional pool
 
 Three rounds of refinement to the longevity analysis.
@@ -126,194 +141,74 @@ Key findings:
 
 Output saved: [[longevity-analysis-2026-06-10]]
 
-## [2026-06-06] ingest | Fenland villages — Hartlepool census searches (Fen Drayton, Fenstanton, Over, Willingham)
+---
 
-Ingested five follow-up FamilySearch census searches for fenland villages neighbouring Swavesey: Fen Drayton (44 records), Fenstanton Hunts (7), Fenstanton Cambs (1, duplicate), Over (9, some false positives), Willingham (11, some false positives).
+## [2026-06-06] compressed | Swavesey–Hartlepool diaspora — census searches across five fenland villages
 
-Key findings:
-- **Fen Drayton** produced 44 records — almost equal in scale to Swavesey (56). Combined, the two villages account for ~100 records in Stranton.
-- **Cross-village marriages** confirmed: John Wright (Swavesey) × Elizabeth Wright (Fen Drayton); Joseph Middleton (Swavesey) × Mary Middleton (Fen Drayton); Thomas Payne (Swavesey) × Elizabeth Payne (Over); William Stocker (Swavesey) × Mary Ann Stocker (Over). These inter-village marriages predated the migration.
-- **The Randall family** was a major Fen Drayton presence in Stranton — at least 5 Randall men from Fen Drayton across the three censuses. Richard Norman's wife Ann Elizabeth Randall is recorded as from Fenstanton (adjacent parish). She was almost certainly marrying into a family already embedded in the Stranton fenland community when Richard arrived in 1875.
-- **Jeremiah Allen** (Fen Drayton) was in Stranton in 1871, 1881, and 1891 — 20+ years. Earliest confirmed Fen Drayton arrival.
-- Total fenland-born Stranton residents across all searches: ~127 records, ~44 households, 5 villages.
-
-Pages updated: [[swavesey-stranton-diaspora]] (substantially expanded), [[norman-randall-1875]] (Randall-Fen Drayton section added)
-Pages created: [[fenland-hartlepool-census-searches-2026]]
-
-## [2026-06-06] ingest | Swavesey–Hartlepool diaspora census search
-
-Ingested FamilySearch filtered census search (1871, 1881, 1891) for Swavesey-born individuals in the Hartlepool area. 56 records returned.
+Research into the Swavesey-to-Hartlepool migration, establishing the scale and character of the diaspora community in Stranton township.
 
 Key findings:
-- At least 25 distinct family surnames from Swavesey concentrated almost entirely in **Stranton** township, West Hartlepool.
-- At least 6 couples where both spouses were born in Swavesey (Pauley, Taundley, two Brooks families, Coulson, Froment) — confirms an enclave rather than dispersed individual migration.
-- Earliest recorded arrivals: Susan Rose (born 1837) and John Bowd and John Wright (both born 1842, in Stranton by the 1871 census) — the Swavesey community in Stranton predates the Norman brothers' 1875 arrival by at least four years.
-- Main family migration wave: c.1872–1877, based on the youngest Swavesey-born children in migrating families (Taundley, Dring, Payne, Middleton, Coulson, Stocker).
+- **Swavesey–Hartlepool census search (1871–1891, 56 records):** At least 25 distinct family surnames from Swavesey concentrated almost entirely in Stranton township, West Hartlepool. At least 6 couples where both spouses were born in Swavesey — confirms an enclave, not dispersed individual migration. Earliest confirmed arrivals: Susan Rose (born 1837) and John Bowd/John Wright (born 1842, in Stranton by 1871) — the community predates the Norman brothers' 1875 arrival by at least four years. Main migration wave c.1872–1877.
+- **Fenland villages follow-up:** Fen Drayton produced 44 records — nearly equal to Swavesey (56). Cross-village marriages confirmed before migration (Wright × Wright Fen Drayton; Middleton × Middleton Fen Drayton; Payne × Payne Over; Stocker × Stocker Over). The Randall family was a major Fen Drayton presence in Stranton — at least 5 Randall men. Richard Norman's wife Ann Elizabeth Randall was almost certainly marrying into a community already embedded in Stranton. Jeremiah Allen (Fen Drayton) was in Stranton in 1871, 1881, and 1891 — 20+ years, the earliest confirmed Fen Drayton arrival. Total fenland-born Stranton residents: ~127 records, ~44 households, 5 villages.
 - George and Richard Norman arrived in the middle of an established migration, not as pioneers.
-- William Mole (1852 Swavesey) in Stranton 1881 — previously noted in wiki, now confirmed in dataset.
-- The search understates the true migration: "Swavesey" was recorded with many spelling variants; those giving only "Cambridgeshire" were not captured.
 
-Pages created: [[swavesey-stranton-diaspora]], [[swavesey-hartlepool-census-search-1871-1891]]
-Pages updated: [[west-hartlepool]], [[wiki/index.md]]
+Pages created: [[swavesey-stranton-diaspora]], [[swavesey-hartlepool-census-search-1871-1891]], [[fenland-hartlepool-census-searches-2026]]
+Pages updated: [[swavesey-stranton-diaspora]] (substantially expanded), [[norman-randall-1875]], [[west-hartlepool]]
 
-## [2026-06-06] ingest | Whipsnade Tree Cathedral — Bransom connection
+## [2026-06-05 to 2026-06-06] compressed | Whipsnade local survey — Hain family, Dell Farm, churchyards, Cook-Turvey connection
 
-User research notes (clipping: *Whipsnade Tree Cathedral - Bransom connection - user notes.md*) combined with online sources: National Trust, Bedford Archives / Bedfordshire Community Histories, Western Front Association (March 2025).
+Research into the local Whipsnade community through the Hain farming family, Dell Farm history, and Find a Grave searches at Whipsnade, Studham, and Kensworth churchyards.
 
 Key findings:
-- **Edmund Kell Blyth** (1898–1969) began planting the Tree Cathedral in 1930 on Chapel Farm (purchased 1927), completing it in 1939. It was designed as a living WWI memorial in the form of a medieval cathedral ground plan across ~20 acres.
-- Blyth's commemorated comrades were **Arthur Bailey** (died 24 March 1918) and **John Bennett** (died 28 March 1918), both killed in the German Spring Offensive, and **Francis Holland** (died 1928 in a car crash in Canada).
-- **[[albert-bransom-1871|Albert Bransom]]** of Yew Tree Cottages helped Blyth with the initial planting from 1930. Albert was the eldest son of Edwin Bransom and Mary Saunders Cook, lifelong Whipsnade residents.
-- Albert's son **[[frederick-bransom-1894|Private Frederick Bransom]]** (2nd Battalion, Bedfordshire Regiment) died of wounds on **1 August 1916** during the Somme campaign, aged 22 — described as "the first from the parish to pay the deadly price of war." He is buried at La Neuville British Cemetery. His name appears on the St Mary Magdalene church war memorial.
-- Frederick had worked at Hall Farm for over nine years before his enlistment, beginning around age 13 (~1907).
-- The Tree Cathedral and the church memorial are distinct monuments but share the same remembrance landscape. The Bransom family connects both.
+- **Hain family established:** James Edward Hain (8 Jul 1832–12 Sep 1911, exact dates from Whipsnade churchyard) farmed Dell Farm, Whipsnade. Son James Hain (1877–Jun 1932) succeeded him and married **Margaret Anne Bransom** (December 1905) — fifth child of Edwin Bransom and Mary Saunders Cook. James Hain died in Central London, Jun 1932 (GRO confirmed), away from Dell Farm. Dell Farm now an Outdoor Education Centre (post-1967).
+- **Pedley Settled Estates / Arthur Macnamara:** Dell Farm was part of John Pedley's estate from 1827; held by Arthur Macnamara (1831–1906, died bankrupt of cirrhosis, squire of Billington, held Caddington Hall and Eaton Bray estate). Estate wound up over nine years; 1915 auction sold ~2,050 acres to sitting tenants. James Hain purchased Dell Farm at the 1915 auction. Henry Perkins (Dell Farm tenant 1851–1871) was sole executor of Thomas Batchelar's will — near-neighbour cross-link.
+- **Cook-Turvey connection:** Albert Ralph Cook (1886–1932) married **Hilda Kate Turvey** (26 Feb 1894–1987, daughter of James Purton Turvey, Dell Farm co-tenant who died 13 Feb 1910) in 1915. Cook birth year resolved: gravestone reads "aged 47" (~1884) but census (ages 5/15 in 1891/1901) and GRO support 1886 — stone age is wrong. Their daughter Hilda Jessie Cook Wallsam (1915–2001).
+- **Whipsnade churchyard (St Mary Magdalene, 243 memorials):** Albert Bransom died 1 Apr 1940 (wife Mary Bransom 1872–1950 also buried there). William Thomas Holden (rector at Thody-Cook 1894 wedding) confirmed 14 Dec 1838–18 Dec 1919. James Purton Turvey confirmed died 13 Feb 1910.
+- **Studham churchyard (St Mary the Virgin, ~430 memorials):** William Allan Thody (1851–1 Feb 1911) confirmed buried Studham. Lucy Thody (née Cook): gravestone gives **25 January 1930** — conflicts with FamilySearch date of 25 February 1930; gravestone preferred. Captain Clarence Thody (1884–1918) appears as a memorial inscription (not interment) — he is buried in France.
+- **Kensworth churchyard (~200 memorials):** Thomas Edward Cook (1882–1955) identified as son of James Cook (1843), son of David Cook (1816) and Elizabeth Frost — FamilySearch confirmed. Thomas married Alice Mabel Dumpleton (1883–1940); her parents Alfred Dumpleton (1848 Chalgrave, died 1917) and Emma Hucklesby, married 22 Feb 1870 Sundon; four sons and Alice as their only daughter.
+- **Bramson/Bransom variant at Studham:** Alfred Brown Bramson (1873–20 Dec 1950) — possible Whipsnade Bransom connection; unresolved.
 
-Pages created: [[whipsnade-tree-cathedral-bransom]], [[frederick-bransom-1894]], [[bransom-mary-1893]]
-Pages updated: [[albert-bransom-1871]], [[whipsnade]]
+Pages created: [[james-edward-hain-1832]], [[james-hain-1877]], [[margaret-anne-hain-1907]], [[dora-minnie-hain-1910]], [[hain-bransom-1905]], [[dell-farm]], [[beds-archives-dell-farm]], [[pedley-settled-estates]], [[macnamara-wikipedia]], [[find-a-grave-st-mary-magdalene-whipsnade]], [[find-a-grave-st-mary-virgin-studham]], [[find-a-grave-kensworth]], [[thomas-cook-1882]], [[alice-dumpleton-1883]], [[cook-harpenden-1876]], [[cook-dumpleton-1906]], [[dumpleton-hucklesby]], [[alfred-dumpleton]], [[emma-hucklesby]]
+Pages updated: [[margaret-anne-bransom-1880]], [[minnie-rose-bransom-1884]], [[cook-bransom-1871]], [[whipsnade]], [[james-cook-1843]], [[cook-frost-1842]], [[albert-ralph-cook-1886]], [[lucy-cook-1856]], [[clarence-james-thody-1884]], [[thody-cook-1894]], [[thomas-batchelar-1803]], [[batchelar-matthews-1826]], [[studham]]
 
-## [2026-06-06] ingest | St Mary the Virgin Churchyard, Eaton Bray — Find a Grave listing
-
-398 records. Eaton Bray is 4 miles south-west of Whipsnade.
-
-Key finding: **Woodcraft family confirmed at Eaton Bray** — Harry Woodcraft (1890–16 Feb 1917, WWI) and Ernest Woodcraft (veteran). Alice Woodcroft who married Thomas Bachelor at Whipsnade 1816 is now most plausibly from this parish. Eaton Bray parish registers are the recommended next step to trace the family back to Alice's generation (c.1790).
-
-No entries for Batchelor, Matthews, Norman, or other primary research families. George Cook (1843–1863, died aged 19) present but connection to Whipsnade Cooks unestablished.
-
-Pages created: [[st-mary-virgin-eaton-bray-findagrave]], [[eaton-bray]]
-Pages updated: [[bachelor-woodcroft-1816]]
-
-## [2026-06-06] ingest | Swavesey and Fenstanton — Find a Grave listings (null results)
-
-Three clippings, all null results for our research families:
-- **Swavesey** (259 records, location-wide): no Norman, Tabram, or Thulborn entries — transcription incomplete for 19th-century agricultural families
-- **Fenstanton Cemetery** (10 records): modern only
-- **St Peter & Paul Churchyard, Fenstanton** (43 records): no Euseden or Tabraham entries despite known burials there — Find a Grave coverage sparse for the relevant period
-
-The Norman/Tabram and Euseden open questions require parish registers rather than Find a Grave.
-
-Pages created: [[swavesey-findagrave]], [[fenstanton-findagrave]]
-
-## [2026-06-06] ingest | St John the Baptist Churchyard, Great Gaddesden — Find a Grave listing
-
-125 records. Church is in Great Gaddesden, Hertfordshire (adjacent to Flamstead) — not Millbrook as initially misidentified.
-
-Key finding: **Bingham family confirmed at Great Gaddesden** — Rev William Bingham (1742–1819), Agnata (1747–1827), and four generations of descendants. Sarah Bingham (born 1758), wife of Joseph Batchelor of Flamstead, almost certainly originates from this family — most likely a younger sibling of Rev William, sharing parents born c.1715. The Great Gaddesden parish registers should contain her baptism.
-
-No Birchmore or Andrew entries despite Thomas Birchmore marrying Sarah Andrew here in 1758; coverage is sparse pre-1800. Meacher family present (possible Chequers Inn connection, speculative).
-
-Pages created: [[st-john-baptist-great-gaddesden-findagrave]], [[great-gaddesden]]
-Pages updated: [[batchelor-bingham-flamstead]], [[joseph-batchelor-1755]]
-
-## [2026-06-06] ingest | All Saints Churchyard, Caddington — Find a Grave listing
-
-Null result. 48 records only (incomplete coverage). No research family names. Dominant family: Boustred/Bulstrode variants. Cannot rule out Batchelor or other burials here — listing is simply too sparse. Joseph Batchelor (1755) question remains open.
-
-Pages created: [[all-saints-caddington-findagrave]]
-
-## [2026-06-06] ingest | St Leonard Churchyard, Flamstead — Find a Grave listing
-
-Find a Grave memorial listing (152 records) for St Leonard Churchyard, Flamstead, Hertfordshire. Three clipping files are identical captures of the same page.
+## [2026-06-06] compressed | Find a Grave surveys — Flamstead, Great Gaddesden, Eaton Bray, Caddington, Swavesey, Tree Cathedral, Chequers Inn
 
 Key findings:
-- Burials confirmed: Thomas Birchmore (1729–1806), George Birchmore (1762–1843), George Birchmore (1786–1838)
-- Exact death date newly established: George Burchmore Jr (1817–**22 Aug 1866**), son of George (1786) + Ann Norton
-- New discovery: William Burchmore (1791–17 Jan 1856) — probable third son of George (1762) and Susannah Redding; previously undocumented sibling of George (1786)
-- Other Flamstead Birchmores noted but not placed: Charlotte (1805–1885), Ann (1808–1853), Mary Ann (1813–1891)
-- No Batchelor entries — the Joseph Batchelor (1755) open question gets no help from this source
+- **St Leonard Flamstead (152 records):** Burials confirmed for Thomas Birchmore (1729–1806), George Birchmore (1762–1843), George Birchmore (1786–1838). New: exact death date George Burchmore Jr (1817–22 Aug 1866). New discovery: William Burchmore (1791–17 Jan 1856), probable third son of George (1762) and Susannah Redding — previously undocumented sibling.
+- **St John Baptist Great Gaddesden (125 records):** Bingham family confirmed — Rev William Bingham (1742–1819), Agnata (1747–1827), and four generations. Sarah Bingham (born 1758, wife of Joseph Batchelor of Flamstead) most likely a younger sibling of Rev William. Great Gaddesden parish registers are the recommended next step.
+- **St Mary Eaton Bray (398 records):** Woodcraft family confirmed — Harry Woodcraft (1890–16 Feb 1917, WWI) and Ernest Woodcraft. Alice Woodcroft who married Thomas Bachelor 1816 Whipsnade most plausibly from this parish.
+- **All Saints Caddington (48 records):** Null — incomplete coverage. Cannot rule out Batchelor burials.
+- **Swavesey and Fenstanton (both null results):** Find a Grave coverage too sparse for 19th-century agricultural families. Parish registers required.
+- **Whipsnade Tree Cathedral:** Edmund Kell Blyth (1898–1969) began planting 1930 on Chapel Farm (purchased 1927) as a living WWI memorial. **Albert Bransom** of Yew Tree Cottages assisted from 1930. Albert's son **Private Frederick Bransom** (2nd Battalion Bedfordshire Regiment) died of wounds 1 August 1916 during the Somme, aged 22 — "the first from the parish to pay the deadly price of war"; buried La Neuville British Cemetery. Name on St Mary Magdalene war memorial.
+- **Chequers Inn ownership chain:** Full chain established: Burr (Dunstable Brewery) → Rackstrow (~1843) → Meacher (1857) → Roberts & Wilson (by 1891 through Dec 1926) → Benskin's of Watford (1927). Complete licensee list 1822–1931. 1927 sale; subsequent demolition and rebuild of old building.
 
-Pages created: [[st-leonard-flamstead-findagrave]], [[flamstead]]
-Pages updated: [[george-birchmore-1762]], [[george-birchmore-1786]], [[birchmore-redding-1784]], [[birchmore-norton-1815]]
+Pages created: [[st-leonard-flamstead-findagrave]], [[flamstead]], [[st-john-baptist-great-gaddesden-findagrave]], [[great-gaddesden]], [[st-mary-virgin-eaton-bray-findagrave]], [[eaton-bray]], [[all-saints-caddington-findagrave]], [[swavesey-findagrave]], [[fenstanton-findagrave]], [[whipsnade-tree-cathedral-bransom]], [[frederick-bransom-1894]], [[bransom-mary-1893]], [[chequers-inn-ownership-perplexity-2026]]
+Pages updated: [[george-birchmore-1762]], [[george-birchmore-1786]], [[birchmore-redding-1784]], [[birchmore-norton-1815]], [[batchelor-bingham-flamstead]], [[joseph-batchelor-1755]], [[bachelor-woodcroft-1816]], [[albert-bransom-1871]], [[whipsnade]]
 
-## [2026-06-06] ingest | Chequers Inn — ownership chain and full licensee list
-
-Three clippings from a Perplexity session (sourcing Bedfordshire Archives CLP13/BH409 and closedpubs.co.uk) extending the Chequers Inn record:
-- Full ownership chain: Burr (Dunstable Brewery) → Rackstrow (~1843) → Meacher (1857, in 1871 register) → Roberts & Wilson (by 1891, still owner Dec 1926) → Benskin's of Watford (1927)
-- Complete licensee list 1822–1931, including pre-1843 names (John Grey; Birch/Durrant/Brandsout) and post-1908 sequence through Thomas Watson (1926–1931)
-- 1927 sale to Benskin's; subsequent demolition and rebuild of the old building, probably late 1920s/early 1930s
-- Zoo connection timing noted but not causally confirmed by sources
-
-Pages created: [[chequers-inn-ownership-perplexity-2026]]
-Pages updated: [[whipsnade]] (Chequers Inn section fully expanded; Key Events extended to 1927/1931)
-
-## [2026-06-06] update | Matthews-Wilson evidence strengthened; marriage location corrected
-
-Two corrections from direct research:
-1. Thomas Matthews and Mary Wilson married at **Kensworth**, 3 June 1801 — not Whipsnade as previously unspecified/implied. The Kensworth marriage is fully consistent with the pre-marital christenings at the same parish in 1798 and 1800.
-2. The **1851 census** records Thomas's birthplace as Kensworth and Mary's as Stanbridge — direct independent corroboration of the identification of this household with Thomas Matthews (1767) and Mary Wilson (b. Stanbridge 1779). Both pages updated to make this evidence explicit.
-
-Pages updated: [[matthews-wilson-1801]], [[thomas-matthews-1767]]
-
-## [2026-06-06] update | James Matthews (1800) — unrecorded child of Thomas and Mary Wilson
-
-FindMyPast search results (not ingested to wiki) identified a James Matthews christened 7 December 1800 at Kensworth, father Thomas, mother Mary. This fits Thomas Matthews (1767) and Mary Wilson: the couple were in Kensworth in late 1800, had already had Thomas Jr (1798) before their June 1801 marriage, and James sits in the unexplained gap between Thomas Jr and Sarah (1803). He is absent from all later records and almost certainly died young. The intro error referencing "Susan" as a pre-marital child was also corrected.
-
-Pages updated: [[matthews-wilson-1801]]
-
-## [2026-06-06] ingest | Peter Matthews ancestry — four generations back to 1665
-
-Eight clippings ingested: FamilySearch person and print-view pages for Peter Matthews (1734–1812), Peter Matthews (~1702–1748), Peter Matthews (1665–1730), and Mary Jenkins (1665–1748); also print views for Mary Busby (1709–1760).
-
-**The Peter Matthews line now runs four generations deep:**
-- Peter Matthews (1665) + Mary Jenkins → 7 children at Dunstable
-- Peter Matthews (1702) + Mary Busby (christened Millbrook; parents Thomas Busby 1674–1724 and Elizabeth) → 9 children at Dunstable; Peter buried there 1748
-- Peter Matthews (1734) + Susannah Durrant → married Flamstead, Herts 1761; 3 children at Kensworth; died Kensworth 1812
-- Peter Matthews (1770) → Kensworth → Whipsnade
-
-**The Thomas Matthews (1741) hypothesis.** Peter (1702) and Mary Busby had a son Thomas Matthews, christened 23 September 1741 at Dunstable. If Thomas (1741) had a son Thomas in 1767, that son would be [[thomas-matthews-1767|Thomas Matthews (1767)]] of Whipsnade — making Thomas (1767) and Peter (1770) first cousins, both grandsons of Peter (1702). This is now the primary hypothesis for the "two Matthews families" kinship question. Researching Thomas (1741)'s adult life would test it.
-
-**Flamstead connection:** Peter (1734) married at Flamstead, Hertfordshire — the same village as the Birchmore and Batchelor families. No connection established, but worth noting.
-
-Pages created: [[matthews-jenkins-1665]], [[matthews-busby-1727]], [[matthews-durrant-1761]], [[peter-matthews-1665]], [[mary-jenkins-1665]], [[peter-matthews-1702]], [[mary-busby-1709]], [[peter-matthews-1734]], [[peter-matthews-1734-familysearch]], [[peter-matthews-1702-familysearch]], [[peter-matthews-1665-mary-jenkins-familysearch]]
-Pages updated: [[peter-matthews-1770]], index
-
-## [2026-06-06] ingest | Sarah Gates (1803–1851) — origins and family
-
-Two clippings ingested: FamilySearch person and print-view pages for Sarah Gates (1803–1851), wife of Peter Matthews (1802).
-
-**Sarah Gates's origins established.** Sarah was christened 27 November 1803 at **Aldbury, Hertfordshire** — not a local Bedfordshire woman but from across the county border near Tring. Her parents were **Joseph Gates** (1781) and **Elizabeth Inward** (1780–1843), who had married in Hertfordshire in June 1803 just months before her birth. The Studham marriage venue (17 January 1825) now makes geographic sense: Studham was the nearest Bedfordshire parish to Aldbury. The 1851 enumerator's "Arbury, Buckinghamshire" is a misrecording of Aldbury, Hertfordshire.
-
-**Charlotte Gates in the 1841 household.** The 1841 census at Houchen End includes Charlotte Gates (15), Sarah's younger sister, living with the family. Charlotte died in 1846 aged ~24.
-
-**Marriage record name ambiguity noted.** The register shows "Sarah Yates or Gates" — a transcription uncertainty; other sources confirm Gates.
-
-Pages created: [[sarah-gates-1803]], [[sarah-gates-familysearch]]
-Pages updated: [[matthews-gates-1825]], index
-
-## [2026-06-06] ingest | Peter Matthews (1802) family — William Mathews (1837) and William Matthews (1865)
-
-Four clippings ingested: FamilySearch person and print-view pages for William Mathews (1837–1914) and William Matthews (1865).
+## [2026-06-01] compressed | Bunker and Barnsley follow-up
 
 Key findings:
+- **Frederick and Eliza Bunker 1911 census address confirmed:** 105 Hartley Road, Luton. Beulah's marriage certificate (2 August 1920) gives 50 Hampton Road — the move occurred between 1911 and August 1920.
+- **Thomas Barnsley sources and probate ingested:** Occupation: "Dealer in Old and New Clothes" (Ashton-under-Lyne 1851) → "Stationer" (Matlock 1871) → "Formerly Shop Keeper" (Darley Dale 1881). Wife Eliza Bradwall, married 28 May 1838 at Hope, Derbyshire; both from Bradwell, Hope Valley. Additional children beyond Margaret: Elizabeth (1840), Martha (1844), Joseph (1847, oil and tallow manufacturer Leeds). Probate confirms address at Matlock Bath before retirement to Bradwell. Thomas had a stationer's shop in Matlock when Caleb arrived in 1871; Caleb took over, pivoted to boots/shoes/toys; the October 1880 bankruptcy ended the business; Thomas retired, Caleb continued independently.
 
-**Peter Matthews (1802–1892) family established.** Peter (1802), the third child of Peter Matthews (1770) and Mary Walker, married Sarah Gates in 1825 at Studham. They had eleven children at Whipsnade, with five dying in childhood between 1827–1839. Peter survived Sarah by forty years, dying aged ~90 in 1892. See [[matthews-gates-1825]].
+Pages updated: [[bunker-geary-1892]], [[frederick-bunker-1869]], [[eliza-geary-1859]], [[thomas-barnsley-1817]], [[bunker-barnsley-1871]]
+Sources created: [[thomas-barnsley-sources-familysearch]], [[thomas-barnsley-probate-1890-screenshot]]
 
-**Houchen End convergence.** William Mathews (1837–1914), son of Peter (1802), spent his entire life at Houchen End, Whipsnade — the same hamlet address associated with the Thomas Matthews Sr. (LDS) household and with GBP Sr. Two Matthews lines, both from Kensworth, living at the same Whipsnade hamlet address across multiple generations. This is the strongest evidence yet for kinship between Peter (1770) and Thomas (1767). Notes added to [[matthews-walker-1798]] and [[matthews-wilson-1801]] open questions.
+## [2026-05-24 to 2026-05-26] compressed | Susan Maynard — three marriages; structural corrections
 
-**Rebecca Matthews (1866) research lead resolved.** "Rebecca Matthews" in the Kensworth search results was Rebecca Grizzell, who married William Matthews (1865) — grandson of Peter (1802). She was not born a Matthews. The 1901 Studham sighting was William (1865) working as a gamekeeper there; he returned to Whipsnade by 1911. [[familysearch-kensworth-matthews-search]] updated.
+Key findings:
+- **Susan Maynard (1802–?) had three marriages, not one:** (1) William Woodcraft (1777–1835), married 20 May 1827 at Whipsnade, 5 children; (2) Edmund Durrant (1795–after 1851, born Whipsnade), married 9 June 1849 at Whipsnade — the source of the "Durent" surname; (3) Thomas Batchelar, married 11 January 1868 at Whipsnade.
+- **School Mistress:** 1851 census records "Labs Wife And School Mistress" — she ran a small school in Whipsnade while married to Edmund Durrant.
+- **Origins:** Born early March 1802, Luton; father George Maynard, mother Sarah Rumball (married Luton 14 Feb 1794); Nonconformist family (birth in Baptist register). George Maynard named as father in both the 1849 and 1868 marriage records.
+- **1841 at Frog Corner:** Same hamlet as the Chequers Inn, before Abraham Batchelor's tenure.
+- **New family page:** [[woodcraft-maynard-1827]] — possible connection to Alice Woodcroft of [[bachelor-woodcroft-1816]].
+- Three prior wiki pages corrected (George Maynard wrongly described as "likely a witness").
+- **Structural corrections (2026-05-26):** birchmore-lomax-1898 family page deleted (residual from earlier error). 13 missing source index entries added (FamilySearch print-view and sources-list pages). Lint Check 2: stub person pages [[eliza-matthews-1843]] and [[naomi-matthews-1835]] created; family page [[tabram-fuller-1861]] created. Adeliza Fuller (1862) birthplace confirmed: Hemingford Abbots, Huntingdonshire; parents Thomas Fuller and Rachael Fuller. Tabram-Fuller marriage date confirmed: December 1879, registered St Ives registry office.
 
-Pages created: [[matthews-gates-1825]], [[peter-matthews-1802]], [[william-mathews-1837]], [[william-matthews-1865]], [[william-mathews-1837-sources-familysearch]], [[william-matthews-1865-sources-familysearch]]
-Pages updated: [[matthews-walker-1798]], [[matthews-wilson-1801]], [[familysearch-kensworth-matthews-search]], index
+Pages created: [[susan-maynard-1802]], [[susan-maynard-familysearch]], [[woodcraft-maynard-1827]], [[eliza-matthews-1843]], [[naomi-matthews-1835]], [[tabram-fuller-1861]]
+Pages updated: [[thomas-batchelar-1803]], [[batchelar-matthews-1826]], [[thomas-batchelar-sources-familysearch]], [[rosa-birchmore-1874]], [[birchmore-morse-1874]], [[adeliza-fuller-1862]], [[john-tabram-1861]], [[index]]
 
-## [2026-06-01] update | Frederick and Eliza Bunker — 1911 census address confirmed
-
-105 Hartley Road, Luton identified as the 1911 census address for the Frederick Bunker / Eliza Geary household. Beulah's marriage certificate (2 August 1920) gives her address as 50 Hampton Road — confirming the family had moved there before August 1920. Updated bunker-geary-1892, frederick-bunker-1869, and eliza-geary-1859.
-
-## [2026-06-01] ingest | Thomas Barnsley — FamilySearch sources view and probate screenshot
-
-Two clippings ingested. Key findings:
-
-**Occupation sequence confirmed.** Thomas was a versatile small retailer, not a specialist: "Dealer in Old and New Clothes" in Ashton-under-Lyne (1851), "Stationer" in Matlock (1871), "Formerly Shop Keeper" in Darley Dale (1881). The 1881 occupation — past tense, six months after Caleb's October 1880 bankruptcy — confirms Thomas had already retired from retail by the time of the census.
-
-**Wife's surname: Eliza Bradwall.** Thomas married Eliza Bradwall on 28 May 1838 at Hope, Derbyshire. Both were from Bradwell, Hope Valley — a local match before the move to Lancashire. Father: Luke Barnsley.
-
-**Additional children.** Three further children confirmed beyond Margaret: Elizabeth (christened Ashton-under-Lyne, 11 Oct 1840), Martha (2 Jun 1844), Joseph (born 23 Mar 1847; married Maria Ellen Boon, Lancashire, 1869; oil and tallow manufacturer, Leeds).
-
-**Matlock Bath confirmed.** Probate calendar full text: *"formerly of Matlock Bath in the Parish of Matlock but late of Church-street Bradwell."* Places Thomas at Matlock Bath — the same address given in Caleb's 1880 bankruptcy notices — before retirement to Bradwell.
-
-**Revised reading of the Barnsley arrangement.** Thomas had a stationer's shop in Matlock when Caleb arrived in 1871 and married Margaret. Caleb took over the running, pivoted the trade to boots, shoes, and toys, but kept the Barnsley name on the door. The bankruptcy (October 1880) ended the business; Thomas retired to Darley Dale and then Bradwell; Caleb continued in his trade independently.
-
-Pages created: [[thomas-barnsley-sources-familysearch]], [[thomas-barnsley-probate-1890-screenshot]]
-Pages updated: [[thomas-barnsley-1817]], [[bunker-barnsley-1871]]
+---
 
 ## [2026-05-23] compressed | Harry Thody — WWI service and Thody Bros business
 
@@ -327,20 +222,6 @@ Key findings:
 
 Pages created: [[harry-thody-national-roll]].
 Pages updated: [[harry-thody-1894]], [[roland-herbert-bunker-1898]], [[thody-bunker-1920]].
-
-## [2026-05-23] ingest | Norman family 1911 census, Kingsland
-
-Retrieved and recorded the 1911 census household entry for the Norman family at St John at Hackney, Kingsland (RG14/477, schedule 236).
-
-Key findings:
-- **11 people confirmed**: 10 Normans (Ellen + all 9 children) plus one visitor — Mary Elizabeth Angus (25, Little Thurlow, Suffolk), Thomas's future wife.
-- **Thomas George Norman** (24) listed as head, not Ellen. Occupation: warehouseman (drapery and fancy lines).
-- **Occupations**: Mabel/Nellie/Elizabeth — machinists (lace goods); Alice — clerk (boot trade); Lily — clerk (engineer's chemicals); Charles Jr — clerk (Port of London Authority); Ivy and Norah at school.
-- **Mason brothers absent**: all three (Richard William, John James, Isaac) were at Lambeth, Norwood. The oral history's "Norman-Mason joint household" not supported by the census.
-- Birthplace evidence confirms family was at Hosier Lane (City of London) as late as Norah's birth, July 1902.
-
-Pages created: [[norman-family-1911-census]] (source summary)
-Pages updated: [[norman-birchmore-1883]], [[ivy-helen-norman-1899]]
 
 ## [2026-05-23] compressed | Ivy Norman and Roland Bunker — analytical and character work
 
@@ -356,44 +237,42 @@ Key findings:
 
 Pages updated: [[roland-herbert-bunker-1898]], [[bunker-norman-1921]], [[ivy-helen-norman-1899]], outputs/theme-values-solidarity-ambition.md.
 
-## [2026-05-20] ingest | Batchelar and Matthews ancestry — 7 clippings
+---
 
-Ingested 7 FamilySearch clippings extending the ancestry of [[eliza-batchelor-1829|Eliza Batchelor]] two generations back on both sides.
+## [2026-05-18 to 2026-05-23] compressed | Ivy Norman context — Westminster Bank, Kinsbourne Green, 1911 census
 
-**Key findings:**
+Contextual enrichment sessions building out the background to Ivy Norman's life and the broader Norman family picture.
 
-- **Thomas Batchelar's father confirmed:** The Ivinghoe christening record and Thomas's own 1868 marriage record both name **David Batchelor** as his father. David married **Ann** (surname unknown) in Finsbury, London on 3 November 1801; their children were christened across Little Gaddesden, Ivinghoe, and Edlesborough. David's own origins remain unknown. See [[batchelor-ann-1801]], [[david-batchelor-unknown]].
-- **Susan Matthews correctly attributed:** FamilySearch ID KZB3-93C (Susan Matthews 1800–1857) is confirmed as the daughter of [[peter-matthews-1770|Peter Matthews]] (1770, Kensworth, Herts) and [[mary-walker-1766|Mary Walker]] (1766, Kensworth, Herts). She was previously misattributed in the wiki to the [[matthews-wilson-1801|Thomas Matthews + Mary Wilson]] family; this has been corrected.
-- **Thomas Batchelar remarried in 1868:** After Susan Matthews's death in 1857, Thomas married **Susan Durent** (née Maynard, father George Maynard) on 11 January 1868 at Whipsnade. The 1871 census Susan (birthplace Luton) is this second wife, not Susan Matthews.
-- **Matthews ancestry extended:** Peter Matthews's parents were **Peter Matthews** (1734–1812) and **Susannah Durrant** (1739–1821), married 1761 at Flamstead, Hertfordshire. Mary Walker's parents were Richard Walker and Mary (Kensworth). Eliza's maternal line now runs to at least c.1734.
-- **The Matthews surname connection:** Susan Matthews (daughter of Peter) and [[anne-matthews-1815|Anne Matthews]] (GBP Sr's first wife, from the Thomas Matthews + Mary Wilson line) were both from Whipsnade Matthews families. GBP Sr thus married into the Matthews community twice — through two different branches.
+Key findings:
+- **Westminster Bank context:** Expanded Ivy's person page with historical context for the London County and Westminster Bank: the bank's correct name during her years, wartime context for women in banking (under 1% in 1913, ~25% by 1921), the nature of pre-decimal ledger work, and the absolute enforcement of the marriage bar in 1921. New page [[london-county-westminster-bank]].
+- **Kinsbourne Green:** Ivy and Ron's final home (c.1962–1970) was almost certainly on the Annables Estate (32 houses on privately owned roads — consistent with family memory of a gated character). Wesleyan Methodist chapel present from 1856. New pages [[kinsbourne-green]] and source summaries.
+- **Narrative themes document:** `outputs/narrative-themes-2026-05-18.md` — ten cross-generational themes centred on Ivy Norman and Roland Bunker, with a teasers table mapping where threads should be planted and where they pay off.
+- **Norman 1911 census (Kingsland, RG14/477, schedule 236):** 11 people in the household (10 Normans + visitor Mary Elizabeth Angus, Thomas's future wife). Thomas George Norman (24) listed as head; Mabel/Nellie/Elizabeth as machinists (lace goods); Alice — clerk (boot trade); Lily — clerk (engineer's chemicals); Charles Jr — clerk (Port of London Authority). Mason brothers confirmed absent — the oral history "Norman-Mason joint household" not supported by the census.
 
-**Error corrected:** [[susan-matthews-1800]] removed from [[matthews-wilson-1801]] children list; her correct family of origin is now [[matthews-walker-1798]].
+Pages created: [[kinsbourne-green]], [[london-county-westminster-bank]], [[kinsbourne-green-harpenden-history]], [[kinsbourne-green-area-guide]], [[norman-family-1911-census]]
+Pages updated: [[ivy-helen-norman-1899]], [[harpenden]], [[norman-birchmore-1883]]
 
-**Pages created:**
-Sources: [[thomas-batchelar-sources-familysearch]], [[susan-matthews-familysearch]], [[peter-matthews-familysearch]], [[mary-walker-familysearch]], [[david-batchelor-familysearch]]
-People: [[david-batchelor-unknown]], [[peter-matthews-1770]], [[mary-walker-1766]]
-Families: [[batchelor-ann-1801]], [[batchelar-matthews-1826]], [[matthews-walker-1798]]
+## [2026-05-20 to 2026-06-06] compressed | Matthews and Batchelar ancestry — from Whipsnade back to 1665
 
-**Pages updated:** [[thomas-batchelar-1803]], [[eliza-batchelor-1829]], [[susan-matthews-1800]], [[susan-matthews-print-view-familysearch]], [[birchmore-plummer-batchelor-1859]], [[matthews-wilson-1801]]
+Multiple ingests extending the Matthews line four generations to 1665, the Batchelar line two generations, and the Kensworth Matthews community structure.
 
-## [2026-05-18] ingest | Kinsbourne Green — three clippings
+Key findings:
+- **Batchelar ancestry (2026-05-20):** Thomas Batchelar's father confirmed as David Batchelor (married Ann in Finsbury 3 November 1801; children christened across Little Gaddesden, Ivinghoe, and Edlesborough). Susan Matthews correctly attributed to Peter Matthews/Mary Walker family — previously misattributed to Thomas Matthews/Mary Wilson. Thomas Batchelar's second wife is Susan Durent (née Maynard), not Susan Matthews; the 1871 census Susan is the second wife.
+- **Peter Matthews ancestry extended to 1665:**
+  - Peter Matthews (1665) + Mary Jenkins → 7 children at Dunstable
+  - Peter Matthews (1702) + Mary Busby (christened Millbrook; parents Thomas Busby 1674–1724) → 9 children at Dunstable; buried 1748
+  - Peter Matthews (1734) + Susannah Durrant (1739–1821) → married Flamstead 1761; 3 children at Kensworth; died Kensworth 1812. (The Flamstead connection — same village as the Birchmore and Batchelor families — is noted but no connection established.)
+  - Peter Matthews (1770) → Kensworth → Whipsnade
+- **Thomas Matthews (1741) hypothesis:** Peter (1702) had a son Thomas Matthews (christened 23 Sep 1741, Dunstable). If Thomas (1741) had a son Thomas in 1767, that would make Thomas (1767) and Peter (1770) first cousins — both grandsons of Peter (1702). Primary hypothesis for the "two Matthews families" kinship question.
+- **Peter Matthews (1802) family established:** Married Sarah Gates 1825 Studham; 11 children at Whipsnade, 5 dying in childhood. Sarah Gates was from Aldbury, Hertfordshire (parents Joseph Gates 1781 and Elizabeth Inward 1780–1843). Marriage venue (Studham — nearest Bedfordshire parish to Aldbury) now makes geographic sense; enumerator's "Arbury, Buckinghamshire" in 1851 is a misrecording of Aldbury.
+- **Houchen End convergence:** William Mathews (1837–1914, son of Peter 1802) spent his entire life at Houchen End — same hamlet as the Thomas Matthews Sr (LDS) household. Two Matthews lines from Kensworth at the same address across multiple generations. Strongest evidence yet for kinship between Peter (1770) and Thomas (1767).
+- **Matthews-Wilson corrections:** Thomas and Mary Wilson married at **Kensworth** 3 June 1801 (not Whipsnade). James Matthews (1800), unrecorded child of Thomas and Mary, almost certainly died young (christened 7 Dec 1800 Kensworth, absent from all later records).
+- **Kensworth Matthews community (FamilySearch searches, 70 + 10 + 24 records):** Charles Matthews (b. ~1832) settled Caddington with wife Mary. Elizabeth Hopkins birth year revised to 1793 (she was ~47 at marriage to Thomas the younger in 1840, not ~40). David Matthews (1853, possibly Charles's son) at Kensworth through 1891, then Luton. Rebecca Matthews (1866, Kensworth) at Studham 1901 with husband William Matthews — parentage unresolved.
 
-Ingested three clippings on Kinsbourne Green (Harpenden History Society article, Herts Advertiser area guide, AreaHive guide). Created place page [[kinsbourne-green]] and two source summaries. Key findings: Ron and Ivy's final home was almost certainly on the Annables Estate (32 houses on privately owned roads — consistent with family memory of a gated character). The private tennis court at their property was separate from the commercial Green Lawns courts which closed in the early 1950s. A Wesleyan Methodist chapel was present at Kinsbourne Green from 1856 (closed 2002).
+Pages created: [[peter-matthews-1665]], [[mary-jenkins-1665]], [[peter-matthews-1702]], [[mary-busby-1709]], [[peter-matthews-1734]], [[matthews-jenkins-1665]], [[matthews-busby-1727]], [[matthews-durrant-1761]], [[peter-matthews-1770]], [[mary-walker-1766]], [[matthews-walker-1798]], [[peter-matthews-1802]], [[sarah-gates-1803]], [[william-mathews-1837]], [[william-matthews-1865]], [[matthews-gates-1825]], [[david-batchelor-unknown]], [[batchelor-ann-1801]], [[batchelar-matthews-1826]], [[charles-matthews-1832]], [[david-matthews-1853]], [[familysearch-kensworth-matthews-search]], plus source summaries
+Pages updated: [[peter-matthews-1770]], [[matthews-wilson-1801]], [[thomas-batchelar-1803]], [[eliza-batchelor-1829]], [[susan-matthews-1800]], [[elizabeth-hopkins-abt-1801]], [[birchmore-plummer-batchelor-1859]]
 
-Pages created: [[kinsbourne-green]], [[kinsbourne-green-harpenden-history]], [[kinsbourne-green-area-guide]]
-Pages updated: [[harpenden]]
-
-## [2026-05-18] update | narrative themes document
-
-Created outputs/narrative-themes-2026-05-18.md — a working document recording ten cross-generational themes for the family narrative centred on Ivy Norman and Roland Bunker. Themes: family as welfare state; connections as currency; the Whipsnade web; migration and motion; war in two acts; women's lives; religion as community glue; the mystery of names; long lives and demographic change; trades and skills. Includes a teasers table mapping where threads should be planted and where they pay off.
-
-## [2026-05-18] update | ivy-helen-norman-1899 — Westminster Bank context; new bank page
-
-Expanded the Westminster Bank section on Ivy's person page with historical context: the bank's correct name during her years (London County and Westminster Bank), the wartime context for women in banking (under 1% in 1913, ~25% by 1921), the nature of pre-decimal ledger work and mental arithmetic, and the absolute enforcement of the marriage bar in 1921. Created new page [[london-county-westminster-bank]] covering the bank's history and working conditions for the period.
-
-Pages updated: [[ivy-helen-norman-1899]]
-Pages created: [[london-county-westminster-bank]]
+---
 
 ## [2026-05-17] compressed | Geary family — siblings, ancestry, and Francis Ernest Geary
 
@@ -461,187 +340,57 @@ Compressed 5 entries (2026-05-06 to 2026-05-07) into one block.
 
 ---
 
-## [2026-05-12] ingest | Florence Bass — FamilySearch
+## [2026-05-12] compressed | Bass-Tall family — children of Mary Ward Tall and Daniel Bass
 
-Two clippings: Florence Bass sources page (GFZV-PHS, 6 sources) and print view. Fully resolves the "ghost child" of the Bass-Tall family. Key findings: Florence (1862) left Maulden by 1881 to work as a **domestic servant** in Islington, London. Returned to Bedfordshire and married **Sidney David Shotbolt** (born Maulden, shoemaker/bootmaker) in 1889 at Ampthill. Settled in Ampthill permanently; three children all born there: Frank (1891 — 0 days old on census day), Eva (1893), Reginald (1894). The FamilySearch marriage source is oddly attributed to "Mary Ellen Botsford" as spouse — a tree error; the 1891 census is unambiguous. In 1891 Florence and brother Edward Ernest Bass were both in Ampthill simultaneously. Death date unknown. Created: [[florence-bass-1862]], [[florence-bass-sources-familysearch]], [[florence-bass-print-view-familysearch]]. Updated: [[bass-tall-1855]], [[edward-ernest-bass-1864]].
-
----
-
-## [2026-05-12] ingest | Edward Ernest Bass — FamilySearch
-
-Two clippings: Edward Ernest Bass sources page (GFZV-RKL, 9 sources) and print view; plus probate screenshot. Key findings: Edward Ernest Bass (1864–1936), youngest child of Daniel Bass and Mary Ward Tall, established as a new person. Occupation arc: scholar (1871) → butcher (1881) → carpenter (1891 Ampthill) → carpenter & joiner (1901 Kettering, Northamptonshire) → carpenter on small holder (1911 Flitwick). Married **Mary Ann Dennis** ~1885, Ampthill; she was from Maulden. Returned to Bedfordshire by 1911, settled at 16 Maulden-road, Flitwick — on the road leading to his birth village. Probate reveals he was widowed at death by **Lucy Washington Bass** — a second wife, not previously known, presumably married after Mary Ann's death (date unknown post-1911). Estate £156 4s. 7d. Kettering connection explained: first cousin **Frederick Bunker** was in Kettering from 1891; Beulah (1896) and Roland (1898) Bunker were born there while Edward was also present. The cousins' mothers (Mary Ward Tall and Rebecca Tall) were sisters. Created: [[edward-ernest-bass-1864]], [[edward-ernest-bass-sources-familysearch]], [[edward-ernest-bass-print-view-familysearch]], [[edward-ernest-bass-probate-1936]]. Updated: [[bass-tall-1855]], [[frederick-bunker-1869]].
-
----
-
-## [2026-05-12] ingest | Sarah Bass and Mary Ward Tall — FamilySearch
-
-Three clippings: Sarah Bass sources page (LLH8-YBQ, 6 sources), Sarah Bass print view, and Mary Ward Tall sources page (MM5L-RW1, 8 sources). Key findings: Sarah Bass (1859–1951) established as a new person — eldest child of Daniel Bass and Mary Ward Tall, born Maulden, married James Lay April 1887 Ampthill, settled in Lavendon Buckinghamshire, worked as dressmaker then shopkeeper, died Luton March 1951 aged ~92. New Lay–Bass family established with four Lavendon-born children: Herman Vivian (1888–1946), Beatrice Eva (1890–?), Gertrude Florence (1892–1954), Oliver Cecil (1894–1979). James Lay was a Lavendon-born stone mason (abt 1862/63–1931). Mary Ward Tall's 1851 position confirmed: head of own household at 23, staymaker, with sister Rebecca (6) — independent four years before marriage. Mary's 1891 census shows her living as *daughter* with "Sarah Sall" (84, Maulden) — almost certainly Sarah Ward (née Ward, married Tall), a transcription error for "Tall"; confirms Mary's mother alive in 1891. By 1901 Mary moved to Lavendon as mother-in-law in the Lay household; died Lavendon April 1907. Daniel Bass birthplace and occupation newly confirmed: born Maulden, Bedfordshire; labourer. Created: [[sarah-bass-1859]], [[lay-bass-1887]], [[lavendon]], [[sarah-bass-sources-familysearch]], [[sarah-bass-print-view-familysearch]], [[mary-ward-tall-sources-familysearch]]. Updated: [[bass-tall-1855]], [[mary-ward-tall-1827]], [[daniel-bass-1829]], [[maulden]].
-
----
-
-## [2026-05-12] ingest | Emily Thulborn sources page — FamilySearch
-
-Emily Thulborn sources page (K2M9-CNV, 6 sources). Key findings: 1871 census confirms Emily as a **servant** in the household of Robert Read, Farmer, Willingham — previously inferred, now documented. 1891 census gives full Alconbury Weston household with all 7 children then alive; birthplaces reveal the family moved from Swavesey to Huntingdonshire between 1879 (Charles born Cambridgeshire) and 1881 (Kate born Huntingdonshire). 1901 census shows Albert Newman Norman under the nickname "Bertie" (age 12); Emily's occupation recorded as "HOUSEKEEPER"; Tom's father Thomas Norman (74) in household confirmed. 1911 original place confirmed as "Eaton Socon, Neots, Huntingdonshire" — the FamilySearch indexed "Eaton, Nottinghamshire" is a transcription error; census ref RG14/173/21/11 confirmed. Death registration: Vol. 3B, p. 374, Huntingdonshire. False FamilySearch attachment: 1877 "Emily Thulborn + James Ingle, St. Ives" is a different person; noted in source summary and person page. Created: [[emily-thulborn-sources-familysearch]]. Updated: [[emily-thulborn-1856]], [[norman-thulborn-1877]].
-
----
-
-## [2026-05-12] ingest | Emily Thulborn print view, Newman Thulborn print view and sources — FamilySearch
-
-Three clippings: Emily Thulborn print view (K2M9-CNV), Newman Thulborn print view (G4WM-RB7), and Newman Thulborn sources page (7 sources). Key findings: Emily's exact birth date confirmed as 21 August 1856, Oakington; her death place identified as Huntingdonshire. Parents confirmed: father **Newman Thulborn** (abt 1821–1888), lifelong agricultural labourer at Oakington, and **Hannah How** (abt 1824–unknown), born Kingston, Cambridgeshire. Newman's 7 attached sources span baptism 1824 through censuses 1841–1881 to death registration 1888; census ages consistently suggest birth ~1824 contra the death registration's implied 1821. Family of eight children including Emily established. Name discrepancy: a son born ~1864 appears as "Lemuel" (1871 census) and "Samuel" (1881 census) — likely the same person. Emily absent from the 1871 Oakington household — at Willingham, probably in domestic service. Created: [[thulborn-how-oakington]], [[newman-thulborn-1821]], [[hannah-how-1824]], [[emily-thulborn-print-view-familysearch]], [[newman-thulborn-print-view-familysearch]], [[newman-thulborn-sources-familysearch]]. Updated: [[emily-thulborn-1856]] (birth date, death place, family-of-origin), [[norman-thulborn-1877]] (Emily's background, open question closed). Closes the open question "Emily Thulborn's parentage and family background in Oakington" in [[norman-thulborn-1877]].
-
----
-
-## [2026-05-12] update | 1921 census — Tom Norman, Emily Norman, Thomas Norman at Eaton Socon
-
-1921 census index entry (record image not viewed) finds Tom Norman, Emily Norman, and Tom Norman at Eaton Socon, in the locality of the Crown Inn. Identified as Tom Norman (1856–1925), Emily Thulborn (1856–1922), and their son Thomas (1891–1981). Confirms: family still at Eaton Socon in 1921; Emily alive one year before her death; son Thomas in household at ~30 (Hannah, who was home in 1911, had left). "Locality of the Crown Inn" is the nearest to a direct address yet for the family's connection to the Crown. Updated: [[norman-thulborn-1877]], [[tom-norman-1856]], [[emily-thulborn-1856]].
-
----
-
-## [2026-05-12] ingest | Kelly's 1924 Bedfordshire Directory — Eaton Socon (full directory)
-
-Full Kelly's 1924 Directory for Eaton Socon and surrounding hamlets ingested. Key finding: "Norman Albert Newman, Crown P.H." in the commercial section — independent trade-directory confirmation of Albert's tenure. Updated [[kelly-1924-eaton-socon-norman]] to reference the full clipping (previous ingest used a stub placeholder) and expanded the source summary with full parish context: six licensed premises listed in Eaton Socon/Eaton Ford; Kelly's consistent use of P.H. for all licensed premises weakens the beerhouse-to-full-pub upgrade inference. No other entries relevant to current research threads. Updated: [[kelly-1924-eaton-socon-norman]].
-
----
-
-## [2026-05-12] update | Wiki structural improvements — Resume, index clustering, Compress workflow
-
-Three improvements from `outputs/wiki-critique-2026-05-11.md` implemented:
-
-1. **Resume workflow replaced** — now uses mtime comparison against `wiki/.last-ingest-completed` sentinel rather than reading log + index. Sentinel created and seeded (last ingest: Crown Beerhouse, 2026-05-10). Ingest workflow gains step 10: write sentinel on completion.
-
-2. **Index clustered by lineage** — Families and People sections now grouped under `### Norman · Birchmore · Cook · Thody`, `### Matthews · LDS`, `### Bunker`, `### Bowers · Reynolds`. All 56 families and 171 people retained; order within clusters is thematic not chronological.
-
-3. **Compress workflow added to CLAUDE.md** — manually triggered at end of sessions when a thread reaches settled state. Gathers scattered log entries for a thread, replaces them with a single summary block, preserves recent entries in full.
-
----
-
-## [2026-05-11] update | Wiki critique saved to outputs
-
-Analysis of wiki against the Karpathy LLM Wiki pattern saved to `outputs/wiki-critique-2026-05-11.md`. Covers: what the wiki does well (layered synthesis model, family-first organizing, person pages as collection points); five trade-offs (navigation cost at session start, unsorted index, no research state document, person/family page redundancy, source summary overhead); and a summary improvement table. Two improvements resolved same session (research-state document created); three remain open (cluster index, harden person/family boundary, periodic log compression).
-
----
-
-## [2026-05-11] update | Research state document created
-
-Created [[research-state]] — a living orientation document capturing the current state of all three research threads, recently completed work, and the top 10 open questions. Added to index under new Meta section. Replaces reading log.md for session orientation.
-
----
-
-## [2026-05-10] query | Crown Beerhouse, Eaton Socon — web research
-
-Searched for beerhouses in Eaton Socon c.1911. Found that the **Crown Beerhouse, Great North Road, Eaton Socon** had **Albert Norman** as keeper from **1922–1931** (owner Mrs Archbald). Albert Norman is almost certainly **Albert Newman Norman (1888–1970)**, Tom Norman's sixth child. Tom was the beerhouse keeper at Eaton Socon in 1911 (per census); the father-to-son succession strongly suggests Tom was at the Crown Beerhouse. Identification probable but unconfirmed — requires the 1911 census image (RG14/173/21, schedule 11) or Sue Jarrett's "The Inns and Outs of Eaton Socon Parish" to confirm. The Crown Beerhouse survives as the Crown Inn, 1 Great North Road, Eaton Socon, still operating.
-
-New source: [[crown-beerhouse-eaton-socon-stneots-ccan]]. Updated: [[tom-norman-1856]], [[norman-thulborn-1877]].
-
----
-
-## [2026-05-10] ingest | Beerhouse — Wikipedia context article
-
-Ingested 1 clipping: Wikipedia article on the beerhouse as a category of licensed premises (Beerhouse Act 1830). Context for Tom Norman's 1911 census occupation "Farm Labourer and Beerhouse Keeper" at Eaton Socon. Key distinction: beerhouse required only a government licence (£2/year), not a full magistrate-issued public house licence — much easier to run alongside farm labour. Updated [[tom-norman-1856]], [[norman-thulborn-1877]]. New source: [[beerhouse-act-wikipedia]].
-
----
-
-## [2026-05-10] ingest | Norman-Tabram siblings — Tom, Mary Ann, Robert Henry, Alfred (sources pages + FT1 print views)
-
-Ingested 7 clippings: FamilySearch sources pages for Tom Norman, Mary Ann Norman, Robert Henry Norman, Alfred Eusden Norman; FamilySearch Family Tree 1 print views for Tom Norman, Mary Ann Norman, Robert Henry Norman.
-
-**Key findings — all new:**
-
-- **Tom Norman** (1856–1925): married **Emily Thulborn** (Oakington 1856–1922) on 30 Oct 1877 Swavesey; 9 children; **Farm Bailiff** 1891 at Alconbury Weston (supervisory role); reverted to labourer by 1901; by 1911 at Eaton Socon as "Farm Labourer and Beerhouse Keeper." Father Thomas Norman (74) in Tom's 1901 household — confirms Thomas followed Tom from Swavesey after Ann's death 1897.
-
-- **Mary Ann Norman** (1861–1951): married **George Causer** (Staffordshire 1859–1898, Engine Driver) in Huntingdonshire 1883; 6 children (1885–1895), all born Swavesey; George died 1898; Mary Ann widowed laundress 1901, charwoman 1911; by 1939 at Middle Watch, Chesterton with daughter Elizabeth Causer.
-
-- **Robert Henry Norman** (1868–1954): married **Ada Squires** (Fendrayton 1864–1923) in 1899 St Ives; 2 daughters Elsie (1900–1987), Annie (1902–1985); lived Middle Watch, Swavesey.
-
-- **Alfred Eusden Norman** (1865–1896): minor additions — death registered Cambridge GRO (not Swavesey as previously assumed); 1881 address was "58 High St, Boxworth End (Public House)."
-
-New source summaries: [[alfred-eusden-norman-sources-familysearch]], [[mary-ann-norman-sources-familysearch]], [[mary-ann-norman-print-view-ft1-familysearch]], [[robert-henry-norman-sources-familysearch]], [[robert-henry-norman-print-view-ft1-familysearch]], [[tom-norman-sources-familysearch]], [[tom-norman-print-view-ft1-familysearch]].
-
-New people: [[george-causer-1859]], [[ada-squires-1864]], [[emily-thulborn-1856]].
-
-New families: [[norman-thulborn-1877]], [[norman-causer-1883]], [[norman-squires-1899]].
-
-Updated: [[tom-norman-1856]], [[mary-ann-norman-1861]], [[alfred-eusden-norman-1865]], [[robert-henry-norman-1868]], [[norman-tabram-1850]], index.
-
----
-
-## [2026-05-10] query | Ivy Norman family alive in 1970 — farewell photo analysis
-
-Compiled a report of all of Ivy Norman's siblings, their spouses, nephews/nieces, and first cousins alive in 1970 when Ivy and Ron emigrated to Auckland. Saved to `outputs/ivy-norman-family-alive-1970.md`. Core findings: two siblings alive (Alice, Norah), one sibling's spouse (Henry Jeans), five nephews/nieces likely alive (Gwendoline Norman, George Main, John Isaac Mason, George R Mason, Catherine Ellen Mason — though Catherine died in 1970). No Birchmore maternal cousins alive. Two Hartlepool Norman cousins technically alive (Kate Alberta Norman, Charles Norman) but no documented contact with the London family.
-
----
-
-## [2026-05-10] query | WWI service and casualties
-
-Cross-database survey of all men of military age (born ~1874–1900). One confirmed killed in action (Clarence Thody); one possible war death (Herbert Bunker, convalescent hospital); three confirmed veterans (Harry Thody, Ernest Bunker, Roland Bunker). Twelve-plus men of military age in the Norman-Hartlepool branches (Norman-Garry, Norman-Randall) with no service records at all — the most significant research gap. Saved to `outputs/ww1-service-2026-05-10.md`.
-
-
----
-
-## [2026-05-09] update | Rosa Birchmore — retract faulty Lomax research
-
-Research established that the FamilySearch tree for Rosa Birchmore contained significant errors. Cross-checking GRO index page numbers confirmed Rosa Birchmore (vol 1b, page 45) did marry George Henry Lomax in Sep 1898 at Pancras — the marriage itself is correct. However, the tree's post-1898 data (death 1934 Bournemouth, son Alfred Robert Lomax 1907–1993) could not be verified and may be wrong.
-
-A probate record for "Rosa Lomax, wife of Alfred Lomax, retired accountant" (died 25 Sep 1934, Bournemouth; admin Winchester Jan 1935; effects £1375) exists but cannot be linked to Rosa Birchmore: the husband name differs (Alfred vs George Henry), no documentary chain connects the 1898 marriage to the 1934 probate, and the FamilySearch source is now known to be unreliable on this subject.
-
-All unverified claims stripped back across:
-- [[rosa-birchmore-1874]] — death date/place removed; post-1898 history marked unknown
-- [[birchmore-lomax-1898]] — Alfred Robert Lomax removed as child; Bournemouth references removed; open questions updated with Bournemouth probate caveat
-- [[birchmore-morse-1874]] — Rosa's entry corrected; southwest dispersal narrative qualified; open questions updated
-- [[rosa-birchmore-print-view-familysearch]] — reliability warning added
-
-The Bournemouth probate screenshot (`Screenshot 2026-05-09 at 18-09-43`) remains uningested pending establishment of the link.
-
----
-
-## [2026-05-09] ingest | Elizabeth Sarah Birchmore probate 1928 — National Probate Calendar screenshot
-
-Ingested 1 clipping: `Screenshot 2026-05-09 at 18-01-57 Search probate records for documents and wills (England and Wales).png`.
-
-Probate record for **Elizabeth Sarah Birchmore** (née Morse, 1852–1928), wife of [[george-birchmore-plummer-jr-1850|George Birchmore Plummer Jr]].
-
-**Key facts confirmed/added:**
-- Address of death: **Belmont, Withycombe Raleigh, Devonshire** — Exmouth area, East Devon. Corrects previous vague "Devon" and updates the stale "Kingsdown" reference in the person page.
-- Died 16 July 1928 (already known); probate London 5 October 1928.
-- **Status at death: widow** — confirms George Jr (d. 1920) predeceased her.
-- **Administrator:** [[george-william-birchmore-1880|George William Birchmore]] (her son), described as "of no occupation" at age 47.
-- **Estate: £2177 18s. 10d.** — substantial; origin of wealth unexplained.
-
-New source summary: [[elizabeth-sarah-birchmore-probate-1928]].
-Updated: [[elizabeth-sarah-morse-1852]], [[george-william-birchmore-1880]], [[birchmore-morse-1874]].
-
----
-
-## [2026-05-09] update | Luton GRO district correction — deaths corrected across village people
-
-Luton was the GRO registration district for the entire surrounding area including Whipsnade, Kensworth, Studham, and Totternhoe. "Died in Luton" in records does not mean a person moved to the town — it means the death was registered in the Luton district. All wiki entries implying that Whipsnade-area people relocated to Luton to die have been corrected.
-
-Changes applied across person pages, family pages, and the Whipsnade place page:
-- `death-place` metadata: "Luton, Bedfordshire" → "Luton registration district" for all village people
-- Prose: "died in Luton" → "death registered in the Luton district"
-- Removed the incorrect claim that Mary Saunders Cook "moved to Luton" after 1911
-
-Affected person pages: [[anne-matthews-1815]], [[charlotte-matthews-1823]], [[charles-cook-1843]], [[david-cook-1816]], [[lois-brandsom-1843]], [[mary-saunders-cook-1848]], [[ruth-cooke-1820]], [[abraham-batchelor-1825]], [[hannah-maria-heels-1814]], [[samuel-heels-1797]].
-
-Affected family pages: [[cook-bransom-1871]], [[cook-brandsom-1868]], [[cook-frost-1842]], [[cook-matthews-whipsnade]], [[birchmore-plummer-cooke-1867]], [[birchmore-plummer-matthews-1835]], [[batchelor-heels-whipsnade]].
-
-Not changed: Bunker/Geary/Thody people (Frederick Bunker, Eliza Geary, Beulah Bunker, Martha Sarah Bunker, Comfort Ann Bunker) who are confirmed by census addresses as genuinely resident in Luton town.
-
----
-
-## [2026-05-09] compressed | Bransom / Cook / Chequers thread
-
-Research resolving the Cook family's Whipsnade networks, the complete Chequers Inn licensee sequence, and the Bransom relationship that explains the 1894 Thody-Cook wedding witnesses.
+Three-session research completing the biographical records of all children of Daniel Bass (1829) and Mary Ward Tall (1827).
 
 Key findings:
-- **Charles Cook (1843) parentage corrected:** Previously attributed to George Cook (1815); confirmed as the son of David Cook (1816) and his first wife Elizabeth Frost (d. 1843). Corrected across [[charles-cook-1843]], [[cook-brandsom-1868]], [[cook-birchmore-1810]], [[daniel-cook-1790]], [[chequers-inn-whipsnade-bedfordshire-archives]]. An 1851 census placing Charles in George Cook's household remains unexplained — probably in his uncle's care after his mother's death.
-- **David Cook's two marriages:** (1) Elizabeth Frost (1842 Kensworth, d. 1843) — children Mary Ann, Charles, James; (2) Charlotte Matthews (1856 Whipsnade) — 6 children. New family page [[cook-frost-1842]]. David's siblings — George (1815), James (1813), Jesse (1821), Lois (1827), Sarah (1811) — all have person pages; Lois was a School Mistress in 1851.
-- **Cook-Brandsom connection resolved:** Lois Brandsom and Edwin Bransom confirmed as siblings — both children of Jeremiah Bransom (1808) and Sarah Watts (1816) of Whipsnade. Two Bransom/Cook marriages: Lois married Charles Cook (1843); Edwin married Mary Saunders Cook (Ruth's daughter). New family page [[bransom-watts-1833]].
-- **1894 Thody-Cook wedding witnesses:** Walter Cook (Charles and Lois's son) and Florence Bransom (Edwin and Mary's daughter) were first cousins through the Bransom family — both members of Ruth Cooke's extended family.
-- **Chequers Inn licensee sequence completed:** After Ruth's death (22 May 1904): Charles Cook (1843) held the licence 1904–1908; Lois Cook (née Brandsom) took over on his death. Charles's probate was granted in 8 days (5→13 January 1908) — urgent pub licence transfer. He died at the Chequers Inn and left a will; estate £134 5s. 5d.
-- **Ruth Cooke's administration record:** Died as "Ruth Birchmore" (George's legal surname). Intestate; Administration granted 7 October 1904. Administrator was Susan Sear (widow) — not her daughters Mary Bransom or Lucy Thody. Susan Sear's identity unknown; open question. Estate £45.
+- **Sarah Bass (1859–1951):** Eldest child; married James Lay (stone mason, Lavendon-born) 1887 Ampthill; settled Lavendon, Buckinghamshire; dressmaker then shopkeeper; died Luton 1951 aged ~92. Four Lavendon children: Herman Vivian (1888), Beatrice Eva (1890), Gertrude Florence (1892), Oliver Cecil (1894).
+- **Mary Ward Tall's origins confirmed:** 1851 census shows her as head of own household at 23, staymaker, with sister Rebecca (6) — independent four years before marriage. Her mother Sarah Ward (née Ward) still alive in 1891; Mary moved to Lavendon before her death April 1907.
+- **Florence Bass (1862):** Left Maulden by 1881 for domestic service in Islington; returned to Bedfordshire and married Sidney David Shotbolt (shoemaker) 1889 Ampthill; three children at Ampthill. FamilySearch marriage source erroneously attributed to "Mary Ellen Botsford" — a tree error.
+- **Edward Ernest Bass (1864–1936):** Occupation arc: butcher (1881) → carpenter (1891 Ampthill) → carpenter & joiner (1901 Kettering) → carpenter on small holder (1911 Flitwick). Married Mary Ann Dennis ~1885; second wife Lucy Washington Bass (post-1911). Died Flitwick; estate £156. The Kettering connection: Frederick Bunker was also in Kettering 1891 — their mothers were sisters (Mary Ward Tall and Rebecca Tall).
 
-Pages created or updated: [[cook-frost-1842]], [[bransom-watts-1833]], [[cook-brandsom-1868]], [[cook-bransom-1871]], [[jeremiah-bransom-1808]], [[sarah-watts-1816]], [[lois-brandsom-1843]], [[charles-cook-1843]], [[walter-cook-1869]], [[florence-bransom-1873]], [[clara-lucy-bransom-1877]], [[albert-bransom-1871]], [[ebenezer-bransom-1875]], [[margaret-anne-bransom-1880]], [[walter-william-bransom-1881]], [[minnie-rose-bransom-1884]], [[david-cook-1816]], [[lois-cook-1827]], [[jesse-cook-1821]], [[george-cook-1815]], [[james-cook-1813]], [[sarah-cook-1811]], [[ruth-cooke-1820]], [[thody-cook-1894]], [[chequers-inn-whipsnade-bedfordshire-archives]], [[charles-cook-1843-probate-1908]], [[ruth-cooke-probate-1904]]
+Pages created: [[sarah-bass-1859]], [[lay-bass-1887]], [[lavendon]], [[florence-bass-1862]], [[edward-ernest-bass-1864]], [[sarah-bass-sources-familysearch]], [[sarah-bass-print-view-familysearch]], [[mary-ward-tall-sources-familysearch]], [[florence-bass-sources-familysearch]], [[florence-bass-print-view-familysearch]], [[edward-ernest-bass-sources-familysearch]], [[edward-ernest-bass-print-view-familysearch]], [[edward-ernest-bass-probate-1936]]
+Pages updated: [[bass-tall-1855]], [[mary-ward-tall-1827]], [[daniel-bass-1829]], [[maulden]], [[frederick-bunker-1869]]
+
+## [2026-05-10 to 2026-05-12] compressed | Norman-Thulborn family and Crown Beerhouse
+
+Research establishing the full biographical records of Tom Norman (1856–1925) and Emily Thulborn (1856–1922), the Crown Beerhouse connection at Eaton Socon, and Emily's parentage.
+
+Key findings:
+- **Norman-Tabram siblings fully documented:** Tom Norman married Emily Thulborn 30 Oct 1877 Swavesey; 9 children; Farm Bailiff 1891 Alconbury Weston (supervisory role); reverted to labourer by 1901; Beerhouse Keeper at Eaton Socon by 1911. Mary Ann Norman married George Causer (Engine Driver, Staffordshire) 1883 Huntingdonshire; 6 children; widowed 1898. Robert Henry Norman married Ada Squires (Fendrayton) 1899 St Ives; 2 daughters. Alfred Eusden Norman died 1896, registered Cambridge GRO.
+- **Crown Beerhouse confirmed:** Tom Norman was Beerhouse Keeper at Eaton Socon 1911. Beerhouse context: required only a £2/year government licence, not a magistrate-issued full pub licence — practical alongside farm labour. Kelly's 1924 directory independently confirms "Norman Albert Newman, Crown P.H." — father-to-son succession. The Crown Beerhouse survives as the Crown Inn, 1 Great North Road, Eaton Socon.
+- **Emily Thulborn's parentage established:** Emily (born 21 August 1856, Oakington) was the daughter of Newman Thulborn (abt 1821–1888, agricultural labourer Oakington) and Hannah How (abt 1824, Kingston, Cambridgeshire). Family of eight children; Emily in domestic service at Willingham by 1871.
+- **Thomas Norman (1793) in Tom's household (1901):** Thomas followed Tom from Swavesey after Ann's death 1897.
+- **1921 census:** Tom, Emily (one year before her death), and son Thomas all at Eaton Socon, in the locality of the Crown Inn.
+
+Pages created: [[norman-thulborn-1877]], [[norman-causer-1883]], [[norman-squires-1899]], [[emily-thulborn-1856]], [[george-causer-1859]], [[ada-squires-1864]], [[thulborn-how-oakington]], [[newman-thulborn-1821]], [[hannah-how-1824]], [[beerhouse-act-wikipedia]], [[crown-beerhouse-eaton-socon-stneots-ccan]], [[kelly-1924-eaton-socon-norman]], [[emily-thulborn-sources-familysearch]], [[emily-thulborn-print-view-familysearch]], [[newman-thulborn-print-view-familysearch]], [[newman-thulborn-sources-familysearch]], [[alfred-eusden-norman-sources-familysearch]], [[mary-ann-norman-sources-familysearch]], [[mary-ann-norman-print-view-ft1-familysearch]], [[robert-henry-norman-sources-familysearch]], [[robert-henry-norman-print-view-ft1-familysearch]], [[tom-norman-sources-familysearch]], [[tom-norman-print-view-ft1-familysearch]]
+Pages updated: [[tom-norman-1856]], [[mary-ann-norman-1861]], [[alfred-eusden-norman-1865]], [[robert-henry-norman-1868]], [[norman-tabram-1850]], [[albert-newman-norman-1888]]
+
+## [2026-05-10] compressed | Analytical outputs — Ivy Norman 1970; WWI service survey
+
+Two analytical queries saved to outputs.
+
+Key findings:
+- **Ivy Norman family alive 1970:** Two siblings alive at emigration (Alice, Norah); one sibling's spouse (Henry Jeans); five nephews/nieces likely alive. No Birchmore maternal cousins alive. Two Hartlepool Norman cousins technically alive (Kate Alberta, Charles Norman) but no documented contact with the London family. Report: `outputs/ivy-norman-family-alive-1970.md`.
+- **WWI service survey:** One confirmed killed in action (Clarence Thody); one possible war death (Herbert Bunker, convalescent hospital); three confirmed veterans (Harry Thody, Ernest Bunker, Roland Bunker). Twelve-plus men of military age in Norman-Hartlepool branches with no service records — the largest research gap. Report: `outputs/ww1-service-2026-05-10.md`.
+
+## [2026-05-05 to 2026-05-12] compressed | Wiki housekeeping — lints, corrections, structural improvements
+
+Multiple housekeeping sessions: two lints, source corrections, probate ingests, and structural wiki improvements.
+
+Key findings:
+- **Two lints:** Lint 2026-05-05 (137 sources · 116 people · 43 families · 14 places): 3 fixes (malformed wikilink, broken link, missing index entries); 8 issues deferred. Lint 2026-05-11 (211 sources · 171 people · 56 families · 15 places): 2 errors fixed, 1 orphan fixed (Joseph Batchelor 1755 — added link in [[bachelor-woodcroft-1816]]), no structural gaps.
+- **Rosa Birchmore / Lomax retraction:** The FamilySearch tree for Rosa Birchmore post-1898 could not be verified. All unverified claims stripped: death date/place removed, Alfred Robert Lomax removed as child. A Bournemouth probate (Rosa Lomax, died 25 Sep 1934, estate £1375) cannot be linked to Rosa Birchmore due to husband-name conflict (Alfred vs George Henry).
+- **Elizabeth Sarah Birchmore probate 1928:** Died 16 July 1928 at Belmont, Withycombe Raleigh, Devonshire; estate £2177 18s. 10d.; administrator son George William Birchmore (described as "of no occupation").
+- **Luton GRO district correction:** Luton was the registration district for a wide area including Whipsnade, Kensworth, Studham, and Totternhoe. All wiki entries implying village people "moved to Luton" to die corrected across 10 person pages and 7 family pages.
+- **Five probate screenshots ingested:** Harry Thody (died 1986, estate £449, 15 Bedford Avenue Silsoe); Beulah Bunker (died 1948, estate £1920, Oakley Road Luton); Thomas George Norman (died 5 March 1949 intestate, The Hospital Hackney, estate £8889 — largest in the wiki; administrators wife Mary Elizabeth and daughter Gwendoline); Thomas Barnsley (died 11 Aug 1890, estate £50, admin to son Joseph in Leeds); Thomas Batchelar (died 22 Dec 1872, Shepherd — corrects "agricultural labourer", sole executor Henry Perkins of Whipsnade).
+- **Wiki structural improvements:** Resume workflow changed to mtime comparison against sentinel file; index clustered by lineage; Compress workflow added to CLAUDE.md. Wiki critique saved to `outputs/wiki-critique-2026-05-11.md`. Research state document created: [[research-state]].
+
+Pages created: [[elizabeth-sarah-birchmore-probate-1928]], [[gwendoline-may-norman-1915]], [[harry-thody-probate-1986]], [[beulah-bunker-probate-1948]], [[thomas-george-norman-administration-1949]], [[thomas-barnsley-probate-1890]], [[thomas-batchelar-probate-1873]], [[rosa-birchmore-print-view-familysearch]], [[research-state]]
+Pages updated: [[rosa-birchmore-1874]], [[birchmore-lomax-1898]], [[birchmore-morse-1874]], [[elizabeth-sarah-morse-1852]], [[george-william-birchmore-1880]], [[harry-thody-1894]], [[beulah-bunker-1896]], [[thomas-george-norman-1886]], [[thomas-barnsley-1817]], [[thomas-batchelar-1803]], [[norman-angus-1911]]
+
+---
 
 ## [2026-05-09 to 2026-05-10] compressed | William Allen Thody
 
@@ -659,6 +408,20 @@ Key findings:
 - **Clarence James Thody (1884–1918):** Captain, Manchester Regiment 8th Battalion; killed in action 30 August 1918 near Riencourt-lès-Bapaume, Pas-de-Calais — ten weeks before the Armistice, aged 33; previously Master of Ardwick Green Industrial School, Manchester; buried Manchester Cemetery, Riencourt-lès-Bapaume, Plot A.11. The CWGC entry names his father "W. A. Thody, of Dunstable, Beds."
 
 Pages created or updated: [[william-allen-thody-sources-familysearch]], [[william-allen-thody-print-view-familysearch]], [[thody-saunders-1834]], [[thody-parent-1873]], [[allen-thody-1813]], [[elizabeth-saunders-1811]], [[mathilde-parent-1853]], [[george-allen-thody-1874]], [[louis-albert-thody-1876]], [[clarence-james-thody-1884]], [[lena-florence-thody-1889]], [[matilda-nash-1858]], [[mary-ann-nash-1880]], [[ann-thody-1835]], [[samuel-thody-1838]], [[george-thody-1844]], [[elizabeth-thody-1847]], [[william-allen-thody-1850]], [[thody-cook-1894]], [[clarence-thody-find-a-grave]], [[clarence-thody-cwgc]]
+
+## [2026-05-09] compressed | Bransom / Cook / Chequers thread
+
+Research resolving the Cook family's Whipsnade networks, the complete Chequers Inn licensee sequence, and the Bransom relationship that explains the 1894 Thody-Cook wedding witnesses.
+
+Key findings:
+- **Charles Cook (1843) parentage corrected:** Previously attributed to George Cook (1815); confirmed as the son of David Cook (1816) and his first wife Elizabeth Frost (d. 1843). Corrected across [[charles-cook-1843]], [[cook-brandsom-1868]], [[cook-birchmore-1810]], [[daniel-cook-1790]], [[chequers-inn-whipsnade-bedfordshire-archives]]. An 1851 census placing Charles in George Cook's household remains unexplained — probably in his uncle's care after his mother's death.
+- **David Cook's two marriages:** (1) Elizabeth Frost (1842 Kensworth, d. 1843) — children Mary Ann, Charles, James; (2) Charlotte Matthews (1856 Whipsnade) — 6 children. New family page [[cook-frost-1842]]. David's siblings — George (1815), James (1813), Jesse (1821), Lois (1827), Sarah (1811) — all have person pages; Lois was a School Mistress in 1851.
+- **Cook-Brandsom connection resolved:** Lois Brandsom and Edwin Bransom confirmed as siblings — both children of Jeremiah Bransom (1808) and Sarah Watts (1816) of Whipsnade. Two Bransom/Cook marriages: Lois married Charles Cook (1843); Edwin married Mary Saunders Cook (Ruth's daughter). New family page [[bransom-watts-1833]].
+- **1894 Thody-Cook wedding witnesses:** Walter Cook (Charles and Lois's son) and Florence Bransom (Edwin and Mary's daughter) were first cousins through the Bransom family — both members of Ruth Cooke's extended family.
+- **Chequers Inn licensee sequence completed:** After Ruth's death (22 May 1904): Charles Cook (1843) held the licence 1904–1908; Lois Cook (née Brandsom) took over on his death. Charles's probate was granted in 8 days (5→13 January 1908) — urgent pub licence transfer. He died at the Chequers Inn and left a will; estate £134 5s. 5d.
+- **Ruth Cooke's administration record:** Died as "Ruth Birchmore" (George's legal surname). Intestate; Administration granted 7 October 1904. Administrator was Susan Sear (widow) — not her daughters Mary Bransom or Lucy Thody. Susan Sear's identity unknown; open question. Estate £45.
+
+Pages created or updated: [[cook-frost-1842]], [[bransom-watts-1833]], [[cook-brandsom-1868]], [[cook-bransom-1871]], [[jeremiah-bransom-1808]], [[sarah-watts-1816]], [[lois-brandsom-1843]], [[charles-cook-1843]], [[walter-cook-1869]], [[florence-bransom-1873]], [[clara-lucy-bransom-1877]], [[albert-bransom-1871]], [[ebenezer-bransom-1875]], [[margaret-anne-bransom-1880]], [[walter-william-bransom-1881]], [[minnie-rose-bransom-1884]], [[david-cook-1816]], [[lois-cook-1827]], [[jesse-cook-1821]], [[george-cook-1815]], [[james-cook-1813]], [[sarah-cook-1811]], [[ruth-cooke-1820]], [[thody-cook-1894]], [[chequers-inn-whipsnade-bedfordshire-archives]], [[charles-cook-1843-probate-1908]], [[ruth-cooke-probate-1904]]
 
 ## [2026-05-09] compressed | Thody-Bunker 1920
 
@@ -710,7 +473,6 @@ Key findings:
 
 Pages created or updated: [[richard-mason-1850]], [[catherine-james-1852]], [[richard-william-mason-1875]], [[john-james-mason-1878]], [[isaac-mason-1882]], [[mason-james-1874]], [[richard-mason-sources-familysearch]], [[catherine-james-sources-familysearch]], [[richard-william-mason-print-view-familysearch]], [[richard-william-mason-sources-familysearch]], [[john-james-mason-sources-familysearch]], [[richard-william-mason-probate-1948]], [[john-james-mason-probate-1962]], [[isaac-mason-probate-1955]]
 
-
 ---
 
 ## [2026-05-06 to 2026-05-07] compressed | Eusden/Tabraham ancestry
@@ -747,20 +509,6 @@ Key findings:
 - **Welsh dairy trade context:** Richard Mason's Hosier Lane dairy placed within the documented Ceredigion dairy operator pattern in Victorian London. Jones Dairy (Fleet Street, 1902), Oxford Express Dairies (Soho, 1934–1985), J Evans Dairy Farmer (Marylebone) cited as comparanda.
 
 Pages created or updated: [[george-norman-1851]], [[george-norman-1851-sources-familysearch]], [[george-norman-1851-1903-print-view-familysearch]], [[george-norman-1851-print-view-familysearch]], [[margaret-j-garry-1854]], [[margaret-j-garry-sources-familysearch]], [[richard-norman-1853]], [[ann-elizabeth-randall-1854]], [[norman-garry-1875]], [[norman-randall-1875]], [[norman-tabram-1850]], [[swavesey]], [[mason-james-1874]], [[hosier-lane-city-of-london]]
-
----
-
-## [2026-05-05] lint | Full wiki integrity check
-
-137 sources · 116 people · 43 families · 14 places. Fixed 3 issues; 8 issues documented but not yet resolved. Report saved to `outputs/lint-2026-05-05.md`.
-
-**Fixed:**
-1. `bunker-reade-1728.md` — malformed wikilink `[[thomas-bunker-1738\|Thomas Bunker]]` (backslash before pipe); corrected.
-2. `luton.md` — broken link `[[eliza-geary-bunker-1892]]` → `[[eliza-geary-1859]]`; corrected.
-3. `index.md` — added 2 missing source entries: `george-norman-1851-print-view-familysearch` and `richard-norman-1853-print-view-familysearch`.
-
-**Remaining (deferred):** Missing person pages for Ann Elizabeth Randall and 3 Lane daughters; missing family pages for `batchelor-bingham-flamstead` and (stub) `heels-anne-whipsnade`; `george-henry-lomax` person page; `swavesey` place page; 4 thin family narratives.
-
 
 ---
 
@@ -818,291 +566,40 @@ Key findings:
 
 Pages created or updated: [[thomas-bunker-1704]], [[mary-reade-1702]], [[thomas-bunker-1738]], [[martha-sinfield]], [[bunker-reade-1728]], [[bunker-sinfield-1761]], [[james-thomas-bunker-1764]], [[lydia-brown-1769]], [[james-bunker-1807]], [[elizabeth-watts-1810]], [[elizabeth-watts-sources-page-familysearch]], [[bunker-watts-1830]], [[bunker-brown-1788]], [[caleb-bunker-1845]], [[margaret-barnsley-1850]], [[bunker-tall-1868]], [[tall-ward-maulden]], [[bunker-barnsley-1871]], [[london-gazette-1880-10-19-caleb-bunker-bankruptcy]], [[london-gazette-1880-11-05-caleb-bunker-bankruptcy]], [[caleb-bunker-1861-census]], [[derby-telegraph-1894-01-25-bunker-theft]], [[annie-elizabeth-bunker-1872]], [[herbert-thomas-barnsley-bunker-1875]], [[maggie-eliza-bunker-1876]], [[agnes-maud-bunker-1878]], [[may-gertrude-bunker-1880]], [[ernest-caleb-bunker-1882]], [[bunker-melrose-1913]], [[bunker-smith-1901]], [[lydia-bunker-1833]], [[samuel-plackett-lane-1841]], [[bunker-lane-1863]], [[george-bunker-1836]], [[ann-pedder-1838]], [[bunker-pedder-1858]], [[george-bunker-1836-sources-familysearch]], [[new-tupton-derbyshire]], [[phoebe-alice-bunker-1843]], [[samuel-fensome-1842]], [[bunker-fensome-1863]], [[phoebe-alice-bunker-family-tree-1-familysearch]], [[samuel-fensome-print-view-familysearch]], [[millbrook-wesleyan-methodist-chapel]], [[rebecca-tall-1844]], [[edward-tall-1806]], [[sarah-ward-1806]], [[william-tall-1830]], [[frederick-charles-tall-1846]], [[mary-ward-tall-1827]], [[bass-tall-1855]], [[daniel-bass-1829]], [[eliza-geary-1859]], [[john-geary-1825]], [[lucy-morris-1826]], [[lydia-rose-geary-1868]], [[geary-morris-1848]], [[bunker-geary-1892]], [[millbrook]], [[maulden]], [[bedford]], [[luton]], [[roland-herbert-bunker-1898]]
 
-## [2026-05-09] ingest | Five probate/administration index screenshots
-
-Ingested five probate index screenshots from the England and Wales National Index of Wills and Administrations:
-
-**Harry Thody (died 29 Sep 1986):** Probate London 25 February 1987. Address at death: 15 Bedford Avenue, Silsoe, Bedfordshire. Estate £449. He left a will. Created source summary harry-thody-probate-1986. Updated harry-thody-1894.
-
-**Beulah Bunker / Thody (died 29 Jun 1948):** Probate London 26 August 1948. Address: 9 Oakley Road Luton (confirms "Carnoy"). Estate £1,920 0s. 4d. Executors: John Quint Clayton (solicitor) and Joseph Taylor (chartered accountant) — not Harry directly. She left a will. Created source summary beulah-bunker-probate-1948. Updated beulah-bunker-1896.
-
-**Thomas George Norman (died 5 March 1949):** Administration London 10 June 1949 — intestate (no will). Corrects existing source summary which misread FamilySearch label as "Probate." Death was at The Hospital, Hackney. Address at death 106 Hertford Road — returns to 1921 address, suggesting he moved back after Englefield Road was bombed. Administrators: wife Mary Elizabeth Norman and daughter Gwendoline May Norman (spinster, age ~33). Estate £8,889 11s. 9d. — the largest estate in the wiki. Created source summary thomas-george-norman-administration-1949. Updated thomas-george-norman-1886 with precise death date (5 March 1949). Corrected thomas-george-norman-print-view-familysearch. Created new person page gwendoline-may-norman-1915 and updated norman-angus-1911 family page with wikilink.
-
-**Thomas Barnsley (died 11 Aug 1890):** Administration with the Will, Derby 3 October 1890, to son Joseph Barnsley of Leeds (oil and tallow manufacturer) — new person not previously in wiki. Estate £50 1s. 7d. Created source summary thomas-barnsley-probate-1890. Updated thomas-barnsley-1817.
-
-**Thomas Batchelar (died 22 Dec 1872):** Probate 5 March 1873, Principal Registry. Key finding: occupation given as Shepherd — corrects "agricultural labourer" in censuses. Executor: Henry Perkins of Whipsnade, Farmer (sole executor, not a family member). Effects under £200. Created source summary thomas-batchelar-probate-1873. Updated thomas-batchelar-1803.
-
-Updated index with all new sources and Gwendoline's person page entry.
-
-## [2026-05-11] lint | Full wiki integrity check
-
-211 sources · 171 people · 56 families · 15 places.
-
-**Errors fixed:**
-- Duplicate index entry for [[anne-matthews-1815]] (lines 79 and 92 were identical) — removed the second occurrence.
-- `crown-beerhouse-eaton-socon-stneots-ccan` source summary had `raw-file: ""` — updated to point at `raw/clippings/Crown Beerhouse, Great North Road, Eaton Socon.md` (the clipping was saved after the source was created).
-
-**Orphan fixed:**
-- [[joseph-batchelor-1755]] had no inbound wikilinks from any family page — added link in [[bachelor-woodcroft-1816]] Parents section.
-
-**No structural gaps:** all source `people-mentioned` and `families-updated` fields resolve to existing pages; all index entries match actual files.
-
-**Research gaps noted** (see outputs/lint-2026-05-11.md): 8 thin family pages; 5 open research leads including Rosa Birchmore post-1898, Tom Norman at Crown Beerhouse confirmation, and Susan Sear identity.
-
 ---
 
-## [2026-05-12] compress | Matthews · LDS
+## [2026-06-13] compress | Swavesey–Hartlepool diaspora
+Compressed 2 entries (2026-06-06) into one block.
 
-Compressed 9 entries (all dated 2026-05-08) into one block. Entries covered: 5 ingests (Saints by Sea; FamilySearch sources for Able/Daniel Willis/Thomas Sr; FamilySearch sources for John/William/Thomas younger; Find a Grave/Geni Utah records; Mary Wilson sources page) and 4 updates (Anna Matthews identification; Sarah Garner trail death; David Matthews infant death; John Matthews burial 1849).
+## [2026-06-13] compress | Whipsnade local survey — Hain, Dell Farm, churchyards, Cook-Turvey
+Compressed 12 entries (2026-06-05 to 2026-06-06) into one block.
 
-## [2026-05-12] compress | Bunker Ancestors
+## [2026-06-13] compress | Find a Grave surveys
+Compressed 7 entries (2026-06-06) into one block.
 
-Compressed 24 entries (2026-05-01 to 2026-05-07) into one block. Entries covered: 6 sessions of Bunker ancestor research spanning James Bunker 1807 / Elizabeth Watts origins; 1700s deep ancestry (Thomas 1704 chain); Caleb's siblings dispersal (George, Phoebe, Lydia); Barnsley second family (6 children); 1880 bankruptcy; 1894 Derby Telegraph; Rebecca Tall + Tall-Ward family; Eliza Geary + Maulden connection; Millbrook/Maulden/Bedford/New Tupton place pages; inter-branch oral history.
+## [2026-06-13] compress | Bunker and Barnsley follow-up
+Compressed 2 entries (2026-06-01) into one block.
 
-## [2026-05-12] compress | Eusden/Tabraham ancestry
+## [2026-06-13] compress | Susan Maynard and structural corrections
+Compressed 6 entries (2026-05-24 to 2026-05-26) into one block.
 
-Compressed 8 entries (2026-05-06 to 2026-05-07) into one block. Entries covered: 3 ingests (Huntingdonshire Marriages index; Thomas Euseden 1764 print view + 1841 census; Thomas Eusden son 1799 print view + sources) and 5 updates (probable fifth child identified; William and Henry birth/death dates; Mary Euseden 1771 identified as Thomas's wife; TB hypothesis; Ague/malaria as contributing factor).
+## [2026-06-13] compress | Ivy Norman context enrichment
+Compressed 4 entries (2026-05-18 to 2026-05-23) into one block.
 
-## [2026-05-12] compress | Bransom / Cook / Chequers thread
+## [2026-06-13] compress | Matthews and Batchelar ancestry
+Compressed 9 entries (2026-05-20 to 2026-06-06) into one block.
 
-Compressed 7 entries (all 2026-05-09) into one block. Entries covered: 5 ingests (Daniel Cook siblings; Bransom/Cook family FamilySearch sources; Charles Cook 1843 probate FindMyPast; Charles Cook probate screenshot full transcription; Ruth Cooke administration record 1904) and 2 updates (Chequers Inn licensee sequence completed; 1894 Thody-Cook wedding witnesses identified).
+## [2026-06-13] compress | Bass-Tall family
+Compressed 3 entries (2026-05-12) into one block.
 
+## [2026-06-13] compress | Norman-Thulborn family and Crown Beerhouse
+Compressed 7 entries (2026-05-10 to 2026-05-12) into one block.
 
-## [2026-05-12] compress | William Allen Thody
+## [2026-06-13] compress | Analytical outputs
+Compressed 2 entries (2026-05-10) into one block.
 
-Compressed 2 entries (2026-05-09 to 2026-05-10) into one block. Entries covered: 1 ingest (William Allen Thody FamilySearch print view and sources page, 2 clippings, 22 sources) and 1 ingest (Clarence James Thody Find a Grave and CWGC records, 2 clippings).
-
-## [2026-05-12] compress | Thody-Bunker 1920
-
-Compressed 2 entries (both 2026-05-09) into one block. Entries covered: 1 ingest (Harry Thody & Beulah Bunker FamilySearch sources pages and print views, 4 clippings) and 1 update (wedding witnesses identified — Norah Winifred Norman).
-
-## [2026-05-12] compress | Mason family
-
-Compressed 5 entries (2026-05-07 to 2026-05-10) into one block. Entries covered: 2 ingests (Richard Mason & Catherine James FamilySearch sources; Mason brothers — initial ingest of Richard William, John, and Isaac FamilySearch + probate records); 1 ingest (Richard William Mason National Probate Calendar 1948); 1 ingest (Richard William Mason corrected clippings); 1 update (Richard William Mason — lifelong bachelor confirmed; lighterman misattachments resolved).
-
-
-
-## [2026-05-24] ingest | Susan Maynard — Thomas Batchelar's second wife
-
-Ingested two FamilySearch clippings for Susan Maynard (1802–Deceased, M9D9-RMM): print view and sources list (14 sources). Clippings were pulled to confirm the identity of Thomas Batchelar's second wife, following the discovery in this session that George Maynard (named in the 1868 marriage record) was Susan's father, not a witness.
-
-**Key findings:**
-
-- **Maiden name confirmed:** Susan Maynard, born early March 1802, Luton, Bedfordshire. Father George Maynard, mother Sarah Rumball (married Luton, 14 February 1794). Family were Nonconformists; birth recorded in Baptist register (RG4-8). Siblings: Mary (1795–1884), Keziah (1800).
-- **Three marriages, not one:** Susan had two prior marriages before Thomas Batchelar — not one as previously assumed:
-  1. **William Woodcraft** (1777–1835) — married 20 May 1827 at Whipsnade; 5 children (Ann, George, James, Amos, Charles); William died by 1835, Charles may have been posthumous
-  2. **Edmund Durrant** (1795–after 1851, born Whipsnade, Ag Lab) — married 9 June 1849 at Whipsnade; this is the source of the "Durent" surname
-  3. **Thomas Batchelar** — married 11 January 1868 at Whipsnade
-- **School Mistress:** The 1851 census records Susan as "Labs Wife And School Mistress" — she ran a small school in Whipsnade while married to Edmund Durrant.
-- **1841 at Frog Corner:** Susan's 1841 census household was at Frog Corner — the same hamlet as the Chequers Inn — at a time before Abraham Batchelor took over the licence.
-- **George Maynard confirmed twice:** Named as Susan's father in both the 1849 marriage to Edmund Durrant and the 1868 marriage to Thomas Batchelar.
-
-**Corrections made earlier in session (same thread):**
-- Corrected three pages that wrongly described George Maynard as "likely a witness" in the 1868 record and stated Susan's maiden name was unknown. (thomas-batchelar-1803, batchelar-matthews-1826, thomas-batchelar-sources-familysearch.) The susan-matthews-1800 page and log had the correct interpretation already; it had not been propagated.
-
-**New pages created:**
-- [[susan-maynard-familysearch]] — Source summary for two FamilySearch clippings
-- [[susan-maynard-1802]] — Person page: three marriages, school mistress, Frog Corner 1841
-
-**Pages updated:**
-- [[thomas-batchelar-1803]] — Second marriage now correctly described as Susan's third marriage; Woodcraft and Durrant prior husbands named; school mistress detail added
-- [[batchelar-matthews-1826]] — Same corrections; open question on Susan's fate after 1872 retained
-- [[thomas-batchelar-sources-familysearch]] — George Maynard correctly identified as Susan's father
-
-## [2026-05-26] update | birchmore-lomax-1898 removed
-Deleted families/birchmore-lomax-1898.md — residual from a previous error correction. Removed all references from rosa-birchmore-1874, george-henry-lomax, birchmore-morse-1874, and index.md.
-
-## [2026-05-26] update | Lint follow-up — Check 6 and Check 2 partial fix
-Added 13 missing source entries to wiki/index.md (all FamilySearch print-view and sources-list sources that had been ingested without index entries): thomas-batchelar-sources-familysearch, david-batchelor-familysearch, susan-matthews-familysearch, peter-matthews-familysearch, mary-walker-familysearch, rhoda-spring-bottoms-print-view-familysearch, sarah-kitchener-print-view-familysearch, william-spring-1753-print-view-familysearch, william-spring-1779-print-view-familysearch, mary-1782-print-view-familysearch, john-geary-1825-sources-familysearch, kinsbourne-green-area-guide, kinsbourne-green-harpenden-history.
-
-Created [[woodcraft-maynard-1827]] family page (partial fix for Check 2). William Woodcraft (1777–1835) married Susan Maynard (1802–?) at Whipsnade, 20 May 1827; five children christened at Whipsnade 1828–1836. Notes possible connection to Alice Woodcroft of [[bachelor-woodcroft-1816]]. Susan subsequently married Edmund Durrant (1849) and Thomas Batchelar (1868). Added to whipsnade.md families list and index.
-
-## [2026-05-26] update | Lint Check 2 — remaining broken family-page links resolved
-Created person pages for eliza-matthews-1843 and naomi-matthews-1835 (correctly-placed children links in family pages, not missing family pages). Created family page tabram-fuller-1861 for John Tabram (1861) and Adeliza Fuller (1862), Fenstanton; updated john-tabram-1861 families-as-parent. Removed wikilink syntax for william-kitchener-1721 in rhoda-spring-bottoms-1806 (deep ancestor ~1721, no records). Updated index with new pages and corrected stale entries (nine Matthews children; Sarah Garner confirmed died on trail).
-
-## [2026-05-26] update | Adeliza Fuller — birthplace and family of origin established
-1871 census and baptism record confirm: born Hemingford Abbots, Huntingdonshire; parents Thomas Fuller and Rachael Fuller; siblings Albert R. Fuller and Cuthbert T. Fuller. Updated adeliza-fuller-1862, tabram-fuller-1861, index. family-of-origin set to [[fuller-fuller-hemingford]] (family page not yet created).
-
-## [2026-05-26] update | Tabram-Fuller marriage date confirmed
-John Tabram and Adeliza Fuller married December 1879, registered St Ives registry office, Huntingdonshire. Updated tabram-fuller-1861, adeliza-fuller-1862, john-tabram-1861.
-
-## [2026-06-05] ingest | Hain family — Dell Farm, Whipsnade; Margaret Anne Bransom marriage
-
-User-sourced information: 1911 census records and family knowledge.
-
-Key findings:
-- **James Edward Hain (1832–1911)** was the farmer at Dell Farm, Whipsnade; buried St Mary Magdalene church; widowed by 1911 when he lived with his son as "private means"
-- **James Hain (1877–1932)** succeeded his father as Dell Farm farmer; married **Margaret Anne Bransom** in December 1905 — fifth child of Edwin Bransom and Mary Saunders Cook
-- **1911 census at Dell Farm:** James Hain (33, Farmer), James E Hain (widowed, private means), Margaret D Hain (sister), Rose Bransome (27, housekeeper = Minnie Rose Bransom, Margaret Anne's younger sister)
-- **Baby Dora Minnie Hain (born 1910)** appears in the Edwin/Mary Bransom 1911 census household — visiting maternal grandparents on census day; already noted in the cook-bransom-1871 page
-- Dell Farm was part of the Pedley Settled Estates, auctioned November 1915; James Hain was sitting tenant
-
-Pages created: [[james-edward-hain-1832]], [[james-hain-1877]], [[margaret-anne-hain-1907]], [[dora-minnie-hain-1910]], [[hain-bransom-1905]]
-Pages updated: [[margaret-anne-bransom-1880]], [[minnie-rose-bransom-1884]], [[cook-bransom-1871]], [[whipsnade]], index
-
-## [2026-06-05] ingest | Dell Farm, Whipsnade — Pedley Settled Estates; Henry Perkins connection
-
-Source: Bedford Borough Council community history page (Bedfordshire Archives, ref Z214/3).
-
-Key findings:
-- **James Hain purchased Dell Farm at the 1915 Pedley Settled Estates auction** — corrects earlier entry which said he was sitting tenant only; he became owner. 1926 valuation describes him as "Good Farmer."
-- **Henry Perkins** (Dell Farm tenant 1851–1871) is the same man who was sole executor of Thomas Batchelar's will (probate 1873) — a near-neighbour cross-link now noted on thomas-batchelar-1803 and batchelar-matthews-1826
-- **Tenancy sequence:** Thomas Fawcett (1842) → Henry Perkins (1851–1871) → William Gladman (1882) → James Hain & James Purton Turvey jointly (1905) → James Hain sole (by 1911) → purchase 1915
-- **Farm buildings at 1915 auction:** "superior residence" — 5 bedrooms, dining and drawing rooms; three barns, cow houses, piggery, grazing rights for 9 cows on Whipsnade Green
-- Dell Farm is now an Outdoor Education Centre (Luton, post-1967)
-
-Pages created: [[dell-farm]], [[beds-archives-dell-farm]]
-Pages updated: [[james-hain-1877]], [[hain-bransom-1905]], [[thomas-batchelar-1803]], [[batchelar-matthews-1826]], [[whipsnade]], index
-
-## [2026-06-06] ingest | St Mary Magdalene Churchyard, Whipsnade — Find a Grave (243 memorials)
-
-Source: Find a Grave full memorial list for St Mary Magdalene Churchyard, Whipsnade.
-
-Key findings:
-- **James Edward Hain**: exact dates confirmed — 8 Jul 1832 – 12 Sep 1911 (updated from approximate)
-- **James Hain (1877–1932)**: NOT buried at St Mary Magdalene; burial place unestablished
-- **"Dora Hain"** and **"Margaret Hain"** (no dates on stones) present in churchyard — almost certainly Dora Minnie Hain and Margaret D Hain (James Jr's sister)
-- **James Purton Turvey (Dell Farm co-tenant)**: DIED 13 Feb 1910 — corrects earlier note that he "had gone"; his widow Sarah (née Bird, 1873–1956) buried beside him; large Turvey family cluster in the churchyard
-- **Albert Bransom**: death confirmed as 1 Apr 1940; wife Mary Bransom (1872–1950) also buried there
-- **William Thomas Holden** (Rector, officiated Thody–Cook 1894 wedding): confirmed dates 14 Dec 1838 – 18 Dec 1919; buried at his own church
-- **Henry Perkins family graves**: wife Anne (1830–1867) and three children buried here; Perkins the farmer himself absent from the list
-- **Albert Ralph Cook birth year discrepancy**: Find a Grave records 1883; census ages (5 in 1891, 15 in 1901) support 1886; flagged for GRO check
-
-Pages created: [[find-a-grave-st-mary-magdalene-whipsnade]]
-Pages updated: [[james-edward-hain-1832]], [[james-hain-1877]], [[dora-minnie-hain-1910]], [[albert-bransom-1871]], [[albert-ralph-cook-1886]], [[hain-bransom-1905]], [[dell-farm]], [[thody-cook-1894]], [[thomas-batchelar-1803]], index
-
-## [2026-06-06] update | Albert Ralph Cook — wife identified as Hilda Kate Turvey; birth year resolved
-
-Source: Find a Grave detail page for Albert Ralph Cook (memorial 196500272).
-
-Key findings:
-- Albert Ralph Cook (1886–1932) married **Hilda Kate Turvey** (26 Feb 1894 – 1987) in 1915 — daughter of James Purton Turvey (Dell Farm co-tenant, died 1910). Directly joins the Cook and Turvey families.
-- Their daughter: **Hilda Jessie Cook Wallsam** (1915–2001) — Cook as middle name from father
-- After Albert's death 1932, Hilda Kate remarried someone named Taylor
-- **Birth year resolved:** Stone reads "aged 47" (~1884), but census (ages 5/15 in 1891/1901) and GRO (no Luton entry in 1883–1884; two March 1886 entries vol. 3b refs 430 and 480) both support 1886. Stone age is wrong. GRO scan (either ref 430 or 480, Mar 1886, Luton) would confirm by mother's maiden name Brandsom.
-
-Pages updated: [[albert-ralph-cook-1886]], [[dell-farm]]
-
-## [2026-06-06] update | James Hain death — London, Jun 1932; GRO confirmed
-
-GRO: Deaths Jun 1932, Hain James, aged 54, London C, vol. 1c, p. 2. Confirms death in Central London, away from Dell Farm. Death place updated on james-hain-1877, hain-bransom-1905, dell-farm. Circumstances of his presence in London unknown — may have retired there or been visiting.
-
-## [2026-06-06] ingest | Pedley Settled Estates — Arthur Macnamara history
-
-Sources: Wikipedia (Arthur Macnamara), Eaton Bray community forum, Bedford Borough Council community histories.
-
-Key findings:
-- Arthur Macnamara (1831–1906): Squire of Billington; married Lady Sophia Hare (daughter of Earl of Listowel) 1854; held Caddington Hall, Eaton Bray estate, Llangoed Hall (Wales); built model estate village at Billington; attempted Eaton Bray castle reconstruction (abandoned); died 11 Feb 1906 of cirrhosis, found bankrupt
-- Estate wound up over nine years; 1915 auction sold ~2,050 acres to sitting tenants across south Beds/Herts
-- Dell Farm, Whipsnade was part of the estate from 1827 (John Pedley acquisition) through 1915 (James Hain purchase)
-- Henry Perkins and all subsequent Dell Farm tenants paid rent to the Macnamara/Pedley estate
-
-Pages created: [[pedley-settled-estates]], [[macnamara-wikipedia]]
-Pages updated: [[dell-farm]], index
-
-## [2026-06-06] ingest | St Mary the Virgin Churchyard, Studham — Find a Grave (~430 memorials)
-
-Source: Find a Grave full memorial list for St Mary the Virgin Churchyard, Studham, Bedfordshire.
-
-Key findings:
-- **William Allan Thody (1851 – 1 Feb 1911)**: burial at Studham confirmed — corroborates our existing data from the funeral card and burial register.
-- **Lucy Thody (née Cook) (1857 – 25 Jan 1930)**: buried alongside William at Studham. Death date on gravestone is **25 January 1930**, conflicting with FamilySearch date of 25 February 1930. Gravestone date is the more reliable primary source; flagged for verification. Birth year 1857 (FAG) vs. 1856 (wiki) — minor rounding, as expected.
-- **Captain Clarence James Thody (1884–1918)**: appears in Studham churchyard records despite burial at Manchester Cemetery, Riencourt-lès-Bapaume, France (CWGC). This is a memorial inscription at the home parish — a family commemoration, not an interment.
-- **Noel Jesse Turvey (25 Dec 1896 – 1 Nov 1978)** and **Millie Turvey (14 Jun 1898 – 9 Sep 1973)**: a Turvey branch at Studham, separate from the main Turvey cluster at Whipsnade. Likely connected to the Whipsnade family but relationship not established. No pages created.
-- **Alfred Brown Bramson (1873 – 20 Dec 1950)**: at Studham under "Bramson" spelling. Possible connection to the Whipsnade "Bransom" family — unresolved.
-
-Pages created: [[find-a-grave-st-mary-virgin-studham]]
-Pages updated: [[lucy-cook-1856]], [[clarence-james-thody-1884]], [[thody-cook-1894]], [[studham]], index
-
-## [2026-06-06] ingest | Kensworth — Find a Grave (~200 memorials)
-
-Source: Find a Grave memorial list for Kensworth, Central Bedfordshire.
-
-Key findings:
-- **Thomas Edward Cook (1882–1955)** and **Alice Mabel Cook (1883–1940)**: a Cook couple at Kensworth. Cannot be connected to any known Cook branch without further research.
-- **Edna Evelyn Maynard (10 Sep 1906 – Jan 2001)**: possible long-range connection to the Susan Maynard (Luton) line, but not established. John Henry Maynard (1941–2009) likely her son.
-- No definitive new facts for families currently in scope.
-
-Pages created: [[find-a-grave-kensworth]]
-Pages updated: index
-
-## [2026-06-06] update | Thomas Edward Cook identified — probable Cook family connection via James Cook (1843)
-
-User provided genealogical data: Thomas Edward Cook (b. 9 Apr 1882, Harpenden, Hertfordshire; d. 3 Sep 1955 Kensworth) was the son of James Cook and Mary, with siblings Joseph (1876), James Walter (1878), Charles (1881). Married Alice Mabel Dumpleton 1906; son Leslie Thomas Cook (1907). Alice died 13 Nov 1940, both buried Kensworth.
-
-Key finding: Thomas's father James Cook is probably the James Cook (1843) in our wiki — son of David Cook (1816) and Elizabeth Frost, who married at Kensworth in 1842. The generation (1843 → children 1876–1882) and three-generation Kensworth geography (David married there 1842; Thomas buried there 1955) strongly support the identification. Awaiting census verification.
-
-If confirmed: Thomas was a grandnephew of Ruth Cooke and a first cousin once removed of Lucy Cook (Thody).
-
-Also noted: Alice Mabel Dumpleton's family is represented in St Mary the Virgin Churchyard, Studham — connecting the Thomas Cook family geographically to the Thody household's home parish.
-
-Pages created: [[james-cook-1843]] (updated), [[cook-harpenden-1876]], [[cook-dumpleton-1906]], [[thomas-cook-1882]], [[alice-dumpleton-1883]]
-Pages updated: [[cook-frost-1842]], [[find-a-grave-kensworth]], [[kensworth]], index
-
-## [2026-06-06] update | James Cook (1843) — FamilySearch confirms parentage David Cook & Elizabeth Frost
-
-FamilySearch record for Thomas Edward Cook confirms his father is James Cook (1843), son of David Cook (1816) and Elizabeth Frost. All hedged language removed from pages. Connection is now established fact.
-
-Pages updated: [[james-cook-1843]], [[thomas-cook-1882]], [[cook-harpenden-1876]], [[cook-frost-1842]], [[find-a-grave-kensworth]]
-
-## [2026-06-06] update | Alice Mabel Dumpleton — parents identified as Alfred Dumpleton & Emma Hucklesby
-
-User provided: Alice Mabel Dumpleton (1883–1940) was the daughter of Alfred Dumpleton and Emma Hucklesby. Family based in Kensworth area.
-
-Kensworth Find a Grave cluster suggests probable siblings: Lizzie Dumpleton (1876–1951) and Arthur Thomas Dumpleton (1879–1951). Later Dumpletons (Sydney George 1893, Lucy 1895, Arthur Maurice 1900, Mary Jane 1902) may be younger siblings or next-generation.
-
-Alfred and Emma do not appear in the ingested cemetery records; burial places unknown. Hucklesby is an uncommon surname — a research lead for Emma's origins.
-
-Pages created: [[dumpleton-hucklesby]], [[alfred-dumpleton]], [[emma-hucklesby]]
-Pages updated: [[alice-dumpleton-1883]], index
-
-## [2026-06-06] update | Alfred Dumpleton census trail and family composition confirmed
-
-User provided: Alfred Dumpleton born 1848 Chalgrave; in Chalgrave 1851 and 1861 censuses; in Sundon 1871. Married Emma Hucklesby 22 Feb 1870 at Sundon. In Kensworth 1881, 1891, 1901. Died 1917 (likely Kensworth). Five children: 4 boys and Alice Mabel (the only daughter).
-
-Correction: Lizzie Dumpleton (1876) at Kensworth is NOT Alice's sibling — Alfred and Emma had four boys and Alice only. Arthur Thomas Dumpleton (1879), buried Kensworth, is the probable eldest son. Lizzie is from a different Dumpleton branch.
-
-Pages updated: [[alfred-dumpleton]], [[emma-hucklesby]], [[dumpleton-hucklesby]], [[alice-dumpleton-1883]], index
-
-## [2026-06-06] ingest | FamilySearch — Matthews born Kensworth (70 records, 5 clipped pages)
-
-Source: FamilySearch search results, surname Matthews, birth place Kensworth, Hertfordshire — 70 exact-match records across christenings (1538–1975), census (1851–1911), and LDS membership records.
-
-Key findings:
-- **Charles Matthews (b. ~1832)**: open question resolved — he married Mary (Kensworth) and settled at Caddington, Bedfordshire; at least 5 children; did not emigrate; wife Mary widowed by 1901
-- **David Matthews (1853)**: the "David Matthews (8)" in Thomas the younger's 1861 household is now traceable — remained at Kensworth, married Letitia (1855, Kensworth) in 1876, had Edwin (1881) and Louisa (1877), moved to Luton by 1901; parentage unconfirmed but possibly Charles's son
-- **Edwin Matthews (1881)**: David's son, married Annie C., had 3+ children at Luton/Dunstable by 1911
-- **Rebecca Matthews (1866, Kensworth)**: at Studham 1901 with husband William Matthews and 4 children — notable connection to Thody research area; parentage unresolved
-- **Collateral James Matthews families**: "James + Sarah" (children 1793–1811) and "James + Hannah" (children 1842–1850) are distinct Kensworth Matthews families with no established connection to our researched line
-- All existing christening records confirmed: Thomas the younger (1798), Sarah (1803), Peter (1770), William (LDS 1806)
-
-Pages created: [[familysearch-kensworth-matthews-search]], [[charles-matthews-1832]], [[david-matthews-1853]]
-Pages updated: [[thomas-matthews-1797]], index
-
-## [2026-06-06] ingest | FamilySearch — Matthews residence Kensworth (10 records, addendum)
-
-Source: FamilySearch search results, surname Matthews, residence Kensworth — 10 records.
-
-Mainly confirmatory of the previous ingest. Key notes:
-- 1841 census "Thomas Matthews born ~1806" is Thomas the younger (actual 1798) — census age rounding artefact; reconciles with existing data
-- 1841 "Elizabeth Matthews born ~1801" = Elizabeth Hopkins ✓
-- David Matthews 1881 at Kensworth with Letitia ✓ (already incorporated)
-- **Sarah Matthews (born ~1771)** at Kensworth 1841 — unidentified; possible widow from collateral James Matthews family
-
-Pages updated: [[familysearch-kensworth-matthews-search]] (raw-file list and 1841 note added)
-
-## [2026-06-06] ingest | FamilySearch — Matthews residence Kensworth, Bedfordshire (24 records, 2 pages)
-
-Source: FamilySearch search, surname Matthews, residence Kensworth Bedfordshire — 24 records.
-
-Key findings:
-- **Elizabeth Hopkins birth year revised**: 1861 census records her as born 1793 at Kensworth — replaces earlier ~1801 estimate from less reliable 1841 rounded ages. She was ~47 at time of marriage to Thomas in 1840, not ~40.
-- **David Matthews at Kensworth in 1891**: 1891 census confirms family still at Kensworth (David, Letitia, Edwin age 10). Move to Luton was between 1891 and 1901.
-- **1861 census confirms Thomas (born 1798)** — exact birth year 1798 given; resolves the 1841 rounding that produced "born 1806"
-- **Collateral: James Matthews (born 1815, Harpenden)** at Kensworth in 1851 with children Sarah J (1843), Emma (1845), Ann (1841) — not our family
-- **Elizabeth Matthews probate 1929**: Elizabeth Matthews died 30 Jun 1929, probate London — probably Edwin/David line descendant, not Elizabeth Hopkins
-
-Pages updated: [[elizabeth-hopkins-abt-1801]], [[david-matthews-1853]], [[familysearch-kensworth-matthews-search]], index
+## [2026-06-13] compress | Wiki housekeeping
+Compressed 9 entries (2026-05-05 to 2026-05-12) into one block.
 
 ## [2026-06-06] compress | Harry Thody — WWI service and Thody Bros business
 Compressed 3 entries (2026-05-23) into one block.
@@ -1128,15 +625,26 @@ Compressed 7 entries (2026-05-15) into one block.
 ## [2026-06-06] compress | Roland Bunker — naval record, name change, and research survey
 Compressed 3 entries (2026-05-04 to 2026-05-07) into one block.
 
-## [2026-06-13] ingest | FamilySearch — Samuel Fensome sources (24 records)
+## [2026-05-12] compress | Matthews · LDS
+Compressed 9 entries (all dated 2026-05-08) into one block. Entries covered: 5 ingests (Saints by Sea; FamilySearch sources for Able/Daniel Willis/Thomas Sr; FamilySearch sources for John/William/Thomas younger; Find a Grave/Geni Utah records; Mary Wilson sources page) and 4 updates (Anna Matthews identification; Sarah Garner trail death; David Matthews infant death; John Matthews burial 1849).
 
-Sources: `Samuel Fensome (1842–1920) • Person • Family Tree.md` and `Samuel Fensome (1842–1920) • Person • Family Tree 1.md`, clipped 2026-06-13. Together these cover all 24 FamilySearch sources attached to Samuel Fensome (ID: M98H-FDH).
+## [2026-05-12] compress | Bunker Ancestors
+Compressed 24 entries (2026-05-01 to 2026-05-07) into one block. Entries covered: 6 sessions of Bunker ancestor research spanning James Bunker 1807 / Elizabeth Watts origins; 1700s deep ancestry (Thomas 1704 chain); Caleb's siblings dispersal (George, Phoebe, Lydia); Barnsley second family (6 children); 1880 bankruptcy; 1894 Derby Telegraph; Rebecca Tall + Tall-Ward family; Eliza Geary + Maulden connection; Millbrook/Maulden/Bedford/New Tupton place pages; inter-branch oral history.
 
-Key findings:
-- **Occupation resolved**: Samuel was an iron works labourer in Bedford in 1871, then a shoemaker from 1881 through 1911. The open question on the family page is closed. He did not work in the Pilsley collieries.
-- **Helen Fensome confirmed**: a first-born child (abt 1864, Bedford) previously missing from all family records. She appears in the 1871 census (daughter, age 7) and married John George Mason at Pilsley on 28 December 1891. The family had nine children, not eight.
-- **Precise birthplaces**: Herbert Charles was born at Pertenhall, Bedfordshire (not Bedford); Edgar at Ravensden — finer detail than previously recorded.
-- **Children's marriages**: six of the nine children married at Pilsley parish church between 1889 and 1902, confirming the family's deep rootedness in the village.
+## [2026-05-12] compress | Eusden/Tabraham ancestry
+Compressed 8 entries (2026-05-06 to 2026-05-07) into one block. Entries covered: 3 ingests (Huntingdonshire Marriages index; Thomas Euseden 1764 print view + 1841 census; Thomas Eusden son 1799 print view + sources) and 5 updates (probable fifth child identified; William and Henry birth/death dates; Mary Euseden 1771 identified as Thomas's wife; TB hypothesis; Ague/malaria as contributing factor).
 
-Pages created: [[samuel-fensome-sources-familysearch]]
-Pages updated: [[samuel-fensome-1842]], [[bunker-fensome-1863]], index
+## [2026-05-12] compress | Bransom / Cook / Chequers thread
+Compressed 7 entries (all 2026-05-09) into one block. Entries covered: 5 ingests (Daniel Cook siblings; Bransom/Cook family FamilySearch sources; Charles Cook 1843 probate FindMyPast; Charles Cook probate screenshot full transcription; Ruth Cooke administration record 1904) and 2 updates (Chequers Inn licensee sequence completed; 1894 Thody-Cook wedding witnesses identified).
+
+## [2026-05-12] compress | William Allen Thody
+Compressed 2 entries (2026-05-09 to 2026-05-10) into one block. Entries covered: 1 ingest (William Allen Thody FamilySearch print view and sources page, 2 clippings, 22 sources) and 1 ingest (Clarence James Thody Find a Grave and CWGC records, 2 clippings).
+
+## [2026-05-12] compress | Thody-Bunker 1920
+Compressed 2 entries (both 2026-05-09) into one block. Entries covered: 1 ingest (Harry Thody & Beulah Bunker FamilySearch sources pages and print views, 4 clippings) and 1 update (wedding witnesses identified — Norah Winifred Norman).
+
+## [2026-05-12] compress | Mason family
+Compressed 5 entries (2026-05-07 to 2026-05-10) into one block. Entries covered: 2 ingests (Richard Mason & Catherine James FamilySearch sources; Mason brothers — initial ingest of Richard William, John, and Isaac FamilySearch + probate records); 1 ingest (Richard William Mason National Probate Calendar 1948); 1 ingest (Richard William Mason corrected clippings); 1 update (Richard William Mason — lifelong bachelor confirmed; lighterman misattachments resolved).
+
+## [2026-05-13] compress | Norman-Hartlepool branch
+Compressed 5 entries (2026-05-06 to 2026-05-07) into one block.
