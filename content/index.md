@@ -656,6 +656,7 @@
 - [[phoebe-alice-bunker-print-view-familysearch]] — FamilySearch print view (incomplete); Phoebe Alice Bunker vitals and residences only; superseded by Family Tree 1
 - [[phoebe-alice-bunker-family-tree-1-familysearch]] — FamilySearch Family Tree 1 (complete); marriage to Samuel Fensome 1863; 8 children confirmed
 - [[samuel-fensome-print-view-familysearch]] — FamilySearch print view; born Ravensden 1841; parents Thomas Fensom & Sarah Barrick; died Mansfield 1920
+- [[samuel-fensome-sources-familysearch]] — FamilySearch 24-source view; occupation confirmed (ironworks labourer 1871 → shoemaker 1881–1911); Helen Fensome (abt 1864) confirmed as first child; children's marriages
 - [[comfort-ann-bunker-print-view-familysearch]] — FamilySearch print view; Comfort Ann Bunker; lifelong Luton; straw hat sewer; last recorded 1911
 - [[thomas-barnsley-print-view-familysearch]] — FamilySearch print view; Thomas Barnsley; Bradwell/Ashton-under-Lyne/Matlock; father of Margaret
 - [[thomas-barnsley-sources-familysearch]] — FamilySearch sources view; census occupations 1841–1881; wife Eliza Bradwall; children Elizabeth, Martha, Joseph, Margaret; 1881 "Formerly Shop Keeper"

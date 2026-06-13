@@ -1127,3 +1127,16 @@ Compressed 7 entries (2026-05-15) into one block.
 
 ## [2026-06-06] compress | Roland Bunker — naval record, name change, and research survey
 Compressed 3 entries (2026-05-04 to 2026-05-07) into one block.
+
+## [2026-06-13] ingest | FamilySearch — Samuel Fensome sources (24 records)
+
+Sources: `Samuel Fensome (1842–1920) • Person • Family Tree.md` and `Samuel Fensome (1842–1920) • Person • Family Tree 1.md`, clipped 2026-06-13. Together these cover all 24 FamilySearch sources attached to Samuel Fensome (ID: M98H-FDH).
+
+Key findings:
+- **Occupation resolved**: Samuel was an iron works labourer in Bedford in 1871, then a shoemaker from 1881 through 1911. The open question on the family page is closed. He did not work in the Pilsley collieries.
+- **Helen Fensome confirmed**: a first-born child (abt 1864, Bedford) previously missing from all family records. She appears in the 1871 census (daughter, age 7) and married John George Mason at Pilsley on 28 December 1891. The family had nine children, not eight.
+- **Precise birthplaces**: Herbert Charles was born at Pertenhall, Bedfordshire (not Bedford); Edgar at Ravensden — finer detail than previously recorded.
+- **Children's marriages**: six of the nine children married at Pilsley parish church between 1889 and 1902, confirming the family's deep rootedness in the village.
+
+Pages created: [[samuel-fensome-sources-familysearch]]
+Pages updated: [[samuel-fensome-1842]], [[bunker-fensome-1863]], index
