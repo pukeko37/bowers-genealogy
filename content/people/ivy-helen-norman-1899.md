@@ -57,18 +57,16 @@ Ron died on 31 October 1978. Ivy was widowed for sixteen years. She died in Auck
 
 ### The Photographs
 
-After Ron died, Ivy went through all their photographs and burned them. The entire photographic record of their shared life — their marriage, their sons' childhoods, fifty years together — was destroyed.
+The bulk of the photographic record of Ron and Ivy's shared life is gone. What happened to it is disputed within the family, and the matter is unresolved pending further discussion.
 
-The act is not without precedent. The destruction of a spouse's photographs and personal papers by a surviving widow is documented often enough to constitute a recognisable pattern, and archivists have a specific lament for it. It appears across cultures and periods. But knowing it is not unusual does not fully explain it.
+**Andrew's account** (family oral history): after Ron died, Ivy went through all their photographs and burned them.
 
-The explanations that fit this kind of act are not mutually exclusive. Grief management is the most common: the photographs are unbearable to look at, and burning forecloses the possibility of looking later, at a weaker moment. Privacy is another: Ivy was of a generation that treated the inner life as private, and the photographs belonged to the marriage — when the marriage ended, so did the right of others to access it. And then there is the complexity of feeling that accumulates across a long marriage: photographs flatten fifty years into apparent happiness, which can feel false when the reality was more complicated.
+**Philippa's account** (from their mother, at the time): the photographs were stored under the house. Ron, in declining health, destroyed them while Ivy was out at Bowls. Ivy discovered the loss after his death and was mortified. On this account, the photographs that survive — Alan and Norman as babies, Ron with the boys and the wheelbarrow, Kinsbourn Green — are the ones Ivy had kept separately inside the house, which is why they survived.
 
-The Ivy-specific reading is harder to frame but worth attempting. Ron spent his adult life systematically removing things: his name, his religion, his class origins. He never explained any of it - not to his sons, not, it seems, to Ivy. She spent fifty seven years married to a man who controlled how he was seen and remembered, and who kept his inner life largely to himself. She managed the Thody Bros books, held the family network together, opened the house to her sisters during the war, absorbed the name change without recorded complaint.
+These accounts cannot be reconciled from available evidence. Both are hearsay; neither is documented. Philippa's account has the stronger evidential chain — heard from their mother at the time — and fits Ron's established character better: a man who spent his adult life systematically removing traces of what he had been, and who never explained any of it. Philippa also notes that deliberate destruction was not part of Ivy's character.
 
-When Ron died, the photographs were Ivy's to decide. The burning may have been her equivalent act - the one moment she exercised control over the record of their shared life as completely as Ron had exercised it over his own identity. Not absorbed from him as a habit, but the same instinct: to decide, deliberately and finally, what would and would not be carried forward.
+Whoever was responsible, the loss is real. The surviving photographs are what Ivy chose to keep close.
 
-There is also the simpler possibility that she was protecting something - not a secret exactly, but the private texture of a long marriage between complicated people, which she felt was not for her sons or grandchildren to see or judge.
-
-*Source: family oral history, from Andrew Bowers. The interpretation is inferred.*
+*Sources: family oral history, from Andrew Bowers (Andrew's account) and Philippa (Philippa's account, attributed to their mother). Both are hearsay; the event is undocumented. **Open question:** Norman Bowers's recollection has not been canvassed — to be followed up.*
 
 An excellent cook, methodical with figures, a woman who held the family network together across fifty years of marriage and sixteen years of widowhood. Ron made the major decisions — the name change, the emigration, the shape of their life — without explanation and largely without consultation. Ivy's authority was real but operated in a different register: the household, the books, the family connections. She travelled from Victorian London to 1990s Auckland, through both world wars, and outlived him by sixteen years.
