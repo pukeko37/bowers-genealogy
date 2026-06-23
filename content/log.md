@@ -1,3 +1,11 @@
+## [2026-06-23] update | Photo-destruction story — revised to Philippa's account
+
+Andrew and Philippa discussed the family account and Andrew accepts Philippa's version: Ron destroyed the photographs in the last weeks of his life, while Ivy was out at Bowls. Ivy discovered the loss after his death and was mortified. Andrew had previously recalled it differently (Ivy burning the photos after Ron's death) but accepts Philippa's version as having the stronger evidential chain — heard from their mother at the time — and fitting Ron's character better.
+
+Ivy's person page updated: disputed section replaced with settled account; link to Ron's page for interpretive context. Ron's person page updated: new "The Photographs" section added between "WW2 and Later Life" and "Character and Values," framing the act within his established lifelong pattern of systematic removal.
+
+Pages updated: [[ivy-helen-norman-1899]], [[roland-herbert-bunker-1898]]
+
 ## [2026-06-23] ingest | Bartholomew, 'Patterns of Missionary Work and Emigration in Buckinghamshire' (BYU Studies, 2009)
 
 Ingested scholarly article by Ronald E. Bartholomew on LDS missionary work and emigration in Buckinghamshire 1849–1878. The article clarifies the institutional history linking the Whipsnade Branch → Edlesborough Branch, and resolves the "Hensworth Branch" as a transcription variant of the Kensworth Branch.

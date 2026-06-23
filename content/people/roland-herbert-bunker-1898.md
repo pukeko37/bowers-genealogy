@@ -106,6 +106,20 @@ In late 1944, **Norman Bowers joined the Royal Navy**, pursuing officer training
 
 Ron and Ivy emigrated to [[auckland|Auckland]], New Zealand in 1970 (visiting in 1968, emigrating 1970), following son Alan. Son [[norman-kenneth-bowers-1925|Norman]] stayed behind in the UK Navy. Ron died in Auckland on 31 October 1978, aged 80.
 
+### The Photographs
+
+In the last weeks of his life, Ron destroyed the bulk of the photographic record of his and Ivy's shared life. The photographs were stored under the house; he went through them while Ivy was out at Bowls. Ivy discovered the loss after his death and was mortified.
+
+The act is consistent with the pattern that ran through his entire adult life. Ron had spent forty years systematically removing traces of what he had been — the Bunker name, the Wesleyan world, the working-class origins. He never explained the name change to anyone; he never mentioned religion; he arranged his sons' lives to begin where his own could not. Photographs are the most personal form of record: they make the past present and available to whoever finds them. In declining health, facing death, without the ability to control what would happen after he was gone, he took care of it himself.
+
+He did not involve Ivy. He did not ask. He went through the archive while she was out, and that was that — another major act taken unilaterally, the last in a long sequence. That Ivy was mortified when she found out confirms she would not have consented. He knew it, and did it anyway.
+
+The surviving photographs — Alan and Norman as babies, Ron with the boys and the wheelbarrow, Kinsbourn Green — are the ones Ivy had kept separately inside the house. They survived because she had always kept them close.
+
+There is a question about what specifically he was erasing. The contents of the archive are not known. But the instinct is clear: this was not grief or confusion or a momentary impulse. It was the final act of the same account he had been giving of himself since at least 1930.
+
+*Source: Philippa Bowers, attributed to Jacqueline Bowers (their mother), who learned this at the time. Family oral history; the event is undocumented.*
+
 ### Character and Values
 
 Ron's character is remembered through his grandson Andrew, who spent time with him in his Auckland workshop in the 1970s. The workshop was the centre of his later life, a direct carry-over from his Navy Artificer training. Ron was a maker.

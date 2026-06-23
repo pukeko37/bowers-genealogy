@@ -57,16 +57,12 @@ Ron died on 31 October 1978. Ivy was widowed for sixteen years. She died in Auck
 
 ### The Photographs
 
-The bulk of the photographic record of Ron and Ivy's shared life is gone. What happened to it is disputed within the family, and the matter is unresolved pending further discussion.
+The bulk of the photographic record of Ron and Ivy's shared life is gone. Ron destroyed them in the last weeks of his life — in declining health, he went through the photographs stored under the house while Ivy was out at Bowls. Ivy discovered the loss after his death and was mortified by it.
 
-**Andrew's account** (family oral history): after Ron died, Ivy went through all their photographs and burned them.
+The account comes from Philippa, who heard it from their mother at the time. Andrew's earlier recollection had it differently — that Ivy burned the photographs after Ron's death — but on reflection he accepts Philippa's version, which has the stronger evidential chain and fits Ron's established character better. See [[roland-herbert-bunker-1898]] for the interpretive context.
 
-**Philippa's account** (from their mother, at the time): the photographs were stored under the house. Ron, in declining health, destroyed them while Ivy was out at Bowls. Ivy discovered the loss after his death and was mortified. On this account, the photographs that survive — Alan and Norman as babies, Ron with the boys and the wheelbarrow, Kinsbourn Green — are the ones Ivy had kept separately inside the house, which is why they survived.
+The photographs that survive — Alan and Norman as babies, Ron with the boys and the wheelbarrow, Kinsbourn Green — are the ones Ivy had kept separately inside the house. They are what she had always kept close; they survived because of that.
 
-These accounts cannot be reconciled from available evidence. Both are hearsay; neither is documented. Philippa's account has the stronger evidential chain — heard from their mother at the time — and fits Ron's established character better: a man who spent his adult life systematically removing traces of what he had been, and who never explained any of it. Philippa also notes that deliberate destruction was not part of Ivy's character.
-
-Whoever was responsible, the loss is real. The surviving photographs are what Ivy chose to keep close.
-
-*Sources: family oral history, from Andrew Bowers (Andrew's account) and Philippa (Philippa's account, attributed to their mother). Both are hearsay; the event is undocumented. **Open question:** Norman Bowers's recollection has not been canvassed — to be followed up.*
+*Sources: Philippa Bowers, attributed to Jacqueline Bowers (their mother), who learned this at the time. Family oral history; the event is undocumented.*
 
 An excellent cook, methodical with figures, a woman who held the family network together across fifty years of marriage and sixteen years of widowhood. Ron made the major decisions — the name change, the emigration, the shape of their life — without explanation and largely without consultation. Ivy's authority was real but operated in a different register: the household, the books, the family connections. She travelled from Victorian London to 1990s Auckland, through both world wars, and outlived him by sixteen years.
