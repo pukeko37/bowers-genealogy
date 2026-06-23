@@ -44,7 +44,7 @@ Three of the nine children settled in Bedford for significant periods:
 - **[[lydia-bunker-1833|Lydia Bunker]]** (1833–1922) — married [[samuel-plackett-lane-1841|Samuel Plackett Lane]] at **St Peter's Martin, Bedford** in 1863; widowed 1872; recorded in Bedford Western Ward St Paul in 1881; later moved to Barton Almshouse, Turvey. See [[bunker-lane-1863]].
 - **[[george-bunker-1836|George Bunker]]** (1836–1917) — married [[ann-pedder-1838|Ann Pedder]] in Bedford in 1858 and worked as a Storekeeper there through 1871 before moving the whole family to New Tupton, Derbyshire between 1872 and 1875. His brother [[caleb-bunker-1845|Caleb]] had already moved to Matlock in 1871; [[phoebe-alice-bunker-1843|Phoebe]] moved to nearby Pilsley at the same time as George. See [[bunker-pedder-1858]] and [[new-tupton-derbyshire]].
 
-The other six children dispersed elsewhere — Peterborough, London, Luton, Derbyshire — but the Bedford cluster held for at least two of them into the 1880s. Elizabeth Watts herself died in 1868, sixteen years after the move, likely also in Bedford.
+The other six children dispersed elsewhere — Peterborough, London, Luton, Derbyshire — but the Bedford cluster held for at least two of them into the 1880s. Elizabeth Watts herself died in August 1868, sixteen years after the move, confirmed in Bedford. The GRO Death Registration Index records her as "Elizabeth Bunker" (volume 3B, page 230); the Find a Grave index places her burial at **Foster Hill Road Cemetery** — the same burial ground as Frederick Charles Tall (1859), William Tall (1862), and Edward Tall (1870). The death had previously been unlocated because it was indexed under the married name "Bunker."
 
 ## Howard Chapel, Mill Street, and Foster Hill Road Cemetery
 
@@ -73,7 +73,7 @@ After that, the family lines move away. [[caleb-bunker-1845|Caleb]] was already 
 
 ## Open Questions
 
-- Where did Elizabeth Watts spend her final years and where did she die in 1868? The 1861 census places her at Dane Street, St Paul's; she presumably remained in Bedford until 1868 but no death record has been located.
+- ~~Where did Elizabeth Watts die in 1868?~~ **Resolved.** GRO volume 3B, page 230 ("Elizabeth Bunker"); buried Foster Hill Road Cemetery, August 1868. See [[elizabeth-watts-death-burial-1868]].
 - What drew the family to Bedford specifically in 1852 — were there existing connections, work opportunities, or kin in the town?
 - Did the Bedford Bunkers (John, Lydia) have any documented contact with Caleb's Derbyshire household or Frederick's Maulden upbringing?
 - What was the family's Nonconformist affiliation — Howard Chapel, Mill Street is the only evidence of it.

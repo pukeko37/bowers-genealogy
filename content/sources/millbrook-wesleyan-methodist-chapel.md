@@ -24,7 +24,7 @@ Source: mywesleyanmethodists.org.uk, compiled from Bedfordshire Historical Recor
 
 ## Relevance to the Bunker family
 
-The Bunkers left Millbrook in 1852, six years before the chapel was built. However, Wesleyan Methodist congregations regularly preceded their buildings — preaching in homes, barns, and village schools for years before a formal chapel was erected. A community of at least 106 sittings by 1873 would have been meeting informally for some years before 1858.
+The Bunkers left Millbrook in 1852, six years before the chapel was built. A 2013 account of the chapel's history states explicitly: "There had been a group of Methodists meeting in Millbrook since at least the mid 18th century." This pushes the informal Methodist community back to well before 1800 — predating the Bunkers' departure by generations. [[james-thomas-bunker-1764|James Thomas Bunker]] (born 1764) grew up in a village where Methodism was already active. The 1858 chapel formalised a community that had been meeting in homes and other spaces for over a century.
 
 More significantly, the chapel was registered by **Charles Carter of Harpur Street, Bedford**, as minister — placing it within the **Bedford Circuit**. This is the same circuit named in the christening record of **Sarah Ann Bunker** (daughter of George Bunker and Ann Pedder), who was christened at a Wesleyan Methodist chapel in the Bedford Circuit on 9 December 1860 — just ten months before the Millbrook chapel was formally registered under the same circuit.
 

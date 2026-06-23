@@ -25,6 +25,7 @@ related-families:
 sources:
   - "[[elizabeth-watts-print-view-familysearch]]"
   - "[[elizabeth-watts-sources-page-familysearch]]"
+  - "[[elizabeth-watts-death-burial-1868]]"
   - "[[james-bunker-1807-print-view-familysearch]]"
   - "[[john-watts-bunker-print-view-familysearch]]"
   - "[[lydia-bunker-1833-print-view-familysearch]]"
@@ -37,14 +38,14 @@ sources:
   - "[[comfort-ann-bunker-print-view-familysearch]]"
   - "[[caleb-bunker-1861-census]]"
 created: 2026-05-02
-updated: 2026-05-04
+updated: 2026-06-23
 ---
 
 ## Parents
 
 [[james-bunker-1807|James Bunker]] (1807–1852) and [[elizabeth-watts-1810|Elizabeth Watts]] (1810–1868) married on 22 November 1830 in Millbrook, Bedfordshire. James was the youngest son of [[james-thomas-bunker-1764|James Thomas Bunker]] and [[lydia-brown-1769|Lydia Brown]]. Elizabeth was born in Cranfield, Bedfordshire — the daughter of [[john-watts-1790|John Watts]] (1790–1814, died when Elizabeth was four) and [[sarah-capel-1791|Sarah Capel]] (1791–1851+), themselves from the Cranfield/Lidlington cluster. See [[watts-capel-1809]].
 
-James died in 1852 when his youngest child Comfort was only four. Elizabeth survived as a widow until 1868, raising the younger children. A note in George Bunker's record states the family moved from Millbrook to Bedford in 1852 on James's death — the entire household relocated.
+James died in 1852 when his youngest child Comfort was only four. Elizabeth survived as a widow until 1868, raising the younger children. A note in George Bunker's record states the family moved from Millbrook to Bedford in 1852 on James's death — the entire household relocated. Elizabeth's death in August 1868 is now confirmed by the GRO Death Registration Index (registered as "Elizabeth Bunker," volume 3B, page 230) and a Find a Grave burial record placing her at **Foster Hill Road Cemetery, Bedford** — the same burial ground used by the Tall family, into which Caleb married later that same year.
 
 ## Children
 

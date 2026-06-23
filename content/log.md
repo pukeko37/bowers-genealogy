@@ -1,3 +1,27 @@
+## [2026-06-23] ingest | Millbrook Bunkers WordPress blog — wider community and place context
+
+Eleven clippings from bunkersmillbrook.wordpress.com (secondary genealogy source, Caleb's descendant). Captured the full Millbrook Bunker community from the founding family (Thomas 1704) through to 1911.
+
+Key findings integrated:
+- **Two lineages** from Thomas (1704): the Thomas (1738) line (our direct ancestors, departed 1852) and the Edward (1742) line (collateral, persisted to 1911 through John 1803 → Joseph 1837 & Samuel 1842)
+- **Census snapshots** — 4 households 1841, 4 in 1861 (different families), 2 from 1881 to 1911
+- **Millbrook Station opened 1846** — new; contextualises the 1840s onset of the Bedford migration
+- **Pre-1858 Methodist community** — explicitly "since at least the mid 18th century"; strengthens the Wesleyan thread
+- **"10 children" claim** — blog says James (1807) & Elizabeth had 10; wiki has 9; Annie Bunker (noted in FamilySearch) flagged as open question
+- **Migration began in 1840s**, not just after James's death in 1852
+
+Source created: [[bunkersmillbrook-wordpress-2013]]
+Pages updated: [[millbrook]] (substantially expanded), [[millbrook-wesleyan-methodist-chapel]], [[james-bunker-1807]]
+
+## [2026-06-23] ingest | Elizabeth Watts — death and burial confirmed, Bedford 1868
+
+Five duplicate clippings from the Elizabeth Watts FamilySearch sources page (MM1Z-S4G), all containing the same two records: GRO Death Registration Index ("Elizabeth Bunker," vol 3B p230, 1868, Bedford) and a Find a Grave entry (death August 1868; burial Foster Hill Road Cemetery, Bedford). The Find a Grave record was added to FamilySearch on 23 June 2026, explaining why earlier searches failed to locate her death.
+
+Key finding: Elizabeth Watts died in Bedford in August 1868 and was buried at Foster Hill Road Cemetery — the same burial ground as Frederick Charles Tall (1859), William Tall (1862), and Edward Tall (1870). The death had been indexed under the married name "Bunker." This closes the open question on the Bedford place page.
+
+Source created: [[elizabeth-watts-death-burial-1868]]
+Pages updated: [[elizabeth-watts-1810]], [[bunker-watts-1830]], [[bedford]]
+
 ## [2026-06-23] update | Ron at de Havilland — timing, motivation, and ERA context added
 
 Expanded the WW2 section of Ron's person page with context from pre-war labour policy research. The blackout curtain business kept Thody Bros viable through 1939–1940, making late 1940 / early 1941 the more likely start date than the outbreak of war. Naval reserve liability (as a former ERA) is identified as a probable motivation alongside patriotism — aircraft production was a protected occupation that insulated him from Admiralty recall. His role framed as mechanical and systems fitting (ERA skills) rather than woodwork.
