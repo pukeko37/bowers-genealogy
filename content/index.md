@@ -723,3 +723,4 @@
 - [[elizabeth-saunders-familysearch]] — FamilySearch sources page (13 sources); baptism 25 Aug 1811 (illegitimate, Rebecca Saunders widow); census 1841–1891; death 11 Oct 1898
 - [[rebecca-arnold-familysearch]] — FamilySearch sources page (7 sources); Samuel Arnold will 1790 (Cotton End farmer, £150 to Rebecca); marriage 1799; children's christenings; Elizabeth's 1811 baptism; Rebecca's 1812 burial
 - [[joseph-sanders-familysearch]] — FamilySearch sources page (7 sources); baptism 1774 (son of John Sanders & Elizabeth); marriage 1799; children; burial 1810 (Shoemaker)
+- [[bartholomew-byu-studies-buckinghamshire-lds-1849]] — BYU Studies scholarly article (Bartholomew, 2009); LDS missionary work and emigration in Buckinghamshire 1849–1878; institutional history of the Whipsnade Branch → Edlesborough Branch chain; Kensworth Branch ("Hensworth") identified; 51% emigration rate across 4 branches

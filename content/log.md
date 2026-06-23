@@ -1,3 +1,17 @@
+## [2026-06-23] ingest | Bartholomew, 'Patterns of Missionary Work and Emigration in Buckinghamshire' (BYU Studies, 2009)
+
+Ingested scholarly article by Ronald E. Bartholomew on LDS missionary work and emigration in Buckinghamshire 1849–1878. The article clarifies the institutional history linking the Whipsnade Branch → Edlesborough Branch, and resolves the "Hensworth Branch" as a transcription variant of the Kensworth Branch.
+
+Key findings integrated:
+- **Whipsnade Branch** established February 27, 1848; reorganised as **Edlesborough Branch** April 1, 1849. Daniel Willis Matthews (Sep 1846 baptism) was in the Eaton Bray Branch that preceded it; William Matthews (Apr 5, 1848 baptism) was in the newly-constituted Whipsnade Branch.
+- **"Hensworth Branch"** in Mary Wilson's January 1851 baptism record = **Kensworth Branch**. Confirmed by the Kensworth Branch Record citation (film no. 86979, FHL) and missionary diary references to "branches of Luton, Hensworth, and Eaton Bray."
+- **Benjamin Johnson of Northall** was the founding convert, branch president, and driving force behind ~50 baptisms across the circuit. Baptised at Whipsnade April 4, 1846.
+- **Edlesborough Branch**: 163 members; 77 (47%) emigrated 1851–1872. Meeting place: The Good Intent public house, Edlesborough; baptisms in adjacent pond.
+- **Buckinghamshire overall**: 266 members across 4 branches; 136 (51%) emigrated — above the national average of 44%.
+
+Pages updated: [[whipsnade]], [[kensworth]], [[matthews-wilson-1801]]
+Source created: [[bartholomew-byu-studies-buckinghamshire-lds-1849]]
+
 ## [2026-06-13] update | Structural gaps resolved — 16 missing pages created
 
 Created all missing pages identified in the lint. 7 family pages: [[hain-unknown-whipsnade]], [[fuller-fuller-hemingford]], [[arnold-cardington]], [[thody-gardner-1804]], [[thody-dance-1845]], [[batchelor-bingham-flamstead]] (upgraded from stub), [[maynard-rumball-luton]]. 9 person pages: [[mary-hall-1730]], [[susannah-durrant-1739]], [[elizabeth-myers-unknown]], [[robert-eric-thody-1924]], [[marguerite-dorreen-thody-1926]], [[john-brian-thody-1936]], [[john-isaac-mason-1913]], [[catherine-ellen-mason-1916]], [[george-r-mason-1919]], [[leslie-thomas-cook-1907]]. All added to index.

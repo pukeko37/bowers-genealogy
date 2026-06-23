@@ -36,8 +36,9 @@ sources:
   - "[[william-matthews-sources-familysearch]]"
   - "[[john-matthews-sources-familysearch]]"
   - "[[thomas-matthews-1797-sources-familysearch]]"
+  - "[[bartholomew-byu-studies-buckinghamshire-lds-1849]]"
 created: 2026-05-02
-updated: 2026-05-08
+updated: 2026-06-23
 ---
 
 ## Parents
@@ -93,7 +94,7 @@ In the 1840s the family converted to the Church of Jesus Christ of Latter-day Sa
 
 Notably, William and Daniel Willis both departed England on 13 June 1853 — William is recorded in the Wheelock Company, Daniel on the "Ellen Marie". Whether they travelled together or took separate passages on the same day is unclear.
 
-**Mary Wilson herself was baptised LDS on 4 January 1851**, at the Hensworth Branch, British Mission — just weeks before the 1851 census found her still in Whipsnade with Thomas. Whether she subsequently emigrated is unknown; no Utah record for her has been found. She would have been over 70 by 1851 and the overland crossing to Utah was brutal; it seems more probable she stayed in England.
+**Mary Wilson herself was baptised LDS on 4 January 1851**, at the **Kensworth Branch**, British Mission — just weeks before the 1851 census found her still in Whipsnade with Thomas. LDS sources spell this as "Hensworth Branch," a consistent phonetic transcription; a Kensworth Branch Record is explicitly cited in the scholarly literature on the area (see [[bartholomew-byu-studies-buckinghamshire-lds-1849]]). Whether she subsequently emigrated is unknown; no Utah record for her has been found. She would have been over 70 by 1851 and the overland crossing to Utah was brutal; it seems more probable she stayed in England.
 
 **Anne and Charlotte did not emigrate.** Anne was married to GBP Sr (since 1835) and died in 1858. Charlotte married David Cook and spent her entire life in Whipsnade.
 

@@ -19,8 +19,9 @@ sources:
   - "[[zsl-daily-occurrences-whipsnade-1931]]"
   - "[[chequers-inn-whipsnade-bedfordshire-archives]]"
   - "[[hall-farm-whipsnade-perplexity]]"
+  - "[[bartholomew-byu-studies-buckinghamshire-lds-1849]]"
 created: 2026-04-30
-updated: 2026-05-14
+updated: 2026-06-23
 ---
 
 Whipsnade is a small village of 928 acres on the Bedfordshire/Hertfordshire border. For this family network it is the deep ancestral home — the Cook, Birchmore, Matthews, and Bachelor families were all rooted here across several generations before the Birchmore Plummer marriages of the 1830s–1860s.
@@ -54,7 +55,23 @@ The most dramatic event in Whipsnade's nineteenth-century family history has no 
 
 The Church's British Mission was active in Bedfordshire by the mid-1840s. Whipsnade sits at the edge of the Chilterns, but the chalk villages here were part of the same evangelising circuit as the Bedford Plain — rural poverty, agricultural labourers with nothing to lose, and the LDS promise of a literal new world in the American West. At least three of the nine children of [[thomas-matthews-1767|Thomas Matthews]] and [[mary-wilson-1779|Mary Wilson]] converted, and all three eventually crossed the Atlantic.
 
-The conversions came in stages. **[[daniel-willis-matthews-1820|Daniel Willis Matthews]]** (born Whipsnade, 1820) and his wife [[sarah-garner-1822|Sarah Garner]] were baptised together on **12 September 1846** at the Bedfordshire branch of the British Mission. **[[william-matthews-1806|William Matthews]]** (born Kensworth, 1806), the eldest son still at home, followed on **5 April 1848**. Then, on **4 January 1851** — captured in the same census that recorded her still living at Houchen End with Thomas — **[[mary-wilson-1779|Mary Wilson]] herself was baptised**, at the Hensworth Branch, aged about 71. The mother of the family had joined her emigrating children in faith, though she never made the crossing.
+### The branch chain
+
+The institutional sequence matters for understanding which branch each family member joined. In April 1846, Elder Elisha Hildebrand Davis (president of the London Conference) baptised **Benjamin Johnson** of Northall, Buckinghamshire, at Whipsnade. Johnson became the founding convert of the area and the dominant local missionary — personally responsible for approximately fifty baptisms across several years. He and his wife Charlotte founded the **Eaton Bray Branch** (Bedfordshire) in 1846, then the **Whipsnade Branch** (Bedfordshire), which was formally established on **February 27, 1848**. When the Johnsons relocated to Northall (a hamlet of Edlesborough, Buckinghamshire), the branch followed them: on **April 1, 1849**, it was reorganised as the **Edlesborough Branch**, which grew to over 160 members at its peak and became the largest LDS congregation in nineteenth-century Buckinghamshire. The branch met at a public house called **The Good Intent**, with an adjacent pond serving as the baptismal font; the building still stands at Edlesborough, now converted to private houses.
+
+### The conversions
+
+With this framework in place, each Matthews family conversion can be placed:
+
+**[[daniel-willis-matthews-1820|Daniel Willis Matthews]]** (born Whipsnade, 1820) and his wife [[sarah-garner-1822|Sarah Garner]] were baptised together on **12 September 1846** — into the Eaton Bray Branch, which Benjamin Johnson had founded just months earlier. This was before the Whipsnade Branch existed.
+
+**[[william-matthews-1806|William Matthews]]** (born Kensworth, 1806), the eldest son still at home, followed on **5 April 1848** — into the newly established Whipsnade Branch, just five weeks after it was formally constituted.
+
+Then, on **4 January 1851** — captured in the same census that recorded her still living at Houchen End with Thomas — **[[mary-wilson-1779|Mary Wilson]] herself was baptised** at the **Kensworth Branch**, aged about 71. LDS records spell the branch name as "Hensworth Branch," a consistent phonetic transcription variant: missionary Elder Job Smith's journal mentions visiting "the branches of Luton, Hensworth, and Eaton Bray," and a Kensworth Branch Record (film no. 86979, Family History Library) is explicitly cited in the scholarly literature on this circuit. Given the family's deep roots in Kensworth — Thomas's birthplace; the village where the family lived before moving to Whipsnade — the Kensworth Branch was the natural congregation for Mary Wilson. The mother of the family had joined her emigrating children in faith, though she never made the crossing.
+
+### The scale of emigration
+
+Of the 163 members on the Edlesborough Branch record, **77 (47%) can be identified as emigrants**, departing 1851–1872. Across all four documented LDS branches in Buckinghamshire (Edlesborough, Simpson, Wooburn Green, Aylesbury), 136 of 266 members (51%) emigrated — above the national average of 44% for English converts in the period 1851–1870. The Matthews family's departures were not isolated acts of faith: they were part of a near-majority movement out of a specific congregation.
 
 **[[able-matthews-1813|Able Matthews]]** (born Whipsnade, 1813) was also in the LDS fold by the time he sailed, though the exact date of his baptism has not been found.
 
@@ -154,9 +171,10 @@ The timing overlaps almost exactly with the Zoo's construction on Hall Farm (192
 - 1835: GBP Sr married Anne Matthews at Whipsnade
 - 1843: Chequers Inn sale; Samuel Heels documented as tenant
 - 1845: Samuel Heels died; Hannah Maria took over tenancy with Abraham Batchelor
-- 1846: Daniel Willis Matthews and Sarah Garner baptised LDS at Bedfordshire branch (12 Sep)
-- 1848: William Matthews baptised LDS (5 Apr)
-- 1851: Mary Wilson baptised LDS at Hensworth Branch (4 Jan) — still living at Houchen End
+- 1846: Benjamin Johnson of Northall baptised at Whipsnade (Apr 4) — founding convert of the Edlesborough Branch circuit; Daniel Willis Matthews and Sarah Garner baptised LDS at the Eaton Bray Branch (12 Sep)
+- 1848: Whipsnade Branch established (Feb 27); William Matthews baptised into it (5 Apr)
+- 1849: Whipsnade Branch reorganised as Edlesborough Branch (Apr 1)
+- 1851: Mary Wilson baptised LDS at Kensworth Branch ("Hensworth" in LDS records) (4 Jan) — still living at Houchen End
 - 1853: Daniel Willis Matthews and William Matthews sail together from Liverpool (17 Jan); join Cyrus H. Wheelock Company overland trek from Keokuk (13 Jun); Sarah Garner dies on trail (Oct)
 - 1855: Able Matthews sails for America with wife and four children; wife dies in St. Louis
 - 1859: GBP Sr married Eliza Batchelor (at St Pancras, not Whipsnade)
