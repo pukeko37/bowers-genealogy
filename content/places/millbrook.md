@@ -140,6 +140,22 @@ The chapel closed in 1973 and has since deteriorated significantly; the roof has
 
 The connection to the Bedford Circuit is significant: George Bunker's daughter **Sarah Ann** was christened at a Wesleyan Methodist chapel in the Bedford Circuit in December 1860 — the same circuit, ten months after the Millbrook chapel was formally registered. The Bunkers who moved to Bedford maintained the same denomination they had practised in Millbrook. See [[millbrook-wesleyan-methodist-chapel]].
 
+## The Manor of Millbrook
+
+The Bunkers lived in Millbrook as tenants under a long succession of lords. The manor passed through Norman barons (the d'Aubigny family of Cainhoe Castle, Clophill), then to the Knights Templars (1287), the Knights Hospitallers, Henry VIII (1542), and eventually — after Civil War interruptions — to the Bruce family (Earls of Elgin and Ailesbury) as Seneschals of the Honour of Ampthill. In 1818 Lord Holland (Henry Vassall-Fox, 3rd Baron Holland) succeeded to it.
+
+The **Duke of Bedford purchased the manor in 1840**, becoming the Bunkers' immediate landlord for their final twelve years in the village. The chapel land tenure dispute documented in the Methodist chapel history runs directly from this change: William Pepper had rented the land from Lord Holland; when Pepper died c.1854 his lease expired, and his stepson Edward Beale had to negotiate a new lease with the Duke of Bedford. Throughout the Victorian period and into the twentieth century the Duke of Bedford remained the dominant landowner in the area — the same estate context as the Pedley Settled Estates further south (see [[pedley-settled-estates]]).
+
+## Millbrook Bunkers in the First World War
+
+Two men from the collateral Millbrook Bunker line were killed in the First World War, both in 1917:
+
+**Albert Edward Bunker** (born Sept 1894, Ampthill) — G/48221, 1st Battalion Royal Fusiliers. Killed in action 31 July 1917, aged 23, during the Third Battle of Ypres (Passchendaele). Born in Millbrook, enlisted Luton, resident Ampthill. He had no known grave and is commemorated on the **Ypres (Menin Gate) Memorial**, Panels 6 and 8. Albert Edward was the son of John Bunker (1870–1900) and Ellen Mary Roffe; his father died when he was about six, his mother remarried Herbert Goodman in 1901, and Albert Edward was raised by his paternal grandparents Joseph and Mary Ann at 12 Millbrook. He appears with them in both the 1901 and 1911 censuses.
+
+**William Harold Bunker** (born c.1881, Millbrook) — Private 40454, 10th Battalion Lincolnshire Regiment (formerly 22924, Bedfordshire Regiment). Killed in action 9 October 1917, aged 36, during the Third Battle of Ypres. Born Millbrook, enlisted Bedford, resident Maulden at death. Son of **Richard Bunker** (1859, eldest son of Joseph 1837 and Mary Ann Wilcox) and **Emma Page**; husband of Mary Elizabeth Bunker of Duck End, Maulden. His parents were living at 61 Albert Road, Luton by the time of his death. No known grave; commemorated at the **Tyne Cot Memorial**, Panels 35–37 and 162–162A.
+
+Albert Edward and William Harold were first cousins — Albert Edward's father John (1870) and William Harold's father Richard (1859) were both sons of Joseph Bunker (1837). Both died within ten weeks of each other at the same battle, on the same ridge east of Ypres. The two Millbrook-born cousins are now on different panels of different Belgian memorials, neither with a grave.
+
 ## Open Questions
 
 - How deep do the Bunker roots in Millbrook go before James Thomas Bunker (born 1764)? Thomas (1738) and James Thomas (1764) are documented; earlier generations are established only through the founding Thomas (1704).

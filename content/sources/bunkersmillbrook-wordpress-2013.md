@@ -16,9 +16,9 @@ families-updated:
 created: 2026-06-23
 ---
 
-Eleven clippings from bunkersmillbrook.wordpress.com, a genealogy blog maintained by a descendant of Caleb Bunker (son of James 1807) who has researched all Bunker families resident in Millbrook. Posts dated 2013. This is a secondary source — family genealogy research, not primary records — and should be treated accordingly: useful for confirmation, collateral context, and research leads, but not for asserting new facts without primary-source corroboration.
+Eleven clippings from bunkersmillbrook.wordpress.com, Andrew Bowers's own genealogy blog documenting all Bunker families resident in Millbrook. Posts dated 2013. Andrew is a descendant of Caleb Bunker (son of James 1807) and conducted this research himself. The blog reflects Andrew's own work against primary records and should be treated accordingly — not as an anonymous secondary source but as Andrew's prior research findings.
 
-**Clippings ingested:**
+**Clippings ingested (first batch):**
 - "The first Millbrook Bunker family" — founding family Thomas (1704) & Mary Read; 12 children; Toddington origin
 - "All the Millbrook Bunker Families" — summary of all six generations
 - "Millbrook Family Pedigree" — reference to a PDF hourglass chart (not captured)
@@ -30,6 +30,12 @@ Eleven clippings from bunkersmillbrook.wordpress.com, a genealogy blog maintaine
 - "Grace Bunker" — speculative identification of an 8-year-old in 1911 census
 - "Millbrook Timeline" — village history including station 1846, chapel 1858
 - "Millbrook Methodist Chapel" — pre-1858 Methodist community history
+
+**Clippings ingested (second batch):**
+- "Albert Edward Bunker" — WW1 Roll of Honour; G/48221 1st Bn Royal Fusiliers; killed 31 Jul 1917 Passchendaele; Menin Gate panels 6 & 8; son of John Bunker (1870–1900) and Ellen Mary Roffe
+- "William Harold Bunker" — WW1 Roll of Honour; Pte 40454 10th Bn Lincolnshire Regiment; killed 9 Oct 1917; Tyne Cot panels 35–37; son of Richard Bunker (1859) & Emma Page; resident Maulden
+- "More illegitimate children for Mark Ashby Bunker" — two Quarter Sessions bastardy recognizances (QSR/22/1814/114, QSR/22/1816/157); Fanny Johnson christened Aspley Guise 8 May 1814; Elizabeth Margess/Burgess = mother of Mark Ashby jr (b. Dec 1815)
+- "Ownership of the Manor of Millbrook" — feudal history from 1066; Duke of Bedford purchased manor 1840; Bunkers' final 12 years in village under Bedford estate
 
 ## Key findings
 

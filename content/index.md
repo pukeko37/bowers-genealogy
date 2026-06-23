@@ -515,7 +515,7 @@
 - [[chequers-inn-whipsnade-bedfordshire-archives]] — Bedfordshire Archives; Chequers pub history; first licensed 1822; 1843 sale description
 - [[chequers-inn-ownership-perplexity-2026]] — Perplexity synthesis; full ownership chain Burr→Rackstrow→Meacher→Roberts&Wilson→Benskin's; licensee list 1822–1931; 1927 rebuild
 - [[millbrook-wesleyan-methodist-chapel]] — Wesleyan Methodist chapel built 1858; Bedford Circuit; 106 sittings 1873; connects Bunker Nonconformism to specific denomination
-- [[bunkersmillbrook-wordpress-2013]] — Secondary genealogy blog; all Millbrook Bunker families 1704–1911; census snapshots; station 1846; pre-1858 Methodist community confirmed since mid-18th century
+- [[bunkersmillbrook-wordpress-2013]] — Andrew's Millbrook Bunker blog; all families 1704–1911; census snapshots; station 1846; pre-1858 Methodist community; WW1 deaths; manor history
 - [[vch-whipsnade-parishes-1912]] — Victoria County History 1912; Whipsnade parish geography, green layout, Hall Farm, enclosure 1798, manor history, church
 - [[zsl-daily-occurrences-whipsnade-1931]] — ZSL archive; Hall Farm purchased 1927; zoo opened 23 May 1931; 26,946 visitors on Bank Holiday Monday
 - [[thomas-batchelar-print-view-familysearch]] — FamilySearch print view, Thomas Batchelar; born Dagnall; 1841–1871 Whipsnade; Eliza's probable father

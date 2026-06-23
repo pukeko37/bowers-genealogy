@@ -1,3 +1,14 @@
+## [2026-06-23] ingest | Millbrook Bunkers blog (second batch) — WW1 deaths and manor history
+
+Four more clippings from Andrew's Millbrook blog. Key additions to [[millbrook]]:
+
+- **Albert Edward Bunker** (1894–1917): G/48221, 1st Bn Royal Fusiliers; killed 31 Jul 1917 Passchendaele; commemorated Ypres (Menin Gate). Son of John Bunker (1870–1900) and Ellen Mary Roffe; raised by grandparents Joseph and Mary Ann.
+- **William Harold Bunker** (c.1881–1917): Pte 40454, 10th Bn Lincolnshire Regiment; killed 9 Oct 1917; commemorated Tyne Cot. Son of Richard Bunker (1859) and Emma Page; resident Maulden. First cousin to Albert Edward — both grandsons of Joseph (1837); both died at Third Ypres, ten weeks apart.
+- **Duke of Bedford purchased the manor in 1840** — Bunkers' landlord for their final 12 years in Millbrook; chapel land tenure dispute flows directly from this.
+- **Mark Ashby Bunker bastardy records** — two Quarter Sessions recognizances confirm primary source detail for his illegitimate children.
+
+Pages updated: [[millbrook]], [[bunkersmillbrook-wordpress-2013]]
+
 ## [2026-06-23] ingest | Millbrook Bunkers WordPress blog — wider community and place context
 
 Eleven clippings from bunkersmillbrook.wordpress.com (secondary genealogy source, Caleb's descendant). Captured the full Millbrook Bunker community from the founding family (Thomas 1704) through to 1911.
