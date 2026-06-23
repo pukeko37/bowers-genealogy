@@ -1,3 +1,9 @@
+## [2026-06-23] update | Ron at de Havilland — timing, motivation, and ERA context added
+
+Expanded the WW2 section of Ron's person page with context from pre-war labour policy research. The blackout curtain business kept Thody Bros viable through 1939–1940, making late 1940 / early 1941 the more likely start date than the outbreak of war. Naval reserve liability (as a former ERA) is identified as a probable motivation alongside patriotism — aircraft production was a protected occupation that insulated him from Admiralty recall. His role framed as mechanical and systems fitting (ERA skills) rather than woodwork.
+
+Pages updated: [[roland-herbert-bunker-1898]]
+
 ## [2026-06-23] update | Photo-destruction story — revised to Philippa's account
 
 Andrew and Philippa discussed the family account and Andrew accepts Philippa's version: Ron destroyed the photographs in the last weeks of his life, while Ivy was out at Bowls. Ivy discovered the loss after his death and was mortified. Andrew had previously recalled it differently (Ivy burning the photos after Ron's death) but accepts Philippa's version as having the stronger evidential chain — heard from their mother at the time — and fitting Ron's character better.

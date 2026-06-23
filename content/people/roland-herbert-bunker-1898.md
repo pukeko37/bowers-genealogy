@@ -98,7 +98,15 @@ What he was building by 1936 was legible in retrospect. One son would go on to b
 
 ### WW2 and Later Life
 
-During WW2, Ron worked at the de Havilland Aircraft Company in **Hatfield** — 9 miles from Park Hill, Harpenden, which he covered by bicycle. He was making patterns, tools and jigs for the Mosquito bomber project; a reserved occupation drawing directly on his Navy engineering skills. The factory was hit in a Luftwaffe raid on **3 October 1940**; the first Mosquito prototype flew on **25 November 1940**. Roland likely left de Havilland sometime between 1945 and 1950. Ivy ran the furniture shop throughout.
+During WW2, Ron worked at the de Havilland Aircraft Company at **Hatfield** — 9 miles from Park Hill, Harpenden, which he covered by bicycle. He was making patterns, tools and jigs for the Mosquito bomber project; a reserved occupation drawing directly on his ERA engineering skills.
+
+He probably did not start at the outbreak of war. Thody Bros was busy through 1939 and into 1940 — the blackout, made legally compulsory on 1 September 1939, created a surge in demand for blackout curtaining that would have kept the business fully occupied. The more likely moment of transition was late 1940 or early 1941, when the blackout market was largely saturated, the Mosquito programme was ramping up production urgently after its first flight on 25 November 1940, and the Registration for Employment Order (March 1941) made skilled engineers visible to Ministry of Labour officers.
+
+The motivation was probably not purely patriotic. As a former ERA who had left the Navy in 1930, Ron held a reserve liability; the Admiralty's recall mechanisms for reservists did not respect the civilian conscription age bands. Taking up aircraft production work — a protected occupation under the Schedule of Reserved Occupations — was also the surest way to remain in Harpenden rather than return to the Navy at forty-three.
+
+His role was almost certainly on the mechanical and systems side rather than airframe woodwork: Mosquito production drew on furniture workers for the wooden structure, but the Merlin engine installation, hydraulics, fuel systems, and precision fittings required exactly the skills an ERA carried — men who had spent years working to fine tolerances on marine machinery. The factory was hit in a Luftwaffe raid on **3 October 1940**. Ivy ran the furniture shop throughout. Ron likely returned to the business sometime between 1945 and 1950.
+
+*Source: family oral history, from Andrew Bowers; general historical context.*
 
 Park Hill became a wartime refuge — Ivy's sisters [[lillian-frances-norman-1893|Lillian]] and [[nellie-norman-1885|Nellie]] moved in to run the household while Roland and Ivy worked; later [[mabel-annie-norman-1883|Mabel]] and her husband [[john-james-mason-1878|Jack Mason]] joined them after their shop at 150 Acre Lane, Brixton was damaged by a V1 bomb. Thody Bros received a wartime fuel rationing exemption as a critical business.
 
