@@ -8,14 +8,30 @@ death-place: "unknown"
 family-of-origin: "[[bunker-watts-1830]]"
 families-as-parent: []
 sources:
-  - "[[charles-bunker-1839-print-view-familysearch]]"
+  - "[[charles-bunker-sources-familysearch]]"
   - "[[caleb-bunker-1861-census]]"
 created: 2026-05-02
-updated: 2026-05-04
+updated: 2026-06-24
 ---
 
-Charles Bunker was born in 1839 in Millbrook, Bedfordshire (registered at Ampthill), the fifth child of [[james-bunker-1807|James Bunker]] and Elizabeth Watts. His death date is unknown.
+Charles Bunker was born in 1839 in Millbrook, Bedfordshire (birth registration Ampthill), the fifth child of [[james-bunker-1807|James Bunker]] and [[elizabeth-watts-1810|Elizabeth Watts]]. His death date is unknown. He was Caleb's younger brother.
 
-In the 1861 census he is recorded at Dane Street, St Paul's parish, Bedford, aged 23, as a **labourer** — still part of the family household. Charles is notable for migrating to London rather than remaining in Bedford or moving to Derbyshire with his siblings. After 1861 in Bedfordshire, he was in Paddington by 1871, Kensington by 1881 and 1891, and Hammersmith by 1901 — consistently in west London. His death date is not recorded in FamilySearch.
+He married **Maria** (born ~1843, Devonshire). No marriage record has been firmly identified — a 1868 Ampthill marriage record for "Charles Bunker and Harriet Keech" is attached to his FamilySearch record but may be a different man, since all census records from 1871 to 1901 consistently name his wife as Maria, born in Devonshire. Together they had at least three children:
 
-His west London orbit (Paddington, Kensington, Hammersmith) is geographically distinct from the Norman family's east London/City of London world (Islington, Hackney, Smithfield). There is no known connection between Charles and the Norman branch of the family. Caleb's younger brother.
+1. William Bunker (b. ~1870, Bayswater, Middlesex)
+2. James Henry Charles Bunker (1873–1931)
+3. Lydia Maria Bunker (1875–1966)
+
+**Early life.** In the **1861 census** Charles is at Dane Street, St Paul's parish, Bedford — aged 23, a **labourer**, still in the family household with his widowed mother Elizabeth and siblings. He left Bedfordshire before 1871, the only sibling to settle in west London rather than Derbyshire or staying local.
+
+**London years.** His occupation trajectory charts a movement through different kinds of urban physical work:
+- 1871: **Dairyman**, Paddington, Middlesex — operating or working in a dairy business in Bayswater
+- 1881: **Carman**, Kensington — a carter, driving goods by horse-drawn van; hard, outdoor, skilled-ish work
+- 1891: **Gardener**, Kensington — a shift into household service, likely employed by a Kensington householder
+- 1901: **Gardener (Domestic)**, Hammersmith — the same trade, having moved slightly west
+
+His son James Henry married in 1898 at **Hammersmith** (St Simon's Church, Hammersmith), confirming the family's presence in that corner of west London by the late 1890s.
+
+**Notes.** Charles's west London orbit (Paddington → Kensington → Hammersmith) is geographically distinct from the Norman family's east London world. His dairyman work in 1871 Bayswater is a coincidence with the Mason family's milk trade in Smithfield, though no connection is known. There is no death date on record.
+
+**Residence history:** 1839–1852 Millbrook · 1852–~1869 Bedford · 1871 Paddington · 1881 Kensington · 1891 Kensington · 1901 Hammersmith

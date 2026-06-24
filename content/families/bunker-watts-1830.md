@@ -30,15 +30,15 @@ sources:
   - "[[john-watts-bunker-print-view-familysearch]]"
   - "[[lydia-bunker-1833-print-view-familysearch]]"
   - "[[george-bunker-1836-print-view-familysearch]]"
-  - "[[david-bunker-1837-print-view-familysearch]]"
-  - "[[charles-bunker-1839-print-view-familysearch]]"
+  - "[[david-bunker-print-view-familysearch]]"
+  - "[[charles-bunker-sources-familysearch]]"
   - "[[martha-sarah-bunker-print-view-familysearch]]"
   - "[[phoebe-alice-bunker-print-view-familysearch]]"
   - "[[caleb-bunker-print-view-familysearch]]"
-  - "[[comfort-ann-bunker-print-view-familysearch]]"
+  - "[[comfort-ann-bunker-sources-familysearch]]"
   - "[[caleb-bunker-1861-census]]"
 created: 2026-05-02
-updated: 2026-06-23
+updated: 2026-06-24
 ---
 
 ## Parents
@@ -54,12 +54,12 @@ Nine children, all born in Millbrook:
 1. [[john-watts-bunker-1831|John Watts Bunker]] (1831–1899) — remained in Bedford area; died Ampthill
 2. [[lydia-bunker-1833|Lydia Bunker]] (1833–1922) — married [[samuel-plackett-lane-1841|Samuel Plackett Lane]] 1863; widowed 1872; Bedford then Barton Almshouse Turvey; died aged 89. See [[bunker-lane-1863]].
 3. [[george-bunker-1836|George Bunker]] (1836–1917) — married [[ann-pedder-1838|Ann Pedder]] 1858 Bedford; 5 children; Bedford then New Tupton/Derby, Derbyshire. See [[bunker-pedder-1858]].
-4. [[david-bunker-1837|David Bunker]] (1837–1920) — Huntingdonshire then Peterborough; died aged ~83
-5. [[charles-bunker-1839|Charles Bunker]] (1839–?) — west London (Paddington, Kensington, Hammersmith); death unknown
-6. [[martha-sarah-bunker-1841|Martha Sarah Bunker]] (1841–1901) — settled in Luton; died there
+4. [[david-bunker-1837|David Bunker]] (1837–1920) — married Marian Bentley 1859 Bedford; 4 children; Groom → railway Storekeeper; Peterborough 1871–1920; died aged ~83
+5. [[charles-bunker-1839|Charles Bunker]] (1839–?) — married Maria (Devonshire); west London (Paddington, Kensington, Hammersmith); Dairyman → Carman → Gardener; death unknown
+6. [[martha-sarah-bunker-1841|Martha Sarah Bunker]] (1841–1901) — married **Joseph Sinfield** 25 May 1863 St Paul's Bedford; 2 daughters; Luton 1881–1901; died 7 Jul 1901 as "Martha Sarah Sinfield". See [[bunker-sinfield-1863]].
 7. [[phoebe-alice-bunker-1843|Phoebe Alice Bunker]] (1843–1923) — married [[samuel-fensome-1842|Samuel Fensome]] 1863 Bedford; 8 children; Pilsley, Derbyshire then Hucknall Torkard, Nottinghamshire. See [[bunker-fensome-1863]].
 8. [[caleb-bunker-1845|Caleb Bunker]] (1845–1918) — Matlock/Derby; Roland Bunker's grandfather
-9. [[comfort-ann-bunker-1848|Comfort Ann Bunker]] (1848–?) — lifelong Luton; straw hat sewer
+9. [[comfort-ann-bunker-1848|Comfort Ann Bunker]] (1848–?) — known as "Jane Bunker" from 1871; lived in Martha's Sinfield household until 1892; married Henry Ewington 28 March 1892 Luton; straw hat sewer throughout
 
 ## Family Life
 
@@ -98,7 +98,8 @@ The family's Nonconformist practice is well evidenced and most likely **Wesleyan
 ## Open Questions
 
 - ~~What was Elizabeth Watts's background and family?~~ **Resolved.** Born Cranfield; parents John Watts (1790–1814) and Sarah Capel (1791–1851+). See [[watts-capel-1809]] and [[capel-knight-1772]].
-- Where did the Bedford Bunkers (John, Lydia) go after 1881 census?
+- ~~Are Martha or Comfort recorded with married names?~~ **Resolved.** Martha Sarah married Joseph Sinfield 25 May 1863 Bedford (confirmed by church register and GRO index); died Luton 1901 as "Martha Sarah Sinfield." Comfort Ann married Henry Ewington 28 March 1892 Luton.
+- Where did John Watts Bunker's seven children go after 1881?
 - Did Charles Bunker in west London ever have contact with the Bunkers in Derbyshire or Luton?
-- Are Martha or Comfort recorded with married names?
 - Were the Bunkers named in Bedford Circuit Wesleyan Methodist records (class books, membership lists)? Bedfordshire Archive or Methodist Archive, Manchester.
+- Retrieve the Luton July 1901 obituary for Martha (Sinfield, née Bunker) to confirm married name and details of her life.

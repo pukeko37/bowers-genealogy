@@ -1,3 +1,77 @@
+## [2026-06-24] ingest | Martha Sinfield death notice — Luton Times and Advertiser
+
+BNA search result for "martha sinfield", Luton Times and Advertiser, 12 July 1901.
+
+This is a brief deaths-column notice, not a narrative obituary: "July 7, at 21, Cumberland-street, Luton, Martha Sarah Sinfield, aged 60 years."
+
+**New fact:** Address at death was **21 Cumberland Street, Luton** — the Sinfield family home at the time of Martha's death.
+
+The notice appears in a list of local deaths; a longer biographical memorial may exist elsewhere in the same edition or adjacent pages, but was not captured.
+
+Pages created: [[martha-sinfield-death-notice-1901]]
+Pages updated: [[martha-sarah-bunker-1841]], [[bunker-sinfield-1863]]
+
+## [2026-06-24] ingest | Joseph Sinfield — full biography confirmed
+
+Two FamilySearch clippings for Joseph Sinfield (M984-6XV), filling in the person we previously had as a stub.
+
+**Birth:** Christened 28 January 1844, All Saints' Kempston, Bedfordshire. Census records say "Bedford" — Kempston was a contiguous parish. Birth registered Bedford GRO vol 6 p34.
+
+**Parents:** William Sinfield (~1811, Kempston, Labourer) and Sarah (~1812, Eynesbury/Eaton Socon, Huntingdonshire). Family rooted in Kempston.
+
+**Siblings:** Isaac (1832), Maria (1834), George (1839), William (1847), Elizabeth (1849).
+
+**Kempston and the Millbrook Sinfield connection:** Kempston is 8-10 miles from Millbrook, where Thomas Bunker (1738) married Martha Sinfield in 1761. The Sinfield surname is uncommon in Bedfordshire. Whether William Sinfield's Kempston family connects to those Millbrook Sinfields is unresearched but geographically plausible.
+
+**Career:** Labourer (1861) → Hammerman (1871) → Police Constable Luton Borough (1881–1891) → General Labourer (1901) → "Ex Police Constable" (1911).
+
+**1911:** Widower, living with daughter Annie Hyde (née Sinfield) and her husband Alfred John Hyde, a **Blocker in the Straw Hats industry** — the same trade as Martha and Comfort Ann throughout their lives.
+
+**Elizabeth Julia Sinfield** married **George Linger** 24 December 1886 Luton. Son Arthur Linger (b. ~1888) stayed with grandparents in 1891.
+
+**Death:** 12 April 1914, Luton, age 70, GRO vol 3B p429. Obituary *Luton Bedfordshire Advertiser and Luton Times* 17 April 1914 (BNA, text not retrieved).
+
+Pages created: [[joseph-sinfield-sources-familysearch]]
+Pages updated: [[joseph-sinfield-1844]], [[bunker-sinfield-1863]]
+
+## [2026-06-24] ingest | Martha Sarah Bunker confirmed — marriage, children, death
+
+Two FamilySearch clippings for Martha Sarah Bunker (M984-6XT), resolving all previously inferred claims.
+
+**Marriage confirmed:** Martha Sarah Bunker married **Joseph Sinfield** on **25 May 1863** at Saint Paul's Church, Bedford — confirmed by church marriage register and GRO index (vol 3B, page 488). Not inferred; documented.
+
+**Children confirmed:** Annie Maria Sinfield (1864) and Elizabeth Julia Sinfield (1867), both born Bedford.
+
+**Joseph Sinfield (abt 1844–1914):** Hammerman (1871) → Police Constable Borough Luton (1881–1891) → General Labourer (1901). FamilySearch ID M984-6XV.
+
+**Death fully documented:** GRO death registration "Martha Sarah Sinfield", 1901, Luton, age 60, vol 3B p238. Burial 10 July 1901 Luton (Bedfordshire Parish Registers). Obituary in *Luton Bedfordshire Advertiser and Luton Times*, 12 July 1901 (indexed in BNA; text not yet retrieved).
+
+**Martha alive at 1901 census (31 March), died 7 July 1901** — three months and six days later.
+
+**New straw industry detail:** 1851 census shows Martha aged 10 as a **Plaiter** at Millbrook. Plaiting → Bonnet Sewer (1861) → Straw Hat Sewer (1871–1901): a continuous 50-year career in the same industry, same as sister Comfort Ann.
+
+Pages created: [[bunker-sinfield-1863]], [[joseph-sinfield-1844]]
+Pages updated: [[martha-sarah-bunker-1841]], [[comfort-ann-bunker-1848]], [[bunker-watts-1830]], [[martha-sarah-bunker-print-view-familysearch]]
+
+## [2026-06-24] ingest | Bunker siblings — John Watts, David, Charles, Comfort Ann, Martha Sarah, Lydia Brown, Martha Sinfield
+
+Eleven FamilySearch clippings expanding the thin person pages for James Bunker's children and Lydia Brown.
+
+**Key findings:**
+
+- **Lydia Brown birth corrected:** Baptised 14 April **1765** at **Cranfield, Bedfordshire** (not abt 1769 Hertfordshire as previously stated). Parents: **Edward Brown** and **Lydia Brown** (née unknown) of Cranfield. The 1841 census age underreporting (~4 years) had masked this.
+- **John Watts Bunker:** Married **Ann Woodland** 1854 Ampthill; 7 children; occupation **Shoesmith** (1871) / **Hammer Man** (1881) — metalworking, not shoe-making as might be expected for a Caleb sibling. Remained Bedford / Ampthill area all his life.
+- **David Bunker:** Married **Marian Bentley** 1859 Bedford; 4 children; moved northeast to Huntingdonshire then Peterborough. Career: Groom (1871) → **Wagon Builder Storekeeper (Rail)** (1881) → **Engineers Store Keeper** (1891) — a significant upward trajectory into railway clerical/supervisory work. Died 1920 Peterborough aged ~83, the longest-lived sibling.
+- **Charles Bunker:** Married **Maria** (born Devonshire, ~1843); 3 children; west London. Dairyman (1871 Paddington) → Carman (1881 Kensington) → Gardener (1891–1901 Kensington/Hammersmith). Death date unknown.
+- **Martha Sarah Bunker married Joseph Sinfield (inferred):** The Comfort Ann clipping reveals she was living as "sister-in-law" in the household of Joseph Sinfield and his wife "Martha Sinfield, born Millbrook, Bedfordshire, age 30" from 1871. The age and birthplace exactly match Martha Sarah Bunker (born 1841, Millbrook). The Sinfield household followed Martha (and Comfort Ann alongside her) to Luton by 1881. **Martha Sarah's marriage to Joseph Sinfield is not yet confirmed by a direct marriage record** but is strongly supported by census evidence across three decades.
+- **Comfort Ann Bunker (Jane/Annie):** Lived in the Sinfield household as "Jane Bunker" (sister-in-law) 1871–1891. Married **Henry Ewington** (widower, bricklayer's labourer) 28 March 1892 at Luton, aged 42. Appears thereafter as "Annie Ewington" and "Jane Ewington." Still in Luton 1911.
+- **Genealogical echo noted:** Thomas Bunker (1738) married a **Martha Sinfield** in 1761 at Millbrook. Now Martha *Sarah Bunker* marries a *Sinfield* ~110 years later — a Bunker woman married to a Sinfield, reversing the original direction.
+
+Pages created: [[david-bunker-print-view-familysearch]], [[charles-bunker-sources-familysearch]], [[comfort-ann-bunker-sources-familysearch]]
+Pages updated: [[john-watts-bunker-print-view-familysearch]], [[lydia-brown-sources-familysearch]]
+Person pages updated: [[john-watts-bunker-1831]], [[david-bunker-1837]], [[charles-bunker-1839]], [[martha-sarah-bunker-1841]], [[comfort-ann-bunker-1848]], [[lydia-brown-1769]]
+Family pages updated: [[bunker-watts-1830]]
+
 ## [2026-06-23] ingest | Millbrook Bunkers blog (second batch) — WW1 deaths and manor history
 
 Four more clippings from Andrew's Millbrook blog. Key additions to [[millbrook]]:

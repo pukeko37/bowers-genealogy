@@ -73,6 +73,7 @@
 - [[thody-parent-1873]] — William Thody & Mathilde Parent, married 1873 Chicago; transatlantic life; 4 children; Tillie died 1892
 - [[thody-cook-1894]] — William Thody & Lucy Cook, married 1894 Whipsnade, 1 child; step-children Clarence & Florence also in household
 - [[thody-bunker-1920]] — Harry Thody & Beulah Bunker, married 1920 Little Gaddesden
+- [[bunker-sinfield-1863]] — Joseph Sinfield (Kempston) & Martha Sarah Bunker, married 25 May 1863 St Paul Bedford; Annie Maria & Elizabeth Julia; Luton; Martha died 1901, Joseph 1914
 
 ### Matthews · LDS
 
@@ -368,10 +369,11 @@
 - [[ann-pedder-1838]] — Ann Pedder (abt 1838–unknown), George Bunker's wife; Westoning, Bedfordshire; 5 children
 - [[david-bunker-1837]] — David Bunker (1837–1920), Caleb's brother; Millbrook → Peterborough; died aged ~83
 - [[charles-bunker-1839]] — Charles Bunker (1839–?), Caleb's brother; west London (Paddington, Kensington, Hammersmith)
-- [[martha-sarah-bunker-1841]] — Martha Sarah Bunker (1841–1901), Caleb's sister; settled Luton; obituary published
+- [[martha-sarah-bunker-1841]] — Martha Sarah Bunker (1841–1901), married Joseph Sinfield 1863 Bedford; Straw Hat Sewer; died Luton 1901 as "Martha Sarah Sinfield"
+- [[joseph-sinfield-1844]] — Joseph Sinfield (1844–1914), christened Kempston; Hammerman→Police Constable Luton; parents William Sinfield & Sarah; died Luton 12 Apr 1914
 - [[phoebe-alice-bunker-1843]] — Phoebe Alice Bunker (1843–1923), Caleb's sister; married Samuel Fensome 1863; 8 children; Pilsley Derbyshire then Yorkshire
 - [[samuel-fensome-1842]] — Samuel Fensome (abt 1841–1920), Phoebe Alice Bunker's husband; born Ravensden, Bedfordshire; parents Thomas Fensom & Sarah Barrick; died Mansfield, Nottinghamshire
-- [[comfort-ann-bunker-1848]] — Comfort Ann Bunker (abt 1848–?), Caleb's youngest sister; lifelong Luton; straw hat sewer
+- [[comfort-ann-bunker-1848]] — Comfort Ann Bunker (abt 1848–?), known as Jane/Annie; Sinfield household 1871–1891; married Henry Ewington 1892 Luton; straw hat sewer
 
 ### Bowers · Reynolds
 
@@ -645,20 +647,22 @@
 - [[roland-herbert-bunker-wartime-familysearch]] — FamilySearch Memories; 1930–1945; de Havilland Hatfield 9 miles from Harpenden; Norman joined Navy 1944
 - [[roland-herbert-bunker-1921-census-familysearch]] — 1921 census; Eliza at Southend-on-Sea (not with Frederick); Beulah milliner at J C Kershaw; Harry upholsterer; Frederick working Kentish Town
 - [[james-thomas-bunker-print-view-familysearch]] — FamilySearch print view; James Thomas Bunker; born/died Millbrook 1764–1824; married Lydia Brown 1788 St Paul's Walden
-- [[lydia-brown-print-view-familysearch]] — FamilySearch print view; Lydia Brown; born abt 1769 Hertfordshire; died Millbrook 1842; Caleb's grandmother
+- [[lydia-brown-print-view-familysearch]] — FamilySearch print view; Lydia Brown; baptised Cranfield 1765 (corrected from abt 1769 Hertfordshire); parents Edward Brown & Lydia Brown; died Millbrook 1842
 - [[james-bunker-1807-print-view-familysearch]] — FamilySearch print view; James Bunker; born/died Millbrook 1807–1852; married Elizabeth Watts; 9 children including Caleb
-- [[john-watts-bunker-print-view-familysearch]] — FamilySearch print view; John Watts Bunker; born Millbrook 1831; died Ampthill 1899; Caleb's eldest brother
+- [[john-watts-bunker-print-view-familysearch]] — FamilySearch print view and sources (15); John Watts Bunker; married Ann Woodland 1854; 7 children; Shoesmith/Hammer Man Bedford; died Ampthill 1899
 - [[lydia-bunker-1833-print-view-familysearch]] — FamilySearch print view; Lydia Bunker (1833); Bedford then Turvey; died Bedfordshire 1922; Caleb's sister
 - [[george-bunker-1836-print-view-familysearch]] — FamilySearch print view; George Bunker; Millbrook → Bedford → Tupton/Derby Derbyshire; died Derby 1917
 - [[george-bunker-1836-sources-familysearch]] — FamilySearch sources page (G4JZ-ZJS); 13 sources; marriage to Ann Pedder 1858; all census records 1841–1911; Ann from Westoning; Albert born New Tupton ~1875
-- [[david-bunker-1837-print-view-familysearch]] — FamilySearch print view; David Bunker; Millbrook → Peterborough; died 1920 aged ~83
-- [[charles-bunker-1839-print-view-familysearch]] — FamilySearch print view; Charles Bunker; Millbrook → west London (Paddington, Kensington, Hammersmith)
-- [[martha-sarah-bunker-print-view-familysearch]] — FamilySearch print view; Martha Sarah Bunker; settled Luton; died 1901; obituary published
+- [[david-bunker-print-view-familysearch]] — FamilySearch print view and sources (12); David Bunker; married Marian Bentley 1859; 4 children; Groom → railway Storekeeper; Peterborough 1881–1920
+- [[charles-bunker-sources-familysearch]] — FamilySearch print view and sources (10); Charles Bunker; married Maria (Devonshire); Dairyman→Carman→Gardener; west London Paddington/Kensington/Hammersmith
+- [[martha-sarah-bunker-print-view-familysearch]] — FamilySearch print view and sources (13); Martha Sarah Bunker; married Joseph Sinfield 1863; Straw Hat Sewer; died Luton 1901 as "Martha Sarah Sinfield"; obituary BNA
+- [[joseph-sinfield-sources-familysearch]] — FamilySearch print view and sources (15); Joseph Sinfield; christened Kempston 1844; parents William & Sarah; occupation trail; daughter Annie Hyde (straw hat blocker); died Luton 1914; obituary BNA
+- [[martha-sinfield-death-notice-1901]] — death notice, Luton Times and Advertiser 12 Jul 1901; 21 Cumberland Street Luton; aged 60; brief column entry not full obituary
 - [[phoebe-alice-bunker-print-view-familysearch]] — FamilySearch print view (incomplete); Phoebe Alice Bunker vitals and residences only; superseded by Family Tree 1
 - [[phoebe-alice-bunker-family-tree-1-familysearch]] — FamilySearch Family Tree 1 (complete); marriage to Samuel Fensome 1863; 8 children confirmed
 - [[samuel-fensome-print-view-familysearch]] — FamilySearch print view; born Ravensden 1841; parents Thomas Fensom & Sarah Barrick; died Mansfield 1920
 - [[samuel-fensome-sources-familysearch]] — FamilySearch 24-source view; occupation confirmed (ironworks labourer 1871 → shoemaker 1881–1911); Helen Fensome (abt 1864) confirmed as first child; children's marriages
-- [[comfort-ann-bunker-print-view-familysearch]] — FamilySearch print view; Comfort Ann Bunker; lifelong Luton; straw hat sewer; last recorded 1911
+- [[comfort-ann-bunker-sources-familysearch]] — FamilySearch sources (10); Comfort Ann "Jane" Bunker; Sinfield household 1871–1891; married Henry Ewington 1892 Luton; reveals Martha Sarah Bunker's Sinfield marriage
 - [[thomas-barnsley-print-view-familysearch]] — FamilySearch print view; Thomas Barnsley; Bradwell/Ashton-under-Lyne/Matlock; father of Margaret
 - [[thomas-barnsley-sources-familysearch]] — FamilySearch sources view; census occupations 1841–1881; wife Eliza Bradwall; children Elizabeth, Martha, Joseph, Margaret; 1881 "Formerly Shop Keeper"
 - [[thomas-barnsley-probate-1890]] — Administration with Will index entry; died 11 Aug 1890 Bradwell; admin Derby to son Joseph Barnsley (Leeds, tallow manufacturer); effects £50 1s. 7d.
