@@ -163,148 +163,55 @@ Key findings integrated:
 Pages updated: [[whipsnade]], [[kensworth]], [[matthews-wilson-1801]]
 Source created: [[bartholomew-byu-studies-buckinghamshire-lds-1849]]
 
-## [2026-06-13] update | Structural gaps resolved — 16 missing pages created
+## [2026-06-10] compressed | Longevity analysis — Whipsnade-Cook-Birchmore vs. Bunker women
 
-Created all missing pages identified in the lint. 7 family pages: [[hain-unknown-whipsnade]], [[fuller-fuller-hemingford]], [[arnold-cardington]], [[thody-gardner-1804]], [[thody-dance-1845]], [[batchelor-bingham-flamstead]] (upgraded from stub), [[maynard-rumball-luton]]. 9 person pages: [[mary-hall-1730]], [[susannah-durrant-1739]], [[elizabeth-myers-unknown]], [[robert-eric-thody-1924]], [[marguerite-dorreen-thody-1926]], [[john-brian-thody-1936]], [[john-isaac-mason-1913]], [[catherine-ellen-mason-1916]], [[george-r-mason-1919]], [[leslie-thomas-cook-1907]]. All added to index.
-
-## [2026-06-13] update | norman-briggs-1710 family page created
-
-Created the missing family page for William Norman (1687–1747) and Alice Briggs (1685–1766), married 3 May 1710 at Cottenham, Cambridgeshire. This was the most significant broken link in the wiki — the page was listed in the index and linked from `[[richard-norman-1723]]` but had never been written. Sources: FamilySearch print view (original and corrected) for Richard Norman. Lists seven known children including multiple short-lived Thomas entries. Notes the L565-ZVH question (possible sibling or cousin Richard Norman also at Cottenham 1718–1753).
-
-Pages created: [[norman-briggs-1710]]
-
-## [2026-06-13] lint | Full wiki lint
-
-Ran full lint. 241 people · 85 families · 303 sources · 31 places. Key findings: `[[norman-briggs-1710]]` is in the index and linked from person pages but no file exists; 8 other family pages actively linked but missing; 8 untracked `Search Results` clippings in raw/clippings/ need verification; research-state stale (last updated 2026-05-11). Full report at `outputs/lint-2026-06-13.md`.
-
-## [2026-06-13] ingest | Richard Norman (1723), Robert Norman (1769) — FamilySearch corrections confirmed
-
-Ingested two corrected print-view clippings after FamilySearch data was fixed. The Mary Essex marriage has been removed from Richard Norman's profile (P68D-T5X) — the profile now shows only the Mary Hall marriage (1749, Over) and Robert Norman (1769) as sole child. This confirms the analysis from the earlier data quality review. Robert Norman's corrected print view adds Alice Morling's dates (born 1785, died 1849) — she was sixteen years younger than Robert and outlived him by seven years.
-
-Richard Norman's person page simplified: the lengthy disputed section replaced by a brief historical note. Norman-essex-1740 family page updated from active caveat to resolved reference record.
-
-Pages updated: [[richard-norman-1723]], [[norman-essex-1740]], [[robert-norman-1769]]
-Sources created: [[richard-norman-1723-print-view-2-familysearch]], [[robert-norman-1769-print-view-2-familysearch]]
-
-## [2026-06-13] update | Richard Norman (1723) — FamilySearch data quality review; Mary Essex attribution withdrawn
-
-Reviewed the Richard Norman (P68D-T5X) FamilySearch profile critically. The Mary Essex marriage previously recorded as his "first marriage" is almost certainly a FamilySearch data error — the same 1740 Cottenham marriage is attached to a second profile (L565-ZVH, Richard Norman 1718–1753) with a different set of children, and accepting both marriages for P68D-T5X creates a bigamy impossibility (Mary Essex died 1765, sixteen years after the Hall marriage in 1749). The Essex marriage has been withdrawn from the narrative and the family page flagged as disputed. Additional contamination noted: 1834 daughter, spurious 1810 burial as parentage evidence, duplicate sons. The Mary Hall marriage (1749) and Robert Norman (1769) parentage are retained as the credible core.
-
-Pages updated: [[richard-norman-1723]], [[norman-essex-1740]], [[mary-essex-1722]], [[richard-norman-1723-print-view-familysearch]], [[richard-norman-1723-sources-familysearch]]
-
-## [2026-06-13] ingest | Richard Norman (1723), Mary Essex (1722), Robert Norman (1769) — Norman ancestry pushed back two generations
-
-Ingested five clippings: Richard Norman print view and sources page (16 sources), Robert Norman print view (second clip confirming parentage), and Mary Essex print view.
-
-**Headline findings:**
-- Robert Norman's parentage confirmed: son of Richard Norman (1723–1783) and Mary Hall (1730–1782), married 1 Oct 1749 at Over. Previously unknown.
-- Richard Norman was a **Weaver** in Over — a skilled trade, not agricultural. Pushes the Norman line's occupational history back.
-- Richard's own parents: William Norman (1687–1747) and Alice Briggs (1685–1766), married 3 May 1710 Cottenham. Norman family now traced four confirmed generations in the Over/Swavesey/Cottenham cluster.
-- Richard had two marriages: (1) Mary Essex, 1740 Cottenham — children William (1739) and Richard (1745); (2) Mary Hall, 1749 Over — son Robert (1769).
-- Correction to existing Robert Norman page: he did remarry after Frances Green's death — **Alice Morling**, 2 November 1818 at Over. Previously recorded as "no second marriage."
-- FamilySearch data quality issue noted: Mary Essex attached to two conflicting Richard Norman profiles. Documented in source summary; our research follows P68D-T5X.
-
-Pages created: [[richard-norman-1723]], [[mary-essex-1722]], [[norman-essex-1740]], [[norman-hall-1749]], [[richard-norman-1723-print-view-familysearch]], [[richard-norman-1723-sources-familysearch]], [[mary-essex-1722-print-view-familysearch]]
-Pages updated: [[robert-norman-1769]] (parentage filled, second marriage added)
-
-## [2026-06-13] update | Frederick Bunker, Roland Bunker, bunker-geary-1892 — post-war contraction, Oakley Road, estrangement
-
-Added analysis of the post-WWI building slump to Frederick's person page: the contraction from 105 Hartley Road to 50 Hampton Road as structural economic failure rather than personal failure; speculative note on depression consistent with the documented facts; balanced by the Oakley Road evidence (Frederick helped build 9 Oakley Road for Beulah and Harry in the 1920s, photograph survives). Clarified that the estrangement was Eliza's — relationships with Beulah, Harry, and Roland remained warm throughout. Added the Oakley Road irony (Frederick built it; Eliza died in it). Roland's person page updated with the boom/bust origin of his drive: he was 13 at 105 Hartley Road, came home from naval training to 50 Hampton Road, and built his entire life around structural durability in direct contrast to his father's trade-cycle exposure.
-
-Pages updated: [[frederick-bunker-1869]], [[roland-herbert-bunker-1898]], [[bunker-geary-1892]]
-
-## [2026-06-13] update | Eliza Geary (1859) — person page and family page enriched
-
-Corrected Lydia Rose Geary's status in the 1921 Southend references on both pages: she was not widowed but unmarried, with an illegitimate son; "widowed" was a social fiction. Added analysis of the move to Luton before 1911 (Elizabeth and Albert Geary already established there — a sibling pull). Added discussion of 105 Hartley Road (large double-fronted house, Edwardian building boom the primary explanation, inheritance from a woodman's estate considered and found weak). Added discussion of the downward shift from 105 Hartley Road to 50 Hampton Road (post-WWI contraction, children leaving home). Open questions updated on the family page.
-
-Pages updated: [[eliza-geary-1859]], [[bunker-geary-1892]]
-
-## [2026-06-13] ingest | Rebecca Arnold (1778), Joseph Sanders (1774) — Elizabeth Saunders's parentage established
-
-Ingested three clippings: Rebecca Arnold FamilySearch sources page, Joseph Sanders FamilySearch sources page, and a screenshot of Samuel Arnold's 1790 will.
-
-**Headline finding:** Elizabeth Saunders's full parentage is now documented. Her mother was **Rebecca Arnold** (abt 1778–August 1812), daughter of **Samuel Arnold**, a farmer at **Cotton End, Cardington** — the same hamlet where Elizabeth later lived. Samuel Arnold's will (proved 2 November 1790) left £150 specifically to Rebecca, identifying the family as property-owning farming stock.
-
-Rebecca married **Joseph Sanders** (shoemaker) in Cardington in May 1799. They had three daughters: Mary (born 1800), Anne (christened 1804), Sarah (born c. 1808). Joseph was buried June 1810. Thirteen months later, Rebecca had an illegitimate child — Elizabeth, born c. 24 June 1811. Elizabeth's father is unknown. Rebecca died August 1812, leaving Elizabeth an orphan at 14 months.
-
-On 25 August 1811, Rebecca had two children baptised at Cardington on the same day: the long-delayed Sarah (born c. 1808) and the newborn Elizabeth (aged nine weeks).
-
-The 1790 will named Samuel Arnold's brothers **Robert Arnold** and **John Arnold** as co-executors. The witnesses at Allen and Elizabeth's 1834 wedding were **John Arnold** and **Elizabeth Arnold** — almost certainly from the same Arnold family, completing the circle.
-
-Pages created: [[rebecca-arnold-1778]], [[joseph-sanders-1774]], [[sanders-arnold-1799]], [[rebecca-arnold-familysearch]], [[joseph-sanders-familysearch]]
-Pages updated: [[elizabeth-saunders-1811]], [[thody-saunders-1834]], [[cardington-bedfordshire]]
-
-## [2026-06-13] ingest | William Thody (1774), Allen Thody (1813), Elizabeth Saunders (1811) — Thody ancestry clippings
-
-Ingested six clippings (three full FamilySearch sources pages + three print views) for William Thody, Allen Thody, and Elizabeth Saunders, clipped 2026-06-13.
-
-**Headline finding:** Allen Thody's father is confirmed as **William Thody (abt 1774–1858)**, a soldier of the 40th Regiment of Foot. William received the **Waterloo Medal in 1815** — he was "in the action at Waterloo." He had married Allen's mother (a widow named Elizabeth, formerly Meyers) at **Badajoz, Spain, c. 1809** during the Peninsular War. Allen was born 5 October 1813 in Spain during the campaign. This resolves the long-standing open question about Allen's Spanish birthplace.
-
-William was born in Cardington (confirmed by the 1782 Cardington inhabitants survey, aged 7, son of Samuel Thody and Elizabeth Pearsey). He was wounded at Waterloo, honourably discharged, and admitted as a Chelsea Pensioner on 19 September 1816. He spent his final decades in Chelsea and died 7 August 1858 at 15 Paradise Walk.
-
-**New for Allen:** exact birth date confirmed (5 October 1813) from family history manuscript; exact death date and place confirmed (22 March 1898, Cotton End, Eastcotts; cause: Decay; informant: daughter Ann Thody).
-
-**New for Elizabeth Saunders:** she was **illegitimate** — baptised 25 August 1811 as "Elizabeth, illegitimate Child of Rebecca Saunders, Widow." Her father is unknown. Exact death date confirmed: 11 October 1898.
-
-Pages created: [[william-thody-1774]], [[thody-myers-1809]], [[william-thody-familysearch]], [[allen-thody-familysearch]], [[elizabeth-saunders-familysearch]]
-Pages updated: [[allen-thody-1813]], [[elizabeth-saunders-1811]], [[thody-saunders-1834]], [[cardington-bedfordshire]]
-
-## [2026-06-13] ingest | Florence Bransom (1873), Clara Lucy Bransom (1877), Arthur Perry — Perry family clippings
-
-Ingested five clippings (Florence Bransom print view; Arthur Perry sources; Percy Arthur Perry, Florence Hilda Perry, Elsie Perry print views) clipped 2026-06-13.
-
-Key findings: Florence Bransom married Arthur Perry in 1898 at Luton (marriage registration confirmed). Three children: Percy Arthur Perry (1900, Dunstable), Florence Hilda Perry (1903, Whipsnade), Elsie Perry (1907, Dunstable). Florence died June 1963 in Luton. The 1911 census shows a split household: Florence was at her parents' Whipsnade home with Florence Hilda (age 8), while Arthur remained in Dunstable with Percy (11) and Elsie (4), and Clara Lucy Bransom was living there as his sister-in-law.
-
-Corrections: Florence's death place updated from "unknown" to Luton. Clara's person page rewritten to clarify the "sister-in-law" relationship — previously left uncertain, now resolved by the confirmed Perry marriage.
-
-Pages created: [[arthur-perry-1866]], [[perry-bransom-1898]], [[percy-arthur-perry-1900]], [[florence-hilda-perry-1903]], [[elsie-perry-1907]], [[florence-bransom-print-view-familysearch]], [[arthur-perry-sources-familysearch]]
-Pages updated: [[florence-bransom-1873]], [[clara-lucy-bransom-1877]], [[cook-bransom-1871]]
-
-## [2026-06-13] ingest | FamilySearch — Samuel Fensome sources (24 records)
-
-Sources: `Samuel Fensome (1842–1920) • Person • Family Tree.md` and `Samuel Fensome (1842–1920) • Person • Family Tree 1.md`, clipped 2026-06-13. Together these cover all 24 FamilySearch sources attached to Samuel Fensome (ID: M98H-FDH).
+Quantitative longevity analysis across 186 individuals, followed by three rounds of refinement.
 
 Key findings:
-- **Occupation resolved**: Samuel was an iron works labourer in Bedford in 1871, then a shoemaker from 1881 through 1911. The open question on the family page is closed. He did not work in the Pilsley collieries.
-- **Helen Fensome confirmed**: a first-born child (abt 1864, Bedford) previously missing from all family records. She appears in the 1871 census (daughter, age 7) and married John George Mason at Pilsley on 28 December 1891. The family had nine children, not eight.
-- **Precise birthplaces**: Herbert Charles was born at Pertenhall, Bedfordshire (not Bedford); Edgar at Ravensden — finer detail than previously recorded.
-- **Children's marriages**: six of the nine children married at Pilsley parish church between 1889 and 1902, confirming the family's deep rootedness in the village.
+- **Whipsnade-Cook-Birchmore maternal line women** (n=23): mean 82.3 years, ranging 65–95; 18/23 reach age 74+. Pattern holds across six generations, 1766–1996, rural and urban.
+- **Norman-Birchmore sex gap**: daughters mean 82.9 years; sons (incl. Charles Sr) mean 57.0 years — gap 25.9 years. Two-factor explanation: maternal longevity inheritance in daughters; occupational hazard override in sons.
+- **Marriage does not explain daughters' longevity**: married Norman daughters (84.0) slightly outlive unmarried (81.3).
+- **Bunker women** (n=15): mean 68.4 years (cleaned 71.8 after removing extrinsic deaths — Frederick Bunker tetanus, Beulah asthma, Charles Norman Sr cancer). Gap with Whipsnade-Cook-Birchmore women narrows from 13.9 to 10.7 years but remains substantial.
+- **Longevity transmits to males**: Bransom brothers (Albert 69, Ebenezer 90, Walter 82) mean 80.3 — near-identical to the female mean; Norman men's early deaths are an occupational override, not a sex-limited trait.
+- **Thody/Cardington same regional pool as Whipsnade**: Thody family in Cardington since ~1744 (~20 miles from Whipsnade, same county); Allen Thody's Spain birth is a Peninsular War accident. Harry Thody's longevity is not an independent stream.
+- **Geographic hypothesis**: the variant appears localised to the Whipsnade/Cardington cluster vs. Millbrook/Westoning Bunker origin ~20–25 miles apart — the most productive research lead.
+- **Survivorship bias caveat added**: all means conditional on surviving childhood; bias broadly equal across groups.
+- Frederick Bunker's death updated to tetanus (occupational; bricklayer).
 
-Pages created: [[samuel-fensome-sources-familysearch]]
-Pages updated: [[samuel-fensome-1842]], [[bunker-fensome-1863]], index
+Pages created: [[longevity-analysis-2026-06-10]]
+Pages updated: [[longevity-analysis-2026-06-10]] (multiple revisions), [[allen-thody-1813]], [[cardington-bedfordshire]], [[frederick-bunker-1869]]
 
----
+## [2026-06-13] compressed | Norman ancestry confirmed; wiki lint; structural pages
 
-## [2026-06-10] query | Longevity analysis — refinements: cause of death, male transmission, regional pool
-
-Three rounds of refinement to the longevity analysis.
-
-**Cause-of-death correction.** Three deaths identified as extrinsic (non-aging) causes: Charles Norman Sr (tongue cancer, tobacco-related, possible occupational confound at Smithfield); Beulah Bunker (asthma attack, 1948 — pre-inhaler era, untreatable); Frederick Bunker (tetanus infection, occupational death as bricklayer). Removing extrinsic deaths: Norman-Birchmore male mean shifts from 57.0 to 61.5; Bunker women cleaned mean rises from 68.4 to 71.8; gap between Whipsnade-Cook-Birchmore women and Bunker women narrows from 13.9 to 10.7 years but remains substantial.
-- Frederick Bunker page updated with tetanus cause of death.
-- Also noted: Eusden family cluster (all 5 siblings dead before 50, 1833–1843, mean ~35) is a Fenland TB/malaria extrinsic event, not a genetic longevity signal; environmentally explained by Fenstanton fen-ague and familial TB exposure.
-
-**Survivorship bias caveat.** Analysis does not capture infant/childhood deaths — only 3 deaths under age 20 have person pages; 27 family pages mention infant deaths without corresponding pages. All means are conditional on surviving childhood ("life expectancy at age 20"). Bias is broadly equal across comparison groups; the Norman-Birchmore family itself has no infant deaths (all 9 children survived to adulthood), so their finding is unaffected. Caveat added to [[longevity-analysis-2026-06-10]].
-
-**Male transmission and the regional gene pool.** Harry Thody (1894–1986, age 92) is a male descended through the Whipsnade Cook line (mother Lucy Cook, granddaughter of Ruth Cooke). Initially analysed as "two independent longevity streams" (Cook maternal + Thody paternal) — this was revised. The Thody family has been in Cardington, Bedfordshire since 1744 (5 generations); Allen Thody's Spain birth is a Peninsular War accident. Cardington is ~20 miles from Whipsnade in the same county. The Cook and Thody longevity are expressions of the same rural south Bedfordshire / north Hertfordshire regional gene pool, not independent coincidences.
-- Cleaner male test: Bransom brothers (sons of Mary Saunders Cook, Ruth Cooke's daughter) — Albert 69, Ebenezer 90, Walter 82, mean 80.3 — virtually identical to the female mean of 82.3. Longevity transmits to males; the Norman men's early deaths are an occupational override, not a sex-limited trait.
-- Bunker contrast (cleaned mean 71.8) within the same county suggests the variant is geographically localised — Whipsnade/Cardington cluster vs. Millbrook/Westoning Bunker origin, ~20–25 miles apart. This geographic boundary is the most productive line to investigate.
-- Lucy Cook's father unknown (illegitimate). If from the Whipsnade community, Harry's Cook ancestry is even more deeply embedded in the regional pool.
-
-Pages updated: [[longevity-analysis-2026-06-10]] (multiple sections revised and extended), [[allen-thody-1813]] (Cardington ancestry corrected), [[cardington-bedfordshire]] (Thody-Whipsnade geographic relationship added), [[frederick-bunker-1869]] (tetanus cause of death added).
-
-## [2026-06-10] query | Longevity analysis — Whipsnade-Cook-Birchmore female line
-
-Conducted quantitative longevity analysis across 186 individuals with calculable age at death (232 person pages total).
+Richard Norman (1723) ingest → FamilySearch data quality review → corrections confirmed; full lint; 16 structural pages created.
 
 Key findings:
-- **Whipsnade-Cook-Birchmore maternal line women** (n=23): mean 82.3 years, ranging 65–95; 18/23 reach age 74+. Pattern holds across six generations, 1766–1996, rural and urban, married and single.
-- **Norman-Birchmore sex gap**: daughters mean 82.9 years; sons (incl. father Charles) mean 57.0 years; gap 25.9 years. Two-factor explanation: daughters carry maternal longevity inheritance; sons died young from working-class London occupational hazards.
-- **Marriage does not explain daughters' longevity**: married Norman daughters (mean 84.0) slightly outlive unmarried ones (mean 81.3), ruling out the spinster/childbirth-avoidance effect.
-- **Bunker-line women** (n=15): mean 68.4 years — 14 years below the Whipsnade-Cook-Birchmore female mean.
-- **Cook-Whipsnade men** also long-lived (Ebenezer 90, Walter 82, Edwin 78) — the community is broadly robust, not just the women.
-- **Best research lead**: Richard Norman (1853) Hartlepool line — 11 children with no death data. If his daughters are long-lived, it supports genetic hypothesis without the Cook-Birchmore maternal input.
+- **Richard Norman (1723) confirmed**: Weaver at Over, Cambridgeshire; son of William Norman (1687–1747) and Alice Briggs (1685–1766), married Cottenham 3 May 1710. Norman line now traced four confirmed generations in the Over/Swavesey/Cottenham cluster.
+- **Mary Essex marriage withdrawn**: Previously recorded as Richard's "first marriage" — a FamilySearch data error. The same 1740 Cottenham marriage is attached to a second conflicting profile (L565-ZVH); accepting both creates a bigamy impossibility (Mary Essex died 1765, sixteen years after the 1749 Mary Hall marriage). Richard's profile now: Mary Hall (1749) + Robert Norman (1769) only.
+- **Alice Morling confirmed**: Robert Norman's second wife (b.1785, d.1849); sixteen years younger, outlived him by seven years. Previously "no second marriage."
+- **[[norman-briggs-1710]] created**: Previously in index and linked from person pages but never written. William Norman + Alice Briggs, married Cottenham 3 May 1710; seven known children.
+- **Full lint (2026-06-13)**: 241 people · 85 families · 303 sources · 31 places. Zero orphans, zero index gaps after fixes.
+- **16 missing pages created**: 7 family pages ([[hain-unknown-whipsnade]], [[fuller-fuller-hemingford]], [[arnold-cardington]], [[thody-gardner-1804]], [[thody-dance-1845]], [[batchelor-bingham-flamstead]], [[maynard-rumball-luton]]) and 9 person pages ([[mary-hall-1730]], [[susannah-durrant-1739]], [[elizabeth-myers-unknown]], [[robert-eric-thody-1924]], [[marguerite-dorreen-thody-1926]], [[john-brian-thody-1936]], [[john-isaac-mason-1913]], [[catherine-ellen-mason-1916]], [[george-r-mason-1919]], [[leslie-thomas-cook-1907]]).
 
-Output saved: [[longevity-analysis-2026-06-10]]
+Pages created: [[richard-norman-1723]], [[mary-essex-1722]], [[norman-essex-1740]], [[norman-hall-1749]], [[norman-briggs-1710]], plus source summaries; 16 structural pages listed above
+Pages updated: [[richard-norman-1723]], [[norman-essex-1740]], [[mary-essex-1722]], [[robert-norman-1769]]
+
+## [2026-06-13] compressed | Bunker/Geary enrichment; Thody ancestry; Fensome/Bransom/Perry
+
+Six ingests and updates across the Bunker, Thody, and Whipsnade threads.
+
+Key findings:
+- **Frederick Bunker post-WWI trajectory**: 105 Hartley Road reinterpreted as Edwardian building boom success; contraction to 50 Hampton Road explained as trade-cycle failure, not personal failure. Oakley Road irony: Frederick helped build it; Eliza died in it. Estrangement was Eliza's — Roland's relationships with his father and siblings remained warm.
+- **Eliza Geary page enriched**: Lydia Rose Geary's 1921 "widowed" status corrected to unmarried with illegitimate son (social fiction). Luton pull factors established: sister Elizabeth in Luton from 1881, brother Albert also there, Bunker aunts Martha and Comfort Ann already settled.
+- **Elizabeth Saunders parentage fully established**: Rebecca Arnold (abt 1778–August 1812), daughter of Cotton End farmer Samuel Arnold (will proved 1790, left £150 to Rebecca). Rebecca married Joseph Sanders (shoemaker, d.1810) but Joseph was not Elizabeth's father. Elizabeth baptised 25 August 1811 as "illegitimate Child of Rebecca Saunders, Widow"; Rebecca died August 1812 leaving Elizabeth orphaned at 14 months. Witnesses at Allen and Elizabeth's 1834 wedding (John Arnold, Elizabeth Arnold) almost certainly from the same Arnold family.
+- **William Thody (1774–1858) confirmed as Waterloo veteran**: Soldier, 40th Regiment of Foot; born Cardington (confirmed 1782 Cardington inhabitants survey). Married Allen's mother (widow Elizabeth, formerly Meyers) at Badajoz, Spain, c.1809 during Peninsular War. Waterloo Medal 1815; wounded; Chelsea Pensioner from 19 September 1816; died 7 August 1858, 15 Paradise Walk, Chelsea.
+- **Allen Thody**: exact birth 5 October 1813, Spain confirmed; exact death 22 March 1898, Cotton End, Eastcotts (cause: Decay; informant daughter Ann Thody).
+- **Elizabeth Saunders**: baptised as "Elizabeth, illegitimate Child of Rebecca Saunders, Widow," 25 August 1811; exact death 11 October 1898.
+- **Samuel Fensome occupation resolved**: Iron works labourer (Bedford 1871) → shoemaker (Pilsley 1881–1911); did not work in the collieries. **Helen Fensome** (abt 1864) confirmed as first child — previously missing from all records; married John George Mason at Pilsley 28 December 1891. Nine children total, not eight.
+- **Florence Bransom/Perry family**: Florence Bransom (1873) married Arthur Perry 1898 Luton; 3 children (Percy 1900 Dunstable, Florence Hilda 1903 Whipsnade, Elsie 1907 Dunstable). Split household in 1911 (Florence + Florence Hilda at Whipsnade parents'; Arthur + Percy + Elsie in Dunstable; Clara Bransom living with Arthur as sister-in-law). Florence died Luton 1963.
+
+Pages created: [[william-thody-1774]], [[thody-myers-1809]], [[rebecca-arnold-1778]], [[joseph-sanders-1774]], [[sanders-arnold-1799]], [[arthur-perry-1866]], [[perry-bransom-1898]], [[percy-arthur-perry-1900]], [[florence-hilda-perry-1903]], [[elsie-perry-1907]], [[samuel-fensome-sources-familysearch]], plus source summaries
+Pages updated: [[frederick-bunker-1869]], [[roland-herbert-bunker-1898]], [[bunker-geary-1892]], [[eliza-geary-1859]], [[allen-thody-1813]], [[elizabeth-saunders-1811]], [[thody-saunders-1834]], [[cardington-bedfordshire]], [[samuel-fensome-1842]], [[bunker-fensome-1863]], [[florence-bransom-1873]], [[clara-lucy-bransom-1877]], [[cook-bransom-1871]]
 
 ---
 
@@ -813,3 +720,12 @@ Compressed 5 entries (2026-05-07 to 2026-05-10) into one block. Entries covered:
 
 ## [2026-05-13] compress | Norman-Hartlepool branch
 Compressed 5 entries (2026-05-06 to 2026-05-07) into one block.
+
+## [2026-06-24] compress | Longevity analysis
+Compressed 2 entries (2026-06-10) into one block.
+
+## [2026-06-24] compress | Norman ancestry confirmed + lint
+Compressed 6 entries (all 2026-06-13) into one block.
+
+## [2026-06-24] compress | Bunker/Geary/Thody/Fensome/Perry enrichment
+Compressed 6 entries (all 2026-06-13) into one block.
