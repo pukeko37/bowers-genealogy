@@ -1,3 +1,31 @@
+## [2026-06-24] update | Family pages for John Watts Bunker and David Bunker
+
+Created family pages for the two Millbrook Bunker siblings who lacked them. Both pages are built from existing census and registration data already held in their person pages; no new sources ingested.
+
+[[bunker-woodland-1854]]: John Watts Bunker (1831–1899) married Ann Woodland 1 September 1854 at Ampthill. Seven children, all born Bedford area. John worked as Shoesmith (1871) then Hammer Man (1881) at St Mary's Bedford. Mass christening pattern at St Mary's 1867 (three children at once) echoes the family's Nonconformist practice. All seven children are untraced after the early 1880s.
+
+[[bunker-bentley-1859]]: David Bunker (1837–1920) married Marian Bentley (Biggleswade, ~1831) on 11 October 1859 at St Paul's Bedford. Four children, all born Bedford. David migrated northeast (not Derbyshire like his siblings): Groom at St Ive 1871 → Railway Wagon Builder Storekeeper at Peterborough 1881 → Engineers Store Keeper 1891. Listed as "Patient" in 1891 census. Marian died 1914; David died 1920, longest-lived of the nine Millbrook siblings. Three of four children untraced after early censuses; Elizabeth Jane still in household 1901.
+
+Person pages updated: [[john-watts-bunker-1831]], [[david-bunker-1837]] (families-as-parent linked)
+
+## [2026-06-24] ingest | Henry Ewington death — 1912 Luton
+
+GRO index entry provided directly: Henry Ewington, age 61, Luton 1912, vol 3B p368.
+
+Henry predeceased Comfort Ann by nine years. She was widowed in 1912 and died in Luton Q1 1921. The last years of her life followed the same pattern as the first — living in Luton, now without a husband rather than without a home of her own.
+
+Pages created: [[henry-ewington-death-1912]]
+Pages updated: [[comfort-ann-bunker-1848]]
+
+## [2026-06-24] ingest | Comfort Ann Bunker death confirmed — March 1921
+
+FreeBMD GRO index entry: **Ewington, Comforrt A.** [transcription error], age 72, Luton, Deaths Mar 1921, vol 3b p434.
+
+Closes the previously unknown death date. Comfort Ann died in Luton in early 1921, aged 72 — consistent with her November 1848 christening. She died under her married name Ewington, 20 years after her sister Martha Sarah died in the same town.
+
+Pages created: [[comfort-ann-ewington-death-1921]]
+Pages updated: [[comfort-ann-bunker-1848]], [[bunker-watts-1830]]
+
 ## [2026-06-24] ingest | Martha Sinfield death notice — Luton Times and Advertiser
 
 BNA search result for "martha sinfield", Luton Times and Advertiser, 12 July 1901.

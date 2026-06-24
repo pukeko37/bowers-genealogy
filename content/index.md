@@ -74,6 +74,8 @@
 - [[thody-cook-1894]] — William Thody & Lucy Cook, married 1894 Whipsnade, 1 child; step-children Clarence & Florence also in household
 - [[thody-bunker-1920]] — Harry Thody & Beulah Bunker, married 1920 Little Gaddesden
 - [[bunker-sinfield-1863]] — Joseph Sinfield (Kempston) & Martha Sarah Bunker, married 25 May 1863 St Paul Bedford; Annie Maria & Elizabeth Julia; Luton; Martha died 1901, Joseph 1914
+- [[bunker-woodland-1854]] — John Watts Bunker & Ann Woodland, married Ampthill 1854; 7 children; Bedford/Ampthill; John Shoesmith→Hammer Man; children untraced after 1880s
+- [[bunker-bentley-1859]] — David Bunker & Marian Bentley (Biggleswade), married Bedford 1859; 4 children; Peterborough; Railway Storekeeper; Marian died 1914, David 1920
 
 ### Matthews · LDS
 
@@ -360,6 +362,7 @@
 - [[thomas-bunker-1738]] — Thomas Bunker (1738–1825), Millbrook; married Martha Sinfield 1761; buried Toddington aged 87
 - [[martha-sinfield]] — Martha Sinfield (dates unknown), married Thomas Bunker 1738 at Millbrook 1761; no birth/death records found
 - [[john-watts-bunker-1831]] — John Watts Bunker (1831–1899), Caleb's eldest brother; Bedford area; died Ampthill
+- [[ann-woodland-1835]] — Ann Woodland (abt 1835–unknown), John Watts Bunker's wife; Ampthill; parentage unknown
 - [[lydia-bunker-1833]] — Lydia Bunker (1833–1922), Caleb's sister; married Samuel Plackett Lane 1863; widowed 1872; Bedford then Barton Almshouse Turvey; died aged 89
 - [[samuel-plackett-lane-1841]] — Samuel Plackett Lane (abt 1841–1872), boot maker; married Lydia Bunker 1863; died aged 29 leaving 3 daughters
 - [[edith-mercy-lane-1865]] — Edith Mercy Lane (abt 1865–?), eldest Lane daughter; married Frank Humphries Locke 1884; 4 children
@@ -368,12 +371,13 @@
 - [[george-bunker-1836]] — George Bunker (1836–1917), Caleb's brother; married Ann Pedder 1858; Storekeeper then General Labourer; Millbrook → Bedford → New Tupton → Derby
 - [[ann-pedder-1838]] — Ann Pedder (abt 1838–unknown), George Bunker's wife; Westoning, Bedfordshire; 5 children
 - [[david-bunker-1837]] — David Bunker (1837–1920), Caleb's brother; Millbrook → Peterborough; died aged ~83
+- [[marian-bentley-1831]] — Marian Bentley (abt 1831–1914), David Bunker's wife; born Biggleswade; six years David's senior; died Peterborough
 - [[charles-bunker-1839]] — Charles Bunker (1839–?), Caleb's brother; west London (Paddington, Kensington, Hammersmith)
 - [[martha-sarah-bunker-1841]] — Martha Sarah Bunker (1841–1901), married Joseph Sinfield 1863 Bedford; Straw Hat Sewer; died Luton 1901 as "Martha Sarah Sinfield"
 - [[joseph-sinfield-1844]] — Joseph Sinfield (1844–1914), christened Kempston; Hammerman→Police Constable Luton; parents William Sinfield & Sarah; died Luton 12 Apr 1914
 - [[phoebe-alice-bunker-1843]] — Phoebe Alice Bunker (1843–1923), Caleb's sister; married Samuel Fensome 1863; 8 children; Pilsley Derbyshire then Yorkshire
 - [[samuel-fensome-1842]] — Samuel Fensome (abt 1841–1920), Phoebe Alice Bunker's husband; born Ravensden, Bedfordshire; parents Thomas Fensom & Sarah Barrick; died Mansfield, Nottinghamshire
-- [[comfort-ann-bunker-1848]] — Comfort Ann Bunker (abt 1848–?), known as Jane/Annie; Sinfield household 1871–1891; married Henry Ewington 1892 Luton; straw hat sewer
+- [[comfort-ann-bunker-1848]] — Comfort Ann Bunker (abt 1848–Q1 1921), known as Jane/Annie; Sinfield household 1871–1891; married Henry Ewington 1892; died Luton Q1 1921 aged 72
 
 ### Bowers · Reynolds
 
@@ -658,6 +662,8 @@
 - [[martha-sarah-bunker-print-view-familysearch]] — FamilySearch print view and sources (13); Martha Sarah Bunker; married Joseph Sinfield 1863; Straw Hat Sewer; died Luton 1901 as "Martha Sarah Sinfield"; obituary BNA
 - [[joseph-sinfield-sources-familysearch]] — FamilySearch print view and sources (15); Joseph Sinfield; christened Kempston 1844; parents William & Sarah; occupation trail; daughter Annie Hyde (straw hat blocker); died Luton 1914; obituary BNA
 - [[martha-sinfield-death-notice-1901]] — death notice, Luton Times and Advertiser 12 Jul 1901; 21 Cumberland Street Luton; aged 60; brief column entry not full obituary
+- [[comfort-ann-ewington-death-1921]] — FreeBMD GRO index; Ewington Comforrt A. [sic]; age 72; Luton; Deaths Mar 1921; vol 3b p434
+- [[henry-ewington-death-1912]] — GRO index; Henry Ewington, age 61, Luton 1912, vol 3B p368; predeceased Comfort Ann by 9 years
 - [[phoebe-alice-bunker-print-view-familysearch]] — FamilySearch print view (incomplete); Phoebe Alice Bunker vitals and residences only; superseded by Family Tree 1
 - [[phoebe-alice-bunker-family-tree-1-familysearch]] — FamilySearch Family Tree 1 (complete); marriage to Samuel Fensome 1863; 8 children confirmed
 - [[samuel-fensome-print-view-familysearch]] — FamilySearch print view; born Ravensden 1841; parents Thomas Fensom & Sarah Barrick; died Mansfield 1920

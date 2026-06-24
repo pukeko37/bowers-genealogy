@@ -6,7 +6,8 @@ died: "1920"
 birth-place: "Millbrook, Bedfordshire"
 death-place: "Peterborough, England"
 family-of-origin: "[[bunker-watts-1830]]"
-families-as-parent: []
+families-as-parent:
+  - "[[bunker-bentley-1859]]"
 sources:
   - "[[david-bunker-print-view-familysearch]]"
 created: 2026-05-02

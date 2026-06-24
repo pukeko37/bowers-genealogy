@@ -59,7 +59,7 @@ Nine children, all born in Millbrook:
 6. [[martha-sarah-bunker-1841|Martha Sarah Bunker]] (1841–1901) — married **Joseph Sinfield** 25 May 1863 St Paul's Bedford; 2 daughters; Luton 1881–1901; died 7 Jul 1901 as "Martha Sarah Sinfield". See [[bunker-sinfield-1863]].
 7. [[phoebe-alice-bunker-1843|Phoebe Alice Bunker]] (1843–1923) — married [[samuel-fensome-1842|Samuel Fensome]] 1863 Bedford; 8 children; Pilsley, Derbyshire then Hucknall Torkard, Nottinghamshire. See [[bunker-fensome-1863]].
 8. [[caleb-bunker-1845|Caleb Bunker]] (1845–1918) — Matlock/Derby; Roland Bunker's grandfather
-9. [[comfort-ann-bunker-1848|Comfort Ann Bunker]] (1848–?) — known as "Jane Bunker" from 1871; lived in Martha's Sinfield household until 1892; married Henry Ewington 28 March 1892 Luton; straw hat sewer throughout
+9. [[comfort-ann-bunker-1848|Comfort Ann Bunker]] (1848–Q1 1921) — known as "Jane Bunker" from 1871; lived in Martha's Sinfield household until 1892; married Henry Ewington 28 March 1892 Luton; died Luton Q1 1921 aged 72 as "Comfort A. Ewington"
 
 ## Family Life
 
