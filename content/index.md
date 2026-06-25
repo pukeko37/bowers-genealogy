@@ -453,6 +453,7 @@
 - [[george-birchmore-1786-print-view-familysearch]] — FamilySearch print view; GBP Sr's father; Roe End Farm; fathered GBP Sr with Elizabeth Plummer 1813; married Ann Norton 1815
 - [[elizabeth-watts-print-view-familysearch]] — FamilySearch print view; Elizabeth Watts born Cranfield; parents John Watts & Sarah Capel; closes bunker-watts open question
 - [[john-watts-print-view-familysearch]] — FamilySearch print view; John Watts (1790–1814); died aged 24; Elizabeth Watts's father
+- [[alfred-john-watts-familysearch]] — FamilySearch person page; Alfred John Watts (b.1875, Lidlington); grandson of Joseph Watts (1811–1891, John's brother); lodger with Lydia Lane 1891
 - [[sarah-capel-print-view-familysearch]] — FamilySearch print view; Sarah Capel; three marriages (Watts, Roffe, Thompson); parents Samuel Capel & Sarah Knight
 - [[samuel-capel-print-view-familysearch]] — FamilySearch print view; Samuel Capel (1750–1808); Cranfield; 10 children
 - [[sarah-knight-print-view-familysearch]] — FamilySearch print view; Sarah Knight (1755–1839); Cranfield; parents William Knight & Mary Gurney

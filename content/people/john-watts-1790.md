@@ -18,6 +18,8 @@ John Watts was christened 25 July 1790 at Lidlington, Bedfordshire, and died in 
 
 John died aged about 24, leaving Sarah a widow with four children under five. He never saw his children grow up: Elizabeth, who became Caleb Bunker's mother, was only four when he died.
 
-His parents were Thomas Watts (?–1808) and Elizabeth (?–?). His father also died young — 1808, the year before John's marriage. Siblings include Joseph Watts (1792, died in infancy) and Joseph Watts (1806–?). The family was from Lidlington, a Bedfordshire village a few miles from Cranfield and Millbrook.
+His parents were Thomas Watts (?–1808) and Elizabeth (?–?). His father also died young — 1808, the year before John's marriage. Siblings include Joseph Watts (1792, died in infancy) and **Joseph Watts (1811–1891)**. The family was from Lidlington and Cranfield, a few miles from Millbrook.
+
+Joseph Watts (1811–1891) married **Eliza Robinson (1814–1887)** on 4 May 1831 at Millbrook — Eliza being herself from Millbrook, which placed the Watts and Bunker/Capel families in overlapping social territory before the 1830 Bunker–Watts marriage. Joseph and Eliza had eleven children, remaining in Lidlington throughout. Their youngest daughter **Sarah Ann Watts (1857)** had an illegitimate son, **Alfred John Watts (b.1875, Lidlington)**, who lodged with [[lydia-bunker-1833|Lydia Lane]] in Bedford in 1891 — Alfred being Lydia's first cousin twice removed through this line. See [[alfred-john-watts-familysearch]].
 
 See [[watts-capel-1809]] for the family page.

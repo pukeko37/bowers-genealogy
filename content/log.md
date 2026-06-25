@@ -1,3 +1,12 @@
+## [2026-06-25] ingest | Alfred John Watts (1875) — Lidlington Watts line and Lydia's lodger
+
+FamilySearch person page and print view for Alfred John Watts (GJQ4-S91), plus print view for his mother Sarah Ann Watts (GJQW-1D2). Establishes the connection between Alfred's appearance in Lydia Lane's 1891 Bedford household and the Watts family of origin.
+
+Key findings: Alfred (b.1875, Lidlington) was the illegitimate son of Sarah Ann Watts (b.1857), who was the youngest daughter of Joseph Watts (1811–1891) and Eliza Robinson. Joseph Watts was the brother of John Watts (1790–1814) — Elizabeth Watts's father — making Alfred Lydia Bunker's first cousin twice removed. He lodged with her in Bedford Eastern Ward in 1891 as a 16-year-old coal man carter. By 1901 he had moved to Wellingborough and married. Corrected the existing [[john-watts-1790]] entry which had listed the sibling as "Joseph Watts (1806–?)" — census evidence confirms born ~1811, Cranfield, died 1891.
+
+Pages created: [[alfred-john-watts-familysearch]]
+Pages updated: [[john-watts-1790]], [[watts-capel-1809]], [[lydia-bunker-1833]]
+
 ## [2026-06-25] update | Millbrook — Holland estate expanded
 
 Expanded "The Manor of Millbrook" section in [[millbrook]] using the bunkersmillbrook blog post on manor ownership. Added full narrative from Norman origins (d'Aubigny/Cainhoe Castle) through medieval transfers (St Amand, Cornwall, Earls of Kent), royal ownership (Anne of Cleves, Henrietta Maria), Civil War (Colonel Okey), Bruce/Upper Ossory seneschals, and the 1818 succession of Henry Vassall-Fox 3rd Baron Holland. Section now includes background on Holland himself and Lady Holland (Holland House, Whig connections, Vassall plantation wealth), the likely reason for the post-death sale (debts), and the practical consequence for Bunker tenants.
