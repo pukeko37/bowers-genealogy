@@ -369,7 +369,8 @@
 - [[mary-reade-1702]] — Mary Reade (1702–1775), married Thomas Bunker 1728 Toddington; 19 FamilySearch sources; 12 children
 - [[thomas-bunker-1738]] — Thomas Bunker (1738–1825), Millbrook; married Martha Sinfield 1761; buried Toddington aged 87
 - [[edward-bunker-1742]] — Edward Bunker (1742–1814), Millbrook all his life; married Mary Ashby 1766; 10 children including Mark Ashby Bunker
-- [[william-bunker-1767]] — William Bunker (1767–1847), Edward's eldest son; married Sarah Beal; Millbrook all his life; son Samuel
+- [[william-bunker-1767]] — William Bunker (1767–abt 1847), Edward's eldest; two marriages (Ann Denton 1792, Sarah Beal 1808); 8+ children; Millbrook all his life
+- [[john-bunker-1769]] — John Bunker (1768–1795), Edward's second son; died aged 27; unmarried; buried Millbrook
 - [[james-bunker-1777]] — James Bunker (1777–1864), Edward's son; three marriages; progenitor of Victorian Millbrook collateral line; died aged ~87
 - [[mark-ashby-bunker-1789]] — Mark Ashby Bunker (1789–1868), sheep stealer; transported to Australia 1817; married and had 8 children there; died 1868
 - [[martha-sinfield]] — Martha Sinfield (dates unknown), married Thomas Bunker 1738 at Millbrook 1761; no birth/death records found
@@ -701,6 +702,10 @@
 - [[margaret-barnsley-sources-familysearch]] — FamilySearch sources for Margaret Barnsley (GWYY-S9K); born 14 Apr 1850; mother Eliza Bradwell; 1871 Matlock shop assistant; 1921 Ashton
 - [[elizabeth-watts-sources-page-familysearch]] — FamilySearch sources page (MM1Z-S4G); 1841 census with Lydia Brown; 1851 James as Ag Lab; christening dates; death reg vol 3B p230
 - [[elizabeth-watts-death-burial-1868]] — GRO death reg ("Elizabeth Bunker", vol 3B p230) and Find a Grave burial (Foster Hill Road Cemetery, August 1868); confirms Bedford death; closes open question
+- [[sarah-beal-1776-print-view-familysearch]] — FamilySearch print view (L5V4-XRC); born Lidlington 1776; parents William Beal & Martha Mitchel; duplicate Sarah Beal in tree noted
+- [[william-bunker-1767-print-view-familysearch]] — FamilySearch print view (KZZ5-8LV); two marriages; 8+ children; Sarah (1807) misattributed — likely Ann Denton's last child
+- [[william-bunker-1767-sources-familysearch]] — FamilySearch sources (KZZ5-8LV); christening dates for all known children; Oct 1819 source likely Samuel Bunker
+- [[john-bunker-1769-sources-familysearch]] — FamilySearch sources (KHBK-76X); 2 sources only; christening 1769 and burial 16 Dec 1795 aged 27
 - [[edward-bunker-1742-print-view-familysearch]] — FamilySearch print view (KCZP-L7Z); born Millbrook 1742; married Mary Ashby 1766; 10 children; Jesse's date discrepancy noted
 - [[edward-bunker-1742-sources-familysearch]] — FamilySearch sources page (KCZP-L7Z); 21 sources; christening dates confirmed for 7 children; Jesse baptised 18 Apr 1786 (not 1784)
 - [[thomas-bunker-1704-print-view-familysearch]] — FamilySearch print view (LCZ5-171); born Westoning 1704; 12 children with Mary Reade; parents William Bunker & Sarah Greene

@@ -1,3 +1,21 @@
+## [2026-06-25] ingest | Sarah Beal (1776) — wife of William Bunker
+
+FamilySearch print view for Sarah Beal (L5V4-XRC). Sarah was from Lidlington (not Millbrook), baptised 29 July 1781, daughter of William Beal (1747–1828) and Martha Mitchel (1753–1787). FamilySearch shows two Sarah Beals born 1776 to the same parents — likely a duplicate entry or name reuse after an infant death. William's person page updated with Sarah's origins.
+
+Pages created: [[sarah-beal-1776-print-view-familysearch]]
+Pages updated: [[william-bunker-1767]]
+
+## [2026-06-25] ingest | William Bunker (1767) and John Bunker (1769) — sons of Edward
+
+Four FamilySearch clippings: print view and two sources pages for William (KZZ5-8LV), sources page for John (KHBK-76X).
+
+William (1767) had two marriages, not one: Ann Denton (married 1792, died 1807, 4 children) and Sarah Beal (married 1808, 4+ children). Sarah Bunker (chr. 28 Jun 1807) is misattributed in FamilySearch to the Beal marriage — almost certainly Ann Denton's last child. A source dated Oct 1819 likely records Samuel Bunker (the ~20-year-old son in the 1841 census). Several unidentified source dates suggest further infant deaths. William's person page substantially rewritten.
+
+John (1769) is brief: christened 20 Aug 1769, buried 16 Dec 1795 aged 27, unmarried, no children. New person page created.
+
+Pages created: [[john-bunker-1769]], [[william-bunker-1767-print-view-familysearch]], [[william-bunker-1767-sources-familysearch]], [[john-bunker-1769-sources-familysearch]]
+Pages updated: [[william-bunker-1767]], [[bunker-ashby-1766]]
+
 ## [2026-06-25] update | Cross-link Edward Bunker (1742) line with census data
 
 Created person pages for [[william-bunker-1767]] and [[james-bunker-1777]] — Edward's children traced in the Millbrook census data — and cross-linked them throughout the wiki. William (1767–1847) married Sarah Beal; James (1777–1864) had three marriages and is the progenitor of all Victorian/Edwardian Millbrook collateral Bunkers through his son John (1803). The "c.1771" approximation in millbrook.md corrected to chr. 1767 (consistent with 1841 census showing 70, rounded from actual 74). Pages updated: [[bunker-ashby-1766]], [[edward-bunker-1742]], [[millbrook]], [[bunkermillbrookcensus-spreadsheet]].

@@ -27,8 +27,8 @@ Ten children, all christened at Millbrook over a twenty-five year span (1767–1
 
 | # | Name | Born | Died | Notes |
 |---|------|------|------|-------|
-| 1 | [[william-bunker-1767\|William Bunker]] | chr. 6 Sep 1767 | 1847 | Millbrook all his life; wife Sarah Beal; son Samuel |
-| 2 | John Bunker | chr. 20 Aug 1769 | 1795 | |
+| 1 | [[william-bunker-1767\|William Bunker]] | chr. 6 Sep 1767 | abt 1847 | Two marriages (Ann Denton 1792, Sarah Beal 1808); 8+ children |
+| 2 | [[john-bunker-1769\|John Bunker]] | chr. 20 Aug 1769 | 16 Dec 1795 | Buried Millbrook aged 27; unmarried; no children |
 | 3 | Sarah Bunker | chr. 4 Aug 1771 | — | |
 | 4 | Joseph Bunker | abt 1774 | — | |
 | 5 | [[james-bunker-1777\|James Bunker]] | chr. 18 May 1777 | 1864 | Millbrook all his life; three marriages; progenitor of the Victorian collateral line |
@@ -62,7 +62,8 @@ The ninth child, [[mark-ashby-bunker-1789|Mark Ashby Bunker]], bears his mother'
 ## Open Questions
 
 - What were Mary Ashby's origins? The Ashby family has not been traced.
-- What became of children 2–4 and 6–8 (John died 1795; Sarah, Joseph, Edward, Thomas, Jesse untraced)?
+- What became of children 3, 4, 6, 7, 8 (Sarah, Joseph, Edward, Thomas, Jesse — all untraced)?
 - Where exactly did Mark Ashby Bunker die in Australia in 1868, and who did he marry?
-- William's son Samuel (~1820) vanishes after the 1841 census — no marriage or death found.
+- William's children by Ann Denton: Rachel (1794) and Sarah (1807) are untraced after christening. Samuel (~1820, by Sarah Beal) vanishes after 1841.
+- Several unidentified source dates in William's FamilySearch record (Jun 1813, Dec 1815, Oct 1821) — possible further children who died in infancy.
 - James's three marriages need primary sources: dates, registers, and full list of children by Mary Somerfield.
