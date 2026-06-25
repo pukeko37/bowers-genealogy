@@ -104,6 +104,7 @@
 - [[bunker-smith-1901]] — Herbert Thomas Barnsley Bunker & Martha Emma Smith, married Kings Norton 1901; railway family; 3 children
 - [[bunker-watts-1830]] — James Bunker & Elizabeth Watts, married Millbrook 1830; Caleb's parents, 9 children
 - [[bunker-reade-1728]] — Thomas Bunker (1704) & Mary Reade, married Toddington 1728; 12 children; settled Millbrook
+- [[bunker-ashby-1766]] — Edward Bunker (1742) & Mary Ashby, married Millbrook 1766; 10 children; Mark Ashby Bunker transported to Australia 1817
 - [[bunker-sinfield-1761]] — Thomas Bunker (1738) & Martha Sinfield, married Millbrook 1761; Thomas buried Toddington 1825 aged 87
 - [[bunker-brown-1788]] — James Thomas Bunker & Lydia Brown, married St Paul's Walden 1788; James Bunker's parents
 - [[tall-ward-maulden]] — Edward Tall & Sarah Ward, married Maulden 1827; 6 children; raised Frederick Bunker after 1870
@@ -367,6 +368,10 @@
 - [[thomas-bunker-1704]] — Thomas Bunker (1704–1784), born Westoning; died Millbrook; married Mary Reade 1728; 12 children
 - [[mary-reade-1702]] — Mary Reade (1702–1775), married Thomas Bunker 1728 Toddington; 19 FamilySearch sources; 12 children
 - [[thomas-bunker-1738]] — Thomas Bunker (1738–1825), Millbrook; married Martha Sinfield 1761; buried Toddington aged 87
+- [[edward-bunker-1742]] — Edward Bunker (1742–1814), Millbrook all his life; married Mary Ashby 1766; 10 children including Mark Ashby Bunker
+- [[william-bunker-1767]] — William Bunker (1767–1847), Edward's eldest son; married Sarah Beal; Millbrook all his life; son Samuel
+- [[james-bunker-1777]] — James Bunker (1777–1864), Edward's son; three marriages; progenitor of Victorian Millbrook collateral line; died aged ~87
+- [[mark-ashby-bunker-1789]] — Mark Ashby Bunker (1789–1868), sheep stealer; transported to Australia 1817; married and had 8 children there; died 1868
 - [[martha-sinfield]] — Martha Sinfield (dates unknown), married Thomas Bunker 1738 at Millbrook 1761; no birth/death records found
 - [[john-watts-bunker-1831]] — John Watts Bunker (1831–1899), Caleb's eldest brother; Bedford area; died Ampthill
 - [[ann-woodland-1835]] — Ann Woodland (abt 1835–unknown), John Watts Bunker's wife; Ampthill; parentage unknown
@@ -696,6 +701,8 @@
 - [[margaret-barnsley-sources-familysearch]] — FamilySearch sources for Margaret Barnsley (GWYY-S9K); born 14 Apr 1850; mother Eliza Bradwell; 1871 Matlock shop assistant; 1921 Ashton
 - [[elizabeth-watts-sources-page-familysearch]] — FamilySearch sources page (MM1Z-S4G); 1841 census with Lydia Brown; 1851 James as Ag Lab; christening dates; death reg vol 3B p230
 - [[elizabeth-watts-death-burial-1868]] — GRO death reg ("Elizabeth Bunker", vol 3B p230) and Find a Grave burial (Foster Hill Road Cemetery, August 1868); confirms Bedford death; closes open question
+- [[edward-bunker-1742-print-view-familysearch]] — FamilySearch print view (KCZP-L7Z); born Millbrook 1742; married Mary Ashby 1766; 10 children; Jesse's date discrepancy noted
+- [[edward-bunker-1742-sources-familysearch]] — FamilySearch sources page (KCZP-L7Z); 21 sources; christening dates confirmed for 7 children; Jesse baptised 18 Apr 1786 (not 1784)
 - [[thomas-bunker-1704-print-view-familysearch]] — FamilySearch print view (LCZ5-171); born Westoning 1704; 12 children with Mary Reade; parents William Bunker & Sarah Greene
 - [[thomas-bunker-1738-print-view-familysearch]] — FamilySearch print view (MM1C-CQN); christened Millbrook 1738; married Martha Sinfield; 2 children; buried Toddington 1825
 - [[thomas-bunker-1738-sources-familysearch]] — FamilySearch sources page (MM1C-CQN); 8 sources; marriage record spells wife "Sinfeild or Sinfild"; burial age 87 confirmed

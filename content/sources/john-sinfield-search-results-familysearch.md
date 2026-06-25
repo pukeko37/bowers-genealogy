@@ -20,14 +20,20 @@ Among 53 results, the most significant for our research:
 > **John Sinfield**, christened **2 March 1722**, **Millbrook, Bedfordshire** — parents **Christopher Sinfield** and **Elizabeth**
 > (England, Births and Christenings, 1538-1975)
 
-This is the only Millbrook-born John Sinfield in the dataset. It is consistent with being the same John Sinfield who appears in the existing Martha Sinfield search results — namely, the "John Sinfeild" and his wife "Martha" who had a daughter Martha Sinfeild christened in Millbrook on 18 May 1757 (see [[martha-sinfield-search-results-familysearch]]).
+This is the only Millbrook-born John Sinfield in the dataset. He is consistent with the John Sinfeild who had a daughter Martha Sinfeild christened in Millbrook on 18 May 1757 (see [[martha-sinfield-search-results-familysearch]]). That daughter died in 1764 and was not our bride.
 
-**Implication:** If this John Sinfield (christened 1722, Millbrook) is Martha Bunker's father, then her grandparents on the Sinfield side were **Christopher Sinfield** and **Elizabeth** of Millbrook. John would have been about 15–19 years old when Martha (the bride, born ~1737–1741) was born — young but possible for the period. He was ~39 when Martha married Thomas Bunker in 1761.
+## Revised interpretation
+
+An earlier reading of these sources placed John Sinfield as Martha Bunker's probable father. This is now considered unlikely. A death record for a Martha Sinfield in 1764 matches the 1757 christening, confirming that John's daughter Martha died young and is a separate person from the 1761 bride.
+
+The better reading: **Christopher Sinfield and Elizabeth** had children in Millbrook including John (1722) and, roughly fifteen years later, Martha (~1737–41). Our Martha is a **younger sibling of John**, not his daughter. John named his own daughter Martha (1757) after his sister — she died in 1764. This fits the ages, geography, and naming pattern.
+
+**Christopher Sinfield and Elizabeth of Millbrook are the probable parents of Martha Sinfield** (the 1761 bride). Unconfirmed — Martha's own baptism record has not been found.
 
 ## Other results
 
-The remaining 52 results cover John Sinfields from Woburn, Husborne Crawley, Lidlington, Salford, Leighton Buzzard, Battlesden, Bedford, Streatley, and Maulden, spanning christenings from 1701 to 1798. None of these have a direct Millbrook connection. Two military records (War Office, 1790 and 1800) name John Sinfields born at Bedford and Maulden respectively. None are more plausible candidates for Martha's father than the Millbrook 1722 entry.
+The remaining 52 results cover John Sinfields from Woburn, Husborne Crawley, Lidlington, Salford, Leighton Buzzard, Battlesden, Bedford, Streatley, and Maulden, spanning christenings from 1701 to 1798. None have a Millbrook connection. None are relevant to Martha's parentage.
 
 ## Significance
 
-Adds one generation back: **Christopher Sinfield and Elizabeth** of Millbrook are now the candidate grandparents of Martha Sinfield (the 1761 bride). This is unconfirmed but consistent with the Millbrook geography and the John Sinfield + Martha household already identified from the earlier search. Christopher's birth date and further ancestry are unresearched.
+The key figure is Christopher Sinfield of Millbrook — the probable father of both John Sinfield (1722) and Martha Sinfield (~1737–41). Christopher's own parentage and Elizabeth's maiden name are unresearched.

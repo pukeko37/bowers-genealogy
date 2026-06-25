@@ -49,7 +49,7 @@ The burial at Toddington — not Millbrook — is notable. His parents had marri
 
 ## Open Questions
 
-- Martha Sinfield's birth record has not been found. A FamilySearch search identified a **John Sinfield** and wife **Martha** in Millbrook with a daughter Martha Sinfeild christened 18 May 1757 — almost certainly a younger sister of the bride. John Sinfield and Martha are the probable parents, but unconfirmed. The bride's own baptism (born ~1736–1741) is not yet located. A further search for John Sinfield in Bedfordshire 1700–1800 identified a **John Sinfield christened 2 March 1722 at Millbrook**, parents **Christopher Sinfield and Elizabeth** — placing one more generation back. If confirmed, Christopher and Elizabeth Sinfield are Martha's grandparents. See [[john-sinfield-search-results-familysearch]].
+- Martha Sinfield's birth record has not been found. Her birth is estimated ~1737–41 based on marriage age, consistent with Thomas (1738) being about the same age. The probable parents are **Christopher Sinfield and Elizabeth of Millbrook** (unconfirmed). A John Sinfield christened in Millbrook 1722 to Christopher and Elizabeth later named his own daughter Martha Sinfeild (1757) — that child died in 1764, confirmed as a separate person. The most plausible reading is that our Martha is a younger sibling of John (1722), not his daughter: Christopher and Elizabeth had children across a wide span, with Martha arriving ~fifteen years after John. See [[john-sinfield-search-results-familysearch]] and [[martha-sinfield-search-results-familysearch]].
 - Did Edward Bunker (1762) have a family? His line is undocumented.
 - Were there additional children between 1762 and 1765, or after 1765?
 - Why was Thomas buried at Toddington rather than Millbrook?

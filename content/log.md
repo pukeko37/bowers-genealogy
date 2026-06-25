@@ -1,3 +1,18 @@
+## [2026-06-25] update | Cross-link Edward Bunker (1742) line with census data
+
+Created person pages for [[william-bunker-1767]] and [[james-bunker-1777]] — Edward's children traced in the Millbrook census data — and cross-linked them throughout the wiki. William (1767–1847) married Sarah Beal; James (1777–1864) had three marriages and is the progenitor of all Victorian/Edwardian Millbrook collateral Bunkers through his son John (1803). The "c.1771" approximation in millbrook.md corrected to chr. 1767 (consistent with 1841 census showing 70, rounded from actual 74). Pages updated: [[bunker-ashby-1766]], [[edward-bunker-1742]], [[millbrook]], [[bunkermillbrookcensus-spreadsheet]].
+
+## [2026-06-25] ingest | Edward Bunker (1742–1814) and family
+
+Three FamilySearch clippings: print view and two sources pages for Edward Bunker (KCZP-L7Z), clipped 25 June 2026.
+
+Edward Bunker (1742–1814) was the 8th child of Thomas Bunker (1704) and Mary Reade — a brother of the direct ancestor Thomas (1738). He spent his entire life in Millbrook, married Mary Ashby (1745–1813) in 1766, and had 10 children. The FamilySearch sources confirm christening dates for 7 of them at Millbrook parish church.
+
+Notable: Mark Ashby Bunker (1789–1868), the 9th child, is the sheep stealer previously documented in the Millbrook blog ingest — this now provides his FamilySearch dates and confirms he is Edward's son. His person page is created for the first time. Jesse Bunker has a date discrepancy: born 1784 per the tree but baptised 18 April 1786 per the parish register.
+
+Pages created: [[edward-bunker-1742]], [[mark-ashby-bunker-1789]], [[bunker-ashby-1766]], [[edward-bunker-1742-print-view-familysearch]], [[edward-bunker-1742-sources-familysearch]]
+Pages updated: [[bunker-reade-1728]], [[millbrook]]
+
 ## [2026-06-24] update | Family pages for John Watts Bunker and David Bunker
 
 Created family pages for the two Millbrook Bunker siblings who lacked them. Both pages are built from existing census and registration data already held in their person pages; no new sources ingested.
@@ -794,3 +809,15 @@ This places one generation further back in the Sinfield line. If this John is Ma
 
 Sources created: [[john-sinfield-search-results-familysearch]]
 Pages updated: [[martha-sinfield]], [[bunker-sinfield-1761]]
+
+## [2026-06-25] update | Revised parentage for Martha Sinfield
+
+Two corrections to the Sinfield parentage hypothesis:
+
+1. A death record for Martha Sinfield in 1764 matches the 1757 christening of Martha Sinfeild (daughter of John Sinfeild and wife Martha). She died aged about 7 and is confirmed as a distinct person from our bride. John Sinfield is therefore **not** Martha Bunker's father.
+
+2. The better reading is that **Christopher Sinfield and Elizabeth of Millbrook** are Martha's probable parents directly — not her grandparents. Christopher had a son John (christened Millbrook 1722). Martha (~1737–41) is a later child of the same couple, a younger sibling of John. John naming his own daughter Martha (1757, died 1764) was likely naming her after his sister. This fits the ages, geography, and naming pattern.
+
+Martha's birth year revised to "abt 1737–1741" in the frontmatter; birth-place set to Millbrook. Parentage updated from "John Sinfield" to "probable Christopher Sinfield and Elizabeth." Family-of-origin remains unknown (no source yet directly names her parents).
+
+Pages updated: [[martha-sinfield]], [[bunker-sinfield-1761]], [[john-sinfield-search-results-familysearch]]

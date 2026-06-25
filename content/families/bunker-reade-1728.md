@@ -10,6 +10,7 @@ places:
   - "[[millbrook]]"
 related-families:
   - "[[bunker-sinfield-1761]]"
+  - "[[bunker-ashby-1766]]"
 sources:
   - "[[thomas-bunker-1704-print-view-familysearch]]"
   - "[[mary-reade-sources-familysearch]]"
@@ -37,7 +38,7 @@ Twelve children in total, spanning from 1728 to 1754. Two died in infancy.
 | 5 | Mary Bunker | 1737 | 1801 | — |
 | 6 | [[thomas-bunker-1738|Thomas Bunker]] | 1738 | 1825 | **Direct ancestor** |
 | 7 | William Bunker | 1740 | 1816 | — |
-| 8 | Edward Bunker | 1742 | 1814 | — |
+| 8 | [[edward-bunker-1742\|Edward Bunker]] | 1742 | 1814 | See [[bunker-ashby-1766]] |
 | 9 | Ruth Bunker | 1745 | ? | — |
 | 10 | John Bunker | 1746 | 1796 | — |
 | 11 | James Bunker | 1749 | 1818 | — |
@@ -63,4 +64,4 @@ The family's move from Westoning to Millbrook is visible in the records: Thomas 
 
 - What are the origins of Mary Reade? Her parents are unknown.
 - What are the origins of William Bunker (1663) and Sarah Greene beyond Westoning?
-- What became of the Bunker siblings — William (1731), Anne (1732), Mary (1737), Edward (1742) etc.?
+- What became of the Bunker siblings — William (1731), Anne (1732), Mary (1737), etc.? Edward (1742) is now documented: see [[bunker-ashby-1766]].

@@ -3,6 +3,7 @@ title: "Millbrook"
 type: place
 families:
   - "[[bunker-reade-1728]]"
+  - "[[bunker-ashby-1766]]"
   - "[[bunker-brown-1788]]"
   - "[[bunker-watts-1830]]"
   - "[[watts-capel-1809]]"
@@ -56,15 +57,15 @@ This line's presence in Millbrook ends with James's death in 1852. Elizabeth mov
 
 ### The Edward (1742) Line — Collateral Bunkers
 
-**Edward Bunker (1742–1814)** married **Mary Ashby** in 1766 and had ten children — eight sons and two daughters. He died in Millbrook on 12 February 1814. His children who figure in the Millbrook story are:
+**[[edward-bunker-1742|Edward Bunker]] (1742–1814)** married **Mary Ashby** in 1766 and had ten children — eight sons and two daughters. He died in Millbrook on 12 February 1814. His family is documented at [[bunker-ashby-1766]]. His children who figure in the Millbrook story are:
 
-**William Bunker (c.1771–1847)**, son of Edward: married Sarah Beal; in Millbrook in 1841 (aged ~70, wife ~60, son Samuel ~20). William died 1847 and Sarah 1848 — both dying within the village.
+**[[william-bunker-1767|William Bunker]] (chr. 1767–1847)**, son of [[edward-bunker-1742|Edward]]: married Sarah Beal; in Millbrook in 1841 (aged ~70, actual ~74 — census rounded to nearest 5, wife ~60, son Samuel ~20). William died 1847 and Sarah 1848 — both dying within the village.
 
-**James Bunker (1777–1864)**, son of Edward: had three wives — Sarah Pedder, Mary Somerfield, and Catherine Blunt. With Sarah Pedder he had sons **Richard (c.1800)** and **John (1803)**; with Mary Somerfield a daughter Naomi and possibly others; with Catherine Blunt a daughter Rachel. By 1841 James (then ~60) was living with Catherine and several of the younger generation. He died in Millbrook in 1864, aged ~87.
+**[[james-bunker-1777|James Bunker]] (1777–1864)**, son of [[edward-bunker-1742|Edward]]: had three wives — Sarah Pedder, Mary Somerfield, and Catherine Blunt. With Sarah Pedder he had sons **Richard (c.1800)** and **John (1803)**; with Mary Somerfield a daughter Naomi and possibly others; with Catherine Blunt a daughter Rachel. By 1841 James (then ~60) was living with Catherine and several of the younger generation. He died in Millbrook in 1864, aged ~87.
 
-**Mark Ashby Bunker (1789–1868)**, youngest son of Edward: convicted of sheep stealing in 1817 and transported to Australia for life. Before his transportation he had fathered at least three illegitimate children in the area — Seth Wheeler (1809, Millbrook), Fanny Johnson (1814, Aspley Guise), and Mark Ashby Bunker jr (1815, Cranfield). He married in Australia after release from prison and had eight more children there. He does not return to Millbrook.
+**[[mark-ashby-bunker-1789|Mark Ashby Bunker]] (1789–1868)**, youngest son of [[edward-bunker-1742|Edward Bunker]]: convicted of sheep stealing in 1817 and transported to Australia for life. Before his transportation he had fathered at least three illegitimate children in the area — Seth Wheeler (1809, Millbrook), Fanny Johnson (1814, Aspley Guise), and Mark Ashby Bunker jr (1815, Cranfield). He married in Australia after release from prison and had eight more children there. He does not return to Millbrook.
 
-**John Bunker (1803–?)**, son of James (1777) and Sarah Pedder: married **Maria West (1802)** on 24 November 1824. The anchor of the Millbrook collateral line through the mid-century. John was still in Millbrook in 1861 with his wife and surviving children. He and his son Joseph's family are the main Millbrook presence in the later census years.
+**John Bunker (1803–?)**, son of [[james-bunker-1777|James (1777)]] and Sarah Pedder: married **Maria West (1802)** on 24 November 1824. The anchor of the Millbrook collateral line through the mid-century. John was still in Millbrook in 1861 with his wife and surviving children. He and his son Joseph's family are the main Millbrook presence in the later census years.
 
 ## Census Snapshots
 
@@ -74,10 +75,10 @@ The 1841 census records four Bunker households in Millbrook, representing both l
 
 | Household | Head | Wife | Notes |
 |-----------|------|------|-------|
-| 1 | James Bunker, ~60 (b.1777, Edward's son) | Catherine Blunt, ~45 | With Richard (~35), Naomi (~25), Rachel (~17), grandson Richard (~4) |
+| 1 | [[james-bunker-1777\|James Bunker]], ~60 (b.1777, Edward's son) | Catherine Blunt, ~45 | With Richard (~35), Naomi (~25), Rachel (~17), grandson Richard (~4) |
 | 2 | John Bunker, ~35 (b.1803, son of James 1777) | Maria West, ~35 | 5 children: Sarah (15), John (11), James (8), Hannah (5), Joseph (1) |
 | 3 | **James Bunker, ~30 (b.1807 — our line)** | **Elizabeth Watts** | **6 children: John (9), Lydia (8), George (6), David (4), Charles (2), Martha (0)** |
-| 4 | William Bunker, ~70 (b.1771, Edward's son) | Sarah Beal, ~60 | Son Samuel (~20) |
+| 4 | [[william-bunker-1767\|William Bunker]], ~70 (b.1767, Edward's son) | Sarah Beal, ~60 | Son Samuel (~20) |
 
 The 1841 census ages are unreliable (rounded to nearest 5 in this census), so the births years above are approximations. Caleb (b.1845) and the later children had not yet been born.
 
@@ -95,7 +96,7 @@ After 1852 the village still holds four Bunker households, but none is our line:
 
 | Household | Notes |
 |-----------|-------|
-| James (1777, ~84) & Catherine Blunt | With granddaughter Hannah (1854, Houghton Conquest) |
+| [[james-bunker-1777\|James (1777)]], ~84 & Catherine Blunt | With granddaughter Hannah (1854, Houghton Conquest) |
 | John (1803) & Maria West | Children Hannah (1835), Samuel (1842), George (1848) still at home |
 | Joseph (b.~1837–40, John's son) & Mary Ann Wilcox | Newly married 1859; son Richard (b.19 Dec 1859) |
 | Richard (b.1820–21) & Mary (b.1819) | No children yet; possibly son of James (1777) |

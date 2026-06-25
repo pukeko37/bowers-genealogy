@@ -13,6 +13,8 @@ people-mentioned:
   - "[[phoebe-bunker-1796]]"
   - "[[ebenezer-bunker-1798]]"
   - "[[lydia-bunker-1804]]"
+  - "[[william-bunker-1767]]"
+  - "[[james-bunker-1777]]"
 families-updated:
   - "[[bunker-brown-1788]]"
   - "[[bunker-watts-1830]]"
