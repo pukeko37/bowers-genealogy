@@ -349,6 +349,12 @@
 - [[sarah-bass-1859]] — Sarah Bass (1859–1951), eldest child of Daniel & Mary; married James Lay 1887; shopkeeper Lavendon; died Luton aged ~92
 - [[florence-bass-1862]] — Florence Bass (1862–?), middle child; domestic servant Islington 1881; married Sidney Shotbolt 1889; settled Ampthill; 3 children
 - [[edward-ernest-bass-1864]] — Edward Ernest Bass (1864–1936), youngest child; carpenter; Maulden→Ampthill→Kettering→Flitwick; died 16 Maulden-road Flitwick
+- [[caleb-bunker-1790]] — Caleb Bunker (1790–1848), eldest sibling of James (1807); Stevington; married Catherine Bull; son Ephraim emigrated to Australia
+- [[joseph-bunker-1792]] — Joseph Bunker (1792–1853), second sibling; Stevington; married Mary Markham; buried Stevington Baptist Chapel
+- [[ruth-bunker-1794]] — Ruth Bunker (1794–1806), died on the day of her christening aged 11
+- [[phoebe-bunker-1796]] — Phoebe Bunker (1796–1849), stayed in Millbrook unmarried; last of the siblings to leave; buried Bedford
+- [[ebenezer-bunker-1798]] — Ebenezer Bunker (1798–1819), died aged 20 unmarried
+- [[lydia-bunker-1804]] — Lydia Bunker (1804–1883), married Thomas Inskip 1832 Bedford; Baptist affiliation; buried Foster Hill Road Cemetery
 - [[james-bunker-1807]] — James Bunker (1807–1852), Millbrook; Caleb's father; 9 children; died when Caleb was seven
 - [[elizabeth-watts-1810]] — Elizabeth Watts (1810–1868), James Bunker's wife; born Cranfield; parents John Watts & Sarah Capel
 - [[john-watts-1790]] — John Watts (1790–1814), Elizabeth Watts's father; died aged 24 leaving 4 children under five
@@ -356,6 +362,7 @@
 - [[samuel-capel-1750]] — Samuel Capel (1750–1808), Sarah Capel's father; Cranfield; Caleb's great-great-grandfather on Watts line
 - [[sarah-knight-1755]] — Sarah Knight (1755–1839), Samuel Capel's wife; Cranfield then Millbrook
 - [[james-thomas-bunker-1764]] — James Thomas Bunker (1764–1824), Millbrook; Caleb's grandfather; married Lydia Brown 1788
+- [[edward-brown-1732]] — Edward Brown (abt 1732, Cranfield, Beds); father of Lydia Brown (1769); wife also named Lydia; six children at Cranfield
 - [[lydia-brown-1769]] — Lydia Brown (abt 1769–1842), married James Thomas Bunker; Caleb's grandmother; Hertfordshire origin
 - [[thomas-bunker-1704]] — Thomas Bunker (1704–1784), born Westoning; died Millbrook; married Mary Reade 1728; 12 children
 - [[mary-reade-1702]] — Mary Reade (1702–1775), married Thomas Bunker 1728 Toddington; 19 FamilySearch sources; 12 children
@@ -522,6 +529,7 @@
 - [[chequers-inn-ownership-perplexity-2026]] — Perplexity synthesis; full ownership chain Burr→Rackstrow→Meacher→Roberts&Wilson→Benskin's; licensee list 1822–1931; 1927 rebuild
 - [[millbrook-wesleyan-methodist-chapel]] — Wesleyan Methodist chapel built 1858; Bedford Circuit; 106 sittings 1873; connects Bunker Nonconformism to specific denomination
 - [[bunkersmillbrook-wordpress-2013]] — Andrew's Millbrook Bunker blog; all families 1704–1911; census snapshots; station 1846; pre-1858 Methodist community; WW1 deaths; manor history
+- [[bunkermillbrookcensus-spreadsheet]] — Compiled research spreadsheet: all Bunker census data 1841–1901; parish register transcriptions; Holland estate tenancy 1840; 1815 fence list; Albert Bunker school punishment book 1902; sexton story 1919
 - [[vch-whipsnade-parishes-1912]] — Victoria County History 1912; Whipsnade parish geography, green layout, Hall Farm, enclosure 1798, manor history, church
 - [[zsl-daily-occurrences-whipsnade-1931]] — ZSL archive; Hall Farm purchased 1927; zoo opened 23 May 1931; 26,946 visitors on Bank Holiday Monday
 - [[thomas-batchelar-print-view-familysearch]] — FamilySearch print view, Thomas Batchelar; born Dagnall; 1841–1871 Whipsnade; Eliza's probable father
@@ -565,6 +573,7 @@
 - [[lucy-morris-print-view-familysearch]] — FamilySearch print view, Lucy Morris; Haynes then Maulden; died same year as John
 - [[hall-farm-whipsnade-perplexity]] — Perplexity compiled research; Hall Farm derelict by 1920s; £13,480 purchase 1926/27; Hall Farm and Houchen End both at western end of village
 - [[beds-archives-dell-farm]] — Bedford Borough Council community history; Dell Farm ownership and tenancy 1795–1967; Henry Perkins tenant 1851–1871; James Hain purchased 1915; "Good Farmer"
+- [[beds-archives-p31-14-64a-bunker-apprenticeship]] — Bedfordshire Archives P31/14/64a; Jonathan Bunker (Maulden) apprenticed to Joseph Bunker (Millbrook), cordwainer, 8 Jan 1784; first documented occupation for Joseph (1754)
 - [[macnamara-wikipedia]] — Arthur Macnamara (1831–1906); Squire of Billington; married Earl of Listowel's daughter; died bankrupt; Pedley Settled Estates auctioned 1915
 - [[whipsnade-tree-cathedral-bransom]] — Whipsnade Tree Cathedral history; Edmund Blyth 1930–1939; Albert Bransom's role; Frederick Bransom's death 1 Aug 1916; the two memorials
 - [[find-a-grave-st-mary-magdalene-whipsnade]] — 243 memorials at St Mary Magdalene, Whipsnade; confirms Hain, Turvey, Perkins, Bransom, Holden burials; James Purton Turvey died 13 Feb 1910
@@ -691,9 +700,18 @@
 - [[thomas-bunker-1738-print-view-familysearch]] — FamilySearch print view (MM1C-CQN); christened Millbrook 1738; married Martha Sinfield; 2 children; buried Toddington 1825
 - [[thomas-bunker-1738-sources-familysearch]] — FamilySearch sources page (MM1C-CQN); 8 sources; marriage record spells wife "Sinfeild or Sinfild"; burial age 87 confirmed
 - [[martha-sinfield-sources-familysearch]] — FamilySearch sources page (G4K8-PTM); 5 sources; married Thomas Bunker 1761 Millbrook; no birth/death dates
+- [[martha-sinfield-search-results-familysearch]] — FamilySearch record search; John Sinfield & Martha in Millbrook 1757 identified as probable parents; bride's birth record not found
+- [[john-sinfield-search-results-familysearch]] — FamilySearch search for John Sinfield in Bedfordshire 1700–1800 (53 results); John christened Millbrook 1722, parents Christopher Sinfield & Elizabeth — probable grandparents of Martha Sinfield
+- [[edward-brown-familysearch]] — FamilySearch K8YX-KBJ; Edward Brown (abt 1732, Cranfield); father of Lydia Brown (1769); two daughters named Lydia (1765 died young, 1769 our line)
 - [[mary-reade-sources-familysearch]] — FamilySearch sources page (LHYL-KYZ); 19 sources; born 28 Oct 1702; buried 2 Jul 1775; all 12 children documented
 - [[james-thomas-bunker-sources-familysearch]] — FamilySearch sources page (LYHK-XFH); 14 sources; mass christening 7 Apr 1806 for 7 children; Martha Bunker (1801) newly identified
 - [[james-bunker-1807-sources-familysearch]] — FamilySearch sources page (M98P-14C); 12 sources; death Ampthill vol 3B p223; children's christening dates; Annie Bunker noted
+- [[caleb-bunker-1790-familysearch]] — FamilySearch M9S7-BXG; print view and 8 sources; Stevington; married Catherine Bull 1815; mass christening 1824; son Ephraim to Australia
+- [[joseph-bunker-1792-familysearch]] — FamilySearch MM18-MKN; print view and 14 sources; Stevington; married Mary Markham 1814; buried Stevington Baptist Chapel
+- [[ruth-bunker-1794-familysearch]] — FamilySearch MM14-4B7; print view; died 7 April 1806 (christening day)
+- [[phoebe-bunker-1796-familysearch]] — FamilySearch MM18-6P8; print view; 1841 Millbrook; buried Bedford September 1849
+- [[ebenezer-bunker-1798-familysearch]] — FamilySearch MM18-JWG; print view; died 9 March 1819 aged 20
+- [[lydia-bunker-1804-familysearch]] — FamilySearch MM1H-NXC; print view and 24 sources; married Thomas Inskip 1832; Baptist; buried Foster Hill Road Bedford 1883
 - [[lydia-brown-sources-familysearch]] — FamilySearch sources page (LYHK-W98); 10 sources; death Ampthill vol 6 p4 (1842); confirms mass christening 1806
 - [[london-gazette-1880-10-19-caleb-bunker-bankruptcy]] — London Gazette 19 Oct 1880; first creditors' meeting; Caleb at Matlock Bath; trading as Thomas Barnsley
 - [[london-gazette-1880-11-05-caleb-bunker-bankruptcy]] — London Gazette 5 Nov 1880; second creditors' meeting; Liquidation by Arrangement; same solicitor James Potter Derby

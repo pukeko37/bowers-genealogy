@@ -36,7 +36,7 @@ Thomas's twelve children:
 | Ruth | 12 May 1745, Millbrook | married Thomas Marshall 1776 Millbrook |
 | John | 5 Oct 1746, Millbrook | married Elizabeth Cartwright 1769; died 3 Jul 1835 |
 | James | 21 Feb 1749, Millbrook | moved to Ampthill; died 1818 |
-| Joseph | 13 Oct 1754, Millbrook | died 27 Nov 1808 Millbrook |
+| Joseph | 13 Oct 1754, Millbrook | **cordwainer**; took a Maulden parish apprentice 8 Jan 1784; died 27 Nov 1808 Millbrook |
 
 ## Two Lines: Thomas and Edward
 
@@ -112,6 +112,12 @@ By 1881 only two Bunker households remain, both from John (1803)'s line:
 
 These two families — Joseph/Mary Ann and Samuel/Harriet — are all that remain of the Millbrook Bunker community by the late Victorian period. By 1911, with Joseph's grandchildren in the household and Minnie Dean still unmarried at 41, the line is effectively ending.
 
+## The Holland Estate and James Bunker's Tenancy
+
+The inventory of Lady Holland's Millbrook estate, sold to the Duke of Bedford in 1840, lists **James Bunker** (our James, 1807) as tenant of a cottage and garden (inventory nos. 423, 431, and 432, co-tenant T. Cartwright). A local researcher holds the estate map and confirms the location can be pinpointed in Millbrook today. This is the same transaction that made the Duke the Bunkers' immediate landlord for their final twelve years in the village.
+
+Nine years earlier, in 1815, a list of properties adjoining the church with responsibility to maintain the fences names **James BUNKER** at the 13th pole — a former farmhouse, landlord Lord Ossory (formerly occupied in 1795 by Wm Mallison). This is almost certainly **[[james-thomas-bunker-1764|James Thomas Bunker]]** (1764–1824), nine years before his death. The same list includes **William BUNKER** (4th pole, near the parsonage) and a **Widow BUNKER** (8th pole, Kits Lane) from the collateral line.
+
 ## The Capel and Watts Connection
 
 Elizabeth Watts's own family had also gravitated toward Millbrook. Her mother **[[sarah-capel-1791|Sarah Capel]] (1791–after 1851)** was born in Cranfield, married three times, and ended her years at Village Hollow, Millbrook, recorded there in the 1841 and 1851 censuses. Her third marriage in 1839 was in Millbrook. See [[watts-capel-1809]].
@@ -156,10 +162,30 @@ Two men from the collateral Millbrook Bunker line were killed in the First World
 
 Albert Edward and William Harold were first cousins — Albert Edward's father John (1870) and William Harold's father Richard (1859) were both sons of Joseph Bunker (1837). Both died within ten weeks of each other at the same battle, on the same ridge east of Ypres. The two Millbrook-born cousins are now on different panels of different Belgian memorials, neither with a grave.
 
+The Millbrook Village School Punishment Book preserves a small trace of Albert Edward fifteen years earlier. On 23 September 1902, **Albert Bunker, aged 8**, was kept in school by Mistress (Polly) Ashton for fighting. He was eight years old when that entry was made; he was twenty-two when he died at Passchendaele.
+
+## The Sexton and the Lost Effigies (1919)
+
+A 1919 newspaper story records a remarkable event in Millbrook churchyard. **Mrs Bunker**, the aged widow of **Mr Bunker the sexton**, led a party of Bedford schoolboys to a spot in the churchyard where her late husband had struck stone while digging. The two stone effigies of **William and Mary Huett** (died 1621 and 1602 respectively), lost since church renovations in the 1840s, were found intact — all except Mary Huett's head, which Mrs Bunker had been keeping in her shed.
+
+Mr Bunker the sexton was a collateral Millbrook Bunker from the Edward (1742) line, probably from the Samuel (1842) or Joseph (1837) households, and died before 1919. He is not yet identified in the records. Three newspaper articles about this event are held by a local researcher.
+
+## The Stevington Branch
+
+The two eldest sons of James Thomas Bunker — [[caleb-bunker-1790|Caleb (1790)]] and [[joseph-bunker-1792|Joseph (1792)]] — left Millbrook and settled in Stevington, Bedfordshire together around 1814. Joseph married Mary Markham there in October 1814; Caleb married Catherine Bull in May 1815. Both appear at Stevington in the 1841 census.
+
+The Stevington branch adopted **Baptist** affiliation: Joseph was buried at Stevington Baptist Chapel Chapelyard (October 1853), and his sons Ebenezer (married 1844) and James (married 1850) continued in Stevington. This is distinct from the Wesleyan Methodist connection associated with the Millbrook/Bedford Bunker main line.
+
+Caleb's son **Ephraim Bunker** (1821–1887) and Joseph's son **Ebenezer Bunker** (1822–1902) — first cousins — emigrated to Australia together and settled in New South Wales. Ephraim married in Bedfordshire before departing; Ebenezer married in Australia. Ephraim died at Crookwell, NSW in 1887. They are the earliest documented emigrants from the James Thomas Bunker line. Research on their Australian families is pending.
+
 ## Open Questions
 
 - How deep do the Bunker roots in Millbrook go before James Thomas Bunker (born 1764)? Thomas (1738) and James Thomas (1764) are documented; earlier generations are established only through the founding Thomas (1704).
-- What was Lydia Brown's connection to St Paul's Walden, where her marriage to James Thomas took place?
+- What was Lydia Brown's connection to St Paul's Walden, where her marriage to James Thomas took place? Joseph (1792)'s FamilySearch birthplace is listed as "Saint Pauls Walden," suggesting Lydia may have been staying with her family there for that birth.
 - Were the Bunkers and Capels in contact before the 1830 marriage, given their shared village?
 - Were the Bunkers members of the Wesleyan Methodist community in Millbrook before 1852? Circuit records at the Bedfordshire Archive or Methodist Archive (Manchester) may answer this.
 - James (1807) and Elizabeth had nine children recorded in the wiki — the bunkersmillbrook blog claims ten. The FamilySearch sources page for James notes an "Annie Bunker" not on our list; she may be a 10th child who died young. Primary sources needed to confirm or deny.
+- What happened to Martha Bunker (born 21 Dec 1801, confirmed in 1806 christening)? She is absent from all FamilySearch sibling records for the seven children now ingested.
+- The Stevington Baptist branch (Joseph's line) is unresearched beyond the children listed. Stevington Baptist records and censuses may extend it further.
+- The Lady Holland / Duke of Bedford estate map (1840/41 sale) has not yet been located online. It is not in the Maulden or Millbrook parish records at Bedfordshire Archives. The Bedford Estates (Russell) papers, likely held in the `R` series at Bedfordshire Archives, are the most probable repository.
+- Joseph Bunker (1754)'s cordwaining trade raises the question of whether shoemaking was already the family's primary non-agricultural occupation before the 19th century. The collateral Bunkers show shoemakers from the 1780s through the census era.

@@ -12,11 +12,16 @@ sources:
   - "[[james-bunker-1807-print-view-familysearch]]"
   - "[[james-bunker-1807-sources-familysearch]]"
   - "[[elizabeth-watts-sources-page-familysearch]]"
+  - "[[bunkermillbrookcensus-spreadsheet]]"
 created: 2026-05-02
 updated: 2026-05-05
 ---
 
 James Bunker was born in 1807 in Millbrook, Bedfordshire, the youngest son of [[james-thomas-bunker-1764|James Thomas Bunker]] and [[lydia-brown-1769|Lydia Brown]]. He lived most of his life in Millbrook, and his death in 1852 was registered in the Ampthill district (volume 3B, page 223), aged about 45. He is Roland Bunker's great-grandfather.
+
+His baptism does not appear in the Millbrook parish register. His seven older siblings were mass-christened at Millbrook church on 7 April 1806 — apparently a one-time clearing of civil requirements — but James, born the following year, was never presented to the established church for baptism. This is consistent with the family's Nonconformist practice.
+
+The Lady Holland estate inventory of 1840/41 (sold to the Duke of Bedford) lists James as tenant of a cottage and garden in the village (inventory nos. 423, 431, 432, co-tenant T. Cartwright). The estate map, held by a local researcher, can pinpoint the exact location in Millbrook today. This places the family in identifiable property in their final twelve years in the village.
 
 He married **Elizabeth Watts** (1810–1868) on 22 November 1830 in Millbrook. Together they had nine children:
 

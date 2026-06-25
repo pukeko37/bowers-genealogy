@@ -13,8 +13,9 @@ related-families:
 sources:
   - "[[thomas-bunker-1704-print-view-familysearch]]"
   - "[[mary-reade-sources-familysearch]]"
+  - "[[beds-archives-p31-14-64a-bunker-apprenticeship]]"
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-06-25
 ---
 
 ## Parents
@@ -40,7 +41,7 @@ Twelve children in total, spanning from 1728 to 1754. Two died in infancy.
 | 9 | Ruth Bunker | 1745 | ? | — |
 | 10 | John Bunker | 1746 | 1796 | — |
 | 11 | James Bunker | 1749 | 1818 | — |
-| 12 | Joseph Bunker | 1754 | 1808 | — |
+| 12 | Joseph Bunker | 1754 | 1808 | Cordwainer; took a Maulden parish apprentice 1784 |
 
 Thomas Bunker (1738, #6) is the direct ancestor of Roland Bunker. He married Martha Sinfield in 1761 and fathered James Thomas Bunker (1764).
 

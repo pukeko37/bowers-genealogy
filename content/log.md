@@ -729,3 +729,68 @@ Compressed 6 entries (all 2026-06-13) into one block.
 
 ## [2026-06-24] compress | Bunker/Geary/Thody/Fensome/Perry enrichment
 Compressed 6 entries (all 2026-06-13) into one block.
+
+## [2026-06-25] ingest | James Thomas Bunker's siblings — Caleb, Joseph, Ruth, Phoebe, Ebenezer, Lydia
+
+Ingested 12 FamilySearch clippings (6 print views + 6 sources/person pages) covering the six documented siblings of James Bunker (1807) — all children of James Thomas Bunker (1764) and Lydia Brown identified in the 1806 mass christening. This resolves a long-standing gap in the Millbrook documentation.
+
+Key findings:
+- **Stevington migration:** Caleb (1790) and Joseph (1792) both settled in Stevington, Bedfordshire together c.1814–1815; both married there. The Stevington branch adopted Baptist affiliation (Joseph buried Stevington Baptist Chapel Chapelyard).
+- **Australian emigrant:** Ephraim Bunker (1821–1887), son of Caleb, died at Crookwell, New South Wales — the earliest documented emigrant from the James Thomas Bunker line.
+- **Ruth (1794):** Died on the day of her christening, 7 April 1806, aged 11.
+- **Phoebe (1796):** Remained in Millbrook unmarried through 1841; buried Bedford September 1849 — the last sibling to leave the village.
+- **Lydia (1804):** Married Thomas Inskip 1832 Bedford; children registered at Mill Street Baptist — distinct Baptist affiliation from the Wesleyan Methodist main line.
+- **Martha (1801):** Confirmed in 1806 christening record but absent from all six FamilySearch sibling lists. Fate unknown.
+
+Pages created: [[caleb-bunker-1790]], [[joseph-bunker-1792]], [[ruth-bunker-1794]], [[phoebe-bunker-1796]], [[ebenezer-bunker-1798]], [[lydia-bunker-1804]]
+Sources created: [[caleb-bunker-1790-familysearch]], [[joseph-bunker-1792-familysearch]], [[ruth-bunker-1794-familysearch]], [[phoebe-bunker-1796-familysearch]], [[ebenezer-bunker-1798-familysearch]], [[lydia-bunker-1804-familysearch]]
+Pages updated: [[bunker-brown-1788]], [[millbrook]]
+
+## [2026-06-25] ingest | Millbrook Bunker census spreadsheet (bunkermillbrookcensus.xls)
+
+Ingested a compiled research spreadsheet from a local collaborator containing all Millbrook Bunker census data 1841–1901, full Millbrook parish register transcriptions (baptisms, burials, marriages), and miscellaneous records.
+
+Key findings:
+- **Martha Bunker (1801)** confirmed in the Millbrook parish register at the 1806 mass christening; she was alive on 7 April 1806, ruling out early childhood death. Still untraced in any later record.
+- **James (1807)'s baptism not in the Millbrook register** — the seven 1806 siblings appear but James, born 1807, was never presented at the established church. Strongest evidence yet of sustained Nonconformist commitment.
+- **Holland estate tenancy confirmed** — James Bunker (1807) named as tenant of cottage and garden (nos. 423, 431, 432, co-tenant T. Cartwright) in the Lady Holland sale to the Duke of Bedford, 1840/41. Estate map held locally.
+- **1815 fence maintenance list** — James Thomas Bunker (1764) named as property occupier near the church, nine years before his death.
+- **Albert Bunker, school punishment book, 23 Sep 1902** — "Age 8, Offence: fighting." This is Albert Edward Bunker (b. Sept 1894), killed at Passchendaele 31 July 1917, commemorated on the Menin Gate.
+- **Mrs Bunker the sexton's widow, 1919** — led Bedford schoolboys to find the lost Huett stone effigies; Mary Huett's head had been in her shed. Sexton's identity unconfirmed.
+
+Source created: [[bunkermillbrookcensus-spreadsheet]]
+Pages updated: [[james-bunker-1807]], [[bunker-brown-1788]], [[millbrook]]
+
+## [2026-06-25] ingest | Bedfordshire Archives apprenticeship record P31/14/64a
+
+Ingested a Bedfordshire Archives catalogue result (item 1 of 31 from a search run while looking for the Holland estate map). The record itself is not the Holland estate map but an 1784 apprenticeship indenture: Jonathan Bunker of Maulden was bound to Joseph Bunker of Millbrook, cordwainer, on 8 January 1784.
+
+Key finding: Joseph Bunker (1754–1808), youngest son of Thomas (1704) and Mary Reade, was a **cordwainer** (shoemaker) — the first documented occupation for any member of that generation. The shoemaking trade appears continuously in the Millbrook Bunker community from at least 1784 through to Caleb (1845)'s early years.
+
+The Holland estate map was not found in these search results. The Bedford Estates (Russell) papers at Bedfordshire Archives remain the most likely repository.
+
+Source created: [[beds-archives-p31-14-64a-bunker-apprenticeship]]
+Pages updated: [[millbrook]], [[bunker-reade-1728]]
+
+## [2026-06-25] ingest | Martha Sinfield search results; Edward Brown (Lydia Brown's father)
+
+Ingested 4 clippings: FamilySearch search results for Martha Sinfield candidates, Martha Sinfield sources page (same 5 sources as previously), and Edward Brown print view and sources page.
+
+**Martha Sinfield:** No birth record found for the 1761 bride. A FamilySearch search identified a **John Sinfield** and wife **Martha** in Millbrook with a daughter Martha Sinfeild christened 18 May 1757 — too young to be the bride but almost certainly a younger sibling. John Sinfield and Martha of Millbrook are the probable parents, unconfirmed. A separate Marmaduke Sinfield family at Bedford (Nonconformist records) is less likely given the Millbrook connection.
+
+**Edward Brown — Lydia Brown's parentage resolved:** Edward Brown (abt 1732, Cranfield, Bedfordshire) and his wife Lydia (maiden name unknown, abt 1736) are confirmed as Lydia Brown's parents. All children baptised at Cranfield. Two daughters were named Lydia: the first (born 1765, K8SK-JJX) died young; the second (born 1769, LYHK-W98) is our Lydia who married James Thomas Bunker 1788. This resolves the long-standing "Lydia Brown's origins unknown" question — she was from Cranfield, 6 miles from Millbrook.
+
+**Correction:** The wiki previously gave Lydia Brown's birth as "14 April 1765" — this was the sibling Lydia, not our Lydia. Corrected to "abt 1769" throughout.
+
+Pages created: [[edward-brown-1732]]
+Sources created: [[martha-sinfield-search-results-familysearch]], [[edward-brown-familysearch]]
+Pages updated: [[lydia-brown-1769]], [[martha-sinfield]], [[bunker-sinfield-1761]], [[bunker-brown-1788]]
+
+## [2026-06-25] ingest | John Sinfield search results — Christopher Sinfield identified as probable grandfather
+
+FamilySearch search for John Sinfield born in Bedfordshire 1700–1800 (53 results). The single most relevant result: **John Sinfield christened 2 March 1722 at Millbrook, parents Christopher Sinfield and Elizabeth**. This is the only Millbrook-born John Sinfield in the dataset.
+
+This places one generation further back in the Sinfield line. If this John is Martha Bunker's father (as the earlier search established as probable via the 1757 daughter Martha Sinfeild in Millbrook), then **Christopher Sinfield and Elizabeth of Millbrook** are Martha's grandparents. Christopher's own parentage and Elizabeth's maiden name are unresearched.
+
+Sources created: [[john-sinfield-search-results-familysearch]]
+Pages updated: [[martha-sinfield]], [[bunker-sinfield-1761]]
