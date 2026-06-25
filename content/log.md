@@ -1,3 +1,9 @@
+## [2026-06-25] update | Millbrook — Holland estate expanded
+
+Expanded "The Manor of Millbrook" section in [[millbrook]] using the bunkersmillbrook blog post on manor ownership. Added full narrative from Norman origins (d'Aubigny/Cainhoe Castle) through medieval transfers (St Amand, Cornwall, Earls of Kent), royal ownership (Anne of Cleves, Henrietta Maria), Civil War (Colonel Okey), Bruce/Upper Ossory seneschals, and the 1818 succession of Henry Vassall-Fox 3rd Baron Holland. Section now includes background on Holland himself and Lady Holland (Holland House, Whig connections, Vassall plantation wealth), the likely reason for the post-death sale (debts), and the practical consequence for Bunker tenants.
+
+Pages updated: [[millbrook]]
+
 ## [2026-06-25] ingest | Sarah Beal (1776) — wife of William Bunker
 
 FamilySearch print view for Sarah Beal (L5V4-XRC). Sarah was from Lidlington (not Millbrook), baptised 29 July 1781, daughter of William Beal (1747–1828) and Martha Mitchel (1753–1787). FamilySearch shows two Sarah Beals born 1776 to the same parents — likely a duplicate entry or name reuse after an infant death. William's person page updated with Sarah's origins.

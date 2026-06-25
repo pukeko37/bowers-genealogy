@@ -149,9 +149,47 @@ The connection to the Bedford Circuit is significant: George Bunker's daughter *
 
 ## The Manor of Millbrook
 
-The Bunkers lived in Millbrook as tenants under a long succession of lords. The manor passed through Norman barons (the d'Aubigny family of Cainhoe Castle, Clophill), then to the Knights Templars (1287), the Knights Hospitallers, Henry VIII (1542), and eventually — after Civil War interruptions — to the Bruce family (Earls of Elgin and Ailesbury) as Seneschals of the Honour of Ampthill. In 1818 Lord Holland (Henry Vassall-Fox, 3rd Baron Holland) succeeded to it.
+The Bunkers lived in Millbrook as tenants under a long succession of lords. That succession is one of the longer, stranger threads in English feudal history — from Norman barons to a regicide colonel to a Whig grandee — and it ends with the sale of 1840 that placed the Bunkers under the Duke of Bedford for their final twelve years in the village.
 
-The **Duke of Bedford purchased the manor in 1840**, becoming the Bunkers' immediate landlord for their final twelve years in the village. The chapel land tenure dispute documented in the Methodist chapel history runs directly from this change: William Pepper had rented the land from Lord Holland; when Pepper died c.1854 his lease expired, and his stepson Edward Beale had to negotiate a new lease with the Duke of Bedford. Throughout the Victorian period and into the twentieth century the Duke of Bedford remained the dominant landowner in the area — the same estate context as the Pedley Settled Estates further south (see [[pedley-settled-estates]]).
+### Norman Origins
+
+The earliest recorded owners were the **d'Aubigny family** (later d'Albini, Daubeney), Norman barons who held Cainhoe Castle near Clophill. Nigel d'Aubigny, who built the castle after the Conquest, held Millbrook of the Crown. The Domesday Survey records that **Nigel de Wast** held the manor of Nigel de Albini; it was assessed at five hides, worth £3. The d'Aubigny interest passed through several generations until the death of Simon d'Aubigny in 1272, after which it passed through the de Lacys, the Nortons, and eventually to the Greys, Earls of Kent.
+
+On the death of **Robert de Albini** around 1233, the manor divided between his two sisters: Azeline, wife of Ralph de St Amand, and Isabel, wife of William de Hocton. The St Amand moiety then descended through the Almaric de St Amand line across the 14th century. The last male of that line, Almaric, died in 1403, and the manor passed to **Gerard de Braybrook**, whose father had married Eleanor daughter of Lord St Amand. Gerard being only ten years old, the estate was placed in trust — one trustee being **Henry Chicheley, Archbishop of Canterbury**. It then passed to Gerard's daughter Elizabeth, who married Sir Walter Beauchamp, whose son William alienated it to **Sir John Cornwall**.
+
+### Sir John Cornwall — Lord Fanhope, Baron Millbrook
+
+Sir John Cornwall is the most celebrated figure in the manor's medieval story. A Knight of Agincourt fame, he married **Elizabeth of Lancaster, sister of King Henry IV**, became **Lord Fanhope and Baron Millbrook**, held the Order of the Garter, and built Ampthill Castle in the fifteenth century — the same Ampthill that would later become a royal residence and the backdrop for Catherine of Aragon's separation from Henry VIII.
+
+Cornwall died in December 1443, leaving no legitimate issue, and his titles became extinct. His stepson **John Holland, Duke of Exeter**, seized the manor to the exclusion of **Sir Ralph Cromwell**, who had previously purchased it from Cornwall. Cromwell was subsequently confirmed in his title in May 1444. **Sir Edmund Grey, 1st Earl of Kent**, then bought the manor from Cromwell's executors in 1446. The Earls of Kent held it until **Henry VIII** acquired the manor in 1542 and annexed it to the **Royal Honour of Ampthill**.
+
+### A Royal Asset
+
+Once part of the Honour of Ampthill, the manor became an instrument of royal provision. Out of its profits, Henry VIII made settlement for **Anne of Cleves**. James I settled it on **Charles, Prince of Wales**, who assigned it as part of the dower of his wife **Queen Henrietta Maria** — she enjoyed its revenues until the outbreak of the Civil War made that impossible.
+
+During the Commonwealth, the honour was purchased by **Colonel John Okey**, one of the regicides who signed Charles I's death warrant. On the Restoration, Okey was executed (1662), and the dues of the honour reverted to Henrietta Maria until her death.
+
+### The Bruce Family and the Upper Ossory Connection
+
+By the later 17th century the **Bruce family, Earls of Elgin and Ailesbury**, had become Seneschals of the Honour of Ampthill and Lords of the Manor of Millbrook. The lordship eventually passed to the **Fitzpatrick family**, Earls of Upper Ossory — an Irish peerage whose holders were among the prominent Whig grandees of the Georgian era. **John FitzPatrick, 2nd Earl of Upper Ossory** (1745–1818) held the manor into the early nineteenth century.
+
+### Henry Vassall-Fox, 3rd Baron Holland (1818–1840)
+
+When the 2nd Earl of Upper Ossory died in 1818, the manor passed to his nephew **Henry Richard Vassall-Fox, 3rd Baron Holland** (1773–1840). The connection was through Holland's mother, **Mary Fitzpatrick**, daughter of the 1st Earl of Upper Ossory and sister of the 2nd Earl — making the 2nd Earl Holland's maternal uncle.
+
+Holland was by then one of the leading figures of the Whig party: a nephew of Charles James Fox, an ally of Grey and Brougham, and the host of **Holland House** in Kensington, whose drawing room had for decades been the gathering point of Whig intellectual and political society. **Lady Holland** — Elizabeth Vassall, who had married him in 1797 after a scandalous divorce — ran Holland House as an institution, drawing Macaulay, Byron, Melbourne, and almost every liberal mind of the age. The "Vassall-Fox" compound surname was adopted to acknowledge the Vassall estate, which included Jamaican plantation wealth Elizabeth brought to the marriage.
+
+Lord Holland was a consistent advocate of Catholic emancipation, of reform, and of resistance to repressive legislation. He died in October 1840, and did not live to see the Reform Act fully settle, the abolition of slavery completed, or the Chartist agitation reach its peak. He left considerable debts.
+
+That financial situation is almost certainly why the **Millbrook estate was sold** immediately after his death. The purchaser was **William Russell, 6th Duke of Bedford** — a natural buyer, given that the Bedford estates already dominated the surrounding district. The sale made the Duke the immediate landlord of every Bunker tenant in Millbrook from 1840 onwards.
+
+### The Bunkers Under the Duke of Bedford
+
+James Bunker (1807) appears on the estate inventory compiled at the time of the sale: he is listed as tenant of a cottage and garden (inventory nos. 423, 431, and 432, co-tenant T. Cartwright). The sale thus made a direct difference to daily life in the village — landlord changed, leases had to be renegotiated, and the Duke's agents rather than Holland's became the point of contact for tenants.
+
+The practical effects rippled forward. When **William Pepper** — who had rented land from Lord Holland on which a small Methodist meeting place stood — died around 1854, his lease expired. His stepson **Edward Beale** then had to negotiate a new arrangement with the Bedford Estate. This dispute over the chapel land is documented in the Millbrook Methodist chapel records. Throughout the Victorian period and into the twentieth century the Duke of Bedford remained the dominant landowner in the area — the same estate context as the Pedley Settled Estates further south (see [[pedley-settled-estates]]).
+
+James Bunker himself did not live long under the new regime: he died in 1852, twelve years after the sale. Elizabeth then moved the family to Bedford. But for those twelve years, the family that had been tenants under a Whig politician's inheritance was now tenants of one of England's great aristocratic landowners — the change carrying no obvious consequence for the Bunkers day to day, but marking the end of the manor's long journey from Norman baron to Georgian grandee.
 
 ## Millbrook Bunkers in the First World War
 
