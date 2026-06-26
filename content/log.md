@@ -1,3 +1,10 @@
+## [2026-06-26] ingest | Job Bunker (1804) — confirms Joel in Eversholt by December 1812
+
+FamilySearch print view for Job Bunker (23VC-5RK). Born 28 October 1804 at Ampthill — pre-marital child, four years before Joel's 1809 marriage. Christened at Eversholt 26 December 1812, eight years after birth — another delayed registration. This pushes Joel's move to Eversholt back to December 1812 at the latest (previously "by June 1815" from Eliza's birth). Job spent his whole life in Eversholt: married Sarah Newton there 1834, confirmed in 1841 and 1851 censuses. Nine children including Robert Joel Bunker (1849–1898), named for his grandfather.
+
+Pages created: [[job-bunker-1804-familysearch]], [[job-bunker-1804]], [[sarah-newton-1814]], [[bunker-newton-1834]]
+Pages updated: [[joel-bunker-1789]], [[bunker-taylor-1809]], index, log
+
 ## [2026-06-26] ingest | Eliza Bunker (1815–1885) — Joel's daughter; confirms Eversholt move by 1815
 
 FamilySearch print view for Eliza Bunker (2S4L-W54). Key finding: Eliza was born and christened at Eversholt June 1815 — pushing back Joel's move from "by 1830" to "by early 1815." She married Stephen Danby, excise officer of Hockliffe, at Eversholt on 11 March 1838 (cross-confirmed by the Bucks Gazette notice from the previous session). The Danby family moved with the excise service: Thame 1841, Staffordshire 1851, Derbyshire from 1861. Stephen died 1867; Eliza died Derby 1885. Seven children.

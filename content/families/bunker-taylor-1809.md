@@ -25,7 +25,7 @@ Four children listed in FamilySearch:
 
 | # | Name | Born | Died | Notes |
 |---|------|------|------|-------|
-| 1 | Job Bunker | 1804 | Deceased | Born before marriage; if Joel born c.1782, Job was a pre-marital child (Joel ~22 at Job's birth) |
+| 1 | [[job-bunker-1804\|Job Bunker]] | 1804 | Deceased | Born 28 Oct 1804, Ampthill — pre-marital child; christened Eversholt 26 Dec 1812; stayed in Eversholt all his life; see [[bunker-newton-1834]] |
 | 2 | Joseph Bunker | 1810 | Deceased | Born year after marriage ✓ |
 | 3 | Eliza Bunker | 1815 | 1885 | — |
 | 4 | Patty Bunker | 1817 | Deceased | — |
@@ -38,7 +38,7 @@ Joel's son **Joseph Bunker (born 1810)** is the most significant figure from thi
 
 ## Family life
 
-Joel and Martha married at Millbrook in January 1809, but had moved to **Eversholt, Bedfordshire** (near Woburn, ~8 miles from Millbrook) by early 1815 at the latest — their daughter Eliza was born and christened at Eversholt in June 1815. Joel became publican of the **Green Man Inn** there. Martha died at the Green Man on 11 October 1836. Joel continued at Eversholt until September 1846, when he auctioned the pub's contents and left the neighbourhood. He is confirmed at Eversholt in the 1841 census. See [[joel-bunker-newspapers-findmypast]] for the full newspaper record.
+Joel and Martha married at Millbrook in January 1809, but had moved to **Eversholt, Bedfordshire** (near Woburn, ~8 miles from Millbrook) by **December 1812** at the latest — their son Job was christened at Eversholt on 26 December 1812 (eight years after his 1804 birth at Ampthill). Their daughter Eliza was born there in June 1815. Joel became publican of the **Green Man Inn** there. Martha died at the Green Man on 11 October 1836. Joel continued at Eversholt until September 1846, when he auctioned the pub's contents and left the neighbourhood. He is confirmed at Eversholt in the 1841 census. See [[joel-bunker-newspapers-findmypast]] for the full newspaper record.
 
 ## Sources
 

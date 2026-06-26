@@ -110,7 +110,8 @@
 - [[bunker-cartwright-1768]] — John Bunker (1746) & Elizabeth Cartwright, married Millbrook 1768; 1 child recorded; buried Ampthill 1796
 - [[bunker-pedder-1772]] — James Bunker (1749) & Elizabeth Pedder, married Millbrook 1772; 5 children
 - [[bunker-garratt-1777]] — Joseph Bunker (1754) & Martha Garratt, married Millbrook 1777; 12 children; Joseph was cordwainer; third son of Thomas (1704)
-- [[bunker-taylor-1809]] — Joel Bunker (c.1782) & Martha Taylor, married Millbrook 1809; 4 children; at Eversholt by 1815; Green Man Inn 1815–1846; son Joseph (1810) key research lead
+- [[bunker-taylor-1809]] — Joel Bunker (c.1782) & Martha Taylor, married Millbrook 1809; 4 children; at Eversholt by Dec 1812; Green Man Inn; son Joseph (1810) key research lead
+- [[bunker-newton-1834]] — Job Bunker (1804) & Sarah Newton, married Eversholt 1834; 9 children; Job stayed Eversholt all his life
 - [[danby-bunker-1838]] — Stephen Danby (excise officer) & Eliza Bunker (1815), married Eversholt 1838; 7 children; Derbyshire from 1861; Eliza died Derby 1885
 - [[bunker-inskipp-1839]] — Joel Bunker & Elizabeth Inskipp, married Flitton with Silsoe 1839; Joel's second marriage after Martha Taylor's death; no children recorded
 - [[bunker-ashby-1766]] — Edward Bunker (1742) & Mary Ashby, married Millbrook 1766; 10 children; Mark Ashby Bunker transported to Australia 1817
@@ -391,6 +392,8 @@
 - [[edward-bunker-1742]] — Edward Bunker (1742–1814), Millbrook all his life; married Mary Ashby 1766; 10 children including Mark Ashby Bunker
 - [[joel-bunker-1789]] — Joel Bunker (c.1782–1861), son of Joseph (1754); publican Green Man Inn Eversholt; two marriages; died Ampthill
 - [[martha-taylor-1786]] — Martha Taylor (abt 1786–1836), first wife of Joel Bunker; died Green Man Inn Eversholt 11 Oct 1836 aged 49
+- [[job-bunker-1804]] — Job Bunker (1804–unknown), eldest son of Joel; born Ampthill; christened Eversholt 1812; stayed Eversholt; 9 children with Sarah Newton
+- [[sarah-newton-1814]] — Sarah Newton (abt 1814–unknown), married Job Bunker 1834 Eversholt; origins unknown
 - [[eliza-bunker-1815]] — Eliza Bunker (1815–1885), daughter of Joel; born Eversholt; married Stephen Danby 1838; died Derby
 - [[stephen-danby-1812]] — Stephen Danby (abt 1812–1867), excise officer; married Eliza Bunker 1838 Eversholt; from Hockliffe
 - [[elizabeth-inskipp-1792]] — Elizabeth Inskipp (abt 1792–unknown), second wife of Joel Bunker; married 1839 Flitton with Silsoe
@@ -738,6 +741,7 @@
 - [[joel-bunker-1789-familysearch]] — FamilySearch 23J5-HWZ; 15 sources; born c.1782–1786, christened 1789 Millbrook; two marriages; died 1861 Ampthill
 - [[joel-bunker-newspapers-findmypast]] — FindMyPast newspaper search; 7 results 1830–1846; Green Man Inn Eversholt; Martha's death notice Oct 1836; assault and fines 1844; departure 1846
 - [[eliza-bunker-1815-familysearch]] — FamilySearch 2S4L-W54; born Eversholt Jun 1815; married Stephen Danby 1838; 7 children; died Derby 1885
+- [[job-bunker-1804-familysearch]] — FamilySearch 23VC-5RK; born Ampthill Oct 1804; christened Eversholt Dec 1812; married Sarah Newton 1834; 9 children; Eversholt 1841 and 1851
 - [[william-bunker-1731-familysearch]] — FamilySearch G864-PMN; christened Toddington 1731; died Westoning 1790; no spouse or children
 - [[anne-bunker-1732-familysearch]] — FamilySearch MMPJ-ZYN; married Daniel Brightman 1753; 12 children listed; one (William Brittain) likely misattributed
 - [[mary-bunker-1737-familysearch]] — FamilySearch KZLF-QX6; married William Roffe 1764; 5 children; christening date discrepancy (1735 vs 1737)
