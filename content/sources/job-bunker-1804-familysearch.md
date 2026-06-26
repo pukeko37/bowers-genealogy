@@ -17,13 +17,15 @@ FamilySearch print view **23VC-5RK** for Job Bunker (1804–Deceased), eldest ch
 
 ## Key facts
 
-- **Born:** 28 October 1804, Ampthill, Bedfordshire — four years before Joel's marriage to Martha Taylor (30 January 1809). Job was a pre-marital child; FamilySearch attributes him to both Joel and Martha.
-- **Christened:** 26 December 1812, Eversholt, Bedfordshire — eight years after birth. Another delayed registration, consistent with the family's nonconformist practice. Critically, this confirms Joel and Martha were **in Eversholt by December 1812** — three years earlier than Eliza's June 1815 birth had suggested.
+- **Born:** Unknown date and place. FamilySearch shows "28 October 1804, Ampthill" — **this is wrong**. The Ampthill St Andrew baptism of 30 November 1804 has been confirmed as belonging to **Thomas Bunker and Mary**, not Joel and Martha. That record was incorrectly attached to this person. See [[job-bunker-catalogue-findmypast]].
+- **Christened:** 26 December 1812, Eversholt, Bedfordshire — the only confirmed early record. His birth date is unknown; he was born sometime before December 1812.
 - **Death:** "Deceased" — no date documented
 - **Residence 1841:** Eversholt, Bedfordshire
 - **Residence 1851:** Eversholt, Bedfordshire
 - **Address note:** "Wit'S End" — appears to be a house or locality name in Eversholt
 - **Married:** Sarah Newton (1814–Deceased), 13 October 1834, Eversholt
+
+The December 1812 christening still confirms Joel and Martha were in Eversholt by that date.
 
 ## Children (by Sarah Newton)
 

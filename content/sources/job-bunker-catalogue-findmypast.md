@@ -16,16 +16,26 @@ FindMyPast search for "Job Bunker" near Ampthill, Bedfordshire, birth year 1804 
 
 ## The three Job Bunkers
 
-### Job A — Joel's son (our person)
+### Job A — Thomas and Mary Bunker's son (NOT Joel's Job)
 
 | Record | Year | Place | Notes |
 |--------|------|-------|-------|
 | Bedfordshire Baptisms | 1804 | Ampthill, St Andrew | Two database indices of same record |
 | Bedfordshire Baptisms | 1804 | Ampthill, Bedfordshire | Duplicate index |
-| Bedfordshire Marriages | 1834 | Eversholt, St John the Baptist | Two indices — confirmed marriage to Sarah Newton |
+
+**The Ampthill baptism has been confirmed as belonging to parents Thomas Bunker and Mary — not Joel Bunker and Martha Taylor.** FamilySearch incorrectly attached this record to [[job-bunker-1804|Joel's Job]], giving him a false birth date (28 October 1804) and birth place (Ampthill). The FamilySearch birth entry for Joel's Job should be disregarded.
+
+This is a fourth distinct Bunker in the picture. Thomas Bunker + Mary had a son Job baptised at Ampthill St Andrew on 30 November 1804. Which Thomas Bunker this is has not yet been identified — candidates from the known tree include Thomas (1767, son of William 1740 and Ann Peet) and Thomas (1783, son of Edward 1742 and Mary Ashby), both of whom were the right age in 1804 and have no documented wives.
+
+### Joel's Job — Eversholt only
+
+| Record | Year | Place | Notes |
+|--------|------|-------|-------|
+| Bedfordshire Baptisms | 1812 | Eversholt, Bedfordshire | Christening 26 December 1812 — only confirmed birth/christening record |
+| Bedfordshire Marriages | 1834 | Eversholt, St John the Baptist | Marriage to Sarah Newton |
 | Bedfordshire Marriages | 1834 | Eversholt, Bedfordshire | Duplicate index |
 
-Job born October 1804 at Ampthill; baptised there. Survived. Christened at Eversholt December 1812 (delayed registration). Married Sarah Newton at Eversholt 1834. Confirmed Eversholt resident 1841 and 1851.
+Joel's Job has **no confirmed birth date or place.** The December 1812 Eversholt christening is the earliest solid record. He may have been born much closer to 1812 than to 1804 — the FamilySearch birth date of "28 October 1804, Ampthill" derived entirely from the Thomas+Mary record and should be discarded. He was confirmed in Eversholt in 1841 and 1851.
 
 ### Job B — Millbrook infant, 1804
 
@@ -64,10 +74,12 @@ Without the transcript this cannot be resolved.
 
 ## FamilySearch confusion
 
-FamilySearch's record for Job A (23VC-5RK) lists both an Ampthill 1804 baptism AND an Eversholt December 1812 christening. The December 1812 christening is probably a genuine delayed Church of England registration of the 1804 Ampthill birth — consistent with the family's pattern of delayed registrations. The Millbrook 1804 records (Job B) and Eversholt 1807–08 records (Job C) belong to different individuals and should not be attached to Joel's Job.
+FamilySearch's record for Joel's Job (23VC-5RK) incorrectly attaches the Ampthill St Andrew 1804 baptism — which belongs to **Thomas Bunker and Mary**. This gave a false birth date of 28 October 1804 and false birth place of Ampthill. The December 1812 Eversholt christening is likely Joel's Job's genuine christening. The Millbrook 1804 records (Job B) and Eversholt 1807–08 records (Job C) belong to different individuals and should also not be attached to Joel's Job.
 
 ## Research actions
 
-- Obtain transcripts of the Millbrook 1804 baptism and burial to confirm Job B's parents
+- Identify which Thomas Bunker (and wife Mary) had a son Job at Ampthill St Andrew 30 November 1804. Candidates: Thomas (1767, son of William 1740) and Thomas (1783, son of Edward 1742). Census and marriage records for these men would clarify.
+- Obtain transcript of the Millbrook 1804 baptism and burial to confirm Job B's parents
 - Obtain transcript of the Eversholt 1807 baptism to confirm Job C's parents
-- Check whether Sarah Newton died before 1864 to assess whether the 1864 Ampthill marriage could be Job A's second marriage
+- Establish Joel's Job's actual birth year — somewhere between Joel's Millbrook marriage (Jan 1809) and the Dec 1812 Eversholt christening, or earlier if Joel was in the area pre-1809
+- Check whether Sarah Newton died before 1864 to assess the 1864 Ampthill marriage

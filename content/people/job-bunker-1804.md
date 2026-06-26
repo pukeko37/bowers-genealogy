@@ -1,9 +1,9 @@
 ---
-title: "Job Bunker"
+title: "Job Bunker (son of Joel)"
 type: person
-born: "28 Oct 1804"
+born: "unknown"
 died: "unknown"
-birth-place: "Ampthill, Bedfordshire"
+birth-place: "unknown"
 death-place: "unknown"
 family-of-origin: "[[bunker-taylor-1809]]"
 families-as-parent:
@@ -15,12 +15,10 @@ created: 2026-06-26
 updated: 2026-06-26
 ---
 
-Job Bunker (born 28 October 1804, Ampthill) was the eldest child of [[joel-bunker-1789|Joel Bunker]] and [[martha-taylor-1786|Martha Taylor]], born four years before their marriage in 1809 — a pre-marital child. He was christened at Eversholt on 26 December 1812, eight years after his birth, confirming his father Joel was living in Eversholt by at least December 1812.
+Job Bunker was the eldest child of [[joel-bunker-1789|Joel Bunker]] and [[martha-taylor-1786|Martha Taylor]]. His birth date and place are not documented. The FamilySearch record (23VC-5RK) shows "born 28 October 1804, Ampthill" but this is wrong: **the Ampthill baptism of 30 November 1804 has been confirmed as belonging to a different family — Thomas Bunker and Mary** — not Joel and Martha. That record was incorrectly attached to this person in FamilySearch.
 
-Job spent his life in Eversholt. He married **[[sarah-newton-1814|Sarah Newton]]** (1814–Deceased) on 13 October 1834 at Eversholt and is confirmed there in both the 1841 and 1851 censuses. His residence is noted in FamilySearch as "Wit'S End" — likely a house or hamlet name in the village. He had nine children with Sarah, of whom three died young. His son **Robert Joel Bunker (1849–1898)** carries his grandfather Joel's given name.
+The only confirmed early record is his **christening at Eversholt on 26 December 1812**, which is the earliest solid evidence of his existence. He may have been born anywhere between c.1807 (after Martha's presumed move toward Eversholt) and 1812. He is older than Joseph (born Alwalton, Huntingdonshire, 20 May 1810) — or possibly younger, if the sibling order in FamilySearch is unreliable.
 
-His name echoes that of his grandfather Joseph (1754)'s second child, **Job Bunker (1780)**.
+He married **[[sarah-newton-1814|Sarah Newton]]** (1814–unknown) on 13 October 1834 at Eversholt, where he was also in the 1841 and 1851 censuses. His FamilySearch residence note "Wit'S End" appears to be an address in Eversholt. He had nine children with Sarah.
 
-**FamilySearch note:** A FindMyPast search for Job Bunker near Ampthill c.1804 returns records for at least three distinct individuals — Job A (our person, born Ampthill), a Millbrook infant Job B (baptised and buried Millbrook 1804, likely a son of Job Bunker 1780), and an Eversholt infant Job C (baptised 1807, died 1808). The FamilySearch tree has potentially confused some of these records. See [[job-bunker-catalogue-findmypast]].
-
-See [[bunker-newton-1834]] for the full family.
+See [[bunker-newton-1834]] for the full family and [[job-bunker-catalogue-findmypast]] for the FamilySearch confusion.

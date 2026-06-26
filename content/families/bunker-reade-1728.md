@@ -74,5 +74,6 @@ The family's move from Westoning to Millbrook is visible in the records: Thomas 
 - What are the origins of Mary Reade? Her parents are unknown.
 - What are the origins of William Bunker (1663) and Sarah Greene beyond Westoning?
 - **Ruth (1745)** is the only surviving sibling not yet documented. FamilySearch lists her as "Ruth Bunker (1745–Deceased)" with no further detail.
+- A **Thomas Bunker** married to a **Mary** had a son Job baptised at Ampthill St Andrew on 30 November 1804. This Thomas is almost certainly a grandson of Thomas (1704) — the most likely candidates are Thomas (1767, son of William 1740) or Thomas (1783, son of Edward 1742), both of whom have no documented wives. Identifying this family would extend the tree for one of those currently thin lines. See [[job-bunker-catalogue-findmypast]].
 - What are the origins of Mary Reade? Her parents are unknown.
 - What are the origins of William Bunker (1663) and Sarah Greene beyond Westoning?

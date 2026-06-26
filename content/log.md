@@ -1,3 +1,9 @@
+## [2026-06-26] update | Job Bunker Ampthill baptism confirmed as Thomas + Mary Bunker's son
+
+The Ampthill St Andrew baptism of 30 November 1804 has been confirmed as belonging to parents Thomas Bunker and Mary — NOT Joel and Martha. FamilySearch incorrectly attached it to Joel's Job, giving him a false birth date (28 Oct 1804) and false birth place (Ampthill). Joel's Job now has no confirmed birth date or place; the December 1812 Eversholt christening is the only solid early record. A previously unknown Bunker family identified: Thomas Bunker + Mary, who had a son Job at Ampthill 1804. Thomas is likely a grandson of Thomas (1704) — either Thomas (1767, son of William 1740) or Thomas (1783, son of Edward 1742).
+
+Pages updated: [[job-bunker-catalogue-findmypast]], [[job-bunker-1804]], [[job-bunker-1804-familysearch]], [[bunker-taylor-1809]], [[bunker-reade-1728]], log
+
 ## [2026-06-26] ingest | Job Bunker catalogue — three distinct Job Bunkers identified near Ampthill 1804
 
 FindMyPast search for Job Bunker near Ampthill, birth ~1804. Returns records for at least three different individuals: (A) Joel's son Job, born Ampthill Oct 1804, survived; (B) a Millbrook infant baptised and buried in 1804, most likely a son of Job Bunker (1780) from the Joseph (1754) line; (C) an Eversholt infant baptised 1807, buried 1808, parents unknown. Also a 1864 Ampthill marriage for a Job Bunker — unresolved. FamilySearch confusion between these records flagged. Transcripts needed to confirm parents of the Millbrook and Eversholt infants.
