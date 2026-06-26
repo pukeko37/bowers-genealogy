@@ -20,7 +20,7 @@ The Millbrook Bunker story begins with **[[thomas-bunker-1704|Thomas Bunker]] (1
 
 Thomas and Mary had twelve children in all, spanning from 1728 to 1754. Three died in infancy or childhood (two named William, and a Mary). The nine surviving children who reached adulthood planted the Millbrook Bunker community across the second half of the eighteenth century.
 
-Two of Thomas's sons also arrived in Millbrook before the family: Ann Bunker and Sarah Bunker, recorded in Millbrook parish registers in 1728 and 1729 respectively, were Thomas's second cousins. Their parents were Thomas Bunker (1656) and Sarah Sanders; their common ancestors with Thomas (1704) were Francis Bunker (1574) and Tabitha Davey.
+Two Bunker women arrived in Millbrook before Thomas's family: Ann Bunker and Sarah Bunker, recorded in Millbrook parish registers in 1728 and 1729 respectively, were Thomas's second cousins. Their parents were Thomas Bunker (1656) and Sarah Sanders; their common ancestors with Thomas (1704) were Francis Bunker (1574) and Tabitha Davey.
 
 Thomas's twelve children:
 
