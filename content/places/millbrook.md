@@ -28,15 +28,15 @@ Thomas's twelve children:
 |-------|------|-------|
 | William | 26 Mar 1728, Toddington | died days later |
 | Mary | 10 Oct 1729, Toddington | died eight days later |
-| William | 26 Mar 1731, Toddington | probably died c.1738–1740 |
+| William | 26 Mar 1731, Toddington | died 1731, buried Toddington — infant death; confirmed by burial record |
 | Ann | 25 Jun 1732, Toddington | died 20 April 1800 |
 | Mary | 22 Jul 1735, Toddington | married William Roffe 1764 Millbrook |
 | **Thomas** | 4 Jun 1738, Millbrook | married Martha Sinfield 1761; **our line** |
 | William | 27 Jul 1740, Millbrook | moved to Steppingley; died 1816 |
 | **Edward** | 1 Oct 1742, Millbrook | married Mary Ashby; 10 children; **collateral line** |
 | Ruth | 12 May 1745, Millbrook | married Thomas Marshall 1776 Millbrook |
-| John | 5 Oct 1746, Millbrook | married Elizabeth Cartwright 1769; died 3 Jul 1835 |
-| James | 21 Feb 1749, Millbrook | moved to Ampthill; died 1818 |
+| John | 5 Oct 1746, Millbrook | married Elizabeth Cartwright 25 Aug 1768 Millbrook; died 20 Jul 1796, buried Ampthill |
+| James | 21 Feb 1749, Millbrook | died 10 Jul 1818, Bedfordshire (Ampthill specifically unconfirmed) |
 | Joseph | 13 Oct 1754, Millbrook | **cordwainer**; married Martha Garratt 1777; 12 children; died 27 Nov 1808 Millbrook; see [[bunker-garratt-1777]] |
 
 ## Two Lines: Thomas and Edward
@@ -84,7 +84,7 @@ The 1841 census ages are unreliable (rounded to nearest 5 in this census), so th
 
 ### 1851 — Three Households
 
-By 1851 William (1771) had died (1847) and Sarah Beal (1848), reducing the collateral line by one household. The three remaining Bunker households include James (1807) and Elizabeth at Millbrook with seven children still at home — their eldest John had already left. This is James's last census; he died in 1852.
+By 1851 William (1767) had died (1847) and Sarah Beal (1848), reducing the collateral line by one household. The three remaining Bunker households include James (1807) and Elizabeth at Millbrook with seven children still at home — their eldest John had already left. This is James's last census; he died in 1852.
 
 ### 1852 — Our Line Departs
 
