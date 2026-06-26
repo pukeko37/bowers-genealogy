@@ -17,7 +17,7 @@ William Bunker (1731–unknown) was the third child of [[thomas-bunker-1704|Thom
 
 ## Death date: unsourced and likely wrong
 
-FamilySearch shows his death as "1790, Westoning" — but his FamilySearch record (G864-PMN) has **only one source attached**, the 1731 christening. There is no documentary evidence for the 1790 Westoning death at all. It was entered into the collaborative tree without any record, and FamilySearch found "no similar records" — meaning it could not suggest any corroborating documents.
+FamilySearch shows his death as "1790, Westoning" — but his FamilySearch record (G864-PMN) has **only one genuine source attached**, the 1731 christening. The death date carries the label **"Gedcom data"** as its source, meaning it originated from someone's uploaded personal family tree file, not from any primary document. GEDCOM uploads carry no evidential weight — the compiler may have been guessing or copying from another unsourced tree. FamilySearch found "no similar records," confirming it could not identify any corroborating primary documents.
 
 The 1790 date is almost certainly either invented by a tree contributor or transferred from a different William Bunker (a nephew, grandson, or unrelated person of the same name in Westoning).
 
@@ -25,7 +25,7 @@ The more plausible interpretation of the naming evidence is that William (1731) 
 
 ## Birth place: also a FamilySearch artefact
 
-FamilySearch shows a birth on 26 March 1731 at Harlington — the same date as the christening but a different place. Same-day birth and christening records with mismatched locations are a known FamilySearch data quality issue: the platform sometimes auto-populates a "birth" field from the christening date while pulling the place from a different field in the indexed record (perhaps the father's listed residence). There is no independent birth document — only the one christening source. The Harlington entry should not be read as evidence of a separate birth record.
+FamilySearch shows a birth on 26 March 1731 at Harlington — the same date as the christening but a different place. Like the death date, this entry carries the label **"Gedcom data"** — it came from someone's uploaded tree, not a primary document. Same-day birth and christening entries with mismatched places are a known FamilySearch artefact: a GEDCOM contributor likely copied the christening date into a birth field and supplied Harlington as a place (perhaps a guess, or pulled from another source they were working from). There is no independent birth document.
 
 ## Status
 
