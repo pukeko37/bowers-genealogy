@@ -1,3 +1,10 @@
+## [2026-06-26] ingest | Joel Bunker — full life established from corrected FamilySearch and newspapers
+
+Third corrected clipping (Joel Bunker 1782–1861) and FindMyPast newspaper search. Birth year revised to c.1782–1786 — the 1789 Millbrook christening is a delayed registration consistent with nonconformist practice. New facts: Joel ran the Green Man Inn at Eversholt 1830s–1846; Martha Taylor died there 11 October 1836 aged 49 (Bucks Gazette death notice confirmed); Joel remarried Elizabeth Inskipp on 16 April 1839 at Flitton with Silsoe; departed Eversholt September 1846; in 1861 census at Fairlight, Sussex ("formerly publican"); died 1861 Ampthill. Newspaper sources document an assault on Joel at his pub (1844), a short-measures fine (1844), and his daughter Eliza's marriage to excise officer Stephen Danby at Eversholt (1838).
+
+Pages created: [[joel-bunker-newspapers-findmypast]], [[elizabeth-inskipp-1792]], [[bunker-inskipp-1839]]
+Pages updated: [[joel-bunker-1789-familysearch]], [[joel-bunker-1789]], [[bunker-taylor-1809]], [[martha-taylor-1786]] (via death date confirmed), index, log
+
 ## [2026-06-26] ingest | Joel Bunker (1789) corrections — death 1861 Ampthill confirmed
 
 Corrected clipping (Joel Bunker 1789–1861) ingested after death date was added to FamilySearch. Joel died 1861 at Ampthill aged ~72 — he should appear in 1841 and 1851 censuses. The earlier FamilySearch tree errors (Martha Garratt listed as a spouse; "[Unknown Name]" artefact) were also cleaned up in the tree before the corrected clipping was taken.

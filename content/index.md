@@ -110,7 +110,8 @@
 - [[bunker-cartwright-1768]] — John Bunker (1746) & Elizabeth Cartwright, married Millbrook 1768; 1 child recorded; buried Ampthill 1796
 - [[bunker-pedder-1772]] — James Bunker (1749) & Elizabeth Pedder, married Millbrook 1772; 5 children
 - [[bunker-garratt-1777]] — Joseph Bunker (1754) & Martha Garratt, married Millbrook 1777; 12 children; Joseph was cordwainer; third son of Thomas (1704)
-- [[bunker-taylor-1809]] — Joel Bunker (1789) & Martha Taylor, married Millbrook 1809; 4 children; son Joseph (1810) may link to Joseph (~1837) in Victorian Millbrook
+- [[bunker-taylor-1809]] — Joel Bunker (c.1782) & Martha Taylor, married Millbrook 1809; 4 children; publican at Green Man Inn Eversholt 1830s–1846; son Joseph (1810) key research lead
+- [[bunker-inskipp-1839]] — Joel Bunker & Elizabeth Inskipp, married Flitton with Silsoe 1839; Joel's second marriage after Martha Taylor's death; no children recorded
 - [[bunker-ashby-1766]] — Edward Bunker (1742) & Mary Ashby, married Millbrook 1766; 10 children; Mark Ashby Bunker transported to Australia 1817
 - [[bunker-sinfield-1761]] — Thomas Bunker (1738) & Martha Sinfield, married Millbrook 1761; Thomas buried Toddington 1825 aged 87
 - [[bunker-brown-1788]] — James Thomas Bunker & Lydia Brown, married St Paul's Walden 1788; James Bunker's parents
@@ -387,8 +388,9 @@
 - [[james-bunker-1749]] — James Bunker (1749–1818), eleventh child of Thomas (1704); married Elizabeth Pedder 1772; 5 children
 - [[elizabeth-pedder-1752]] — Elizabeth Pedder (abt 1752–1830), married James Bunker 1772 Millbrook; origins unknown
 - [[edward-bunker-1742]] — Edward Bunker (1742–1814), Millbrook all his life; married Mary Ashby 1766; 10 children including Mark Ashby Bunker
-- [[joel-bunker-1789]] — Joel Bunker (1789–unknown), son of Joseph (1754); married Martha Taylor 1809 Millbrook; first of his siblings traced into next generation
-- [[martha-taylor-1786]] — Martha Taylor (abt 1786–1836), married Joel Bunker 1809 Millbrook; origins unknown
+- [[joel-bunker-1789]] — Joel Bunker (c.1782–1861), son of Joseph (1754); publican Green Man Inn Eversholt; two marriages; died Ampthill
+- [[martha-taylor-1786]] — Martha Taylor (abt 1786–1836), first wife of Joel Bunker; died Green Man Inn Eversholt 11 Oct 1836 aged 49
+- [[elizabeth-inskipp-1792]] — Elizabeth Inskipp (abt 1792–unknown), second wife of Joel Bunker; married 1839 Flitton with Silsoe
 - [[joseph-bunker-1754]] — Joseph Bunker (1754–1808), youngest son of Thomas (1704); cordwainer; 12 children with Martha Garratt; died Millbrook
 - [[martha-garratt-1756]] — Martha Garratt (abt 1756–unknown), married Joseph Bunker 1777 Millbrook; origins undocumented
 - [[william-bunker-1767]] — William Bunker (1767–abt 1847), Edward's eldest; two marriages (Ann Denton 1792, Sarah Beal 1808); 8+ children; Millbrook all his life
@@ -730,7 +732,8 @@
 - [[william-bunker-1767-sources-familysearch]] — FamilySearch sources (KZZ5-8LV); christening dates for all known children; Oct 1819 source likely Samuel Bunker
 - [[john-bunker-1769-sources-familysearch]] — FamilySearch sources (KHBK-76X); 2 sources only; christening 1769 and burial 16 Dec 1795 aged 27
 - [[joseph-bunker-1754-familysearch]] — FamilySearch G864-XCL; 24 sources; christening, marriage to Martha Garratt 1777, death 1808, all 12 children's baptism/burial records
-- [[joel-bunker-1789-familysearch]] — FamilySearch 23J5-HWZ; 15 sources; baptism 1789 Millbrook, marriage to Martha Taylor 1809 Millbrook, 4 children
+- [[joel-bunker-1789-familysearch]] — FamilySearch 23J5-HWZ; 15 sources; born c.1782–1786, christened 1789 Millbrook; two marriages; died 1861 Ampthill
+- [[joel-bunker-newspapers-findmypast]] — FindMyPast newspaper search; 7 results 1830–1846; Green Man Inn Eversholt; Martha's death notice Oct 1836; assault and fines 1844; departure 1846
 - [[william-bunker-1731-familysearch]] — FamilySearch G864-PMN; christened Toddington 1731; died Westoning 1790; no spouse or children
 - [[anne-bunker-1732-familysearch]] — FamilySearch MMPJ-ZYN; married Daniel Brightman 1753; 12 children listed; one (William Brittain) likely misattributed
 - [[mary-bunker-1737-familysearch]] — FamilySearch KZLF-QX6; married William Roffe 1764; 5 children; christening date discrepancy (1735 vs 1737)

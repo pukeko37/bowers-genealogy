@@ -17,7 +17,7 @@ updated: 2026-06-26
 
 ## Parents
 
-**[[joel-bunker-1789|Joel Bunker]]** (1789–1861) was the sixth child of [[joseph-bunker-1754|Joseph Bunker (1754)]] and Martha Garratt, baptised 26 April 1789 at Millbrook. He married **[[martha-taylor-1786|Martha Taylor]]** (1786–1836) on 30 January 1809 at Millbrook — two months after his father's death. Martha died in 1836; Joel died in 1861 at Ampthill, aged ~72.
+**[[joel-bunker-1789|Joel Bunker]]** (c.1782–1861) was the sixth child of [[joseph-bunker-1754|Joseph Bunker (1754)]] and Martha Garratt. He married **[[martha-taylor-1786|Martha Taylor]]** (c.1786–1836) on 30 January 1809 at Millbrook — two months after his father's death. Martha died **11 October 1836, aged 49**, at the Green Man Inn, Eversholt (confirmed by death notice in the Bucks Gazette). Joel subsequently married [[elizabeth-inskipp-1792|Elizabeth Inskipp]] in 1839. He died in 1861 at Ampthill aged ~79.
 
 ## Children
 
@@ -25,12 +25,12 @@ Four children listed in FamilySearch:
 
 | # | Name | Born | Died | Notes |
 |---|------|------|------|-------|
-| 1 | Job Bunker | listed as 1804 | Deceased | Date almost certainly wrong — predates marriage by 5 years; probably born c.1814 |
+| 1 | Job Bunker | 1804 | Deceased | Born before marriage; if Joel born c.1782, Job was a pre-marital child (Joel ~22 at Job's birth) |
 | 2 | Joseph Bunker | 1810 | Deceased | Born year after marriage ✓ |
 | 3 | Eliza Bunker | 1815 | 1885 | — |
 | 4 | Patty Bunker | 1817 | Deceased | — |
 
-The name Job echoes Joel's brother Job Bunker (1780, son of Joseph 1754). Naming a son after an uncle was common practice.
+The name Job echoes Joel's brother Job Bunker (1780, son of Joseph 1754). Naming a son after an uncle was common practice. Eliza's marriage to Stephen Danby (excise officer) in March 1838 at Eversholt is confirmed by a newspaper notice in the Bucks Gazette.
 
 ## The Joseph (1810) lead
 
@@ -38,7 +38,7 @@ Joel's son **Joseph Bunker (born 1810)** is the most significant figure from thi
 
 ## Family life
 
-The marriage took place at Millbrook, where Joel had been baptised and where his father Joseph (1754) had lived and died. Whether Joel and Martha remained in Millbrook or eventually moved is not yet established from these sources.
+Joel and Martha married at Millbrook in January 1809, but at some point moved to **Eversholt, Bedfordshire** (near Woburn, ~8 miles from Millbrook), where Joel became publican of the **Green Man Inn**. He was established there by 1830 at the latest. Martha died at the Green Man on 11 October 1836. Joel continued at Eversholt until September 1846, when he auctioned the pub's contents and left the neighbourhood. He is confirmed at Eversholt in the 1841 census. See [[joel-bunker-newspapers-findmypast]] for the full newspaper record.
 
 ## Sources
 
