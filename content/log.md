@@ -1,3 +1,10 @@
+## [2026-06-26] ingest | Eliza Bunker (1815–1885) — Joel's daughter; confirms Eversholt move by 1815
+
+FamilySearch print view for Eliza Bunker (2S4L-W54). Key finding: Eliza was born and christened at Eversholt June 1815 — pushing back Joel's move from "by 1830" to "by early 1815." She married Stephen Danby, excise officer of Hockliffe, at Eversholt on 11 March 1838 (cross-confirmed by the Bucks Gazette notice from the previous session). The Danby family moved with the excise service: Thame 1841, Staffordshire 1851, Derbyshire from 1861. Stephen died 1867; Eliza died Derby 1885. Seven children.
+
+Pages created: [[eliza-bunker-1815-familysearch]], [[eliza-bunker-1815]], [[stephen-danby-1812]], [[danby-bunker-1838]]
+Pages updated: [[joel-bunker-1789]], [[bunker-taylor-1809]], index, log
+
 ## [2026-06-26] ingest | Joel Bunker — full life established from corrected FamilySearch and newspapers
 
 Third corrected clipping (Joel Bunker 1782–1861) and FindMyPast newspaper search. Birth year revised to c.1782–1786 — the 1789 Millbrook christening is a delayed registration consistent with nonconformist practice. New facts: Joel ran the Green Man Inn at Eversholt 1830s–1846; Martha Taylor died there 11 October 1836 aged 49 (Bucks Gazette death notice confirmed); Joel remarried Elizabeth Inskipp on 16 April 1839 at Flitton with Silsoe; departed Eversholt September 1846; in 1861 census at Fairlight, Sussex ("formerly publican"); died 1861 Ampthill. Newspaper sources document an assault on Joel at his pub (1844), a short-measures fine (1844), and his daughter Eliza's marriage to excise officer Stephen Danby at Eversholt (1838).

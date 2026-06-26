@@ -30,7 +30,7 @@ Martha died on **11 October 1836, aged 49**, at the Green Man Inn, Eversholt —
 
 ## The Green Man Inn, Eversholt
 
-By 1830 at the latest Joel was established as publican of the **Green Man Inn at Eversholt, Bedfordshire** — a village near Woburn, about eight miles from Millbrook. He ran the pub for over a decade, appearing in newspaper records through the 1830s and 1840s:
+Joel was living at **Eversholt, Bedfordshire** from at least early 1815 — his daughter Eliza was born and christened there in June 1815. He was established as publican of the **Green Man Inn at Eversholt** — a village near Woburn, about eight miles from Millbrook. He ran the pub for over a decade, appearing in newspaper records through the 1830s and 1840s:
 
 - **1833:** Named as tenant at the Green Man in an auction notice for neighbouring property
 - **1838:** His daughter Eliza married Stephen Danby, an excise officer, at Eversholt

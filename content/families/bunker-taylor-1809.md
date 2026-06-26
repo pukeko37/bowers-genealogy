@@ -38,7 +38,7 @@ Joel's son **Joseph Bunker (born 1810)** is the most significant figure from thi
 
 ## Family life
 
-Joel and Martha married at Millbrook in January 1809, but at some point moved to **Eversholt, Bedfordshire** (near Woburn, ~8 miles from Millbrook), where Joel became publican of the **Green Man Inn**. He was established there by 1830 at the latest. Martha died at the Green Man on 11 October 1836. Joel continued at Eversholt until September 1846, when he auctioned the pub's contents and left the neighbourhood. He is confirmed at Eversholt in the 1841 census. See [[joel-bunker-newspapers-findmypast]] for the full newspaper record.
+Joel and Martha married at Millbrook in January 1809, but had moved to **Eversholt, Bedfordshire** (near Woburn, ~8 miles from Millbrook) by early 1815 at the latest — their daughter Eliza was born and christened at Eversholt in June 1815. Joel became publican of the **Green Man Inn** there. Martha died at the Green Man on 11 October 1836. Joel continued at Eversholt until September 1846, when he auctioned the pub's contents and left the neighbourhood. He is confirmed at Eversholt in the 1841 census. See [[joel-bunker-newspapers-findmypast]] for the full newspaper record.
 
 ## Sources
 
