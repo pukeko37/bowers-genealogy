@@ -102,6 +102,7 @@
 - [[bunker-lane-1863]] — Samuel Plackett Lane & Lydia Bunker, married Bedford 1863; 3 daughters; Samuel died 1872 aged 29
 - [[bunker-melrose-1913]] — Ernest Caleb Bunker & Helena Melrose, married Bristol 1913; WWI service; Bristol then Watford
 - [[bunker-smith-1901]] — Herbert Thomas Barnsley Bunker & Martha Emma Smith, married Kings Norton 1901; railway family; 3 children
+- [[bunker-somerfield-1811]] — James Bunker (1777) & Mary Somerfield, married Millbrook 1811; 5 children including Naomi (1813) and twin Sally
 - [[bunker-watts-1830]] — James Bunker & Elizabeth Watts, married Millbrook 1830; Caleb's parents, 9 children
 - [[bunker-reade-1728]] — Thomas Bunker (1704) & Mary Reade, married Toddington 1728; 12 children; settled Millbrook
 - [[brightman-bunker-1753]] — Daniel Brightman & Anne Bunker (1732), married Millbrook 1753; 12 children; Anne was Thomas (1704)'s fourth child
@@ -405,6 +406,8 @@
 - [[william-bunker-1767]] — William Bunker (1767–abt 1847), Edward's eldest; two marriages (Ann Denton 1792, Sarah Beal 1808); 8+ children; Millbrook all his life
 - [[john-bunker-1769]] — John Bunker (1768–1795), Edward's second son; died aged 27; unmarried; buried Millbrook
 - [[james-bunker-1777]] — James Bunker (1777–1864), Edward's son; three marriages; progenitor of Victorian Millbrook collateral line; died aged ~87
+- [[naomi-bunker-1813]] — Naomi Bunker (abt 1813–unknown), daughter of James (1777) and Mary Somerfield; twin with Sally; pre-marital son Richard (1837); married Robert Babbington 1845
+- [[mary-somerfield-1793]] — Mary Somerfield (abt 1793–unknown), second wife of James Bunker (1777); married Millbrook 1811; 5 children
 - [[mark-ashby-bunker-1789]] — Mark Ashby Bunker (1789–1868), sheep stealer; transported to Australia 1817; married and had 8 children there; died 1868
 - [[martha-sinfield]] — Martha Sinfield (dates unknown), married Thomas Bunker 1738 at Millbrook 1761; no birth/death records found
 - [[john-watts-bunker-1831]] — John Watts Bunker (1831–1899), Caleb's eldest brother; Bedford area; died Ampthill
@@ -744,6 +747,7 @@
 - [[joel-bunker-1789-familysearch]] — FamilySearch 23J5-HWZ; 15 sources; born c.1782–1786, christened 1789 Millbrook; two marriages; died 1861 Ampthill
 - [[joel-bunker-newspapers-findmypast]] — FindMyPast newspaper search; 7 results 1830–1846; Green Man Inn Eversholt; Martha's death notice Oct 1836; assault and fines 1844; departure 1846
 - [[eliza-bunker-1815-familysearch]] — FamilySearch 2S4L-W54; born Eversholt Jun 1815; married Stephen Danby 1838; 7 children; died Derby 1885
+- [[naomi-bunker-1813-familysearch]] — FamilySearch L4BP-JSY; christened Millbrook Oct 1813; married Babbington 1845; grandson Richard (1837) identified as pre-marital son; 5 Somerfield siblings confirmed
 - [[job-bunker-1804-familysearch]] — FamilySearch 23VC-5RK; born Ampthill Oct 1804; christened Eversholt Dec 1812; married Sarah Newton 1834; 9 children; Eversholt 1841 and 1851
 - [[joseph-bunker-1810-familysearch]] — FamilySearch M9D8-PFM; born Alwalton Hunts May 1810; married Fanny Jakins Eversholt 1846; Millbrook lead closed
 - [[william-bunker-1731-familysearch]] — FamilySearch G864-PMN; christened Toddington 1731; died Westoning 1790; no spouse or children

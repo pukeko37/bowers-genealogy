@@ -61,7 +61,7 @@ Edward's line is the backbone of the Millbrook Bunker community through the nine
 
 **[[william-bunker-1767|William Bunker]] (chr. 1767–1847)**, Edward's eldest son: married Sarah Beal (his second wife) and lived in Millbrook until his death. He and Sarah appear in the 1841 census with their son Samuel; both died in the village, William in 1847 and Sarah in 1848.
 
-**[[james-bunker-1777|James Bunker]] (1777–1864)**, Edward's fifth son: lived his entire life in Millbrook, outlasting the Thomas line by twelve years and dying in 1864 aged ~87. He had three wives — Sarah Pedder, Mary Somerfield, and Catherine Blunt. With Sarah Pedder he had sons Richard (c.1800) and John (1803); with Mary Somerfield a daughter Naomi and possibly others; with Catherine Blunt a daughter Rachel.
+**[[james-bunker-1777|James Bunker]] (1777–1864)**, Edward's fifth son: lived his entire life in Millbrook, outlasting the Thomas line by twelve years and dying in 1864 aged ~87. He had three wives — Sarah Pedder, Mary Somerfield, and Catherine Blunt. With Sarah Pedder he had sons Richard (c.1800) and John (1803); with Mary Somerfield five children — Naomi (1813), Sally (1813), Rebecca (1815), James (1816), Mary (1818), see [[bunker-somerfield-1811]]; with Catherine Blunt a daughter Rachel.
 
 **[[mark-ashby-bunker-1789|Mark Ashby Bunker]] (1789–1868)**, Edward's ninth child: convicted of sheep stealing in 1817 and transported to Australia for life. Before his transportation he had fathered three illegitimate children in the area — Seth Wheeler (1809, Millbrook), Fanny Johnson (1814, Aspley Guise), and Mark Ashby Bunker jr (1815, Cranfield). He married in Australia after release and had eight more children there.
 
@@ -75,7 +75,7 @@ The 1841 census records four Bunker households in Millbrook, representing both l
 
 | Household | Head | Wife | Notes |
 |-----------|------|------|-------|
-| 1 | [[james-bunker-1777\|James Bunker]], ~60 (b.1777, Edward's son) | Catherine Blunt, ~45 | With Richard (~35), Naomi (~25), Rachel (~17), grandson Richard (~4) |
+| 1 | [[james-bunker-1777\|James Bunker]], ~60 (b.1777, Edward's son) | Catherine Blunt, ~45 | With Richard (~35), [[naomi-bunker-1813\|Naomi]] (~25), Rachel (~17), grandson Richard (~4, b.1837 — Naomi's pre-marital son) |
 | 2 | John Bunker, ~35 (b.1803, son of James 1777) | Maria West, ~35 | 5 children: Sarah (15), John (11), James (8), Hannah (5), Joseph (1) |
 | 3 | [[james-bunker-1807\|James Bunker]], ~30 (b.1807, Thomas line) | Elizabeth Watts | 6 children: John (9), Lydia (8), George (6), David (4), Charles (2), Martha (0) |
 | 4 | [[william-bunker-1767\|William Bunker]], ~70 (b.1767, Edward's son) | Sarah Beal, ~60 | Son Samuel (~20) |

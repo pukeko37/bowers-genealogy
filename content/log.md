@@ -4,6 +4,13 @@ The Ampthill St Andrew baptism of 30 November 1804 has been confirmed as belongi
 
 Pages updated: [[job-bunker-catalogue-findmypast]], [[job-bunker-1804]], [[job-bunker-1804-familysearch]], [[bunker-taylor-1809]], [[bunker-reade-1728]], log
 
+## [2026-06-26] ingest | Naomi Bunker (1813) — James (1777)'s daughter; 1841 "grandson Richard" identified
+
+FamilySearch for Naomi Bunker (L4BP-JSY), daughter of James (1777) and Mary Somerfield. Key findings: (1) Naomi had a pre-marital son Richard (born ~1837) — this is the "grandson Richard (~4)" in the 1841 census household of James (1777), previously unidentified. (2) James and Mary Somerfield had FIVE children, not just Naomi: also Sally (1813, likely twin), Rebecca (1815), James (1816), Mary (1818). (3) Naomi married Robert Babbington at Millbrook in 1845 and had 4 further children; she remained in Millbrook to 1861 then moved to Ampthill by 1871.
+
+Pages created: [[naomi-bunker-1813-familysearch]], [[naomi-bunker-1813]], [[mary-somerfield-1793]], [[bunker-somerfield-1811]]
+Pages updated: [[millbrook]], index, log
+
 ## [2026-06-26] ingest | Job Bunker catalogue — three distinct Job Bunkers identified near Ampthill 1804
 
 FindMyPast search for Job Bunker near Ampthill, birth ~1804. Returns records for at least three different individuals: (A) Joel's son Job, born Ampthill Oct 1804, survived; (B) a Millbrook infant baptised and buried in 1804, most likely a son of Job Bunker (1780) from the Joseph (1754) line; (C) an Eversholt infant baptised 1807, buried 1808, parents unknown. Also a 1864 Ampthill marriage for a Job Bunker — unresolved. FamilySearch confusion between these records flagged. Transcripts needed to confirm parents of the Millbrook and Eversholt infants.
