@@ -41,9 +41,9 @@ Thomas's twelve children:
 
 ## The Bunker Community in Nineteenth-Century Millbrook
 
-Thomas (1704) and Mary Reade's surviving children were all raised in Millbrook and most married there. By the time the first Victorian census was taken in 1841, multiple branches of the family were present in the village simultaneously. The picture is not one of two parallel lines but of a layered community built from the same founding household.
+Thomas (1704) and Mary Reade's surviving children were all raised in Millbrook and most married there. By the time the first Victorian census was taken in 1841, multiple branches of the family were present in the village simultaneously. The picture is a layered community built from the same founding household.
 
-Of the nine surviving children, two founded families whose Millbrook presence is well documented: **Thomas (1738)** and **Edward (1742)**. Others — James (1749), Joseph (1754, cordwainer) — also had large families in or near Millbrook, and their descendants may yet prove to have a census-era presence. The 1815 fence list for properties adjoining the church names **William BUNKER**, **James BUNKER**, and a **Widow BUNKER** — suggesting more Bunker households than the two well-documented lines alone can account for.
+Of the nine surviving children, two founded families whose Millbrook presence is well documented: **Thomas (1738)** and **Edward (1742)**. James (1749), and Joseph (1754, cordwainer) also had large families in or near Millbrook. The 1815 fence list for properties adjoining the church names **William BUNKER**, **James BUNKER**, and a **Widow BUNKER** — suggesting more Bunker households than the two well-documented lines alone can account for.
 
 ### The Thomas (1738) Line
 
@@ -88,7 +88,7 @@ By 1851 William (1767) had died (1847) and Sarah Beal (1848), reducing the Edwar
 
 ### 1852 — The Thomas Line Departs
 
-James Bunker (1807) died in 1852. His widow Elizabeth moved the household to Bedford. The oldest children had already begun leaving in the 1840s; after James's death the remainder followed. None of the nine (or possibly ten) children returned to Millbrook. The Thomas (1738) line's Millbrook presence ends here after roughly ninety years.
+James Bunker (1807) died in 1852. His widow Elizabeth moved the household to Bedford. The oldest children had already begun leaving in the 1840s; after James's death the remainder followed. None of the nine children returned to Millbrook. The Thomas (1738) line's Millbrook presence ends here after roughly ninety years.
 
 The Edward line, by contrast, continues unbroken.
 
@@ -125,7 +125,7 @@ Elizabeth Watts's own family had also gravitated toward Millbrook. Her mother **
 
 Elizabeth's grandmother **[[sarah-knight-1755|Sarah Knight]] (1755–abt 1839)** — wife of [[samuel-capel-1750|Samuel Capel]] — also died in Millbrook, having moved there from Cranfield late in life. See [[capel-knight-1772]].
 
-The Bunker and Capel families thus both had deep Millbrook roots, and the marriage of James Bunker to Elizabeth Watts in 1830 joined two village lines.
+The Bunker and Capel families thus both had Millbrook roots, and the marriage of James Bunker to Elizabeth Watts in 1830 joined two village lines.
 
 ## The Departure
 
@@ -205,9 +205,11 @@ The Millbrook Village School Punishment Book preserves a small trace of Albert E
 
 ## The Sexton and the Lost Effigies (1919)
 
-A 1919 newspaper story records a remarkable event in Millbrook churchyard. **Mrs Bunker**, the aged widow of **Mr Bunker the sexton**, led a party of Bedford schoolboys to a spot in the churchyard where her late husband had struck stone while digging. The two stone effigies of **William and Mary Huett** (died 1621 and 1602 respectively), lost since church renovations in the 1840s, were found intact — all except Mary Huett's head, which Mrs Bunker had been keeping in her shed.
+The church of **St Michael and All Angels** at Millbrook holds the carved stone effigies of **William Huett** (died c.1621–22) and **Mary Huett** (died 1602), a Tudor couple whose altar-tomb was dismantled in 1857. The effigies were buried in the churchyard and their location forgotten — until a **Bunker sexton** struck stone while digging, and kept the head he found. After his death, his widow **Mrs Bunker** was the only person who knew the spot. In **1919**, she led a party of Bedford schoolboys and archaeologists from the Bedfordshire Archaeological Society to the place, and the effigies were recovered — side by side in a shallow grave — and moved inside the church, where they rest near the altar today.
 
 Mr Bunker the sexton was from the Edward (1742) line, probably from the Samuel (1842) or Joseph (1837) households, and died before 1919. He is not yet identified in the records. Three newspaper articles about this event are held by a local researcher.
+
+See [[huett-effigies-millbrook]] for the full story, including the effigies' Tudor origins, the folklore of "The Warriors," the 1857 dismantling, the post-dismantling ghost sounds explained by death-watch beetle in 1888, and the open questions around the sexton's identity.
 
 ## The Stevington Branch
 

@@ -956,3 +956,10 @@ Two corrections to the Sinfield parentage hypothesis:
 Martha's birth year revised to "abt 1737–1741" in the frontmatter; birth-place set to Millbrook. Parentage updated from "John Sinfield" to "probable Christopher Sinfield and Elizabeth." Family-of-origin remains unknown (no source yet directly names her parents).
 
 Pages updated: [[martha-sinfield]], [[bunker-sinfield-1761]], [[john-sinfield-search-results-familysearch]]
+
+## [2026-06-27] ingest | Huett effigies — 1919 Millbrook churchyard rediscovery
+
+Ingested the story of the Huett effigies of St Michael and All Angels, Millbrook. William Huett (died c.1621–22) and Mary Huett (died 1602) were commemorated on a Tudor altar-tomb that was dismantled in 1857. After dismantling, unexplained sounds in the church were attributed to the disturbed tomb; they were explained in 1888 by death-watch beetle in the roof timbers. The effigies were buried in the churchyard and their location forgotten. The Millbrook sexton — a Bunker, from the Edward (1742) line, identity unconfirmed — had previously struck stone while digging and kept the head he found. His widow Mrs Bunker used this to lead Rector H.P. Pollard's 1919 excavation (Bedfordshire Archaeological Society, Bedford Modern School Archaeology Society) to the spot. The effigies were recovered side by side and moved inside the church, where they now rest near the altar. Primary source is britishfolklore.com/millbrook/, accessed via a Perplexity AI summary. Three 1919 newspaper articles held by an unnamed local researcher remain to be located.
+
+Pages created: [[huett-effigies-millbrook]], [[huett-effigies-1919-perplexity]]
+Pages updated: [[millbrook]], index, log

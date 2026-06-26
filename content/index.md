@@ -463,6 +463,7 @@
 - [[luton]] — Luton, Bedfordshire; Frederick Bunker bricklayer/builder, Eliza and Beulah died here
 - [[new-tupton-derbyshire]] — New Tupton, North Derbyshire; convergence point ~1875 for George, Caleb, and Phoebe Bunker; Albert and Herbert T.B. both born here
 - [[millbrook]] — Millbrook, Bedfordshire; ancestral Bunker home, three generations born and died here; Capel/Watts family also rooted here; Wesleyan Methodist chapel built 1858
+- [[huett-effigies-millbrook]] — The Huett effigies, St Michael and All Angels, Millbrook; Tudor couple; lost 1857, recovered 1919; Bunker sexton central to rediscovery
 - [[maulden]] — Maulden, Bedfordshire; home of Edward Tall and Sarah Ward; Frederick Bunker raised here 1870–c.1881
 - [[bedford]] — Bedford, Bedfordshire; Bunkers moved here 1852; Howard Chapel marriage and burial; Tall family connections
 - [[swavesey]] — Swavesey & Fen Stanton, Cambs/Hunts; home of Thomas Norman and Ann Tabram; Norman-Tabraham family territory across three generations
@@ -824,3 +825,4 @@
 - [[rebecca-arnold-familysearch]] — FamilySearch sources page (7 sources); Samuel Arnold will 1790 (Cotton End farmer, £150 to Rebecca); marriage 1799; children's christenings; Elizabeth's 1811 baptism; Rebecca's 1812 burial
 - [[joseph-sanders-familysearch]] — FamilySearch sources page (7 sources); baptism 1774 (son of John Sanders & Elizabeth); marriage 1799; children; burial 1810 (Shoemaker)
 - [[bartholomew-byu-studies-buckinghamshire-lds-1849]] — BYU Studies scholarly article (Bartholomew, 2009); LDS missionary work and emigration in Buckinghamshire 1849–1878; institutional history of the Whipsnade Branch → Edlesborough Branch chain; Kensworth Branch ("Hensworth") identified; 51% emigration rate across 4 branches
+- [[huett-effigies-1919-perplexity]] — Perplexity AI summary; 1919 Millbrook churchyard excavation; Huett effigies; Mrs Bunker and the sexton; britishfolklore.com synthesis
