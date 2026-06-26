@@ -1,3 +1,12 @@
+## [2026-06-26] ingest | Joel Bunker (1789) — first of Joseph (1754)'s children traced into next generation
+
+FamilySearch print view and sources page (23J5-HWZ) for Joel Bunker, sixth child of Joseph (1754) and Martha Garratt. 15 sources.
+
+Key findings: Joel married Martha Taylor (1786–1836) at Millbrook on 30 January 1809 — two months after his father's death. He had four children: Job (listed as 1804, date likely wrong), Joseph (1810), Eliza (1815–1885), Patty (1817). Joel's son Joseph (1810) is the right age to be the father of the Joseph Bunker (~1837) in the later Millbrook census records — this is now the primary research lead for the Joseph (1754) cordwainer line. Two FamilySearch errors noted: "Martha Bunker (1756)" listed as a spouse is Joel's own mother (Martha Garratt); "[Unknown Name]" is a tree merge artefact.
+
+Pages created: [[joel-bunker-1789-familysearch]], [[joel-bunker-1789]], [[martha-taylor-1786]], [[bunker-taylor-1809]]
+Pages updated: [[bunker-garratt-1777]], [[millbrook]], index, log
+
 ## [2026-06-26] ingest | Thomas Bunker (1704) siblings — five families documented
 
 FamilySearch print views and sources pages for five of the seven undocumented siblings of Joseph Bunker (1754): William (1731), Anne (1732), Mary (1737), William (1740), John (1746), and James (1749). Ruth (1745) not yet clipped.

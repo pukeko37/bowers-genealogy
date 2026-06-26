@@ -62,8 +62,9 @@ Joseph was the youngest of his father Thomas (1704)'s three named lines. His old
 
 ## Open questions
 
-- What became of Joseph and Martha's nine surviving children? Samuel (1778), Job (1780), Joel (1789), Ruth Martha (1790), Thomas Jehu (1792), Arthur (1795), Patty (1797), Joseph Garratt (1800) — none yet traced in the census era.
-- Is the **Joseph Bunker (~1837)** in the Millbrook census (see [[millbrook]]) a grandson through Joseph Garratt Bunker (1800)?
+- **[[joel-bunker-1789|Joel (1789)]]** is now traced: he married Martha Taylor at Millbrook on 30 January 1809 and had at least four children, including **Joseph Bunker (1810)**. See [[bunker-taylor-1809]].
+- What became of the remaining eight surviving children? Samuel (1778), Job (1780), Ruth Martha (1790), Thomas Jehu (1792), Arthur (1795), Patty (1797), Joseph Garratt (1800) — not yet traced.
+- Is the **Joseph Bunker (~1837)** in the Millbrook census (see [[millbrook]]) a grandson through **Joel's son Joseph (1810)** rather than through Joseph Garratt Bunker (1800)? Joel's Joseph (1810) is the right age to be the father of a son born c.1837 — this is the stronger lead.
 - What are the origins of Martha Garratt? Are there Garratt families in Millbrook or neighbouring parishes?
 - When and where did Martha die after Joseph's death in 1808?
 - What was the chapel affiliation (if any)? The Old Testament naming pattern points towards nonconformity, possibly Wesleyan Methodist given its strength in Millbrook.
