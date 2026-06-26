@@ -26,7 +26,7 @@ Four children listed in FamilySearch:
 | # | Name | Born | Died | Notes |
 |---|------|------|------|-------|
 | 1 | [[job-bunker-1804\|Job Bunker]] | 1804 | Deceased | Born 28 Oct 1804, Ampthill — pre-marital child; christened Eversholt 26 Dec 1812; stayed in Eversholt all his life; see [[bunker-newton-1834]] |
-| 2 | Joseph Bunker | 1810 | Deceased | Born year after marriage ✓ |
+| 2 | [[joseph-bunker-1810\|Joseph Bunker]] | 1810 | Deceased | Born 20 May 1810, **Alwalton, Huntingdonshire** — family were near Peterborough in 1810; married Fanny Jakins at Eversholt 1846; see [[bunker-jakins-1846]] |
 | 3 | Eliza Bunker | 1815 | 1885 | — |
 | 4 | Patty Bunker | 1817 | Deceased | — |
 
@@ -38,7 +38,7 @@ Joel's son **Joseph Bunker (born 1810)** is the most significant figure from thi
 
 ## Family life
 
-Joel and Martha married at Millbrook in January 1809, but had moved to **Eversholt, Bedfordshire** (near Woburn, ~8 miles from Millbrook) by **December 1812** at the latest — their son Job was christened at Eversholt on 26 December 1812 (eight years after his 1804 birth at Ampthill). Their daughter Eliza was born there in June 1815. Joel became publican of the **Green Man Inn** there. Martha died at the Green Man on 11 October 1836. Joel continued at Eversholt until September 1846, when he auctioned the pub's contents and left the neighbourhood. He is confirmed at Eversholt in the 1841 census. See [[joel-bunker-newspapers-findmypast]] for the full newspaper record.
+Joel and Martha married at Millbrook in January 1809. Their subsequent movements show the family on the move before settling: Joseph was born at **Alwalton, Huntingdonshire** in May 1810 (~50 miles north of Millbrook), then Job was christened at **Eversholt** in December 1812, and Eliza was born at Eversholt in June 1815. They had settled in Eversholt by December 1812 at the latest, and probably some time before. Joel became publican of the **Green Man Inn** there. Martha died at the Green Man on 11 October 1836. Joel continued at Eversholt until September 1846, when he auctioned the pub's contents and left the neighbourhood. He is confirmed at Eversholt in the 1841 census. See [[joel-bunker-newspapers-findmypast]] for the full newspaper record.
 
 ## Sources
 

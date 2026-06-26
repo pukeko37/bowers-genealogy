@@ -1,3 +1,10 @@
+## [2026-06-26] ingest | Joseph Bunker (1810) — born Alwalton Hunts; Millbrook lead closed
+
+FamilySearch sources page for Joseph Bunker (M9D8-PFM). Born 20 May 1810 at Alwalton, Huntingdonshire — near Peterborough, 50 miles north of Millbrook — showing the family were still mobile in 1810. Married Fanny Jakins at Eversholt on 7 March 1846 (father Joel named in register; he left Eversholt six months later). No children documented. The speculation that Joseph (1810) might link to the "Joseph Bunker (~1837)" in the Victorian Millbrook census is closed: he was at Eversholt, not Millbrook, and the Millbrook Joseph is already identified as John (1803)'s son from the Edward line.
+
+Pages created: [[joseph-bunker-1810-familysearch]], [[joseph-bunker-1810]], [[fanny-jakins]], [[bunker-jakins-1846]]
+Pages updated: [[bunker-taylor-1809]], [[bunker-garratt-1777]], [[millbrook]], index, log
+
 ## [2026-06-26] ingest | Job Bunker (1804) — confirms Joel in Eversholt by December 1812
 
 FamilySearch print view for Job Bunker (23VC-5RK). Born 28 October 1804 at Ampthill — pre-marital child, four years before Joel's 1809 marriage. Christened at Eversholt 26 December 1812, eight years after birth — another delayed registration. This pushes Joel's move to Eversholt back to December 1812 at the latest (previously "by June 1815" from Eliza's birth). Job spent his whole life in Eversholt: married Sarah Newton there 1834, confirmed in 1841 and 1851 censuses. Nine children including Robert Joel Bunker (1849–1898), named for his grandfather.

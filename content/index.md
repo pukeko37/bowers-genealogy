@@ -113,6 +113,7 @@
 - [[bunker-taylor-1809]] — Joel Bunker (c.1782) & Martha Taylor, married Millbrook 1809; 4 children; at Eversholt by Dec 1812; Green Man Inn; son Joseph (1810) key research lead
 - [[bunker-newton-1834]] — Job Bunker (1804) & Sarah Newton, married Eversholt 1834; 9 children; Job stayed Eversholt all his life
 - [[danby-bunker-1838]] — Stephen Danby (excise officer) & Eliza Bunker (1815), married Eversholt 1838; 7 children; Derbyshire from 1861; Eliza died Derby 1885
+- [[bunker-jakins-1846]] — Joseph Bunker (1810) & Fanny Jakins, married Eversholt 1846; Joseph born Alwalton Huntingdonshire; no children documented
 - [[bunker-inskipp-1839]] — Joel Bunker & Elizabeth Inskipp, married Flitton with Silsoe 1839; Joel's second marriage after Martha Taylor's death; no children recorded
 - [[bunker-ashby-1766]] — Edward Bunker (1742) & Mary Ashby, married Millbrook 1766; 10 children; Mark Ashby Bunker transported to Australia 1817
 - [[bunker-sinfield-1761]] — Thomas Bunker (1738) & Martha Sinfield, married Millbrook 1761; Thomas buried Toddington 1825 aged 87
@@ -396,6 +397,8 @@
 - [[sarah-newton-1814]] — Sarah Newton (abt 1814–unknown), married Job Bunker 1834 Eversholt; origins unknown
 - [[eliza-bunker-1815]] — Eliza Bunker (1815–1885), daughter of Joel; born Eversholt; married Stephen Danby 1838; died Derby
 - [[stephen-danby-1812]] — Stephen Danby (abt 1812–1867), excise officer; married Eliza Bunker 1838 Eversholt; from Hockliffe
+- [[joseph-bunker-1810]] — Joseph Bunker (1810–unknown), son of Joel; born Alwalton Huntingdonshire; married Fanny Jakins Eversholt 1846
+- [[fanny-jakins]] — Fanny Jakins (dates unknown), married Joseph Bunker 1846 Eversholt; origins unknown
 - [[elizabeth-inskipp-1792]] — Elizabeth Inskipp (abt 1792–unknown), second wife of Joel Bunker; married 1839 Flitton with Silsoe
 - [[joseph-bunker-1754]] — Joseph Bunker (1754–1808), youngest son of Thomas (1704); cordwainer; 12 children with Martha Garratt; died Millbrook
 - [[martha-garratt-1756]] — Martha Garratt (abt 1756–unknown), married Joseph Bunker 1777 Millbrook; origins undocumented
@@ -742,6 +745,7 @@
 - [[joel-bunker-newspapers-findmypast]] — FindMyPast newspaper search; 7 results 1830–1846; Green Man Inn Eversholt; Martha's death notice Oct 1836; assault and fines 1844; departure 1846
 - [[eliza-bunker-1815-familysearch]] — FamilySearch 2S4L-W54; born Eversholt Jun 1815; married Stephen Danby 1838; 7 children; died Derby 1885
 - [[job-bunker-1804-familysearch]] — FamilySearch 23VC-5RK; born Ampthill Oct 1804; christened Eversholt Dec 1812; married Sarah Newton 1834; 9 children; Eversholt 1841 and 1851
+- [[joseph-bunker-1810-familysearch]] — FamilySearch M9D8-PFM; born Alwalton Hunts May 1810; married Fanny Jakins Eversholt 1846; Millbrook lead closed
 - [[william-bunker-1731-familysearch]] — FamilySearch G864-PMN; christened Toddington 1731; died Westoning 1790; no spouse or children
 - [[anne-bunker-1732-familysearch]] — FamilySearch MMPJ-ZYN; married Daniel Brightman 1753; 12 children listed; one (William Brittain) likely misattributed
 - [[mary-bunker-1737-familysearch]] — FamilySearch KZLF-QX6; married William Roffe 1764; 5 children; christening date discrepancy (1735 vs 1737)
