@@ -406,6 +406,8 @@
 - [[william-bunker-1767]] — William Bunker (1767–abt 1847), Edward's eldest; two marriages (Ann Denton 1792, Sarah Beal 1808); 8+ children; Millbrook all his life
 - [[john-bunker-1769]] — John Bunker (1768–1795), Edward's second son; died aged 27; unmarried; buried Millbrook
 - [[james-bunker-1777]] — James Bunker (1777–1864), Edward's son; three marriages; progenitor of Victorian Millbrook collateral line; died aged ~87
+- [[catherine-blunt]] — Catherine Blunt (abt 1792–unknown), third wife of James (1777); confirmed in 1841 census; origins unknown
+- [[richard-bunker-c1806]] — Richard Bunker (c.1804–1806, Bedfordshire), son of James (1777) by Sarah Pedder; age 35 in 1841 census at Sand End Millbrook; not further traced
 - [[naomi-bunker-1813]] — Naomi Bunker (abt 1813–unknown), daughter of James (1777) and Mary Somerfield; twin with Sally; pre-marital son Richard (1837); married Robert Babbington 1845
 - [[rachael-bunker-1824]] — Rachael Bunker (1824–unknown), daughter of William Bunker and Sarah; christened Millbrook; in service at Village Great Farm 1841; probably daughter of William (1767) and Sarah Beal
 - [[mary-somerfield-1793]] — Mary Somerfield (abt 1793–unknown), second wife of James Bunker (1777); married Millbrook 1811; 5 children
@@ -750,6 +752,7 @@
 - [[eliza-bunker-1815-familysearch]] — FamilySearch 2S4L-W54; born Eversholt Jun 1815; married Stephen Danby 1838; 7 children; died Derby 1885
 - [[naomi-bunker-1813-familysearch]] — FamilySearch L4BP-JSY; christened Millbrook Oct 1813; married Babbington 1845; grandson Richard (1837) identified as pre-marital son; 5 Somerfield siblings confirmed
 - [[rachael-bunker-1824-familysearch]] — FamilySearch MM1Z-TXY; christened Millbrook Apr 1824; parents William Bunker + Sarah; in Green household 1841 (service); not in James (1777)'s household
+- [[james-bunker-1777-census-1841]] — 1841 census HO107/6/7, household 2303523; Village Sand End Millbrook; James, Catherine Blunt, Richard (~35), grandson Richard (~4); Chapmans at same address; no Rachel, no Naomi
 - [[job-bunker-1804-familysearch]] — FamilySearch 23VC-5RK; born Ampthill Oct 1804; christened Eversholt Dec 1812; married Sarah Newton 1834; 9 children; Eversholt 1841 and 1851
 - [[joseph-bunker-1810-familysearch]] — FamilySearch M9D8-PFM; born Alwalton Hunts May 1810; married Fanny Jakins Eversholt 1846; Millbrook lead closed
 - [[william-bunker-1731-familysearch]] — FamilySearch G864-PMN; christened Toddington 1731; died Westoning 1790; no spouse or children

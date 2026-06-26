@@ -4,6 +4,13 @@ The Ampthill St Andrew baptism of 30 November 1804 has been confirmed as belongi
 
 Pages updated: [[job-bunker-catalogue-findmypast]], [[job-bunker-1804]], [[job-bunker-1804-familysearch]], [[bunker-taylor-1809]], [[bunker-reade-1728]], log
 
+## [2026-06-26] ingest | 1841 census — James Bunker (1777)'s household at Village Sand End confirmed
+
+Primary 1841 census record (HO107/6/7, household 2303523) for James Bunker (1777). Household: James (60), Catherine Blunt (45), Richard (35, son by Sarah Pedder), grandson Richard (4, Naomi's son). Also at same address: Chapman family (John 20, Rebacah 25, Thomas 5, Bettsey 4) and Richard Haries (1) — probably separate household. Neither Rachel nor Naomi were in the Bunker household, correcting the Millbrook page. Richard (~35) gives birth c.1804–1806, revising earlier "c.1800" estimate. Naomi's actual 1841 location unknown.
+
+Pages created: [[james-bunker-1777-census-1841]], [[catherine-blunt]], [[richard-bunker-c1806]]
+Pages updated: [[millbrook]], [[naomi-bunker-1813]], index, log
+
 ## [2026-06-26] ingest | Rachael Bunker (1824) — daughter of William + Sarah; corrects Millbrook 1841 attribution
 
 FamilySearch sources page for Rachael Bunker (MM1Z-TXY), christened 15 April 1824 at Millbrook, parents William Bunker and Sarah. Key finding: the 1841 census record shows she was at Village Great Farm with the Green family (in service), NOT in James (1777)'s household. No christening record for a Rachel as daughter of James (1777) by Catherine Blunt has been found. The Millbrook page's attribution of "Rachel (~17)" to James's household as his daughter by Catherine Blunt is unconfirmed and probably wrong. Probable parents: William (1767) and Sarah Beal, making her a younger sister of Samuel (~1820). Millbrook page open questions updated.

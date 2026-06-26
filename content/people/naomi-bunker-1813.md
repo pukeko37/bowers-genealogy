@@ -17,4 +17,4 @@ Naomi Bunker (abt 1813–unknown) was the eldest daughter of [[james-bunker-1777
 
 She had a son, **Richard Bunker**, born approximately 1837 — before her marriage. In 1841 Richard appears aged ~4 as a "grandson" in James (1777)'s household. FamilySearch lists Richard's father as "[Unknown Name]," which is a tree artefact indicating the father was not recorded.
 
-Naomi married **Robert Babbington** (1819–Deceased) on 11 May 1845 at Millbrook, eight years after Richard's birth, and had four further children: Mary (1846), Martha (1848–1929), Thomas (1850), and Rebecca (1852). She remained in Millbrook through 1861 and appeared in Ampthill in 1871.
+Naomi married **Robert Babbington** (1819–Deceased) on 11 May 1845 at Millbrook, eight years after Richard's birth, and had four further children: Mary (1846), Martha (1848–1929), Thomas (1850), and Rebecca (1852). She appeared in Millbrook in the 1851 and 1861 censuses and in Ampthill in 1871. Her whereabouts in 1841 are uncertain — FamilySearch attaches her to James (1777)'s household at Village Sand End, but the primary census image does not confirm she was there.
