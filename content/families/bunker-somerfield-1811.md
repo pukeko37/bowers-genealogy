@@ -28,7 +28,7 @@ Five children, all born in Millbrook:
 |---|------|------|-------|
 | 1 | [[naomi-bunker-1813\|Naomi Bunker]] | 1813 | Likely twin with Sally; pre-marital son Richard (1837); married Robert Babbington 1845 |
 | 2 | Sally Bunker | 1813 | Likely twin with Naomi; not yet traced beyond birth |
-| 3 | Rebecca Bunker | 1815 | Not yet traced |
+| 3 | [[rebecca-bunker-1815\|Rebecca Bunker]] | 1815 | Married John Chapman 8 Jun 1835; in father's household 1841 with husband and children; see [[chapman-bunker-1835]] |
 | 4 | James Bunker | 1816 | Not yet traced |
 | 5 | Mary Bunker | 1818 | Not yet traced |
 

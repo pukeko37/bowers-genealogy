@@ -408,6 +408,9 @@
 - [[james-bunker-1777]] — James Bunker (1777–1864), Edward's son; three marriages; progenitor of Victorian Millbrook collateral line; died aged ~87
 - [[catherine-blunt]] — Catherine Blunt (abt 1792–unknown), third wife of James (1777); confirmed in 1841 census; origins unknown
 - [[richard-bunker-c1806]] — Richard Bunker (c.1804–1806, Bedfordshire), son of James (1777) by Sarah Pedder; age 35 in 1841 census at Sand End Millbrook; not further traced
+- [[rebecca-bunker-1815]] — Rebecca Bunker (1815–unknown), daughter of James (1777) and Mary Somerfield; married John Chapman 1835; in father's household 1841
+- [[john-chapman]] — John Chapman (c.1817–1821), married Rebecca Bunker 8 Jun 1835 Millbrook; 3 children
+- [[chapman-bunker-1835]] — John Chapman & Rebecca Bunker, married Millbrook 1835; 3 children: Thomas (1836), Bettsey (1837), James (1843)
 - [[naomi-bunker-1813]] — Naomi Bunker (abt 1813–unknown), daughter of James (1777) and Mary Somerfield; twin with Sally; pre-marital son Richard (1837); married Robert Babbington 1845
 - [[rachael-bunker-1824]] — Rachael Bunker (1824–unknown), daughter of William Bunker and Sarah; christened Millbrook; in service at Village Great Farm 1841; probably daughter of William (1767) and Sarah Beal
 - [[mary-somerfield-1793]] — Mary Somerfield (abt 1793–unknown), second wife of James Bunker (1777); married Millbrook 1811; 5 children

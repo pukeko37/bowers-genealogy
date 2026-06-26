@@ -4,6 +4,13 @@ The Ampthill St Andrew baptism of 30 November 1804 has been confirmed as belongi
 
 Pages updated: [[job-bunker-catalogue-findmypast]], [[job-bunker-1804]], [[job-bunker-1804-familysearch]], [[bunker-taylor-1809]], [[bunker-reade-1728]], log
 
+## [2026-06-26] ingest | Rebecca Bunker (1815) — married John Chapman 1835; Chapmans in 1841 household identified
+
+Rebecca Bunker (1815, daughter of James 1777 and Mary Somerfield) married John Chapman on 8 June 1835 at Millbrook. The "Chapman family" in James (1777)'s 1841 census household were Rebecca and her family living with her father — not a separate household. Three children: Thomas (1836), Bettsey (1837), James (1843). Also confirmed: Naomi WAS in the 1841 household (earlier correction was erroneous — user's mistake); only Rachel was absent and unconfirmed. Richard Haries (1) in the household remains unidentified.
+
+Pages created: [[rebecca-bunker-1815]], [[john-chapman]], [[chapman-bunker-1835]]
+Pages updated: [[james-bunker-1777-census-1841]], [[bunker-somerfield-1811]], [[naomi-bunker-1813]], [[millbrook]], index, log
+
 ## [2026-06-26] ingest | 1841 census — James Bunker (1777)'s household at Village Sand End confirmed
 
 Primary 1841 census record (HO107/6/7, household 2303523) for James Bunker (1777). Household: James (60), Catherine Blunt (45), Richard (35, son by Sarah Pedder), grandson Richard (4, Naomi's son). Also at same address: Chapman family (John 20, Rebacah 25, Thomas 5, Bettsey 4) and Richard Haries (1) — probably separate household. Neither Rachel nor Naomi were in the Bunker household, correcting the Millbrook page. Richard (~35) gives birth c.1804–1806, revising earlier "c.1800" estimate. Naomi's actual 1841 location unknown.
