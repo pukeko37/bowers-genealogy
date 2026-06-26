@@ -2,9 +2,9 @@
 title: "William Bunker"
 type: person
 born: "26 Mar 1731"
-died: "unknown"
+died: "1731"
 birth-place: "Toddington, Bedfordshire"
-death-place: "unknown"
+death-place: "Toddington, Bedfordshire"
 family-of-origin: "[[bunker-reade-1728]]"
 families-as-parent: []
 sources:
@@ -13,20 +13,10 @@ created: 2026-06-26
 updated: 2026-06-26
 ---
 
-William Bunker (1731–unknown) was the third child of [[thomas-bunker-1704|Thomas Bunker (1704)]] and [[mary-reade-1702|Mary Reade]], christened 26 March 1731 at Toddington, Bedfordshire.
+William Bunker (1731–1731) was the third child of [[thomas-bunker-1704|Thomas Bunker (1704)]] and [[mary-reade-1702|Mary Reade]], christened 26 March 1731 at Toddington. A death entry and burial record for William Bunker dated 1731 at Toddington confirms he died in infancy — the same year and place as his christening.
 
-## Death date: unsourced and likely wrong
+He is the third in a sequence of three sons named William: William (1728) died within days of birth; William (1731) died in infancy; William (1740) survived to adulthood. Each death prompted Thomas and Mary to give the name to the next son. This was standard practice.
 
-FamilySearch shows his death as "1790, Westoning" — but his FamilySearch record (G864-PMN) has **only one genuine source attached**, the 1731 christening. The death date carries the label **"Gedcom data"** as its source, meaning it originated from someone's uploaded personal family tree file, not from any primary document. GEDCOM uploads carry no evidential weight — the compiler may have been guessing or copying from another unsourced tree. FamilySearch found "no similar records," confirming it could not identify any corroborating primary documents.
+## On the FamilySearch record
 
-The 1790 date is almost certainly either invented by a tree contributor or transferred from a different William Bunker (a nephew, grandson, or unrelated person of the same name in Westoning).
-
-The more plausible interpretation of the naming evidence is that William (1731) died in childhood — probably before 1740. Thomas and Mary's first son William died within days of birth in 1728, prompting reuse of the name in 1731. If the 1731 William also died young, the same logic explains why they named a third son William in 1740. Having two living sons both named William would be highly unusual. No spouse or children are documented.
-
-## Birth place: also a FamilySearch artefact
-
-FamilySearch shows a birth on 26 March 1731 at Harlington — the same date as the christening but a different place. Like the death date, this entry carries the label **"Gedcom data"** — it came from someone's uploaded tree, not a primary document. Same-day birth and christening entries with mismatched places are a known FamilySearch artefact: a GEDCOM contributor likely copied the christening date into a birth field and supplied Harlington as a place (perhaps a guess, or pulled from another source they were working from). There is no independent birth document.
-
-## Status
-
-One solid fact: christened 26 March 1731 at Toddington. Everything else — the Harlington birth, the 1790 Westoning death — is FamilySearch construction without documentary backing.
+The FamilySearch profile (G864-PMN) shows a death of "1790, Westoning" — this is wrong. It carries the label **"Gedcom data"** as its source (someone's uploaded personal tree, not a primary document) and has no supporting records. The actual death is confirmed by the 1731 Toddington burial entry. The "Harlington" birth place on the same record is likewise a GEDCOM artefact — same date as the christening, different place, no independent document behind it.

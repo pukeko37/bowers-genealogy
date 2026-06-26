@@ -14,8 +14,9 @@ created: 2026-06-26
 FamilySearch print view **G864-PMN** for William Bunker (1731–1790), third child of Thomas Bunker (1704) and Mary Reade.
 
 - Christened: 26 Mar 1731, Toddington, Bedfordshire
-- Died: 1790, Westoning, Bedfordshire — **unsourced; see note below**
-- **No spouse or children** documented in FamilySearch
+- Died: 1731, Toddington — confirmed by a death entry and burial record at Toddington dated 1731
+- The FamilySearch profile shows "1790, Westoning" as the death — this is wrong; see note below
+- **No spouse or children** documented
 
 **On the birth entry:** FamilySearch shows a birth on 26 March 1731 at Harlington, Bedfordshire — the same date as the christening but a different place. This is almost certainly a FamilySearch artefact. The single attached source is "England, Births and Christenings, 1538-1975" — a christening index, not a birth register. FamilySearch has auto-populated a separate "birth" field using the christening date while drawing the place (Harlington) from elsewhere in the indexed record, possibly the father's listed residence or a marginal note. There is no independent birth document. Harlington and Toddington are adjacent parishes, so the geography is not impossible, but the same-day birth and christening with two different places is a data construction artefact, not evidence of two separate records.
 
