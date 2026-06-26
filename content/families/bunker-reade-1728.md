@@ -12,12 +12,17 @@ related-families:
   - "[[bunker-sinfield-1761]]"
   - "[[bunker-ashby-1766]]"
   - "[[bunker-garratt-1777]]"
+  - "[[brightman-bunker-1753]]"
+  - "[[roffe-bunker-1764]]"
+  - "[[bunker-peet-1768]]"
+  - "[[bunker-cartwright-1768]]"
+  - "[[bunker-pedder-1772]]"
 sources:
   - "[[thomas-bunker-1704-print-view-familysearch]]"
   - "[[mary-reade-sources-familysearch]]"
   - "[[beds-archives-p31-14-64a-bunker-apprenticeship]]"
 created: 2026-05-05
-updated: 2026-06-25
+updated: 2026-06-26
 ---
 
 ## Parents
@@ -34,15 +39,15 @@ Twelve children in total, spanning from 1728 to 1754. Two died in infancy.
 |---|------|------|------|-------|
 | 1 | William Bunker | 1728 | 1728 | Died in infancy |
 | 2 | Mary Bunker | 1729 | 1729 | Died in infancy |
-| 3 | William Bunker | 1731 | 1790 | — |
-| 4 | Anne Bunker | 1732 | 1800 | — |
-| 5 | Mary Bunker | 1737 | 1801 | — |
-| 6 | [[thomas-bunker-1738|Thomas Bunker]] | 1738 | 1825 | **Direct ancestor** |
-| 7 | William Bunker | 1740 | 1816 | — |
+| 3 | [[william-bunker-1731\|William Bunker]] | 1731 | 1790 | Died Westoning; no family documented |
+| 4 | [[anne-bunker-1732\|Anne Bunker]] | 1732 | 1800 | Married Daniel Brightman 1753; 12 children; see [[brightman-bunker-1753]] |
+| 5 | [[mary-bunker-1737\|Mary Bunker]] | 1737 | 1801 | Married William Roffe 1764; 5 children; buried Steppingley; see [[roffe-bunker-1764]] |
+| 6 | [[thomas-bunker-1738\|Thomas Bunker]] | 1738 | 1825 | **Direct ancestor**; see [[bunker-sinfield-1761]] |
+| 7 | [[william-bunker-1740\|William Bunker]] | 1740 | 1816 | Married Ann Peet 1768 Steppingley; 6 children; see [[bunker-peet-1768]] |
 | 8 | [[edward-bunker-1742\|Edward Bunker]] | 1742 | 1814 | See [[bunker-ashby-1766]] |
-| 9 | Ruth Bunker | 1745 | ? | — |
-| 10 | John Bunker | 1746 | 1796 | — |
-| 11 | James Bunker | 1749 | 1818 | — |
+| 9 | Ruth Bunker | 1745 | ? | Not yet documented |
+| 10 | [[john-bunker-1746\|John Bunker]] | 1746 | 1796 | Married Elizabeth Cartwright 1768; 1 child recorded; buried Ampthill; see [[bunker-cartwright-1768]] |
+| 11 | [[james-bunker-1749\|James Bunker]] | 1749 | 1818 | Married Elizabeth Pedder 1772; 5 children; see [[bunker-pedder-1772]] |
 | 12 | [[joseph-bunker-1754\|Joseph Bunker]] | 1754 | 1808 | Cordwainer; 12 children with Martha Garratt; see [[bunker-garratt-1777]] |
 
 Thomas Bunker (1738, #6) is the direct ancestor of Roland Bunker. He married Martha Sinfield in 1761 and fathered James Thomas Bunker (1764).
@@ -55,7 +60,9 @@ The family's move from Westoning to Millbrook is visible in the records: Thomas 
 
 - **Thomas (1704)'s parents:** William Bunker (1663–1716) + Sarah Greene (1663–1737), Westoning. The ancestral line before William is not yet documented.
 - **Next generation:** Thomas Bunker (1738) married Martha Sinfield and had James Thomas Bunker (1764). See [[bunker-sinfield-1761]].
+- **Siblings' families:** Five more siblings now have family pages — Anne (Brightman), Mary (Roffe), William (Peet), John (Cartwright), James (Pedder). William (1731) died in Westoning without a documented family. Ruth (1745) is the only surviving sibling not yet researched.
 - **Joseph (1754)'s family:** Youngest son Joseph married Martha Garratt in 1777 and had twelve children in Millbrook. See [[bunker-garratt-1777]].
+- **Geographic dispersal:** Most siblings married within the Millbrook–Ampthill–Steppingley cluster. William (1731) alone returned to Westoning. William (1740) and Mary (1737) both settled in Steppingley.
 
 ## Sources
 
@@ -66,5 +73,6 @@ The family's move from Westoning to Millbrook is visible in the records: Thomas 
 
 - What are the origins of Mary Reade? Her parents are unknown.
 - What are the origins of William Bunker (1663) and Sarah Greene beyond Westoning?
-- What became of the Bunker siblings — William (1731), Anne (1732), Mary (1737), William (1740), Ruth (1745), John (1746), James (1749)?
-- Edward (1742) is documented: see [[bunker-ashby-1766]]. Joseph (1754) is documented: see [[bunker-garratt-1777]].
+- **Ruth (1745)** is the only surviving sibling not yet documented. FamilySearch lists her as "Ruth Bunker (1745–Deceased)" with no further detail.
+- What are the origins of Mary Reade? Her parents are unknown.
+- What are the origins of William Bunker (1663) and Sarah Greene beyond Westoning?

@@ -104,6 +104,11 @@
 - [[bunker-smith-1901]] — Herbert Thomas Barnsley Bunker & Martha Emma Smith, married Kings Norton 1901; railway family; 3 children
 - [[bunker-watts-1830]] — James Bunker & Elizabeth Watts, married Millbrook 1830; Caleb's parents, 9 children
 - [[bunker-reade-1728]] — Thomas Bunker (1704) & Mary Reade, married Toddington 1728; 12 children; settled Millbrook
+- [[brightman-bunker-1753]] — Daniel Brightman & Anne Bunker (1732), married Millbrook 1753; 12 children; Anne was Thomas (1704)'s fourth child
+- [[roffe-bunker-1764]] — William Roffe & Mary Bunker (1737), married Millbrook 1764; 5 children; Mary buried Steppingley 1801
+- [[bunker-peet-1768]] — William Bunker (1740) & Ann Peet, married Steppingley 1768; 6 children; settled Steppingley
+- [[bunker-cartwright-1768]] — John Bunker (1746) & Elizabeth Cartwright, married Millbrook 1768; 1 child recorded; buried Ampthill 1796
+- [[bunker-pedder-1772]] — James Bunker (1749) & Elizabeth Pedder, married Millbrook 1772; 5 children
 - [[bunker-garratt-1777]] — Joseph Bunker (1754) & Martha Garratt, married Millbrook 1777; 12 children; Joseph was cordwainer; third son of Thomas (1704)
 - [[bunker-ashby-1766]] — Edward Bunker (1742) & Mary Ashby, married Millbrook 1766; 10 children; Mark Ashby Bunker transported to Australia 1817
 - [[bunker-sinfield-1761]] — Thomas Bunker (1738) & Martha Sinfield, married Millbrook 1761; Thomas buried Toddington 1825 aged 87
@@ -369,6 +374,17 @@
 - [[thomas-bunker-1704]] — Thomas Bunker (1704–1784), born Westoning; died Millbrook; married Mary Reade 1728; 12 children
 - [[mary-reade-1702]] — Mary Reade (1702–1775), married Thomas Bunker 1728 Toddington; 19 FamilySearch sources; 12 children
 - [[thomas-bunker-1738]] — Thomas Bunker (1738–1825), Millbrook; married Martha Sinfield 1761; buried Toddington aged 87
+- [[william-bunker-1731]] — William Bunker (1731–1790), third child of Thomas (1704); died Westoning; no family documented
+- [[anne-bunker-1732]] — Anne Bunker (1732–1800), married Daniel Brightman 1753 Millbrook; 12 children; died Ampthill
+- [[daniel-brightman-1718]] — Daniel Brightman (abt 1718–1787), married Anne Bunker 1753; origins unknown
+- [[mary-bunker-1737]] — Mary Bunker (abt 1737–1801), married William Roffe 1764 Millbrook; 5 children; buried Steppingley
+- [[william-roffe]] — William Roffe (dates unknown), married Mary Bunker 1764 Millbrook; origins unknown
+- [[william-bunker-1740]] — William Bunker (1740–1816), seventh child of Thomas (1704); settled Steppingley; married Ann Peet 1768; 6 children
+- [[ann-peet-1746]] — Ann Peet (abt 1746–1827), married William Bunker 1768 Steppingley; origins unknown
+- [[john-bunker-1746]] — John Bunker (1746–1796), tenth child of Thomas (1704); married Elizabeth Cartwright 1768; buried Ampthill
+- [[elizabeth-cartwright-1737]] — Elizabeth Cartwright (abt 1737–1785), married John Bunker 1768 Millbrook; origins unknown
+- [[james-bunker-1749]] — James Bunker (1749–1818), eleventh child of Thomas (1704); married Elizabeth Pedder 1772; 5 children
+- [[elizabeth-pedder-1752]] — Elizabeth Pedder (abt 1752–1830), married James Bunker 1772 Millbrook; origins unknown
 - [[edward-bunker-1742]] — Edward Bunker (1742–1814), Millbrook all his life; married Mary Ashby 1766; 10 children including Mark Ashby Bunker
 - [[joseph-bunker-1754]] — Joseph Bunker (1754–1808), youngest son of Thomas (1704); cordwainer; 12 children with Martha Garratt; died Millbrook
 - [[martha-garratt-1756]] — Martha Garratt (abt 1756–unknown), married Joseph Bunker 1777 Millbrook; origins undocumented
@@ -711,6 +727,12 @@
 - [[william-bunker-1767-sources-familysearch]] — FamilySearch sources (KZZ5-8LV); christening dates for all known children; Oct 1819 source likely Samuel Bunker
 - [[john-bunker-1769-sources-familysearch]] — FamilySearch sources (KHBK-76X); 2 sources only; christening 1769 and burial 16 Dec 1795 aged 27
 - [[joseph-bunker-1754-familysearch]] — FamilySearch G864-XCL; 24 sources; christening, marriage to Martha Garratt 1777, death 1808, all 12 children's baptism/burial records
+- [[william-bunker-1731-familysearch]] — FamilySearch G864-PMN; christened Toddington 1731; died Westoning 1790; no spouse or children
+- [[anne-bunker-1732-familysearch]] — FamilySearch MMPJ-ZYN; married Daniel Brightman 1753; 12 children listed; one (William Brittain) likely misattributed
+- [[mary-bunker-1737-familysearch]] — FamilySearch KZLF-QX6; married William Roffe 1764; 5 children; christening date discrepancy (1735 vs 1737)
+- [[william-bunker-1740-familysearch]] — FamilySearch KCFY-CSF; married Ann Peet 1768 Steppingley; 6 children; died Steppingley 1816
+- [[john-bunker-1746-familysearch]] — FamilySearch K6SV-9TQ; married Elizabeth Cartwright 1768; 1 child recorded; buried Ampthill 1796
+- [[james-bunker-1749-familysearch]] — FamilySearch LCFV-1FS; married Elizabeth Pedder 1772; 5 children; died 1818
 - [[edward-bunker-1742-print-view-familysearch]] — FamilySearch print view (KCZP-L7Z); born Millbrook 1742; married Mary Ashby 1766; 10 children; Jesse's date discrepancy noted
 - [[edward-bunker-1742-sources-familysearch]] — FamilySearch sources page (KCZP-L7Z); 21 sources; christening dates confirmed for 7 children; Jesse baptised 18 Apr 1786 (not 1784)
 - [[thomas-bunker-1704-print-view-familysearch]] — FamilySearch print view (LCZ5-171); born Westoning 1704; 12 children with Mary Reade; parents William Bunker & Sarah Greene

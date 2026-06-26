@@ -1,3 +1,12 @@
+## [2026-06-26] ingest | Thomas Bunker (1704) siblings — five families documented
+
+FamilySearch print views and sources pages for five of the seven undocumented siblings of Joseph Bunker (1754): William (1731), Anne (1732), Mary (1737), William (1740), John (1746), and James (1749). Ruth (1745) not yet clipped.
+
+Key findings: Anne (1732) married Daniel Brightman in 1753 at Millbrook and had twelve children — matching her mother's total. Mary (1737) married William Roffe and was buried at Steppingley 1801; her brother William (1740) also settled in Steppingley, died there 1816 — two siblings in the same village. William (1731) died in Westoning (the Bunker ancestral home) with no family documented. John (1746) married Elizabeth Cartwright at Millbrook 1768; only one child recorded; buried Ampthill 1796. James (1749) married Elizabeth Pedder at Millbrook 1772; five children; the Pedder surname also appears in the Edward Bunker (1742) line. One data quality issue: FamilySearch lists "William Brittain (1772)" as a child of Anne and Daniel Brightman — almost certainly a misattribution. Mary (1737) has a christening date discrepancy: record reads 1735 but she is indexed as 1737. William (1740) has a child Thomas listed as born 1767, before the 1768 marriage.
+
+Pages created: [[william-bunker-1731-familysearch]], [[anne-bunker-1732-familysearch]], [[mary-bunker-1737-familysearch]], [[william-bunker-1740-familysearch]], [[john-bunker-1746-familysearch]], [[james-bunker-1749-familysearch]], [[william-bunker-1731]], [[anne-bunker-1732]], [[mary-bunker-1737]], [[william-bunker-1740]], [[john-bunker-1746]], [[james-bunker-1749]], [[daniel-brightman-1718]], [[william-roffe]], [[ann-peet-1746]], [[elizabeth-cartwright-1737]], [[elizabeth-pedder-1752]], [[brightman-bunker-1753]], [[roffe-bunker-1764]], [[bunker-peet-1768]], [[bunker-cartwright-1768]], [[bunker-pedder-1772]]
+Pages updated: [[bunker-reade-1728]], index, log
+
 ## [2026-06-26] ingest | Joseph Bunker (1754–1808) — Joseph's family, third son of Thomas (1704)
 
 FamilySearch person record G864-XCL for Joseph Bunker (1754–1808), with 24 sources (three clippings captured, two duplicates of the sources page plus a print view). Joseph was the youngest son of Thomas Bunker (1704) and Mary Reade — the twelfth and last child, christened 13 October 1754 at Millbrook.
