@@ -1,3 +1,12 @@
+## [2026-06-26] ingest | Joseph Bunker (1754–1808) — Joseph's family, third son of Thomas (1704)
+
+FamilySearch person record G864-XCL for Joseph Bunker (1754–1808), with 24 sources (three clippings captured, two duplicates of the sources page plus a print view). Joseph was the youngest son of Thomas Bunker (1704) and Mary Reade — the twelfth and last child, christened 13 October 1754 at Millbrook.
+
+Key findings: Joseph married Martha Garratt on 1 October 1777 at Millbrook and had twelve children there between 1778 and 1803. Three died in childhood (Jesse 1785 infant; Mark buried 22 Feb 1789; Avis died 1800 aged ~17; Jonas 1803 infant). Nine reached adulthood: Samuel (1778), Job (1780), Joel (1789), Ruth Martha (1790), Thomas Jehu (1792), Arthur (1795), Patty (1797), Joseph Garratt (1800). His occupation is confirmed as cordwainer by the 1784 apprenticeship indenture. He died 27 November 1808, aged 54. None of his nine adult children are yet traced in the census era.
+
+Pages created: [[joseph-bunker-1754-familysearch]], [[joseph-bunker-1754]], [[martha-garratt-1756]], [[bunker-garratt-1777]]
+Pages updated: [[bunker-reade-1728]], [[thomas-bunker-1704]], [[millbrook]], index, log
+
 ## [2026-06-25] ingest | Alfred John Watts (1875) — Lidlington Watts line and Lydia's lodger
 
 FamilySearch person page and print view for Alfred John Watts (GJQ4-S91), plus print view for his mother Sarah Ann Watts (GJQW-1D2). Establishes the connection between Alfred's appearance in Lydia Lane's 1891 Bedford household and the Watts family of origin.

@@ -11,6 +11,7 @@ places:
 related-families:
   - "[[bunker-sinfield-1761]]"
   - "[[bunker-ashby-1766]]"
+  - "[[bunker-garratt-1777]]"
 sources:
   - "[[thomas-bunker-1704-print-view-familysearch]]"
   - "[[mary-reade-sources-familysearch]]"
@@ -42,7 +43,7 @@ Twelve children in total, spanning from 1728 to 1754. Two died in infancy.
 | 9 | Ruth Bunker | 1745 | ? | — |
 | 10 | John Bunker | 1746 | 1796 | — |
 | 11 | James Bunker | 1749 | 1818 | — |
-| 12 | Joseph Bunker | 1754 | 1808 | Cordwainer; took a Maulden parish apprentice 1784 |
+| 12 | [[joseph-bunker-1754\|Joseph Bunker]] | 1754 | 1808 | Cordwainer; 12 children with Martha Garratt; see [[bunker-garratt-1777]] |
 
 Thomas Bunker (1738, #6) is the direct ancestor of Roland Bunker. He married Martha Sinfield in 1761 and fathered James Thomas Bunker (1764).
 
@@ -54,6 +55,7 @@ The family's move from Westoning to Millbrook is visible in the records: Thomas 
 
 - **Thomas (1704)'s parents:** William Bunker (1663–1716) + Sarah Greene (1663–1737), Westoning. The ancestral line before William is not yet documented.
 - **Next generation:** Thomas Bunker (1738) married Martha Sinfield and had James Thomas Bunker (1764). See [[bunker-sinfield-1761]].
+- **Joseph (1754)'s family:** Youngest son Joseph married Martha Garratt in 1777 and had twelve children in Millbrook. See [[bunker-garratt-1777]].
 
 ## Sources
 
@@ -64,4 +66,5 @@ The family's move from Westoning to Millbrook is visible in the records: Thomas 
 
 - What are the origins of Mary Reade? Her parents are unknown.
 - What are the origins of William Bunker (1663) and Sarah Greene beyond Westoning?
-- What became of the Bunker siblings — William (1731), Anne (1732), Mary (1737), etc.? Edward (1742) is now documented: see [[bunker-ashby-1766]].
+- What became of the Bunker siblings — William (1731), Anne (1732), Mary (1737), William (1740), Ruth (1745), John (1746), James (1749)?
+- Edward (1742) is documented: see [[bunker-ashby-1766]]. Joseph (1754) is documented: see [[bunker-garratt-1777]].

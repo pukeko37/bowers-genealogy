@@ -37,7 +37,7 @@ Thomas's twelve children:
 | Ruth | 12 May 1745, Millbrook | married Thomas Marshall 1776 Millbrook |
 | John | 5 Oct 1746, Millbrook | married Elizabeth Cartwright 1769; died 3 Jul 1835 |
 | James | 21 Feb 1749, Millbrook | moved to Ampthill; died 1818 |
-| Joseph | 13 Oct 1754, Millbrook | **cordwainer**; took a Maulden parish apprentice 8 Jan 1784; died 27 Nov 1808 Millbrook |
+| Joseph | 13 Oct 1754, Millbrook | **cordwainer**; married Martha Garratt 1777; 12 children; died 27 Nov 1808 Millbrook; see [[bunker-garratt-1777]] |
 
 ## Two Lines: Thomas and Edward
 
@@ -227,4 +227,5 @@ Caleb's son **Ephraim Bunker** (1821–1887) and Joseph's son **Ebenezer Bunker*
 - What happened to Martha Bunker (born 21 Dec 1801, confirmed in 1806 christening)? She is absent from all FamilySearch sibling records for the seven children now ingested.
 - The Stevington Baptist branch (Joseph's line) is unresearched beyond the children listed. Stevington Baptist records and censuses may extend it further.
 - The Lady Holland / Duke of Bedford estate map (1840/41 sale) has not yet been located online. It is not in the Maulden or Millbrook parish records at Bedfordshire Archives. The Bedford Estates (Russell) papers, likely held in the `R` series at Bedfordshire Archives, are the most probable repository.
-- Joseph Bunker (1754)'s cordwaining trade raises the question of whether shoemaking was already the family's primary non-agricultural occupation before the 19th century. The collateral Bunkers show shoemakers from the 1780s through the census era.
+- Joseph Bunker (1754) married Martha Garratt in 1777 and had twelve children in Millbrook; his family is now documented (see [[bunker-garratt-1777]]). His nine children who reached adulthood are not yet traced in the census era. Is the **Joseph Bunker (~1837)** in later Millbrook records a grandson through Joseph Garratt Bunker (1800)?
+- Joseph's cordwaining trade raises the question of whether shoemaking was already the family's primary non-agricultural occupation before the 19th century. The collateral Bunkers show shoemakers from the 1780s through the census era.

@@ -22,4 +22,4 @@ He married **[[mary-reade-1702|Mary Reade]]** on 23 January 1728 at Toddington, 
 
 By the time their sixth child Thomas (1738) was christened at Millbrook in June 1738, the family had relocated to Millbrook, where Thomas died in 1784 and where the family's Bedfordshire roots deepened over the following generations. He outlived his wife by nine years.
 
-His twelve children spanned three decades: from the two infants who died in 1728 and 1729, through a surviving cohort that grew to adulthood in Millbrook. Two of those children — the second Thomas (1738) and Edward (1742) — carry forward in documented records. The second Thomas is the direct ancestor of Roland Bunker.
+His twelve children spanned three decades: from the two infants who died in 1728 and 1729, through a surviving cohort that grew to adulthood in Millbrook. Three of those children now have documented families: the second Thomas (1738), who is the direct ancestor of Roland Bunker (see [[bunker-sinfield-1761]]); Edward (1742) (see [[bunker-ashby-1766]]); and the youngest, Joseph (1754), who stayed in Millbrook as a cordwainer and had twelve children with Martha Garratt (see [[bunker-garratt-1777]]).
