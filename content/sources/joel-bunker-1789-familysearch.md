@@ -18,10 +18,12 @@ FamilySearch person record **23J5-HWZ** for Joel Bunker (1789–Deceased), sixth
 ## Key facts
 
 - Baptised: 26 April 1789, Millbrook, Bedfordshire (Bedfordshire Parish Registers and Births/Christenings abstract, both confirmed)
-- Death: "Deceased" — no date or place documented
+- Died: 1861, Ampthill, Bedfordshire
 - Married: **Martha Taylor** (1786–1836), 30 January 1809, Millbrook, Bedfordshire (England Marriages 1538–1973, primary record)
 
-The marriage was two months after his father Joseph Bunker (1754) died on 27 November 1808. Joel was still in Millbrook at least to January 1809.
+The marriage was two months after his father Joseph Bunker (1754) died on 27 November 1808. Joel was still in Millbrook at least to January 1809. He died in 1861 at Ampthill aged ~72, and would appear in the 1841 and 1851 censuses.
+
+A corrected clipping was ingested on 2026-06-26 (filename: "Joel Bunker (1789–1861)") after the death date was added to FamilySearch. The earlier clipping ("Joel Bunker (1789–Deceased)") had no death date and included two FamilySearch tree errors — "Martha Bunker (1756)" listed as a spouse (actually Joel's mother) and an "[Unknown Name]" artefact — both of which were cleaned up before the corrected clipping was taken.
 
 ## Children
 

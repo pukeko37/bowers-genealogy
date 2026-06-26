@@ -17,7 +17,7 @@ updated: 2026-06-26
 
 ## Parents
 
-**[[joel-bunker-1789|Joel Bunker]]** (1789–unknown) was the sixth child of [[joseph-bunker-1754|Joseph Bunker (1754)]] and Martha Garratt, baptised 26 April 1789 at Millbrook. He married **[[martha-taylor-1786|Martha Taylor]]** (1786–1836) on 30 January 1809 at Millbrook — two months after his father's death. Martha died in 1836; Joel's own death date is unknown.
+**[[joel-bunker-1789|Joel Bunker]]** (1789–1861) was the sixth child of [[joseph-bunker-1754|Joseph Bunker (1754)]] and Martha Garratt, baptised 26 April 1789 at Millbrook. He married **[[martha-taylor-1786|Martha Taylor]]** (1786–1836) on 30 January 1809 at Millbrook — two months after his father's death. Martha died in 1836; Joel died in 1861 at Ampthill, aged ~72.
 
 ## Children
 
@@ -50,6 +50,6 @@ The marriage took place at Millbrook, where Joel had been baptised and where his
 - Where did Joel and Martha's family appear in the 1841 census? If still in Millbrook, they would be a third Bunker household distinct from the Thomas and Edward lines.
 - Is Joseph Bunker (1810) the father of Joseph Bunker (~1837) in the later Millbrook census? Census records from 1841 onward should establish this.
 - What is Job Bunker's actual birth year? The listed 1804 predates the marriage and is almost certainly a FamilySearch error.
-- When and where did Joel die? Martha died 1836; Joel's death is undocumented.
+- Joel died in 1861 at Ampthill. He should appear in the 1841 and 1851 censuses — these are the next records to check for the whole family.
 - What are Martha Taylor's origins? No family background is documented.
 - What became of Eliza (1815–1885) and Patty (1817)?

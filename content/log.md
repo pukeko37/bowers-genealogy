@@ -1,3 +1,9 @@
+## [2026-06-26] ingest | Joel Bunker (1789) corrections — death 1861 Ampthill confirmed
+
+Corrected clipping (Joel Bunker 1789–1861) ingested after death date was added to FamilySearch. Joel died 1861 at Ampthill aged ~72 — he should appear in 1841 and 1851 censuses. The earlier FamilySearch tree errors (Martha Garratt listed as a spouse; "[Unknown Name]" artefact) were also cleaned up in the tree before the corrected clipping was taken.
+
+Pages updated: [[joel-bunker-1789]], [[bunker-taylor-1809]], [[joel-bunker-1789-familysearch]]
+
 ## [2026-06-26] ingest | Joel Bunker (1789) — first of Joseph (1754)'s children traced into next generation
 
 FamilySearch print view and sources page (23J5-HWZ) for Joel Bunker, sixth child of Joseph (1754) and Martha Garratt. 15 sources.
