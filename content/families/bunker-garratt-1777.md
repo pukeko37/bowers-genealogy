@@ -64,6 +64,7 @@ Joseph was the youngest of his father Thomas (1704)'s three named lines. His old
 
 - **[[joel-bunker-1789|Joel (1789)]]** is now traced: he married Martha Taylor at Millbrook on 30 January 1809 and had at least four children, including **Joseph Bunker (1810)**. See [[bunker-taylor-1809]].
 - What became of the remaining eight surviving children? Samuel (1778), Job (1780), Ruth Martha (1790), Thomas Jehu (1792), Arthur (1795), Patty (1797), Joseph Garratt (1800) — not yet traced.
+- A FindMyPast search for Job Bunker near Ampthill c.1804 found a Millbrook infant **Job Bunker baptised and buried at Millbrook in 1804** — the most plausible candidate is a son of **Job Bunker (1780)**, named after his father, who died in infancy. Confirm via the Millbrook 1804 baptism transcript (parents' names). See [[job-bunker-catalogue-findmypast]].
 - The **Joseph Bunker (~1837)** in the Millbrook census is already identified in [[millbrook]] as John (1803)'s son from the Edward (1742) line — this is not from the Joseph (1754) cordwainer line. Joel's Joseph (1810) married Fanny Jakins at Eversholt in 1846 with no connection to Millbrook; a son born 1837 would predate that marriage. The speculative link is closed.
 - What are the origins of Martha Garratt? Are there Garratt families in Millbrook or neighbouring parishes?
 - When and where did Martha die after Joseph's death in 1808?

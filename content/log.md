@@ -1,3 +1,10 @@
+## [2026-06-26] ingest | Job Bunker catalogue — three distinct Job Bunkers identified near Ampthill 1804
+
+FindMyPast search for Job Bunker near Ampthill, birth ~1804. Returns records for at least three different individuals: (A) Joel's son Job, born Ampthill Oct 1804, survived; (B) a Millbrook infant baptised and buried in 1804, most likely a son of Job Bunker (1780) from the Joseph (1754) line; (C) an Eversholt infant baptised 1807, buried 1808, parents unknown. Also a 1864 Ampthill marriage for a Job Bunker — unresolved. FamilySearch confusion between these records flagged. Transcripts needed to confirm parents of the Millbrook and Eversholt infants.
+
+Pages created: [[job-bunker-catalogue-findmypast]]
+Pages updated: [[job-bunker-1804]], [[bunker-garratt-1777]], log
+
 ## [2026-06-26] ingest | Joseph Bunker (1810) — born Alwalton Hunts; Millbrook lead closed
 
 FamilySearch sources page for Joseph Bunker (M9D8-PFM). Born 20 May 1810 at Alwalton, Huntingdonshire — near Peterborough, 50 miles north of Millbrook — showing the family were still mobile in 1810. Married Fanny Jakins at Eversholt on 7 March 1846 (father Joel named in register; he left Eversholt six months later). No children documented. The speculation that Joseph (1810) might link to the "Joseph Bunker (~1837)" in the Victorian Millbrook census is closed: he was at Eversholt, not Millbrook, and the Millbrook Joseph is already identified as John (1803)'s son from the Edward line.
