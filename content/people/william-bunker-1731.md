@@ -23,6 +23,10 @@ The 1790 date is almost certainly either invented by a tree contributor or trans
 
 The more plausible interpretation of the naming evidence is that William (1731) died in childhood — probably before 1740. Thomas and Mary's first son William died within days of birth in 1728, prompting reuse of the name in 1731. If the 1731 William also died young, the same logic explains why they named a third son William in 1740. Having two living sons both named William would be highly unusual. No spouse or children are documented.
 
+## Birth place: also a FamilySearch artefact
+
+FamilySearch shows a birth on 26 March 1731 at Harlington — the same date as the christening but a different place. Same-day birth and christening records with mismatched locations are a known FamilySearch data quality issue: the platform sometimes auto-populates a "birth" field from the christening date while pulling the place from a different field in the indexed record (perhaps the father's listed residence). There is no independent birth document — only the one christening source. The Harlington entry should not be read as evidence of a separate birth record.
+
 ## Status
 
-A dead end. The christening is real; everything after it is undocumented.
+One solid fact: christened 26 March 1731 at Toddington. Everything else — the Harlington birth, the 1790 Westoning death — is FamilySearch construction without documentary backing.
