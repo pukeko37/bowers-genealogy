@@ -4,6 +4,13 @@ The Ampthill St Andrew baptism of 30 November 1804 has been confirmed as belongi
 
 Pages updated: [[job-bunker-catalogue-findmypast]], [[job-bunker-1804]], [[job-bunker-1804-familysearch]], [[bunker-taylor-1809]], [[bunker-reade-1728]], log
 
+## [2026-06-26] ingest | Rachael Bunker (1824) — daughter of William + Sarah; corrects Millbrook 1841 attribution
+
+FamilySearch sources page for Rachael Bunker (MM1Z-TXY), christened 15 April 1824 at Millbrook, parents William Bunker and Sarah. Key finding: the 1841 census record shows she was at Village Great Farm with the Green family (in service), NOT in James (1777)'s household. No christening record for a Rachel as daughter of James (1777) by Catherine Blunt has been found. The Millbrook page's attribution of "Rachel (~17)" to James's household as his daughter by Catherine Blunt is unconfirmed and probably wrong. Probable parents: William (1767) and Sarah Beal, making her a younger sister of Samuel (~1820). Millbrook page open questions updated.
+
+Pages created: [[rachael-bunker-1824-familysearch]], [[rachael-bunker-1824]]
+Pages updated: [[millbrook]], index, log
+
 ## [2026-06-26] ingest | Naomi Bunker (1813) — James (1777)'s daughter; 1841 "grandson Richard" identified
 
 FamilySearch for Naomi Bunker (L4BP-JSY), daughter of James (1777) and Mary Somerfield. Key findings: (1) Naomi had a pre-marital son Richard (born ~1837) — this is the "grandson Richard (~4)" in the 1841 census household of James (1777), previously unidentified. (2) James and Mary Somerfield had FIVE children, not just Naomi: also Sally (1813, likely twin), Rebecca (1815), James (1816), Mary (1818). (3) Naomi married Robert Babbington at Millbrook in 1845 and had 4 further children; she remained in Millbrook to 1861 then moved to Ampthill by 1871.

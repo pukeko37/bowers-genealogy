@@ -61,7 +61,7 @@ Edward's line is the backbone of the Millbrook Bunker community through the nine
 
 **[[william-bunker-1767|William Bunker]] (chr. 1767–1847)**, Edward's eldest son: married Sarah Beal (his second wife) and lived in Millbrook until his death. He and Sarah appear in the 1841 census with their son Samuel; both died in the village, William in 1847 and Sarah in 1848.
 
-**[[james-bunker-1777|James Bunker]] (1777–1864)**, Edward's fifth son: lived his entire life in Millbrook, outlasting the Thomas line by twelve years and dying in 1864 aged ~87. He had three wives — Sarah Pedder, Mary Somerfield, and Catherine Blunt. With Sarah Pedder he had sons Richard (c.1800) and John (1803); with Mary Somerfield five children — Naomi (1813), Sally (1813), Rebecca (1815), James (1816), Mary (1818), see [[bunker-somerfield-1811]]; with Catherine Blunt a daughter Rachel.
+**[[james-bunker-1777|James Bunker]] (1777–1864)**, Edward's fifth son: lived his entire life in Millbrook, outlasting the Thomas line by twelve years and dying in 1864 aged ~87. He had three wives — Sarah Pedder, Mary Somerfield, and Catherine Blunt. With Sarah Pedder he had sons Richard (c.1800) and John (1803); with Mary Somerfield five children — Naomi (1813), Sally (1813), Rebecca (1815), James (1816), Mary (1818), see [[bunker-somerfield-1811]]; with Catherine Blunt possibly a daughter Rachel, though no christening record for such a Rachel as daughter of James (1777) has been found.
 
 **[[mark-ashby-bunker-1789|Mark Ashby Bunker]] (1789–1868)**, Edward's ninth child: convicted of sheep stealing in 1817 and transported to Australia for life. Before his transportation he had fathered three illegitimate children in the area — Seth Wheeler (1809, Millbrook), Fanny Johnson (1814, Aspley Guise), and Mark Ashby Bunker jr (1815, Cranfield). He married in Australia after release and had eight more children there.
 
@@ -75,7 +75,7 @@ The 1841 census records four Bunker households in Millbrook, representing both l
 
 | Household | Head | Wife | Notes |
 |-----------|------|------|-------|
-| 1 | [[james-bunker-1777\|James Bunker]], ~60 (b.1777, Edward's son) | Catherine Blunt, ~45 | With Richard (~35), [[naomi-bunker-1813\|Naomi]] (~25), Rachel (~17), grandson Richard (~4, b.1837 — Naomi's pre-marital son) |
+| 1 | [[james-bunker-1777\|James Bunker]], ~60 (b.1777, Edward's son) | Catherine Blunt, ~45 | With Richard (~35), [[naomi-bunker-1813\|Naomi]] (~25), Rachel (~17, identity uncertain — see note), grandson Richard (~4, b.1837 — Naomi's pre-marital son) |
 | 2 | John Bunker, ~35 (b.1803, son of James 1777) | Maria West, ~35 | 5 children: Sarah (15), John (11), James (8), Hannah (5), Joseph (1) |
 | 3 | [[james-bunker-1807\|James Bunker]], ~30 (b.1807, Thomas line) | Elizabeth Watts | 6 children: John (9), Lydia (8), George (6), David (4), Charles (2), Martha (0) |
 | 4 | [[william-bunker-1767\|William Bunker]], ~70 (b.1767, Edward's son) | Sarah Beal, ~60 | Son Samuel (~20) |
@@ -219,6 +219,8 @@ Caleb's son **Ephraim Bunker** (1821–1887) and Joseph's son **Ebenezer Bunker*
 
 ## Open Questions
 
+- **"Rachel (~17)" in James (1777)'s 1841 household** is of uncertain identity. The only Rachael Bunker christened in Millbrook c.1820–1824 is [[rachael-bunker-1824|Rachael (1824)]], daughter of William Bunker and Sarah — but the 1841 census shows she was at Village Great Farm with the Green family (in service), not in James's household. No christening record for a Rachel as daughter of James (1777) by Catherine Blunt has been found. The 1841 Rachel in James's household may be a servant, a visitor, or someone not otherwise documented.
+- **Richard (b.1820–21)** in the 1861 census with wife Mary (b.1819) — identity still uncertain.
 - How deep do the Bunker roots in Millbrook go before James Thomas Bunker (born 1764)? Thomas (1738) and James Thomas (1764) are documented; earlier generations are established only through the founding Thomas (1704).
 - What was Lydia Brown's connection to St Paul's Walden, where her marriage to James Thomas took place? Joseph (1792)'s FamilySearch birthplace is listed as "Saint Pauls Walden," suggesting Lydia may have been staying with her family there for that birth.
 - Were the Bunkers and Capels in contact before the 1830 marriage, given their shared village?

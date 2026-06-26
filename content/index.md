@@ -407,6 +407,7 @@
 - [[john-bunker-1769]] — John Bunker (1768–1795), Edward's second son; died aged 27; unmarried; buried Millbrook
 - [[james-bunker-1777]] — James Bunker (1777–1864), Edward's son; three marriages; progenitor of Victorian Millbrook collateral line; died aged ~87
 - [[naomi-bunker-1813]] — Naomi Bunker (abt 1813–unknown), daughter of James (1777) and Mary Somerfield; twin with Sally; pre-marital son Richard (1837); married Robert Babbington 1845
+- [[rachael-bunker-1824]] — Rachael Bunker (1824–unknown), daughter of William Bunker and Sarah; christened Millbrook; in service at Village Great Farm 1841; probably daughter of William (1767) and Sarah Beal
 - [[mary-somerfield-1793]] — Mary Somerfield (abt 1793–unknown), second wife of James Bunker (1777); married Millbrook 1811; 5 children
 - [[mark-ashby-bunker-1789]] — Mark Ashby Bunker (1789–1868), sheep stealer; transported to Australia 1817; married and had 8 children there; died 1868
 - [[martha-sinfield]] — Martha Sinfield (dates unknown), married Thomas Bunker 1738 at Millbrook 1761; no birth/death records found
@@ -748,6 +749,7 @@
 - [[joel-bunker-newspapers-findmypast]] — FindMyPast newspaper search; 7 results 1830–1846; Green Man Inn Eversholt; Martha's death notice Oct 1836; assault and fines 1844; departure 1846
 - [[eliza-bunker-1815-familysearch]] — FamilySearch 2S4L-W54; born Eversholt Jun 1815; married Stephen Danby 1838; 7 children; died Derby 1885
 - [[naomi-bunker-1813-familysearch]] — FamilySearch L4BP-JSY; christened Millbrook Oct 1813; married Babbington 1845; grandson Richard (1837) identified as pre-marital son; 5 Somerfield siblings confirmed
+- [[rachael-bunker-1824-familysearch]] — FamilySearch MM1Z-TXY; christened Millbrook Apr 1824; parents William Bunker + Sarah; in Green household 1841 (service); not in James (1777)'s household
 - [[job-bunker-1804-familysearch]] — FamilySearch 23VC-5RK; born Ampthill Oct 1804; christened Eversholt Dec 1812; married Sarah Newton 1834; 9 children; Eversholt 1841 and 1851
 - [[joseph-bunker-1810-familysearch]] — FamilySearch M9D8-PFM; born Alwalton Hunts May 1810; married Fanny Jakins Eversholt 1846; Millbrook lead closed
 - [[william-bunker-1731-familysearch]] — FamilySearch G864-PMN; christened Toddington 1731; died Westoning 1790; no spouse or children
