@@ -39,7 +39,7 @@ Twelve children in total, spanning from 1728 to 1754. Two died in infancy.
 |---|------|------|------|-------|
 | 1 | William Bunker | 1728 | 1728 | Died in infancy |
 | 2 | Mary Bunker | 1729 | 1729 | Died in infancy |
-| 3 | [[william-bunker-1731\|William Bunker]] | 1731 | 1790 | Died Westoning; no family documented |
+| 3 | [[william-bunker-1731\|William Bunker]] | 1731 | unknown | Probably died in childhood; 1790 Westoning death in FamilySearch is unsourced — see person page |
 | 4 | [[anne-bunker-1732\|Anne Bunker]] | 1732 | 1800 | Married Daniel Brightman 1753; 12 children; see [[brightman-bunker-1753]] |
 | 5 | [[mary-bunker-1737\|Mary Bunker]] | 1737 | 1801 | Married William Roffe 1764; 5 children; buried Steppingley; see [[roffe-bunker-1764]] |
 | 6 | [[thomas-bunker-1738\|Thomas Bunker]] | 1738 | 1825 | **Direct ancestor**; see [[bunker-sinfield-1761]] |

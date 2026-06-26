@@ -17,4 +17,4 @@ FamilySearch print view **G864-PMN** for William Bunker (1731–1790), third chi
 - Died: 1790, Westoning, Bedfordshire
 - **No spouse or children** documented in FamilySearch
 
-Westoning was the ancestral home of the Bunker family before they settled in Millbrook — Thomas Bunker (1704) was christened there. William returning to or remaining in Westoning rather than Millbrook is consistent with the family's roots there.
+**Critical note on the death date:** The FamilySearch record has only this single source — the 1731 christening. The "1790, Westoning" death shown on the record has **no source attached** and FamilySearch found "no similar records." It is an unsourced entry in the collaborative tree and should not be treated as documented. The most plausible interpretation is that William (1731) died in childhood, which is why Thomas and Mary reused the name again for William (1740) — following the same pattern as William (1728) dying and being replaced by William (1731).
