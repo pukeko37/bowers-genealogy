@@ -31,41 +31,41 @@ Thomas's twelve children:
 | William | 26 Mar 1731, Toddington | died 1731, buried Toddington — infant death; confirmed by burial record |
 | Ann | 25 Jun 1732, Toddington | died 20 April 1800 |
 | Mary | 22 Jul 1735, Toddington | married William Roffe 1764 Millbrook |
-| **Thomas** | 4 Jun 1738, Millbrook | married Martha Sinfield 1761; **our line** |
+| Thomas | 4 Jun 1738, Millbrook | married Martha Sinfield 1761; ancestor of Roland Bunker |
 | William | 27 Jul 1740, Millbrook | moved to Steppingley; died 1816 |
-| **Edward** | 1 Oct 1742, Millbrook | married Mary Ashby; 10 children; **collateral line** |
+| Edward | 1 Oct 1742, Millbrook | married Mary Ashby; 10 children; line persisted in Millbrook through 1911 |
 | Ruth | 12 May 1745, Millbrook | married Thomas Marshall 1776 Millbrook |
 | John | 5 Oct 1746, Millbrook | married Elizabeth Cartwright 25 Aug 1768 Millbrook; died 20 Jul 1796, buried Ampthill |
 | James | 21 Feb 1749, Millbrook | died 10 Jul 1818, Bedfordshire (Ampthill specifically unconfirmed) |
 | Joseph | 13 Oct 1754, Millbrook | **cordwainer**; married Martha Garratt 1777; 12 children; died 27 Nov 1808 Millbrook; see [[bunker-garratt-1777]] |
 
-## Two Lines: Thomas and Edward
+## The Bunker Community in Nineteenth-Century Millbrook
 
-From Thomas (1704), the Millbrook Bunker community across the nineteenth century is sustained by two lines descending from sons **Thomas (1738)** and **Edward (1742)**. These lines run in parallel, both present in Millbrook in 1841, but they diverge sharply after mid-century: the Thomas line departs entirely by 1852, while the Edward line persists through 1911.
+Thomas (1704) and Mary Reade's surviving children were all raised in Millbrook and most married there. By the time the first Victorian census was taken in 1841, multiple branches of the family were present in the village simultaneously. The picture is not one of two parallel lines but of a layered community built from the same founding household.
 
-### The Thomas (1738) Line — Our Direct Ancestors
+Of the nine surviving children, two founded families whose Millbrook presence is well documented: **Thomas (1738)** and **Edward (1742)**. Others — James (1749), Joseph (1754, cordwainer) — also had large families in or near Millbrook, and their descendants may yet prove to have a census-era presence. The 1815 fence list for properties adjoining the church names **William BUNKER**, **James BUNKER**, and a **Widow BUNKER** — suggesting more Bunker households than the two well-documented lines alone can account for.
 
-Thomas (1738) married Martha Sinfield in 1761 and had two sons:
-- **Edward Bunker (1762)**
-- **[[james-thomas-bunker-1764|James Thomas Bunker]] (1764–1824)** — the direct ancestor
+### The Thomas (1738) Line
 
-James Thomas married **[[lydia-brown-1769|Lydia Brown]]** on 31 December 1788 at St Paul's Walden, Hertfordshire — the marriage away from the village suggests Lydia came from that area — and their eight children were all born in Millbrook. See [[bunker-brown-1788]].
+Thomas (1738) married Martha Sinfield in 1761 and had two sons: **Edward Bunker (1762)** and **[[james-thomas-bunker-1764|James Thomas Bunker]] (1764–1824)**. James Thomas married **[[lydia-brown-1769|Lydia Brown]]** on 31 December 1788 at St Paul's Walden, and their eight children were all born in Millbrook. See [[bunker-brown-1788]].
 
-Their youngest son, **[[james-bunker-1807|James Bunker]] (1807–1852)**, continued the Millbrook line. He married **[[elizabeth-watts-1810|Elizabeth Watts]]** on 22 November 1830 in Millbrook, and their children — nine recorded, possibly ten — were all born in the village. See [[bunker-watts-1830]].
+Their youngest son, **[[james-bunker-1807|James Bunker]] (1807–1852)**, continued the line in the village. He married **[[elizabeth-watts-1810|Elizabeth Watts]]** on 22 November 1830 in Millbrook, and their nine children were all born there. See [[bunker-watts-1830]]. James died in 1852 and Elizabeth moved the household to Bedford; none of the children returned. This line's Millbrook presence spanned roughly 1764 to 1852 — about ninety years across three generations.
 
-This line's presence in Millbrook ends with James's death in 1852. Elizabeth moved the household to Bedford. See **The Departure** below.
+James (1807) is the direct ancestor of Roland Bunker, which is why this line features prominently in the wider family history; but in terms of the village itself, it was the shorter and ultimately the departing presence.
 
-### The Edward (1742) Line — Collateral Bunkers
+### The Edward (1742) Line
 
-**[[edward-bunker-1742|Edward Bunker]] (1742–1814)** married **Mary Ashby** in 1766 and had ten children — eight sons and two daughters. He died in Millbrook on 12 February 1814. His family is documented at [[bunker-ashby-1766]]. His children who figure in the Millbrook story are:
+**[[edward-bunker-1742|Edward Bunker]] (1742–1814)** married **Mary Ashby** in 1766 and had ten children, all christened at Millbrook. He was born in Millbrook and died there in February 1814. His family is documented at [[bunker-ashby-1766]].
 
-**[[william-bunker-1767|William Bunker]] (chr. 1767–1847)**, son of [[edward-bunker-1742|Edward]]: married Sarah Beal; in Millbrook in 1841 (aged ~70, actual ~74 — census rounded to nearest 5, wife ~60, son Samuel ~20). William died 1847 and Sarah 1848 — both dying within the village.
+Edward's line is the backbone of the Millbrook Bunker community through the nineteenth century and into the twentieth. It was never a background presence: in the 1841 census, three of the four Bunker households in the village were from this line, and after 1852, when the Thomas line departed, it was the only Bunker presence remaining.
 
-**[[james-bunker-1777|James Bunker]] (1777–1864)**, son of [[edward-bunker-1742|Edward]]: had three wives — Sarah Pedder, Mary Somerfield, and Catherine Blunt. With Sarah Pedder he had sons **Richard (c.1800)** and **John (1803)**; with Mary Somerfield a daughter Naomi and possibly others; with Catherine Blunt a daughter Rachel. By 1841 James (then ~60) was living with Catherine and several of the younger generation. He died in Millbrook in 1864, aged ~87.
+**[[william-bunker-1767|William Bunker]] (chr. 1767–1847)**, Edward's eldest son: married Sarah Beal (his second wife) and lived in Millbrook until his death. He and Sarah appear in the 1841 census with their son Samuel; both died in the village, William in 1847 and Sarah in 1848.
 
-**[[mark-ashby-bunker-1789|Mark Ashby Bunker]] (1789–1868)**, youngest son of [[edward-bunker-1742|Edward Bunker]]: convicted of sheep stealing in 1817 and transported to Australia for life. Before his transportation he had fathered at least three illegitimate children in the area — Seth Wheeler (1809, Millbrook), Fanny Johnson (1814, Aspley Guise), and Mark Ashby Bunker jr (1815, Cranfield). He married in Australia after release from prison and had eight more children there. He does not return to Millbrook.
+**[[james-bunker-1777|James Bunker]] (1777–1864)**, Edward's fifth son: lived his entire life in Millbrook, outlasting the Thomas line by twelve years and dying in 1864 aged ~87. He had three wives — Sarah Pedder, Mary Somerfield, and Catherine Blunt. With Sarah Pedder he had sons Richard (c.1800) and John (1803); with Mary Somerfield a daughter Naomi and possibly others; with Catherine Blunt a daughter Rachel.
 
-**John Bunker (1803–?)**, son of [[james-bunker-1777|James (1777)]] and Sarah Pedder: married **Maria West (1802)** on 24 November 1824. The anchor of the Millbrook collateral line through the mid-century. John was still in Millbrook in 1861 with his wife and surviving children. He and his son Joseph's family are the main Millbrook presence in the later census years.
+**[[mark-ashby-bunker-1789|Mark Ashby Bunker]] (1789–1868)**, Edward's ninth child: convicted of sheep stealing in 1817 and transported to Australia for life. Before his transportation he had fathered three illegitimate children in the area — Seth Wheeler (1809, Millbrook), Fanny Johnson (1814, Aspley Guise), and Mark Ashby Bunker jr (1815, Cranfield). He married in Australia after release and had eight more children there.
+
+**John Bunker (1803–?)**, son of James (1777) and Sarah Pedder: married Maria West on 24 November 1824 and remained in Millbrook through at least 1861. Through John, the Edward line continues into the next generation: his son **Joseph (~1837)** and another son **Samuel (1842)** both established households in the village, and their families account for the entire Millbrook Bunker presence from the 1860s through 1911.
 
 ## Census Snapshots
 
@@ -77,22 +77,22 @@ The 1841 census records four Bunker households in Millbrook, representing both l
 |-----------|------|------|-------|
 | 1 | [[james-bunker-1777\|James Bunker]], ~60 (b.1777, Edward's son) | Catherine Blunt, ~45 | With Richard (~35), Naomi (~25), Rachel (~17), grandson Richard (~4) |
 | 2 | John Bunker, ~35 (b.1803, son of James 1777) | Maria West, ~35 | 5 children: Sarah (15), John (11), James (8), Hannah (5), Joseph (1) |
-| 3 | **James Bunker, ~30 (b.1807 — our line)** | **Elizabeth Watts** | **6 children: John (9), Lydia (8), George (6), David (4), Charles (2), Martha (0)** |
+| 3 | [[james-bunker-1807\|James Bunker]], ~30 (b.1807, Thomas line) | Elizabeth Watts | 6 children: John (9), Lydia (8), George (6), David (4), Charles (2), Martha (0) |
 | 4 | [[william-bunker-1767\|William Bunker]], ~70 (b.1767, Edward's son) | Sarah Beal, ~60 | Son Samuel (~20) |
 
 The 1841 census ages are unreliable (rounded to nearest 5 in this census), so the births years above are approximations. Caleb (b.1845) and the later children had not yet been born.
 
 ### 1851 — Three Households
 
-By 1851 William (1767) had died (1847) and Sarah Beal (1848), reducing the collateral line by one household. The three remaining Bunker households include James (1807) and Elizabeth at Millbrook with seven children still at home — their eldest John had already left. This is James's last census; he died in 1852.
+By 1851 William (1767) had died (1847) and Sarah Beal (1848), reducing the Edward line by one household. Three Bunker households remain: James (1777) and Catherine Blunt; John (1803) and Maria West; and James (1807) and Elizabeth Watts, now with seven children still at home. This is James (1807)'s last census; he died the following year.
 
-### 1852 — Our Line Departs
+### 1852 — The Thomas Line Departs
 
-James Bunker (1807) died in 1852. His widow Elizabeth moved the household to Bedford. The oldest children had already begun leaving in the 1840s; after James's death the remainder followed. None of the nine (or possibly ten) children returned to Millbrook. The Thomas line's presence ends entirely.
+James Bunker (1807) died in 1852. His widow Elizabeth moved the household to Bedford. The oldest children had already begun leaving in the 1840s; after James's death the remainder followed. None of the nine (or possibly ten) children returned to Millbrook. The Thomas (1738) line's Millbrook presence ends here after roughly ninety years.
 
-### 1861 — Four Households, But Changed
+The Edward line, by contrast, continues unbroken.
 
-After 1852 the village still holds four Bunker households, but none is our line:
+### 1861 — Four Households, All Edward's Line
 
 | Household | Notes |
 |-----------|-------|
@@ -115,9 +115,9 @@ These two families — Joseph/Mary Ann and Samuel/Harriet — are all that remai
 
 ## The Holland Estate and James Bunker's Tenancy
 
-The inventory of Lady Holland's Millbrook estate, sold to the Duke of Bedford in 1840, lists **James Bunker** (our James, 1807) as tenant of a cottage and garden (inventory nos. 423, 431, and 432, co-tenant T. Cartwright). A local researcher holds the estate map and confirms the location can be pinpointed in Millbrook today. This is the same transaction that made the Duke the Bunkers' immediate landlord for their final twelve years in the village.
+The inventory of Lady Holland's Millbrook estate, sold to the Duke of Bedford in 1840, lists **James Bunker** (1807, Thomas line) as tenant of a cottage and garden (inventory nos. 423, 431, and 432, co-tenant T. Cartwright). A local researcher holds the estate map and confirms the location can be pinpointed in Millbrook today. This is the same transaction that made the Duke the Bunkers' immediate landlord for their final twelve years in the village.
 
-Nine years earlier, in 1815, a list of properties adjoining the church with responsibility to maintain the fences names **James BUNKER** at the 13th pole — a former farmhouse, landlord Lord Ossory (formerly occupied in 1795 by Wm Mallison). This is almost certainly **[[james-thomas-bunker-1764|James Thomas Bunker]]** (1764–1824), nine years before his death. The same list includes **William BUNKER** (4th pole, near the parsonage) and a **Widow BUNKER** (8th pole, Kits Lane) from the collateral line.
+Nine years earlier, in 1815, a list of properties adjoining the church with responsibility to maintain the fences names **James BUNKER** at the 13th pole — a former farmhouse, landlord Lord Ossory (formerly occupied in 1795 by Wm Mallison). This is almost certainly **[[james-thomas-bunker-1764|James Thomas Bunker]]** (1764–1824), nine years before his death. The same list includes **William BUNKER** (4th pole, near the parsonage) and a **Widow BUNKER** (8th pole, Kits Lane) — probably from the Edward line, but multiple siblings' families were in the village by this date.
 
 ## The Capel and Watts Connection
 
@@ -193,7 +193,7 @@ James Bunker himself did not live long under the new regime: he died in 1852, tw
 
 ## Millbrook Bunkers in the First World War
 
-Two men from the collateral Millbrook Bunker line were killed in the First World War, both in 1917:
+Two men from the Millbrook Bunker community — both from the Edward (1742) line — were killed in the First World War, both in 1917:
 
 **Albert Edward Bunker** (born Sept 1894, Ampthill) — G/48221, 1st Battalion Royal Fusiliers. Killed in action 31 July 1917, aged 23, during the Third Battle of Ypres (Passchendaele). Born in Millbrook, enlisted Luton, resident Ampthill. He had no known grave and is commemorated on the **Ypres (Menin Gate) Memorial**, Panels 6 and 8. Albert Edward was the son of John Bunker (1870–1900) and Ellen Mary Roffe; his father died when he was about six, his mother remarried Herbert Goodman in 1901, and Albert Edward was raised by his paternal grandparents Joseph and Mary Ann at 12 Millbrook. He appears with them in both the 1901 and 1911 censuses.
 
@@ -207,7 +207,7 @@ The Millbrook Village School Punishment Book preserves a small trace of Albert E
 
 A 1919 newspaper story records a remarkable event in Millbrook churchyard. **Mrs Bunker**, the aged widow of **Mr Bunker the sexton**, led a party of Bedford schoolboys to a spot in the churchyard where her late husband had struck stone while digging. The two stone effigies of **William and Mary Huett** (died 1621 and 1602 respectively), lost since church renovations in the 1840s, were found intact — all except Mary Huett's head, which Mrs Bunker had been keeping in her shed.
 
-Mr Bunker the sexton was a collateral Millbrook Bunker from the Edward (1742) line, probably from the Samuel (1842) or Joseph (1837) households, and died before 1919. He is not yet identified in the records. Three newspaper articles about this event are held by a local researcher.
+Mr Bunker the sexton was from the Edward (1742) line, probably from the Samuel (1842) or Joseph (1837) households, and died before 1919. He is not yet identified in the records. Three newspaper articles about this event are held by a local researcher.
 
 ## The Stevington Branch
 
@@ -228,4 +228,4 @@ Caleb's son **Ephraim Bunker** (1821–1887) and Joseph's son **Ebenezer Bunker*
 - The Stevington Baptist branch (Joseph's line) is unresearched beyond the children listed. Stevington Baptist records and censuses may extend it further.
 - The Lady Holland / Duke of Bedford estate map (1840/41 sale) has not yet been located online. It is not in the Maulden or Millbrook parish records at Bedfordshire Archives. The Bedford Estates (Russell) papers, likely held in the `R` series at Bedfordshire Archives, are the most probable repository.
 - Joseph Bunker (1754) married Martha Garratt in 1777 and had twelve children in Millbrook; his family is now documented (see [[bunker-garratt-1777]]). His nine children who reached adulthood are not yet traced in the census era. Is the **Joseph Bunker (~1837)** in later Millbrook records a grandson through Joseph Garratt Bunker (1800)?
-- Joseph's cordwaining trade raises the question of whether shoemaking was already the family's primary non-agricultural occupation before the 19th century. The collateral Bunkers show shoemakers from the 1780s through the census era.
+- Joseph's cordwaining trade raises the question of whether shoemaking was already the family's primary non-agricultural occupation before the 19th century. The Edward line Bunkers show shoemakers from the 1780s through the census era.
