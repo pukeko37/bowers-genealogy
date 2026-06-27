@@ -121,6 +121,7 @@
 - [[bunker-wilcox-1859]] — Joseph Bunker (1840–1914) & Mary Ann Wilcox (1842); married Millbrook 1859; 11 children; Joseph probable church sexton; Mrs Bunker led 1919 Huett effigy excavation
 - [[bunker-dean]] — Samuel Bunker (1842–1913) & Harriet Dean (1844–1931); married Millbrook 25 Dec 1865; 2 children; Samuel confirmed as clerk and sexton ~20 years; Harriet is Mrs Bunker of 1919 Huett effigy story
 - [[bunker-sinfield-1761]] — Thomas Bunker (1738) & Martha Sinfield, married Millbrook 1761; Thomas buried Toddington 1825 aged 87
+- [[bunker-panter-1850]] — James Bunker (1824) & Sophia Panter, married Stevington Christmas Day 1850; 4 daughters including Ruth; lifelong Silver Street Stevington
 - [[bunker-brown-1788]] — James Thomas Bunker & Lydia Brown, married St Paul's Walden 1788; James Bunker's parents
 - [[tall-ward-maulden]] — Edward Tall & Sarah Ward, married Maulden 1827; 6 children; raised Frederick Bunker after 1870
 - [[bass-tall-1855]] — Daniel Bass & Mary Ward Tall, married Maulden 1855; 3 children; both widowed young; Mary in Maulden 1851–1891
@@ -369,6 +370,8 @@
 - [[ephraim-bunker-1821]] — Ephraim Bunker (1821–1887), son of Caleb (1790); arrived NSW 1845 on vessel Elizabeth; married Mary Ann Betts Camden 1852; died Crookwell NSW
 - [[joseph-bunker-1792]] — Joseph Bunker (1792–1853), second sibling; Stevington; married Mary Markham; buried Stevington Baptist Chapel
 - [[ebenezer-bunker-1822]] — Ebenezer Bunker (1822–1902), son of Joseph (1792); married Sarah Cocking Stevington 1844; emigrated NSW; 7 children; died Campbelltown
+- [[james-bunker-1824]] — James Bunker (1824–1904), son of Joseph (1792); lifelong Silver Street Stevington labourer; married Sophia Panter 1850; 4 daughters
+- [[ruth-bunker-1855]] — Ruth Bunker (1855–1910), daughter of James (1824); domestic servant; bastardy order 1880; married George Draper Whiting Sep 1880; 11 children; emigrated Sherbrooke Quebec 1885
 - [[ruth-bunker-1794]] — Ruth Bunker (1794–1806), died on the day of her christening aged 11
 - [[phoebe-bunker-1796]] — Phoebe Bunker (1796–1849), stayed in Millbrook unmarried; last of the siblings to leave; buried Bedford
 - [[ebenezer-bunker-1798]] — Ebenezer Bunker (1798–1819), died aged 20 unmarried
@@ -788,6 +791,7 @@
 - [[bunker-stevington-newspapers-findmypast]] — FindMyPast newspaper search, Bunker + Stevington, 1800–1899; 12 of 38 results; Ephraim 1837; Ruth Bunker bastardy order 1880; Jane Bunker theft 1872; Miss Bunker in Stevington/Stagsden events 1886–1892; J. Bunker flower show 1896; John Bunker Pilcroft-st assault 1884
 - [[ephraim-bunker-1821-familysearch]] — FamilySearch sources for Ephraim Bunker (M9S7-BX7); arrived NSW March 1845 on vessel Elizabeth; married Mary Ann Betts Camden NSW 1852; died Crookwell 1887
 - [[ebenezer-bunker-1822-familysearch]] — FamilySearch sources for Ebenezer Bunker (L227-TG7); married Sarah Cocking Stevington Nov 1844 before emigrating; died Campbelltown NSW 1902; 7 children
+- [[ruth-bunker-1855-familysearch]] — FamilySearch sources for James Bunker (1824, L227-TV6) and Ruth Bunker (1855, LVSD-5QH); 1880 bastardy case resolved; marriage Sep 1880; emigrated Sherbrooke Quebec 1885; 11 children
 - [[thomas-bunker-1704-print-view-familysearch]] — FamilySearch print view (LCZ5-171); born Westoning 1704; 12 children with Mary Reade; parents William Bunker & Sarah Greene
 - [[thomas-bunker-1738-print-view-familysearch]] — FamilySearch print view (MM1C-CQN); christened Millbrook 1738; married Martha Sinfield; 2 children; buried Toddington 1825
 - [[thomas-bunker-1738-sources-familysearch]] — FamilySearch sources page (MM1C-CQN); 8 sources; marriage record spells wife "Sinfeild or Sinfild"; burial age 87 confirmed

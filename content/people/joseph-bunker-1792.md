@@ -10,6 +10,7 @@ families-as-parent: []
 sources:
   - "[[joseph-bunker-1792-familysearch]]"
   - "[[ebenezer-bunker-1822-familysearch]]"
+  - "[[ruth-bunker-1855-familysearch]]"
 created: 2026-06-25
 updated: 2026-06-27
 ---
@@ -26,7 +27,7 @@ He married **Mary Markham** (1793–1866) on 11 October 1814 at Stevington, Bedf
 | John Bunker | 1817–1887 | |
 | William Bunker | 1821 | Died in infancy 1821 |
 | [[ebenezer-bunker-1822\|Ebenezer Bunker]] | 1822–1902 | Married Sarah Cocking at Stevington 28 Nov 1844; emigrated to NSW; died Campbelltown 21 June 1902 |
-| James Bunker | 1824–1904 | Married Stevington 25 Dec 1850, wife Sophia Pantar |
+| [[james-bunker-1824\|James Bunker]] | 1824–1904 | Married Stevington 25 Dec 1850, wife Sophia Panter; 4 daughters; lifelong Silver Street Stevington |
 | Samuel Bunker | 1827 | Died 1829 |
 
 Ebenezer emigrated to Australia with his first cousin Ephraim Bunker (son of [[caleb-bunker-1790|Caleb]]); both were grandsons of James Thomas Bunker and Lydia Brown. Ebenezer married **Sarah Cocking** at Stevington on **28 November 1844** before departing — taking his new wife with him to Australia. His first child, John Edward Bunker, was christened at St Peter's, Campbelltown, NSW in September 1850. Ebenezer settled permanently in the Campbelltown area, had seven children, and died there on 21 June 1902, buried at St Peters Anglican Church Cemetery. Ephraim, by contrast, arrived in NSW alone on 31 March 1845 on the vessel *Elizabeth* and did not marry until 1852, when he wed **Mary Ann Betts** at Camden, NSW; he later settled at Crookwell. See [[ebenezer-bunker-1822-familysearch]] and [[ephraim-bunker-1821-familysearch]].

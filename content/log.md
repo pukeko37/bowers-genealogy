@@ -1,3 +1,25 @@
+## [2026-06-27] update | bunker-brown-1788 — Stevington Branch section rewritten
+
+The "Wider Family — The Stevington Branch" section was piecemeal from successive discoveries. Rewritten as a clean narrative covering: the brothers' settlement at Stevington (1814); the shared 26 Sep 1824 mass christening; Ephraim and Ebenezer's joint emigration on the *Elizabeth* (31 Mar 1845), both engaged to Robert Coopershaw, Rocky Point, Cooks River; their divergent Australian settlements (Ebenezer at Campbelltown, Ephraim at Crookwell via Camden); and Joseph's Stevington line through James (1824) and Ruth (1855). Sources frontmatter updated.
+
+Pages updated: [[bunker-brown-1788]], log
+
+## [2026-06-27] ingest | Ruth Bunker (1855) — bastardy case resolved; James Bunker (1824) Stevington line documented
+
+FamilySearch clippings for James Bunker (1824, L227-TV6) and Ruth Bunker (1855, LVSD-5QH) ingested.
+
+**James Bunker (1824–1904):** Son of Joseph (1792); married Sophia Panter Christmas Day 1850; lifelong labourer at Silver Street, Stevington; 4 daughters (Jane 1852, Ruth 1855, Hannah 1864, Mary Ann 1866). Died Stevington 26 Nov 1904. The "J. Bunker" at the 1896 Stevington Flower Show is confirmed as James himself.
+
+**Ruth Bunker (1855–1910):** Born Lavendon, Bucks (family temporarily there). In June 1880, as a domestic servant at Mr Smith's farm, Stevington, brought a bastardy order against co-servant George Draper Whiting (aged 19, from Bolnhurst). Order granted: 1s. 6d./week. On 27 September 1880 — 3½ months later — she married George at Stevington (she 25, he 19). First child George John (1880) was born before the marriage. They had 11 children in total. Emigrated to Sherbrooke, Quebec in 1885. Ruth died there 17 Feb 1910.
+
+The "Ruth Bunker of Stevington" in the June 1880 newspaper reports (previously unidentified in the wiki) is now confirmed as this Ruth — resolving the open question in [[bunker-stevington-newspapers-findmypast]] and [[bunker-brown-1788]].
+
+Jane Bunker (20, theft 1872) is possibly James's eldest daughter Jane (born 1852); unconfirmed.
+"Miss Bunker" in Stevington/Stagsden events 1886–1892 is likely Jane, Hannah, or Mary Ann — all unmarried daughters of James and Sophia.
+
+Pages created: [[james-bunker-1824]], [[ruth-bunker-1855]], [[bunker-panter-1850]], [[ruth-bunker-1855-familysearch]]
+Pages updated: [[joseph-bunker-1792]], [[bunker-brown-1788]], [[bunker-stevington-newspapers-findmypast]], index, log
+
 ## [2026-06-27] update | Ebenezer Bunker (1820) — 1861 Jersey census identified; misattribution corrected
 
 The 1861 census record for an Ebenezer Bunker in Jersey (occupation "Pensioner Chelsea", age 44, birthplace Stevington) was misattributed in FamilySearch to Ebenezer (1822, son of Joseph), who was in Australia from 1845. It belongs to **Ebenezer Bunker (1820)**, son of Caleb (1790) and Catherine Bull — absent from Caleb's 1841 household, suggesting early departure, probably for army service. The Chelsea Pension indicates he served in the armed forces. His wife and subsequent fate are unknown.

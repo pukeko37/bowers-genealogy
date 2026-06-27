@@ -47,12 +47,12 @@ A gamekeeper at Wilstead (adjacent to Stevington). No William Bunker of appropri
 **12 June 1880 — Same case**
 *Bedfordshire Times and Independent.*
 "At one time the parties were in the service of Mr. Smith, farmer, and lived in the same house, being domestic servant and [farm servant?]."
-Ruth Bunker was a domestic servant at a farm (Mr Smith's), where she met George Draper Whiting. She brought a successful bastardy order — Whiting was ordered to pay 1s. 6d. per week maintenance. Ruth is from Stevington; she is not the [[ruth-bunker-1794|Ruth Bunker (1794)]] of the wiki (who died on the day of her christening, 1806), nor Caleb (1790)'s daughter Ruth (1822, listed as deceased without date). This is most likely a third-generation Stevington Bunker — a granddaughter of Joseph (1792) or Caleb (1790) — born perhaps ~1855–1865. **Unidentified; the Stevington third generation is unresearched.**
+**Now identified: [[ruth-bunker-1855|Ruth Bunker (1855)]]**, daughter of [[james-bunker-1824|James Bunker (1824)]] and Sophia Panter, granddaughter of Joseph (1792). She was 24, a domestic servant at Mr Smith's farm in Stevington; Whiting (19, from Bolnhurst) was a fellow-servant at the same farm. She brought the bastardy order successfully — Whiting ordered to pay 1s. 6d. per week. Just 3½ months later they married at Stevington (27 September 1880). They had 11 children and emigrated to Sherbrooke, Quebec in 1885. Ruth died there in 1910. See [[ruth-bunker-1855]] and [[ruth-bunker-1855-familysearch]].
 
 **28 September 1872 — Jane Bunker (20), Stevington, theft**
 *Bedfordshire Times and Independent.*
 "Jane Bunker (20), a single woman, of Stevington, was brought up by Police-constable George Mardlin and charged with stealing, on the 23rd, from the person [of someone]."
-Born approximately 1852. Not in the current wiki. Almost certainly from the same unresearched Stevington third generation — possibly a daughter of John Bunker (1817–1887) or James Bunker (1824–1904). **Unidentified.**
+Born approximately 1852. Possibly **Jane Bunker (1852–1938)**, the eldest daughter of [[james-bunker-1824|James Bunker (1824)]] and Sophia Panter — she would be exactly 20 in September 1872. Unconfirmed; she could also be a daughter of John Bunker (1817–1887), whose children are untraced.
 
 **21 June 1884 — John Bunker, Pilcroft-street, Bedford, assault**
 *Bedfordshire Mercury.*
