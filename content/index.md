@@ -6,6 +6,7 @@
 
 - [[theme-values-solidarity-ambition]] — Family solidarity vs. individual ambition across the Norman and Bunker lines; Schwartz values framework; Ron Bowers as the central case
 - [[longevity-analysis-2026-06-10]] — Longevity analysis: Whipsnade-Cook-Birchmore women (n=23, mean 82.3 yrs) vs Bunker women (mean 68.4 yrs); six-generation pattern; sex gap within Norman-Birchmore (25.9 yrs); research leads
+- [[bunker-nonconformity-2026-06-27]] — Bunker nonconformity: evidence and analysis from Thomas (1704) to Roland (1898); 1795 Millbrook enclosure; Baptist/Methodist split; mass christenings; sexton line as Anglican exception; Ron's break
 
 ## Families
 

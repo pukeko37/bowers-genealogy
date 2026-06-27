@@ -1,3 +1,17 @@
+## [2026-06-27] query | Bunker nonconformity analysis
+
+Reviewed all Bunker wiki pages for evidence of religious affiliation. Output saved to outputs/bunker-nonconformity-2026-06-27.md. Key findings:
+
+The family shows sustained nonconformist practice across six generations. The 1795 Millbrook enclosure (confirmed: TNA CRES 2/6; Bedfordshire Archives R1/263) precedes two Nonconformist meeting house registrations in Millbrook (1798: ABN2/91; 1804: ABN2/113) and the 1806 mass christening of seven children — a chronological sequence suggesting the enclosure intensified the family's Dissenting commitment.
+
+At the next generation the tradition splits: Baptist at Stevington (Joseph 1792 buried at Stevington Baptist Chapel); Wesleyan Methodist in the Bedford/Derbyshire line (confirmed by George's daughter's 1860 Wesleyan christening, Caleb's two Wesleyan chapel marriages, Ernest's 1913 Wesleyan wedding). The Edward (1742) line diverges entirely: John (1803) and Samuel (1842) were Anglican church sextons.
+
+Naming patterns (Ebenezer, Caleb, Ruth, Phoebe, Comfort, Beulah) signal nonconformity throughout but cannot distinguish Baptist from Methodist — that requires documentary evidence.
+
+The tradition ends with Roland/Ron Bowers, who shed chapel along with his name and never mentioned religion.
+
+Pages updated: index, log
+
 ## [2026-06-27] update | bunker-brown-1788 — Stevington Branch section rewritten
 
 The "Wider Family — The Stevington Branch" section was piecemeal from successive discoveries. Rewritten as a clean narrative covering: the brothers' settlement at Stevington (1814); the shared 26 Sep 1824 mass christening; Ephraim and Ebenezer's joint emigration on the *Elizabeth* (31 Mar 1845), both engaged to Robert Coopershaw, Rocky Point, Cooks River; their divergent Australian settlements (Ebenezer at Campbelltown, Ephraim at Crookwell via Camden); and Joseph's Stevington line through James (1824) and Ruth (1855). Sources frontmatter updated.
