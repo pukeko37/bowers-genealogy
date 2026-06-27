@@ -365,8 +365,10 @@
 - [[sarah-bass-1859]] — Sarah Bass (1859–1951), eldest child of Daniel & Mary; married James Lay 1887; shopkeeper Lavendon; died Luton aged ~92
 - [[florence-bass-1862]] — Florence Bass (1862–?), middle child; domestic servant Islington 1881; married Sidney Shotbolt 1889; settled Ampthill; 3 children
 - [[edward-ernest-bass-1864]] — Edward Ernest Bass (1864–1936), youngest child; carpenter; Maulden→Ampthill→Kettering→Flitwick; died 16 Maulden-road Flitwick
-- [[caleb-bunker-1790]] — Caleb Bunker (1790–1848), eldest sibling of James (1807); Stevington; married Catherine Bull; son Ephraim emigrated to Australia
+- [[caleb-bunker-1790]] — Caleb Bunker (1790–1848), eldest sibling of James (1807); Stevington; married Catherine Bull; son Ephraim emigrated to NSW 1845, married Mary Ann Betts in Australia
+- [[ephraim-bunker-1821]] — Ephraim Bunker (1821–1887), son of Caleb (1790); arrived NSW 1845 on vessel Elizabeth; married Mary Ann Betts Camden 1852; died Crookwell NSW
 - [[joseph-bunker-1792]] — Joseph Bunker (1792–1853), second sibling; Stevington; married Mary Markham; buried Stevington Baptist Chapel
+- [[ebenezer-bunker-1822]] — Ebenezer Bunker (1822–1902), son of Joseph (1792); married Sarah Cocking Stevington 1844; emigrated NSW; 7 children; died Campbelltown
 - [[ruth-bunker-1794]] — Ruth Bunker (1794–1806), died on the day of her christening aged 11
 - [[phoebe-bunker-1796]] — Phoebe Bunker (1796–1849), stayed in Millbrook unmarried; last of the siblings to leave; buried Bedford
 - [[ebenezer-bunker-1798]] — Ebenezer Bunker (1798–1819), died aged 20 unmarried
@@ -782,6 +784,10 @@
 - [[samuel-bunker-1842-sources-familysearch]] — FamilySearch sources (12 sources, MM18-7H2); census trail 1851–1911; Agricultural Labourer throughout; Millbrook Road
 - [[samuel-bunker-obituary-1913]] — Bedfordshire Times 20 Jun 1913; confirms Samuel as clerk and sexton ~20 years; father John also served; Harriet Dean is Mrs Bunker
 - [[joseph-samuel-bunker-newspapers-findmypast]] — FindMyPast newspaper searches 1850–1899; Joseph (railway, court witnesses, garden prizes); Samuel (school summons, Benefit Society prizes); 1892 entry possibly traces lost Samuel (~1820)
+- [[bunker-stevington-newspapers-1837]] — FindMyPast newspaper search, Bunker + Stevington, 1800–1849; one result: Ephraim Bunker (son of Caleb 1790) charged with stealing peas aged 16, August 1837
+- [[bunker-stevington-newspapers-findmypast]] — FindMyPast newspaper search, Bunker + Stevington, 1800–1899; 12 of 38 results; Ephraim 1837; Ruth Bunker bastardy order 1880; Jane Bunker theft 1872; Miss Bunker in Stevington/Stagsden events 1886–1892; J. Bunker flower show 1896; John Bunker Pilcroft-st assault 1884
+- [[ephraim-bunker-1821-familysearch]] — FamilySearch sources for Ephraim Bunker (M9S7-BX7); arrived NSW March 1845 on vessel Elizabeth; married Mary Ann Betts Camden NSW 1852; died Crookwell 1887
+- [[ebenezer-bunker-1822-familysearch]] — FamilySearch sources for Ebenezer Bunker (L227-TG7); married Sarah Cocking Stevington Nov 1844 before emigrating; died Campbelltown NSW 1902; 7 children
 - [[thomas-bunker-1704-print-view-familysearch]] — FamilySearch print view (LCZ5-171); born Westoning 1704; 12 children with Mary Reade; parents William Bunker & Sarah Greene
 - [[thomas-bunker-1738-print-view-familysearch]] — FamilySearch print view (MM1C-CQN); christened Millbrook 1738; married Martha Sinfield; 2 children; buried Toddington 1825
 - [[thomas-bunker-1738-sources-familysearch]] — FamilySearch sources page (MM1C-CQN); 8 sources; marriage record spells wife "Sinfeild or Sinfild"; burial age 87 confirmed

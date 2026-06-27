@@ -1,3 +1,46 @@
+## [2026-06-27] update | Ebenezer Bunker (1820) — 1861 Jersey census identified; misattribution corrected
+
+The 1861 census record for an Ebenezer Bunker in Jersey (occupation "Pensioner Chelsea", age 44, birthplace Stevington) was misattributed in FamilySearch to Ebenezer (1822, son of Joseph), who was in Australia from 1845. It belongs to **Ebenezer Bunker (1820)**, son of Caleb (1790) and Catherine Bull — absent from Caleb's 1841 household, suggesting early departure, probably for army service. The Chelsea Pension indicates he served in the armed forces. His wife and subsequent fate are unknown.
+
+Pages updated: [[ebenezer-bunker-1822]], [[caleb-bunker-1790]], log
+
+## [2026-06-27] update | Ebenezer Bunker — confirmed on the *Elizabeth* with Ephraim
+
+NSW Assisted Immigrants Inwards register (FamilySearch ark:/61903/1:1:CJR5-76T2, p. 431) confirms Ebenezer Bunker (age 23) and wife Sarah (age 20) as assisted immigrants on the *Elizabeth*, arriving 31 March 1845 — the same ship as Ephraim. Both parties were engaged to **Robert Coopershaw, "Rocky Point," Cooks River** on arrival (south Sydney). The cousins sailed together; Ephraim was single, Ebenezer newly married. Both later moved to the Camden/Campbelltown district.
+
+Pages updated: [[ebenezer-bunker-1822]], [[ebenezer-bunker-1822-familysearch]], [[ephraim-bunker-1821]], [[bunker-brown-1788]], log
+
+## [2026-06-27] ingest | Ephraim and Ebenezer Bunker — Australian emigration corrected
+
+FamilySearch sources pages for Ephraim Bunker (M9S7-BX7, son of Caleb 1790) and Ebenezer Bunker (L227-TG7, son of Joseph 1792), plus Ebenezer's print view and a new Joseph (1792) print view, ingested.
+
+**Key correction:** The wiki had the two cousins' marriages reversed across three pages. The correct picture:
+- **Ebenezer** married **Sarah Cocking** at Stevington on **28 November 1844**, before emigrating. He arrived in NSW by 1850 (first child christened Campbelltown Sep 1850). He settled at Campbelltown, had 7 children, and died there 21 June 1902.
+- **Ephraim** arrived in NSW alone on **31 March 1845** on the vessel *Elizabeth* (assisted immigrant from Stevington). He did not marry until **1852**, when he wed **Mary Ann Betts** at Camden, NSW. He later settled at Crookwell and died there 5 July 1887.
+
+Both cousins were christened on the same day — 26 September 1824 at Stevington.
+
+Whether they sailed on the same ship is unknown; only Ephraim's arrival record (*Elizabeth*, March 1845) has been found. A 1861 Jersey census record attached to Ebenezer in FamilySearch is uncertain (age discrepancy of 5–6 years; anomalous location).
+
+Pages created: [[ephraim-bunker-1821-familysearch]], [[ebenezer-bunker-1822-familysearch]], [[ephraim-bunker-1821]], [[ebenezer-bunker-1822]]
+Pages updated: [[caleb-bunker-1790]], [[joseph-bunker-1792]], [[bunker-brown-1788]], index, log
+
+## [2026-06-27] ingest | Bunker + Stevington newspaper searches (FindMyPast)
+
+Two FindMyPast newspaper search result pages ingested: "Search Newspapers 4.md" (1800–1849, one result) and "Search Newspapers 5.md" (1800–1899, 12 of 38 results).
+
+Key items matched to known wiki people:
+- **Ephraim Bunker (1821), son of Caleb (1790):** charged with stealing peas at Stevington aged 16, August 1837 (*Bedfordshire Mercury*). Confirmed match; updated [[caleb-bunker-1790]].
+- **John Bunker, Pilcroft-street, Bedford, 1884:** assaulted in his shop. Tentative match to [[john-watts-bunker-1831]] (then 53, definitively Bedford-based); [[john-bunker-1803]] (the Stevington John, 1817–1887, possibly relocated to Bedford) is a weaker alternative.
+
+Items pointing to an unresearched third generation in Stevington (descendants of John 1817 or James 1824, sons of Joseph 1792):
+- Ruth Bunker (bastardy order, June 1880); Jane Bunker (theft, September 1872); Miss Bunker (community events 1886/1889/1892); J. Bunker (flower show 1896, probably James 1824–1904).
+
+Items set aside as not relevant: 1880 marriages notice (no Bunker), 1884 deaths (no Bunker), William Bunker gamekeeper Wilstead 1877 and labourer Westoning 1867 (no plausible connection to known wiki Bunkers).
+
+Pages created: [[bunker-stevington-newspapers-1837]], [[bunker-stevington-newspapers-findmypast]]
+Pages updated: [[caleb-bunker-1790]], [[john-watts-bunker-1831]], [[bunker-brown-1788]], index, log
+
 ## [2026-06-27] ingest | Samuel Bunker obituary — sexton confirmed; Mrs Bunker is Harriet Dean
 
 *Bedfordshire Times and Independent*, 20 June 1913 (funeral notice): "MILLBROOK. The funeral took place on Monday of the late Mr. Samuel, [in] the churchyard. The deceased had been for about 20 years clerk and sexton at the parish church, until the present Rector came to Millbrook. His father also [served in the same capacity]."

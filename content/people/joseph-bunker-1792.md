@@ -9,8 +9,9 @@ family-of-origin: "[[bunker-brown-1788]]"
 families-as-parent: []
 sources:
   - "[[joseph-bunker-1792-familysearch]]"
+  - "[[ebenezer-bunker-1822-familysearch]]"
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-06-27
 ---
 
 Joseph Bunker (3 December 1792 – 21 October 1853) was the second child of [[james-thomas-bunker-1764|James Thomas Bunker]] and [[lydia-brown-1769|Lydia Brown]], and an elder sibling of [[james-bunker-1807|James Bunker]] (1807).
@@ -24,11 +25,11 @@ He married **Mary Markham** (1793–1866) on 11 October 1814 at Stevington, Bedf
 | Ann Bunker | 1816 | Died 1843 |
 | John Bunker | 1817–1887 | |
 | William Bunker | 1821 | Died in infancy 1821 |
-| Ebenezer Bunker | 1822–1902 | Emigrated to Australia with cousin [[caleb-bunker-1790|Ephraim Bunker]] (Caleb's son); married in Australia (to be confirmed) |
+| [[ebenezer-bunker-1822\|Ebenezer Bunker]] | 1822–1902 | Married Sarah Cocking at Stevington 28 Nov 1844; emigrated to NSW; died Campbelltown 21 June 1902 |
 | James Bunker | 1824–1904 | Married Stevington 25 Dec 1850, wife Sophia Pantar |
 | Samuel Bunker | 1827 | Died 1829 |
 
-Ebenezer emigrated to Australia with his first cousin Ephraim Bunker (son of [[caleb-bunker-1790|Caleb]]); both were grandsons of James Thomas Bunker and Lydia Brown. They settled in New South Wales; Ephraim married before departing Bedfordshire and Ebenezer married in Australia. Research on their subsequent Australian families exists but has not yet been ingested into the wiki.
+Ebenezer emigrated to Australia with his first cousin Ephraim Bunker (son of [[caleb-bunker-1790|Caleb]]); both were grandsons of James Thomas Bunker and Lydia Brown. Ebenezer married **Sarah Cocking** at Stevington on **28 November 1844** before departing — taking his new wife with him to Australia. His first child, John Edward Bunker, was christened at St Peter's, Campbelltown, NSW in September 1850. Ebenezer settled permanently in the Campbelltown area, had seven children, and died there on 21 June 1902, buried at St Peters Anglican Church Cemetery. Ephraim, by contrast, arrived in NSW alone on 31 March 1845 on the vessel *Elizabeth* and did not marry until 1852, when he wed **Mary Ann Betts** at Camden, NSW; he later settled at Crookwell. See [[ebenezer-bunker-1822-familysearch]] and [[ephraim-bunker-1821-familysearch]].
 
 Joseph died 21 October 1853 and was buried at **Stevington Baptist Chapel Chapelyard** (Bedford Borough) — confirming a Baptist affiliation distinct from the Wesleyan Methodist practice of the main Bunker-Watts line. FamilySearch incorrectly gives his death place as Millbrook on the print view; the GRO registration (vol 3B, page 187, Bedford district) and the Baptist chapel burial both point to Stevington.
 

@@ -10,8 +10,9 @@ families-as-parent:
   - "[[bunker-woodland-1854]]"
 sources:
   - "[[john-watts-bunker-print-view-familysearch]]"
+  - "[[bunker-stevington-newspapers-findmypast]]"
 created: 2026-05-02
-updated: 2026-06-24
+updated: 2026-06-27
 ---
 
 John Watts Bunker was born 10 December 1831 in Millbrook, Bedfordshire, the eldest child of [[james-bunker-1807|James Bunker]] and [[elizabeth-watts-1810|Elizabeth Watts]]. He was christened 10 February 1832 in Millbrook. He died in 1899 in Ampthill, Bedfordshire, aged ~67 (GRO vol 3B, page 252). He was Caleb's eldest brother.
@@ -35,3 +36,7 @@ The 1 September 1867 christening at St Mary's Bedford — on a single day — ap
 **Occupation:** In 1871 John is recorded as a **Shoesmith** in Bedford St Mary — a metalworker who shapes horseshoes. By 1881 he is recorded as a **Hammer Man** in Bedford Western Ward St Mary, a related trade involving heavy forging work. This is a physically demanding occupation, a clear contrast with his brother Caleb, who trained in boot and shoe *making* (the craft side) while John went into the metal-working trade.
 
 **Residence history:** 1841–1852 Millbrook · 1852–1899 Bedford / Ampthill area
+
+## Possible newspaper appearance
+
+*Bedfordshire Mercury*, 21 June 1884: "Samuel Sergeant was charged with assaulting John Bunker, of Pilcroft-street, on the 5th inst. Defendant did not appear. The complainant deposed that defendant went into his shop [...]" A John Bunker with a shop or workshop on Pilcroft-street, Bedford, was assaulted in June 1884. John Watts Bunker (then 53, living in Bedford St Mary) is the strongest candidate given his definitive Bedford residency, though John Bunker (1817–1887) from the Stevington line — who may have relocated to Bedford late in life — is also possible. See [[bunker-stevington-newspapers-findmypast]].
