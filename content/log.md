@@ -1,3 +1,49 @@
+## [2026-06-27] ingest | Samuel Bunker obituary — sexton confirmed; Mrs Bunker is Harriet Dean
+
+*Bedfordshire Times and Independent*, 20 June 1913 (funeral notice): "MILLBROOK. The funeral took place on Monday of the late Mr. Samuel, [in] the churchyard. The deceased had been for about 20 years clerk and sexton at the parish church, until the present Rector came to Millbrook. His father also [served in the same capacity]."
+
+This resolves the central question of the Huett effigy story. Samuel Bunker (1842–1913) was the Millbrook clerk and sexton. His widow Harriet Dean (1844–1931) is Mrs Bunker. John Bunker (1803–1889) also held the same role — a two-generation parish appointment. Joseph Bunker (1840–1914) and his wife Mary Ann Wilcox are eliminated as candidates.
+
+Pages created: [[samuel-bunker-obituary-1913]]
+Pages updated: [[samuel-bunker-1842]], [[harriet-dean-1844]], [[john-bunker-1803]], [[bunker-dean]], [[joseph-bunker-1840]], [[mary-ann-wilcox-1842]], [[huett-effigies-1919-perplexity]], index, log
+
+## [2026-06-27] ingest | Newspaper searches — Joseph and Samuel Bunker in Bedfordshire press 1850–1899
+
+FindMyPast searches for "joseph bunker" + millbrook and "samuel bunker" + millbrook, 1850–1899. Primary source: British Newspaper Archive (Bedfordshire Mercury, Bedfordshire Times and Independent, Luton Times).
+
+Joseph: caught travelling without a train ticket 1872 (age 32, Wellingborough to Bedford); witness in malicious wounding case 1883 ("I live at Millbrook and am a labourer... at work in the field"); witness in Marston Arms affray 1884; won Labourers' Friend Society prizes for best-kept cottage 1873 and vegetable garden 1878.
+
+Samuel: summonsed for not sending children to school Dec 1877 (daughter Minnie aged 7); 1st prize at Labourers' Friend Society for Benefit Society membership 1882 and 1892.
+
+Notable: 1892 entry "Samuel Bunker, 73 years with Mr G Allen, Ampthill" — if 73 is the age, this is the **lost Samuel (~1820, son of William 1767)**, last seen in the 1841 census. He would be ~72–73 in 1892. This is the only post-1841 trace of him.
+
+Neither brother is mentioned as sexton in any article.
+
+Pages created: [[joseph-samuel-bunker-newspapers-findmypast]]
+Pages updated: [[joseph-bunker-1840]], [[samuel-bunker-1842]], [[william-bunker-1767]], index, log
+
+## [2026-06-27] ingest | Samuel Bunker (1842–1913) and John Bunker (1803) — sexton question widened
+
+FamilySearch data ingested for Samuel Bunker (MM18-7H2) and John Bunker (1803, G9RB-9PR). Key findings:
+
+**Samuel Bunker:** Born 19 June 1842 Millbrook, died 1913 Ampthill. Same pattern as brother Joseph — lifelong Millbrook farm labourer through every census, living on Millbrook Road. Married Harriet Dean (1844–**1931**). Only two children: Minnie Maria Dean Bunker (1870) and Herbert (1875–1877). Samuel is an equally viable candidate for the sexton role. Harriet Dean survived to 1931 and was definitively alive in 1919 (~75), making her a parallel candidate to Mary Ann Wilcox as "Mrs Bunker." The user has identified Mary Ann (via 1921 census) as Mrs Bunker, but Harriet's location in 1921 is not yet checked.
+
+**John Bunker (1803):** Full birth date now confirmed — **22 December 1803**. Maria West born in **Ampthill** (not Millbrook). George Bunker's birth year corrected: christening record gives **5 November 1848**, not 1845 as shown in the print view. 1841 census: John (35) and Maria (35), five children, plus Eliza Blunt (20) — possibly related to Catherine Blunt, James 1777's third wife. 1851 census: John (47, Ag Lab) with Maria (48), four sons including Samuel (8, Scholar) and George (6).
+
+Pages created: [[samuel-bunker-1842-print-view-familysearch]], [[samuel-bunker-1842-sources-familysearch]], [[john-bunker-1803-sources-familysearch]], [[samuel-bunker-1842]], [[harriet-dean-1844]], [[bunker-dean]]
+Pages updated: [[john-bunker-1803]], [[bunker-west-1824]], [[huett-effigies-1919-perplexity]], index, log
+
+## [2026-06-27] ingest | Joseph Bunker (1840–1914) — the Millbrook sexton identified
+
+FamilySearch print view and sources page (MM18-ML4) ingested for Joseph Bunker, son of John (1803) and Maria West, grandson of James (1777), great-grandson of Edward (1742). Joseph was christened at Millbrook 10 May 1840 and died at Ampthill in 1914 aged 74. He was present at Millbrook at every census from 1841 to 1911 — more rootedly Millbrook than any other member of his generation. His occupation throughout was farm labourer; the sexton role would not appear in census records.
+
+His wife **Mary Ann Wilcox** (born 1842, Millbrook) is identified as the **Mrs Bunker** of the 1919 Huett effigy story. She was approximately 77 in 1919 — "aged widow" as described — still living in Millbrook and confirmed in the 1921 census with son Albert and wife Emma. The Huett effigies were buried in 1857; Joseph would have been 17 that year, so probably encountered them during routine grave-digging in the 1860s–1890s when he was an active working-age sexton.
+
+Key new facts: John Bunker (1803) died 1889 aged ~86; Maria West born 1806; John and Maria had 9 known children (including first Joseph who died 1839, and siblings Samuel 1843, George 1845, and others).
+
+Pages created: [[joseph-bunker-1840-print-view-familysearch]], [[joseph-bunker-1840-sources-familysearch]], [[john-bunker-1803]], [[joseph-bunker-1840]], [[mary-ann-wilcox-1842]], [[bunker-west-1824]], [[bunker-wilcox-1859]]
+Pages updated: [[james-bunker-1777]], [[bunker-ashby-1766]], [[huett-effigies-1919-perplexity]], index, log
+
 ## [2026-06-26] update | Job Bunker Ampthill baptism confirmed as Thomas + Mary Bunker's son
 
 The Ampthill St Andrew baptism of 30 November 1804 has been confirmed as belonging to parents Thomas Bunker and Mary — NOT Joel and Martha. FamilySearch incorrectly attached it to Joel's Job, giving him a false birth date (28 Oct 1804) and false birth place (Ampthill). Joel's Job now has no confirmed birth date or place; the December 1812 Eversholt christening is the only solid early record. A previously unknown Bunker family identified: Thomas Bunker + Mary, who had a son Job at Ampthill 1804. Thomas is likely a grandson of Thomas (1704) — either Thomas (1767, son of William 1740) or Thomas (1783, son of Edward 1742).

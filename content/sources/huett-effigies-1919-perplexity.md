@@ -26,7 +26,10 @@ A Perplexity AI summary synthesising the 1919 Millbrook churchyard story from [[
 - The effigies acquired folk nicknames — **"The Warriors"** or **"Worriers"** — as stories about their removal and burial circulated.
 - The excavation involved the **Bedfordshire Archaeological Society** and **Bedford Modern School Archaeology Society**, along with Bedford schoolboys.
 - Three contemporary newspaper articles about the event are held by a local researcher.
-- Mr Bunker the sexton was from the **Edward (1742) line**, probably from the **Samuel (1842)** or **Joseph (1837)** households. He is not yet identified in the records. He had died before 1919.
+- Mr Bunker the sexton is **confirmed as [[samuel-bunker-1842|Samuel Bunker (1842–1913)]]**, son of [[john-bunker-1803|John Bunker (1803–1889)]], grandson of James (1777), great-grandson of Edward (1742). His funeral notice in the *Bedfordshire Times*, 20 June 1913, states: "The deceased had been for about 20 years clerk and sexton at the parish church, until the present Rector came to Millbrook. His father also [served in the same capacity]." Samuel is buried in the Millbrook churchyard where he served.
+- **Mrs Bunker** is therefore Samuel's widow, [[harriet-dean-1844|**Harriet Dean (1844–1931)**]], who was approximately 75 in 1919, married Samuel on 25 December 1865, and survived him by 18 years.
+- [[john-bunker-1803|John Bunker (1803–1889)]] also served as clerk and sexton before his son — a two-generation parish appointment.
+- [[mary-ann-wilcox-1842|Mary Ann Wilcox]], wife of Samuel's brother [[joseph-bunker-1840|Joseph (1840–1914)]], was an earlier candidate but is not Mrs Bunker.
 
 ## On Mrs Bunker's stone head
 

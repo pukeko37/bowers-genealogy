@@ -117,6 +117,9 @@
 - [[bunker-jakins-1846]] — Joseph Bunker (1810) & Fanny Jakins, married Eversholt 1846; Joseph born Alwalton Huntingdonshire; no children documented
 - [[bunker-inskipp-1839]] — Joel Bunker & Elizabeth Inskipp, married Flitton with Silsoe 1839; Joel's second marriage after Martha Taylor's death; no children recorded
 - [[bunker-ashby-1766]] — Edward Bunker (1742) & Mary Ashby, married Millbrook 1766; 10 children; Mark Ashby Bunker transported to Australia 1817
+- [[bunker-west-1824]] — John Bunker (1803–1889) & Maria West (1806), married Ampthill 1824; 9 children; last Millbrook-rooted generation of Edward (1742) line
+- [[bunker-wilcox-1859]] — Joseph Bunker (1840–1914) & Mary Ann Wilcox (1842); married Millbrook 1859; 11 children; Joseph probable church sexton; Mrs Bunker led 1919 Huett effigy excavation
+- [[bunker-dean]] — Samuel Bunker (1842–1913) & Harriet Dean (1844–1931); married Millbrook 25 Dec 1865; 2 children; Samuel confirmed as clerk and sexton ~20 years; Harriet is Mrs Bunker of 1919 Huett effigy story
 - [[bunker-sinfield-1761]] — Thomas Bunker (1738) & Martha Sinfield, married Millbrook 1761; Thomas buried Toddington 1825 aged 87
 - [[bunker-brown-1788]] — James Thomas Bunker & Lydia Brown, married St Paul's Walden 1788; James Bunker's parents
 - [[tall-ward-maulden]] — Edward Tall & Sarah Ward, married Maulden 1827; 6 children; raised Frederick Bunker after 1870
@@ -406,6 +409,11 @@
 - [[william-bunker-1767]] — William Bunker (1767–abt 1847), Edward's eldest; two marriages (Ann Denton 1792, Sarah Beal 1808); 8+ children; Millbrook all his life
 - [[john-bunker-1769]] — John Bunker (1768–1795), Edward's second son; died aged 27; unmarried; buried Millbrook
 - [[james-bunker-1777]] — James Bunker (1777–1864), Edward's son; three marriages; progenitor of Victorian Millbrook collateral line; died aged ~87
+- [[john-bunker-1803]] — John Bunker (1803–1889), son of James (1777); married Maria West 1824; 9 children; died aged ~86; last of the long-lived Millbrook patriarchs
+- [[joseph-bunker-1840]] — Joseph Bunker (1840–1914), John's son; lifelong Millbrook farm labourer; probable church sexton; husband of Mrs Bunker who led the 1919 Huett effigy excavation
+- [[mary-ann-wilcox-1842]] — Mary Ann Wilcox (1842–after 1921), wife of Joseph (1840); the "Mrs Bunker" of the 1919 Huett effigy story; aged widow; in Millbrook 1921
+- [[samuel-bunker-1842]] — Samuel Bunker (1842–1913), John's son; confirmed clerk and sexton of Millbrook parish church ~20 years; husband of Harriet Dean; Mr Bunker of the 1919 Huett effigy story
+- [[harriet-dean-1844]] — Harriet Dean (1844–1931), wife of Samuel (1842); the confirmed Mrs Bunker of the 1919 Huett effigy story; ~75 in 1919; died 1931
 - [[catherine-blunt]] — Catherine Blunt (abt 1792–unknown), third wife of James (1777); confirmed in 1841 census; origins unknown
 - [[richard-bunker-c1806]] — Richard Bunker (c.1804–1806, Bedfordshire), son of James (1777) by Sarah Pedder; age 35 in 1841 census at Sand End Millbrook; not further traced
 - [[rebecca-bunker-1815]] — Rebecca Bunker (1815–unknown), daughter of James (1777) and Mary Somerfield; married John Chapman 1835; in father's household 1841
@@ -767,6 +775,13 @@
 - [[james-bunker-1749-familysearch]] — FamilySearch LCFV-1FS; married Elizabeth Pedder 1772; 5 children; died 1818
 - [[edward-bunker-1742-print-view-familysearch]] — FamilySearch print view (KCZP-L7Z); born Millbrook 1742; married Mary Ashby 1766; 10 children; Jesse's date discrepancy noted
 - [[edward-bunker-1742-sources-familysearch]] — FamilySearch sources page (KCZP-L7Z); 21 sources; christening dates confirmed for 7 children; Jesse baptised 18 Apr 1786 (not 1784)
+- [[joseph-bunker-1840-print-view-familysearch]] — FamilySearch print view (MM18-ML4); Joseph (1840–1914) and Mary Ann Wilcox; John (1803) and Maria West as parents; 9 siblings; 11 children
+- [[joseph-bunker-1840-sources-familysearch]] — FamilySearch sources (26 sources, MM18-ML4); census trail 1841–1911; occupations; children's marriages; death 1914 Ampthill
+- [[john-bunker-1803-sources-familysearch]] — FamilySearch sources (21 sources, G9RB-9PR); born 22 Dec 1803; 1841 and 1851 censuses; Maria born Ampthill; George christened 5 Nov 1848
+- [[samuel-bunker-1842-print-view-familysearch]] — FamilySearch print view (MM18-7H2); Samuel (1842–1913) and Harriet Dean (1844–1931); Millbrook Road; 2 children
+- [[samuel-bunker-1842-sources-familysearch]] — FamilySearch sources (12 sources, MM18-7H2); census trail 1851–1911; Agricultural Labourer throughout; Millbrook Road
+- [[samuel-bunker-obituary-1913]] — Bedfordshire Times 20 Jun 1913; confirms Samuel as clerk and sexton ~20 years; father John also served; Harriet Dean is Mrs Bunker
+- [[joseph-samuel-bunker-newspapers-findmypast]] — FindMyPast newspaper searches 1850–1899; Joseph (railway, court witnesses, garden prizes); Samuel (school summons, Benefit Society prizes); 1892 entry possibly traces lost Samuel (~1820)
 - [[thomas-bunker-1704-print-view-familysearch]] — FamilySearch print view (LCZ5-171); born Westoning 1704; 12 children with Mary Reade; parents William Bunker & Sarah Greene
 - [[thomas-bunker-1738-print-view-familysearch]] — FamilySearch print view (MM1C-CQN); christened Millbrook 1738; married Martha Sinfield; 2 children; buried Toddington 1825
 - [[thomas-bunker-1738-sources-familysearch]] — FamilySearch sources page (MM1C-CQN); 8 sources; marriage record spells wife "Sinfeild or Sinfild"; burial age 87 confirmed

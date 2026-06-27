@@ -34,7 +34,7 @@ James died in 1864, aged approximately 87, one of the last of his generation in 
 
 ## Key Descendants
 
-His son **John Bunker (1803)** — by Sarah Pedder — married Maria West in 1824 and became the anchor of the Millbrook collateral line through the Victorian era. John's sons Joseph (~1837) and Samuel (1842) carried the Millbrook Bunker presence through to 1911. All the later Millbrook Bunkers, including the two WWI casualties ([[millbrook|Albert Edward]] at Passchendaele and William Harold at Tyne Cot), descend from James through John.
+His son **[[john-bunker-1803|John Bunker (1803–1889)]]** — by Sarah Pedder — married Maria West (1806) in 1824 at Ampthill and became the anchor of the Millbrook collateral line through the Victorian era. John had nine known children. His son [[joseph-bunker-1840|Joseph (1840–1914)]] was the last Bunker to remain in Millbrook throughout his entire life, present at every census through 1911. All the later Millbrook Bunkers, including the two WWI casualties ([[millbrook|Albert Edward]] at Passchendaele and William Harold at Tyne Cot), descend from James through John.
 
 ## 1815 Fence Maintenance List
 

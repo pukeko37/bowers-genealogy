@@ -52,7 +52,7 @@ The FamilySearch sources record further events at Millbrook in June 1813, Decemb
 
 **1841:** William (~70, actual ~74 — census rounded down to nearest 5), with wife Sarah Beal (~65) and son Samuel (~20). The household was in the Village, Millbrook.
 
-William died 1847 and Sarah 1848. No trace of Samuel after the 1841 census.
+William died 1847 and Sarah 1848. No trace of Samuel after the 1841 census in parish or census records — but a newspaper entry from October 1892 (Bedfordshire Mercury, Labourers' Friend Society) lists "Samuel Bunker, 73, years with Mr G Allen, Ampthill" winning first prize for longest service with the same employer. If 73 is his age, he was born ~1819, which matches this Samuel exactly. This would place him in Ampthill at age ~73, still working for a single employer. See [[joseph-samuel-bunker-newspapers-findmypast]] for the full context.
 
 ## 1815 Fence Maintenance List
 
