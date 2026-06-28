@@ -62,4 +62,4 @@ The list of Millbrook properties responsible for maintaining the church fences (
 
 The Beal family was from Lidlington, not Millbrook. Solomon Beale (1825–1894), the Millbrook Methodist lay preacher, may be connected to the same Beal family but the relationship has not been traced.
 
-Rachel Bunker (1794), William's eldest surviving child, and William Bunker (1811) and Emily Bunker (1817) by Sarah Beal have not been traced beyond their christening records.
+Rachel Bunker (1794), William's eldest surviving child, and William Bunker (1811) and Emily Bunker (1817) by Sarah Beal have not been traced beyond their christening records. A Rachael Bunker buried at Millbrook in 1823 (XAUTO/FHS/BEDFORDSHIRE/BUR/00320024, [[bunker-millbrook-burials-fmp]]) is a possible match for Rachel (1794) — she would have been ~29; tentative pending transcript confirmation of parentage.

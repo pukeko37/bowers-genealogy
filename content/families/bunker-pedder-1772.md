@@ -11,6 +11,7 @@ related-families:
   - "[[bunker-reade-1728]]"
 sources:
   - "[[james-bunker-1749-familysearch]]"
+  - "[[bunker-millbrook-burials-fmp]]"
 created: 2026-06-26
 updated: 2026-06-26
 ---
@@ -35,7 +36,7 @@ The two sons named Thomas — one dying as an infant in 1778, the next born 1779
 
 ## Family life
 
-James and Elizabeth were a Millbrook family, marrying there and raising their children there. James died in 1818 aged ~69. Elizabeth's survival to 1830 gave her 58 years of marriage and a long widowhood.
+James and Elizabeth were a Millbrook family, marrying there and raising their children there. James died 10 July 1818 aged ~69; his burial at Millbrook St Michael & All Angels is confirmed in the parish register (FMP, XAUTO/FHS/BEDFORDSHIRE/BUR/00319935). Elizabeth's survival to 1830 gave her 58 years of marriage and a long widowhood.
 
 ## Wider family
 

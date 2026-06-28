@@ -46,7 +46,7 @@ Twelve children in total, spanning from 1728 to 1754. Three died in infancy: two
 | 7 | [[william-bunker-1740\|William Bunker]] | 1740 | 1816 | Married Ann Peet 1768 Steppingley; 6 children; see [[bunker-peet-1768]] |
 | 8 | [[edward-bunker-1742\|Edward Bunker]] | 1742 | 1814 | See [[bunker-ashby-1766]] |
 | 9 | Ruth Bunker | 1745 | ? | Married **Thomas Marshall**, 29 Jul 1776, Millbrook; thereafter Ruth Marshall |
-| 10 | [[john-bunker-1746\|John Bunker]] | 1746 | 1796 | Married Elizabeth Cartwright 1768; 1 child recorded; buried Ampthill; see [[bunker-cartwright-1768]] |
+| 10 | [[john-bunker-1746\|John Bunker]] | 1746 | 1796 | Married Elizabeth Cartwright 1768; 1 child recorded; buried Millbrook (FamilySearch incorrectly gives Ampthill); see [[bunker-cartwright-1768]] |
 | 11 | [[james-bunker-1749\|James Bunker]] | 1749 | 1818 | Married Elizabeth Pedder 1772; 5 children; see [[bunker-pedder-1772]] |
 | 12 | [[joseph-bunker-1754\|Joseph Bunker]] | 1754 | 1808 | Cordwainer; 12 children with Martha Garratt; see [[bunker-garratt-1777]] |
 

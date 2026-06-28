@@ -11,6 +11,7 @@ sources:
   - "[[edward-bunker-1742-print-view-familysearch]]"
   - "[[edward-bunker-1742-sources-familysearch]]"
   - "[[bunkersmillbrook-wordpress-2013]]"
+  - "[[bunker-millbrook-burials-fmp]]"
 created: 2026-06-25
 updated: 2026-06-25
 ---
@@ -19,7 +20,7 @@ updated: 2026-06-25
 
 [[edward-bunker-1742|Edward Bunker]] (1742–1814) was born in Millbrook, the eighth child of Thomas Bunker and Mary Reade. He married **Mary Ashby** (1745–1813) on 16 November 1766 at Millbrook. Mary was three years his junior. The Ashby name was a local one; the family's origins are not yet documented.
 
-Edward and Mary spent their entire lives in Millbrook. Mary died in 1813, Edward in February 1814 — neither outlived the other by more than a year. He was 71.
+Edward and Mary spent their entire lives in Millbrook. Mary died in 1813, Edward in February 1814 — neither outlived the other by more than a year. Both burials are confirmed in the Millbrook parish register (FMP): Mary at XAUTO/FHS/BEDFORDSHIRE/BUR/00319877, Edward at XAUTO/FHS/BEDFORDSHIRE/BUR/00319885. He was 71.
 
 ## Children
 
