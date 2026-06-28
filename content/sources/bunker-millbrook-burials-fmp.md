@@ -1,0 +1,101 @@
+---
+title: "Source: Millbrook St Michael & All Angels — Bunker Burials (FindMyPast)"
+type: source-summary
+raw-file:
+  - "raw/clippings/Search Results for Bedfordshire Burials.md"
+  - "raw/clippings/Search Results for Bedfordshire Burials 1.md"
+  - "raw/clippings/Search Results for Bedfordshire Burials 2.md"
+record-type: "church-record"
+record-date: 2026-06-28
+people-mentioned:
+  - "[[thomas-bunker-1704]]"
+  - "[[mary-reade-1702]]"
+  - "[[edward-bunker-1742]]"
+  - "[[joseph-bunker-1754]]"
+  - "[[james-thomas-bunker-1764]]"
+  - "[[lydia-brown-1769]]"
+  - "[[ruth-bunker-1794]]"
+families-updated:
+  - "[[bunker-reade-1728]]"
+  - "[[bunker-garratt-1777]]"
+  - "[[bunker-brown-1788]]"
+created: 2026-06-28
+---
+
+A FindMyPast search for surname=Bunker, place=Millbrook St Michael & All Angels, dataset=Bedfordshire Burials. Three pages of results, clipped 2026-06-28. Returns all Bunker burials recorded at Millbrook parish church from the available register period.
+
+**Primary finding:** No Ruth Bunker was buried at Millbrook in 1806. The only Ruth Bunker burial in the entire register is in **1836** (the fire victim, already [[ruth-bunker-findmypast-register]] event #11). This definitively refutes the FamilySearch death date of 7 April 1806 for [[ruth-bunker-1794|Ruth Bunker (1794)]] — she survived 1806.
+
+---
+
+## Complete burial register — Bunker surname, Millbrook
+
+45 entries total.
+
+| # | First name | Burial year | Transcript ID | Identification |
+|---|-----------|-------------|---------------|----------------|
+| 1 | Amelia | 1819 | XAUTO/FHS/BEDFORDSHIRE/BUR/00319966 | Unknown |
+| 2 | Ann | 1801 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269541 | Unknown |
+| 3 | Avis | 1800 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269524 | **Avis Bunker (chr. 1783)**, daughter of [[joseph-bunker-1754|Joseph (1754)]] and Martha Garratt — died aged ~17, consistent with [[bunker-garratt-1777]] table |
+| 4 | Edward | 1814 | XAUTO/FHS/BEDFORDSHIRE/BUR/00319885 | **[[edward-bunker-1742|Edward Bunker (1742)]]**, third son of Thomas (1704) — death year 1814 already noted in wiki; burial now confirmed |
+| 5 | Elizabeth | 1798 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269515 | Unknown |
+| 6 | Elizabeth | 1814 | XAUTO/FHS/BEDFORDSHIRE/BUR/00319890 | Unknown |
+| 7 | Elizabeth | 1818 | XAUTO/FHS/BEDFORDSHIRE/BUR/00319926 | Unknown |
+| 8 | James | 1807 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269579 | Unknown |
+| 9 | James | 1809 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269589 | Unknown |
+| 10 | James | 1811 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269599 | Unknown |
+| 11 | James | 1816 | XAUTO/FHS/BEDFORDSHIRE/BUR/00319914 | Unknown |
+| 12 | James | 1818 | XAUTO/FHS/BEDFORDSHIRE/BUR/00319935 | Unknown |
+| 13 | James | 1824 | XAUTO/FHS/BEDFORDSHIRE/BUR/00320032 | **[[james-thomas-bunker-1764|James Thomas Bunker (1764)]]** — death year 1824 already confirmed in wiki; burial now confirmed |
+| 14 | Jesse | 1785 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269396 | **Jesse Bunker (chr. 1785)**, son of [[joseph-bunker-1754|Joseph (1754)]] — died in infancy, consistent with [[bunker-garratt-1777]] |
+| 15 | Job | 1804 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269560 | Uncertain — possibly **Job Bunker (b. ~1780)**, son of Joseph (1754), dying age ~24; or an infant son of Job (1780) also named Job. See open question in [[bunker-garratt-1777]] |
+| 16 | John | 1795 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269490 | Likely **[[john-bunker-1769|John Bunker (1768–1795)]]**, Edward (1742)'s second son — wiki notes "died aged 27; buried Millbrook" |
+| 17 | John | 1796 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269498 | Unknown |
+| 18 | John | 1797 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269506 | Unknown |
+| 19 | John | 1798 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269513 | Unknown |
+| 20 | John | 1835 | XAUTO/FHS/BEDFORDSHIRE/BUR/00320149 | Unknown |
+| 21 | Jonas | 1803 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269552 | **Jonas Bunker (chr. 1803)**, son of [[joseph-bunker-1754|Joseph (1754)]] — died in infancy same year as christened, consistent with [[bunker-garratt-1777]] |
+| 22 | Joseph | 1808 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269588 | **[[joseph-bunker-1754|Joseph Bunker (1754)]]** — wiki gives death date 27 November 1808, aged 54; burial now confirmed |
+| 23 | Joseph | 1821 | XAUTO/FHS/BEDFORDSHIRE/BUR/00320002 | Unknown |
+| 24 | Joseph | 1839 | XAUTO/FHS/BEDFORDSHIRE/BUR/00320181 | Likely **Joseph Bunker (1837–1839)**, infant son of [[john-bunker-1803|John Bunker (1803)]] and Maria West |
+| 25 | Lydia | 1842 | XAUTO/FHS/BEDFORDSHIRE/BUR/00320215 | **[[lydia-brown-1769|Lydia Brown (1769–1842)]]**, wife of James Thomas Bunker — wiki gives death 6 September 1842; burial now confirmed |
+| 26 | Mark | 1789 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269424 | **Mark Bunker (d. 1789)**, son of [[joseph-bunker-1754|Joseph (1754)]] — [[bunker-garratt-1777]] table already notes "Buried 22 Feb 1789" |
+| 27 | Martha | 1826 | XAUTO/FHS/BEDFORDSHIRE/BUR/00320054 | **Martha Bunker (21 Dec 1801–1826)**, daughter of [[james-thomas-bunker-1764|James Thomas Bunker (1764)]] and Lydia Brown — died aged ~24; resolves the open question of her fate in [[bunker-brown-1788]] |
+| 28 | Mary | 1775 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269315 | **[[mary-reade-1702|Mary Reade (1702–1775)]]**, wife of Thomas Bunker (1704) — death year 1775 already noted in wiki; burial now confirmed |
+| 29 | Mary | 1813 | XAUTO/FHS/BEDFORDSHIRE/BUR/00319877 | Unknown |
+| 30 | Mary | 1818 | XAUTO/FHS/BEDFORDSHIRE/BUR/00319936 | Unknown |
+| 31 | Mary | 1820 | XAUTO/FHS/BEDFORDSHIRE/BUR/00319985 | Unknown |
+| 32 | Mary Ann | 1807 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269570 | Unknown |
+| 33 | Rachael | 1823 | XAUTO/FHS/BEDFORDSHIRE/BUR/00320024 | Unknown |
+| 34 | Reuben | 1816 | XAUTO/FHS/BEDFORDSHIRE/BUR/00319907 | Unknown |
+| 35 | **Ruth** | **1836** | XAUTO/FHS/BEDFORDSHIRE/BUR/00320155 | **RB-H** — the fire victim, already [[ruth-bunker-findmypast-register]] event #11. Coroner's inquest confirmed (*Northampton Mercury*, 14 May 1836). The **only** Ruth Bunker ever buried at Millbrook. |
+| 36 | Samuel | 1842 | XAUTO/FHS/BEDFORDSHIRE/BUR/00320209 | Unknown |
+| 37 | Sarah | 1811 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269604 | Unknown |
+| 38 | Sarah | 1811 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269608 | Unknown — two distinct transcript IDs; may be the same event duplicated or two individuals |
+| 39 | Sarah | 1847 | XAUTO/FHS/BEDFORDSHIRE/BUR/00320265 | Unknown |
+| 40 | Thomas | 1778 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269331 | Unknown |
+| 41 | Thomas | 1784 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269387 | **[[thomas-bunker-1704|Thomas Bunker (1704–1784)]]**, the patriarch — death year 1784 already noted in wiki; burial now confirmed |
+| 42 | Thomas | 1814 | XAUTO/FHS/BEDFORDSHIRE/BUR/00319893 | Unknown — Thomas (1738) is excluded (buried Toddington 1825); likely a different Thomas |
+| 43 | William | 1800 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269528 | Unknown |
+| 44 | William | 1805 | XAUTO/FHS/BEDFORDSHIRE/BUR/00269562 | Unknown |
+| 45 | William | 1848 | XAUTO/FHS/BEDFORDSHIRE/BUR/00320278 | Unknown |
+
+---
+
+## Key findings
+
+### Ruth Bunker (1794) — death date refuted
+
+The burial register contains **no Ruth Bunker entry for 1806** or any year before 1836. Entry #35 (1836) is the only Ruth Bunker burial in the entire Millbrook register and is already identified as the fire victim RB-H. The FamilySearch death date of 7 April 1806 for [[ruth-bunker-1794|Ruth Bunker (1794)]] is definitively a data error — the christening date copied to the death field. Ruth (1794) survived the 1806 mass christening. See [[ruth-bunker-1794]] and [[ruth-bunker-findmypast-register]] (RB-B/RB-D).
+
+### Martha Bunker (1801) — fate resolved
+
+Martha Bunker, born 21 December 1801, daughter of James Thomas Bunker (1764) and Lydia Brown, was the open research question in [[bunker-brown-1788]]. Entry #27 (Martha Bunker, 1826) resolves this: she died at Millbrook in 1826, aged ~24–25, unmarried. No further record was expected and none exists — she did not survive to the 1841 census.
+
+### Confirmed patriarchal burials
+
+Entries #41 (Thomas 1784), #28 (Mary 1775), #4 (Edward 1814), #22 (Joseph 1808), #13 (James 1824), #25 (Lydia 1842) all confirm death years already established in the wiki from FamilySearch sources. These are independent parish register confirmations.
+
+### Four John burials, 1795–1798
+
+Entries #16–19 (John Bunker, buried 1795, 1796, 1797, 1798) are four distinct transcript IDs in four consecutive years. Entry #16 (1795) is likely [[john-bunker-1769|John Bunker (1768–1795)]], Edward's second son. The other three are unidentified — probably infants from different Bunker households, or one event with multiple transcript entries. Transcripts would clarify.

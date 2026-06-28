@@ -27,7 +27,7 @@ Five children between 1772 and 1791.
 |---|------|------|------|-------|
 | 1 | James Bunker | 1772 | Deceased | — |
 | 2 | Thomas Bunker | 1778 | 1778 | Died in infancy |
-| 3 | Thomas Bunker | 1779 | 1849 | Second Thomas, named after infant who died |
+| 3 | [[thomas-bunker-1779\|Thomas Bunker]] | 1779 | 1849 | Second Thomas, named after infant who died; married Mary Burton ~1810; settled Steppingley; see [[bunker-burton-1810]] |
 | 4 | Elizabeth Bunker | 1787 | Deceased | — |
 | 5 | Mary Bunker | 1791 | Deceased | — |
 

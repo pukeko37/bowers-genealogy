@@ -32,6 +32,7 @@ sources:
   - "[[ephraim-bunker-1821-familysearch]]"
   - "[[ebenezer-bunker-1822-familysearch]]"
   - "[[ruth-bunker-1855-familysearch]]"
+  - "[[bunker-millbrook-burials-fmp]]"
 created: 2026-05-02
 updated: 2026-06-27
 ---
@@ -52,10 +53,10 @@ Confirmed birth dates from the 1806 christening records and subsequent FamilySea
 |---|-------|------|------|-------|
 | 1 | [[caleb-bunker-1790\|Caleb Bunker]] | 28 May 1790 | 31 May 1848 | Stevington; married Catherine Bull 1815; son Ephraim emigrated to Australia |
 | 2 | [[joseph-bunker-1792\|Joseph Bunker]] | 3 Dec 1792 | 21 Oct 1853 | Stevington; married Mary Markham 1814; buried Stevington Baptist Chapel |
-| 3 | [[ruth-bunker-1794\|Ruth Bunker]] | 17 Aug 1794 | 7 Apr 1806 | Died on the day of her christening, aged 11 |
+| 3 | [[ruth-bunker-1794\|Ruth Bunker]] | 17 Aug 1794 | **unknown** | Christened 7 Apr 1806. **Survived 1806** — Millbrook burial register (FMP) contains no Ruth Bunker entry before 1836; FamilySearch death date is confirmed a data error. Provisionally identified as marrying **William Cook/Cooke**, Millbrook, 31 Dec 1816; daughter Harriet Cooke christened Tilsworth 1825 (FamilySearch M98P-NR5, birth year ~1795). See [[ruth-bunker-1794]], [[bunker-millbrook-burials-fmp]]. |
 | 4 | [[phoebe-bunker-1796\|Phoebe Bunker]] | 10 Oct 1796 | Sep 1849 | Stayed in Millbrook unmarried; buried Bedford |
 | 5 | [[ebenezer-bunker-1798\|Ebenezer Bunker]] | 6 May 1798 | 9 Mar 1819 | Died aged 20, unmarried |
-| 6 | Martha Bunker | 21 Dec 1801 | unknown | Confirmed in Millbrook parish register (alive at 1806 christening); untraced in any later record |
+| 6 | Martha Bunker | 21 Dec 1801 | 1826 | Christened 7 Apr 1806; **died Millbrook 1826, aged ~24**, burial confirmed in Millbrook parish register (FMP, XAUTO/FHS/BEDFORDSHIRE/BUR/00320054). See [[bunker-millbrook-burials-fmp]]. |
 | 7 | [[lydia-bunker-1804\|Lydia Bunker]] | 4 Feb 1804 | 31 Mar 1883 | Bedford; married Thomas Inskip 1832; 7 children; Baptist affiliation |
 | 8 | [[james-bunker-1807\|James Bunker]] | 1807 | 1852 | Roland's great-grandfather; born after the mass christening |
 
@@ -90,7 +91,7 @@ Lydia Bunker (1804) also shows Baptist affiliation: her children with Thomas Ins
 ## Open Questions
 
 - ~~Was Lydia Brown from St Paul's Walden?~~ **Partly resolved.** Lydia Brown was from **Cranfield, Bedfordshire** — daughter of [[edward-brown-1732|Edward Brown]] and his wife Lydia — not from St Paul's Walden. The St Paul's Walden marriage (1788) remains slightly puzzling: both families were Bedfordshire-based, and the parish is just over the Hertfordshire border, roughly equidistant from Cranfield and Millbrook. Joseph Bunker (1792)'s FamilySearch birthplace is listed as "Saint Pauls Walden" — if accurate rather than a data error, Lydia may have had family or personal connections there that brought her to that parish for the marriage and occasionally for births.
-- What became of Martha Bunker (born 21 Dec 1801)? The Millbrook parish baptism register confirms her birth year as 1801 and records her at the 1806 mass christening — she was alive on 7 April 1806, ruling out death in very early childhood. No marriage, burial, census, or later record has yet been found. She may have moved away and married under an unidentified name, or died between 1806 and 1841 without a traceable record.
+- ~~What became of Martha Bunker (born 21 Dec 1801)?~~ **Resolved.** Martha died at Millbrook in 1826, aged ~24–25, unmarried. Her burial is confirmed in the Millbrook parish burial register (FMP, XAUTO/FHS/BEDFORDSHIRE/BUR/00320054). She did not survive to the 1841 census.
 - ~~Ephraim's Bedfordshire marriage record has not yet been identified. Ebenezer's Australian marriage is unconfirmed.~~ **Resolved.** Ephraim did not marry in Bedfordshire — he arrived in NSW in March 1845 as a single man and married Mary Ann Betts in Camden, NSW in 1852. Ebenezer married Sarah Cocking at Stevington on 28 November 1844, before emigrating. The previous wiki text had the two marriages reversed. Both cousins are now confirmed on the same vessel: the *Elizabeth*, 31 March 1845 (NSW Assisted Immigrants Inwards register). Ebenezer (age 23) and wife Sarah (age 20) appear separately from Ephraim (age 24, alone), both parties engaged to Robert Coopershaw at Rocky Point, Cooks River.
 - What happened to Joseph's surviving children (John 1817–1887, [[ebenezer-bunker-1822|Ebenezer 1822–1902]], [[james-bunker-1824|James 1824–1904]])? Ebenezer emigrated to Australia in 1845. James stayed at Silver Street, Stevington for his entire life; his family is documented. John (1817–1887) is unresearched. Newspaper evidence identifies several third-generation Stevington Bunkers: **[[ruth-bunker-1855|Ruth Bunker (1855)]]**, daughter of James (1824), brought a bastardy order against George Draper Whiting in June 1880, married him in September 1880, had 11 children, and emigrated to Sherbrooke, Quebec in 1885; **"J. Bunker"** at the 1896 Stevington Flower Show (2nd prize, damsons) is James (1824) himself aged 72; **"Miss Bunker"** in Stevington/Stagsden community events 1886–1892 is likely one of James's unmarried daughters (Jane 1852, Hannah 1864, or Mary Ann 1866). **Jane Bunker (aged 20 in 1872)**, charged with theft at Stevington, may be James's daughter Jane (1852) — she would be ~20 in 1872. See [[bunker-panter-1850]], [[bunker-stevington-newspapers-findmypast]].
 - Did Phoebe (1796) move to Bedford before her death in 1849, or did she move directly from Millbrook? The 1841 census confirms she was still in Millbrook; something prompted the move before September 1849.

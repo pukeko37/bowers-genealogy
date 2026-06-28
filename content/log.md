@@ -1,3 +1,95 @@
+## [2026-06-28] ingest | Ruth Bunker (1840) — RB-K confirmed
+
+Ingested FamilySearch sources page (LKBG-11S) for Ruth Bunker (1840–Deceased), confirming her identity as RB-K in [[ruth-bunker-findmypast-register]].
+
+**Ancestry:** Thomas Bunker (1704) → James Bunker (1749) → Thomas Bunker (1779) → Samuel Bunker (~1818) → **Ruth Bunker (1 Aug 1840, Westoning)**. Five-generation descent through the James (1749)/Pedder line — entirely distinct from the Steppingley William (1740) line investigated during the search.
+
+**Census summary:**
+- 1841: Steppingley, Cutlers; age 0; parents Samuel (20) and Hannah (20)
+- 1851: Steppingley; age 10 (Daughter); born Westoning; father Samuel (31, Farm Labr, Steppingley); siblings Samuel, William, Richard, Edward, Edith (all born Westoning)
+- 1861: Steppingley, Peaks End; age 20; Straw Plaiter; father Samuel (42, Ag Lab)
+- 1871: Steppingley; age 30; Straw Plaiter; still with father
+- 1881: Little Munden, Hertfordshire; Hat Sewer (Straw); father Samuel (62); — explains disappearance from FMP Bedfordshire results after 1871
+
+**Baptism event #20 confirmed** as Ruth herself, 5 May 1844, Steppingley St Lawrence (age 3 years 9 months, late Nonconformist registration), not a sibling.
+
+**FMP birth year 1841** is an artefact: born August 1840, all censuses taken March–June → age always 0/10/20/30 → derived year always 1841.
+
+Pages created: [[ruth-bunker-1840]], [[samuel-bunker-1818]], [[thomas-bunker-1779]], [[bunker-sear-1840]], [[bunker-burton-1810]], [[ruth-bunker-1840-familysearch]]
+Pages updated: [[bunker-pedder-1772]], [[ruth-bunker-findmypast-register]] (RB-K confirmed), index
+
+## [2026-06-28] update | William Bunker (1799) ruled out for RB-K
+
+William Bunker (1799), son of Thomas (1767) and Susannah Foulkes, died in Steppingley in 1828 aged ~29 with no evidence of marriage or children. He cannot be the parent of RB-K (Ruth Bunker born ~1841). Pages updated: [[bunker-foulkes-1796]], [[ruth-bunker-findmypast-register]] (RB-K), [[joseph-bunker-1798-familysearch]]. Leading candidate now **Thomas Bunker (1815)** (FamilySearch MM17-ZB1), youngest son of Thomas (1767), entirely unresearched. The 1841 census transcript GBC/1841/0012234595 would identify RB-K's household directly.
+
+## [2026-06-28] ingest | Steppingley Bunkers — Joseph Bunker (1798–1868) and family
+
+Ingested three clippings for Joseph Bunker (1798–1868), M98G-525 — print view and two sources pages.
+
+Joseph married Mary Brown (born Westoning, ~1800) at Steppingley on 11 May 1821. Eight children confirmed: Arthur (chr. 6 Jun 1824), Caroline (chr. 24 Dec 1826), William 1st (chr. 25 Dec 1829, married Steppingley 30 Sep 1850), Catherine (~1831), Susan (chr. 26 Aug 1832), William 2nd (~1837), Amelia (chr. 25 Aug 1839, married George Smith Steppingley 25 Aug 1856), Thomas (~1840–41, married Steppingley 3 Jan 1863). **No Ruth.** The 1841 census confirms Catherine (10) and Susan (9) only; the 1851 census confirms Thomas (10) and Amelia (13). Joseph died January 1868, Ampthill.
+
+The FamilySearch print view birth years are unreliable (three children shown as born "1831" when the parish records and census show different dates). Two sons named William may indicate either a naming repetition or a FamilySearch data error.
+
+**RB-K lead closed for Joseph.** The search for the parent of RB-K (Ruth Bunker born ~1841, Steppingley, four censuses) now rests on **William Bunker (1799)**, Joseph's unresearched brother, FamilySearch L2TY-2KZ.
+
+Pages created: [[joseph-bunker-1798]], [[bunker-brown-1821]], [[joseph-bunker-1798-familysearch]]
+Pages updated: [[bunker-foulkes-1796]], [[ruth-bunker-findmypast-register]] (RB-K), index
+
+## [2026-06-28] ingest | Steppingley Bunkers — Thomas (1767) and William (1776)
+
+Ingested five clippings (two Thomas Bunker 1767 print views, one William Bunker 1776 print view, two William Bunker 1776 sources pages). All are FamilySearch data on the sons of [[william-bunker-1740|William Bunker (1740)]] who settled at Steppingley.
+
+**Thomas Bunker (1767–1843)** (L2TT-F6F): married Susannah Foulkes 1796 Steppingley; 5 children (Joseph 1798–1868, William 1799, Mary 1801, Ann 1803, Thomas 1815); 1841 census at Houghton Conquest, How End. Both Thomas and Susannah died 1843. FamilySearch carries a stray "Baptism 25 Dec 1770 Houghton Regis" which is almost certainly misattached.
+
+**William Bunker (1776–1855)** (L2TY-LPT): two marriages — Elisabeth Burridge (1798–1807, 2 infant deaths), then Hannah Bitchener (1808, 5+ children: Judith 1807, Philadelphia 1815, twins Daniel/Emma 1823, Samuel 1825, plus implied ~1808 and ~1810 children from attached sources). Census: Steppingley 1841 and 1851; Ampthill (Dunstable Street) 1861. Judith Bunker likely married 1846 (source date attached). No Ruth in either family.
+
+**Key finding:** Neither Thomas nor William documented a daughter named Ruth. **Joseph Bunker (1798–1868)**, Thomas's unresearched eldest son, is the prime candidate for the parent of RB-K (Ruth Bunker born ~1841, Steppingley, four census appearances). Joseph's FamilySearch record M98G-525 is the next lookup.
+
+Pages created: [[thomas-bunker-1767]], [[william-bunker-1776]], [[bunker-foulkes-1796]], [[bunker-burridge-1798]], [[bunker-bitchener-1808]], [[thomas-bunker-1767-familysearch]], [[william-bunker-1776-familysearch]]
+Pages updated: [[bunker-peet-1768]], [[ruth-bunker-findmypast-register]] (RB-K entry), index
+
+## [2026-06-28] update | Ruth Bunker (1745) — marriage to Thomas Marshall confirmed
+
+Ruth Bunker (1745), 9th child of Thomas (1704) and Mary Reade, married **Thomas Marshall** on **29 July 1776** at Millbrook — confirmed match with FMP event #2 (XAUTO/FHS/BEDFORDSHIRE/MAR/00046602/2) in [[ruth-bunker-findmypast-register]]. Pages updated: [[bunker-reade-1728]], register RB-A entry and W-1 table row. Her subsequent life as Ruth Marshall is unresearched.
+
+## [2026-06-28] update | Ruth Bunker (1794) — death date withdrawn as probable error
+
+The death date of 7 April 1806 for [[ruth-bunker-1794]] has been identified as a probable FamilySearch data entry error: the FamilySearch print view (MM14-4B7) gives both the christening and death as the same date, with no burial record or independent death source attached. The 1806 mass christening covered seven living children; treating it as the death date of one of them is implausible without corroborating evidence.
+
+Changes made:
+- [[ruth-bunker-1794]] person page: death changed to "unknown"; extended note explaining the issue and implications
+- [[ruth-bunker-1794-familysearch]] source: note added flagging the unreliable death date
+- [[bunker-brown-1788]] family page: children table updated; death marked as unknown with warning
+- [[ruth-bunker-1855]] person page: note on Ruth (1794) corrected
+- [[ruth-bunker-findmypast-register]] register: RB-D and W-3 entries updated; event #6 (Marriage 1816 Millbrook) now flagged as contested between W-2 (Ruth Martha 1790) and W-3 (Ruth 1794)
+
+**Action required:** Check Millbrook burial register (via [[bunkermillbrookcensus-spreadsheet]]) for a Ruth Bunker burial in April 1806. If absent, she is a live research lead.
+
+## [2026-06-28] query | Ruth Bunker wiki survey — cross-matched to FMP register
+
+Systematic read of all family and person pages descending from Thomas Bunker (1704) and Mary Reade. Found six Ruth Bunkers across five generations. Results compiled as Step 5 in [[ruth-bunker-findmypast-register]].
+
+- **W-1**: Ruth Bunker (1745), daughter of Thomas (1704) & Mary Reade → FMP RB-A (Baptism 1745, Marriage 1776, both Millbrook)
+- **W-2**: Ruth Martha Bunker (chr. 5 Mar 1790), daughter of Joseph (1754) & Martha Garratt → FMP RB-B tentative (Baptism 1790, Marriage 1816, both Millbrook)
+- **W-3**: Ruth Bunker (1794–1806), daughter of James Thomas (1764) & Lydia Brown → FMP RB-D confirmed (Baptism 1806 Millbrook born 1794)
+- **W-4**: Ruth Bunker (1822), daughter of Caleb (1790) & Catherine Bull → FMP event #7 (Baptism 1824 Stevington, mass christening); present in 1841 Stevington census; fate unknown
+- **W-5**: Ruth Bunker (1855–1910) → FMP RB-N confirmed
+- **W-6**: Ruth Brightman (1778–1852), granddaughter through Anne Bunker (1732) — surname Brightman, no FMP match
+
+Key finding: the Millbrook 1836 child (RB-H, died by fire) cannot be assigned to any Thomas (1704) descendant family as documented in the wiki. Parentage requires baptism transcript.
+
+## [2026-06-28] update | Ruth Bunker register — Northampton Mercury 1836 added
+
+Added *Northampton Mercury*, 14 May 1836 coroner's inquest report as event #59 (supplementary) in [[ruth-bunker-findmypast-register]]. The report records an inquest held at Millbrook on 13 May 1836 on Ruth Bunker, "aged five years," who was burned to death when her clothes caught fire while she was left in a room with another child. This directly confirms RB-H (born ~1830, Millbrook) — her age and location match the FindMyPast burial record (born 1830, buried Millbrook 1836). The newspaper gives the first cause-of-death evidence in the register for any individual.
+
+## [2026-06-28] ingest | Ruth Bunker FindMyPast register
+
+Compiled four pages of FindMyPast results (all Ruth Bunker records in Bedfordshire, proximity 50 miles) into [[ruth-bunker-findmypast-register]]. The raw clippings are "Search Results for England records.md" through "…3.md".
+
+After removing excluded records (Rita variants, modern electoral, Ruth Michelle) and collapsing dataset duplicate pairs, the register contains 58 unique events spanning 1745–1937. These are grouped into 18 proposed unique individuals (RB-A through RB-R), with RB-D = [[ruth-bunker-1794]] and RB-N = [[ruth-bunker-1855]] identified.
+
+Key finding: the GRO birth registration for Ruth Bunker (1855) is indexed to Bedford registration district, not Newport Pagnell district. This contradicts the current wiki claim that she was born at Lavendon, Buckinghamshire. The Lavendon christening (1857) may have been mistaken for a Lavendon birth. Transcript BMD/B/1855/3/AG/000505/027 must be examined before correcting [[ruth-bunker-1855]].
+
 ## [2026-06-27] query | Bunker nonconformity analysis
 
 Reviewed all Bunker wiki pages for evidence of religious affiliation. Output saved to outputs/bunker-nonconformity-2026-06-27.md. Key findings:
@@ -1088,3 +1180,16 @@ Ingested the story of the Huett effigies of St Michael and All Angels, Millbrook
 
 Pages created: [[huett-effigies-millbrook]], [[huett-effigies-1919-perplexity]]
 Pages updated: [[millbrook]], index, log
+
+## [2026-06-28] ingest | Millbrook burial register — Ruth (1794) survived 1806; Martha (1801) died 1826
+
+Ingested FindMyPast Bedfordshire Burials search for Bunker surname at Millbrook St Michael & All Angels (3 pages, 45 entries total).
+
+**Primary finding:** No Ruth Bunker buried at Millbrook before 1836. The only Ruth Bunker in the register is the 1836 fire victim (RB-H). The FamilySearch death date of 7 April 1806 for [[ruth-bunker-1794|Ruth Bunker (1794)]] is definitively a data error. Combined with the earlier identification of the 1816 Millbrook marriage (husband: William Cook/Cooke, FamilySearch M98P-NR5, birth year ~1795), [[ruth-bunker-1794]] is now the **confirmed survivor of 1806** and the **provisional W-3 = RB-B** identification is strengthened to the point of near-certainty. She married at ~22 and moved to Tilsworth by 1825 (daughter Harriet Cooke christened there).
+
+**Martha Bunker (1801) resolved:** Entry #27 (Martha Bunker, 1826) confirms she died at Millbrook aged ~24–25, unmarried. The open question in [[bunker-brown-1788]] is closed.
+
+**Confirmed burials for known individuals:** Thomas (1704) 1784, Mary Reade 1775, Edward (1742) 1814, Joseph (1754) 1808, James Thomas (1764) 1824, Lydia Brown 1842 — all consistent with dates previously recorded in the wiki.
+
+Pages created: [[bunker-millbrook-burials-fmp]]
+Pages updated: [[ruth-bunker-1794]], [[bunker-brown-1788]], [[ruth-bunker-findmypast-register]], index

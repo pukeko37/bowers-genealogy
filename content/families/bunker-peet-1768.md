@@ -25,14 +25,14 @@ Six children between 1767 and 1785.
 
 | # | Name | Born | Died | Notes |
 |---|------|------|------|-------|
-| 1 | Thomas Bunker | 1767 | 1843 | Born before the 1768 marriage — see note |
+| 1 | [[thomas-bunker-1767\|Thomas Bunker]] | 1767 | 1843 | Born before the 1768 marriage — see note; married Susannah Foulkes 1796; 5 children; see [[bunker-foulkes-1796]] |
 | 2 | Joseph Bunker | 1769 | 1794 | Died aged ~25 |
-| 3 | William Bunker | 1776 | 1855 | — |
+| 3 | [[william-bunker-1776\|William Bunker]] | 1776 | 1855 | Two marriages; 7 children (2 died infancy); Steppingley all life; see [[bunker-burridge-1798]] and [[bunker-bitchener-1808]] |
 | 4 | Mary Bunker | 1779 | Deceased | — |
 | 5 | Ann Bunker | 1782 | Deceased | — |
 | 6 | Sarah Bunker | 1785 | 1812 | — |
 
-**Note on Thomas (1767):** Thomas is listed with a birth year of 1767, a year before the marriage in October 1768. This could reflect a pre-marriage birth, a FamilySearch dating error, or a record ordering anomaly. Not resolvable from the print view alone.
+**Note on Thomas (1767):** Thomas is listed with a birth year of 1767, a year before the marriage in October 1768. His christening at Steppingley on 10 January 1773 confirms a pre-marriage birth — he was already about 5 years old when his parents wed. The christening itself was delayed (consistent with Nonconformist practice). See [[thomas-bunker-1767]].
 
 ## Family life
 
@@ -41,9 +41,13 @@ William moved from Millbrook to Steppingley, perhaps in connection with Ann Peet
 ## Sources
 
 - FamilySearch print view KCFY-CSF: marriage, death, six children listed
+- [[thomas-bunker-1767-familysearch]] — Thomas (1767)'s family; Joseph (1798–1868) entirely unresearched
+- [[william-bunker-1776-familysearch]] — William (1776)'s two marriages and census trail
 
 ## Open questions
 
 - What are Ann Peet's origins?
-- Was Thomas (1767) born before the formal marriage? If so, does a baptism record confirm this?
-- What became of William (1776), Mary (1779), and Ann (1782) in the census era?
+- ~~What became of William (1776) in the census era?~~ **Resolved.** Two marriages (Burridge 1798, Bitchener 1808); 7 children; Steppingley 1841–1851, Ampthill 1861; died 1855. See [[william-bunker-1776]].
+- ~~Was Thomas (1767) born before the formal marriage?~~ **Confirmed.** Christened 10 Jan 1773 at Steppingley aged ~5. Pre-marriage birth. See [[thomas-bunker-1767]].
+- What became of Mary (1779) and Ann (1782)?
+- **Joseph Bunker (1798–1868)**, son of Thomas (1767), is the most important unresearched lead in this family — he is the prime candidate for the parent of RB-K (Ruth Bunker born ~1841, Steppingley) in [[ruth-bunker-findmypast-register]]. His family is entirely absent from FamilySearch.

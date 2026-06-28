@@ -109,8 +109,14 @@
 - [[brightman-bunker-1753]] — Daniel Brightman & Anne Bunker (1732), married Millbrook 1753; 12 children; Anne was Thomas (1704)'s fourth child
 - [[roffe-bunker-1764]] — William Roffe & Mary Bunker (1737), married Millbrook 1764; 5 children; Mary buried Steppingley 1801
 - [[bunker-peet-1768]] — William Bunker (1740) & Ann Peet, married Steppingley 1768; 6 children; settled Steppingley
+- [[bunker-foulkes-1796]] — Thomas Bunker (1767) & Susannah Foulkes, married Steppingley 1796; 5 children; Joseph now documented (no Ruth); William (1799) is next lead
+- [[bunker-brown-1821]] — Joseph Bunker (1798) & Mary Brown (Westoning), married Steppingley 1821; 8 children (Arthur, Caroline, 2×William, Catherine, Susan, Amelia, Thomas); no Ruth
+- [[bunker-burridge-1798]] — William Bunker (1776) & Elisabeth Burridge, married Steppingley 1798; 2 children died in infancy; Elisabeth died 1807
+- [[bunker-bitchener-1808]] — William Bunker (1776) & Hannah Bitchener, married Steppingley 1808; 5+ children including Judith (1807), Philadelphia (1815), twins Daniel/Emma (1823), Samuel (1825)
 - [[bunker-cartwright-1768]] — John Bunker (1746) & Elizabeth Cartwright, married Millbrook 1768; 1 child recorded; buried Ampthill 1796
 - [[bunker-pedder-1772]] — James Bunker (1749) & Elizabeth Pedder, married Millbrook 1772; 5 children
+- [[bunker-burton-1810]] — Thomas Bunker (1779) & Mary Burton (~1785); Steppingley; son Samuel (~1818)
+- [[bunker-sear-1840]] — Samuel Bunker (~1818) & Hannah Sear, married Jan 1840; 10+ children; Steppingley then Little Munden Herts; includes Ruth (1840) = RB-K
 - [[bunker-garratt-1777]] — Joseph Bunker (1754) & Martha Garratt, married Millbrook 1777; 12 children; Joseph was cordwainer; third son of Thomas (1704)
 - [[bunker-taylor-1809]] — Joel Bunker (c.1782) & Martha Taylor, married Millbrook 1809; 4 children; at Eversholt by Dec 1812; Green Man Inn; son Joseph (1810) key research lead
 - [[bunker-newton-1834]] — Job Bunker (1804) & Sarah Newton, married Eversholt 1834; 9 children; Job stayed Eversholt all his life
@@ -373,7 +379,7 @@
 - [[ebenezer-bunker-1822]] — Ebenezer Bunker (1822–1902), son of Joseph (1792); married Sarah Cocking Stevington 1844; emigrated NSW; 7 children; died Campbelltown
 - [[james-bunker-1824]] — James Bunker (1824–1904), son of Joseph (1792); lifelong Silver Street Stevington labourer; married Sophia Panter 1850; 4 daughters
 - [[ruth-bunker-1855]] — Ruth Bunker (1855–1910), daughter of James (1824); domestic servant; bastardy order 1880; married George Draper Whiting Sep 1880; 11 children; emigrated Sherbrooke Quebec 1885
-- [[ruth-bunker-1794]] — Ruth Bunker (1794–1806), died on the day of her christening aged 11
+- [[ruth-bunker-1794]] — Ruth Bunker (b. 1794, Millbrook); survived 1806 mass christening; provisionally married William Cook/Cooke at Millbrook 1816; thereafter Ruth Cook
 - [[phoebe-bunker-1796]] — Phoebe Bunker (1796–1849), stayed in Millbrook unmarried; last of the siblings to leave; buried Bedford
 - [[ebenezer-bunker-1798]] — Ebenezer Bunker (1798–1819), died aged 20 unmarried
 - [[lydia-bunker-1804]] — Lydia Bunker (1804–1883), married Thomas Inskip 1832 Bedford; Baptist affiliation; buried Foster Hill Road Cemetery
@@ -395,10 +401,16 @@
 - [[mary-bunker-1737]] — Mary Bunker (abt 1737–1801), married William Roffe 1764 Millbrook; 5 children; buried Steppingley
 - [[william-roffe]] — William Roffe (dates unknown), married Mary Bunker 1764 Millbrook; origins unknown
 - [[william-bunker-1740]] — William Bunker (1740–1816), seventh child of Thomas (1704); settled Steppingley; married Ann Peet 1768; 6 children
+- [[thomas-bunker-1767]] — Thomas Bunker (abt 1767–1843), son of William (1740); Steppingley/Houghton Conquest; married Susannah Foulkes 1796; 5 children
+- [[william-bunker-1776]] — William Bunker (1776–1855), son of William (1740); Steppingley lifelong; two marriages; died Ampthill
+- [[joseph-bunker-1798]] — Joseph Bunker (abt 1797–Jan 1868), son of Thomas (1767); Steppingley lifelong; married Mary Brown 1821; 8 children; no Ruth
 - [[ann-peet-1746]] — Ann Peet (abt 1746–1827), married William Bunker 1768 Steppingley; origins unknown
 - [[john-bunker-1746]] — John Bunker (1746–1796), tenth child of Thomas (1704); married Elizabeth Cartwright 1768; buried Ampthill
 - [[elizabeth-cartwright-1737]] — Elizabeth Cartwright (abt 1737–1785), married John Bunker 1768 Millbrook; origins unknown
 - [[james-bunker-1749]] — James Bunker (1749–1818), eleventh child of Thomas (1704); married Elizabeth Pedder 1772; 5 children
+- [[thomas-bunker-1779]] — Thomas Bunker (1779–1849), son of James (1749); moved to Steppingley; married Mary Burton; son Samuel (~1818)
+- [[samuel-bunker-1818]] — Samuel Bunker (~1818–after 1881), son of Thomas (1779); Steppingley ag labourer; married Hannah Sear Jan 1840; 10+ children
+- [[ruth-bunker-1840]] — Ruth Bunker (1 Aug 1840 – ?), daughter of Samuel (1818); Straw Plaiter; Steppingley 1841–1871; Little Munden Herts 1881; = RB-K
 - [[elizabeth-pedder-1752]] — Elizabeth Pedder (abt 1752–1830), married James Bunker 1772 Millbrook; origins unknown
 - [[edward-bunker-1742]] — Edward Bunker (1742–1814), Millbrook all his life; married Mary Ashby 1766; 10 children including Mark Ashby Bunker
 - [[joel-bunker-1789]] — Joel Bunker (c.1782–1861), son of Joseph (1754); publican Green Man Inn Eversholt; two marriages; died Ampthill
@@ -777,8 +789,12 @@
 - [[anne-bunker-1732-familysearch]] — FamilySearch MMPJ-ZYN; married Daniel Brightman 1753; 12 children listed; one (William Brittain) likely misattributed
 - [[mary-bunker-1737-familysearch]] — FamilySearch KZLF-QX6; married William Roffe 1764; 5 children; christening date discrepancy (1735 vs 1737)
 - [[william-bunker-1740-familysearch]] — FamilySearch KCFY-CSF; married Ann Peet 1768 Steppingley; 6 children; died Steppingley 1816
+- [[thomas-bunker-1767-familysearch]] — FamilySearch L2TT-F6F; married Susannah Foulkes 1796; 5 children; 1841 at Houghton Conquest
+- [[joseph-bunker-1798-familysearch]] — FamilySearch M98G-525; married Mary Brown 1821 Steppingley; 8 children with christening dates; census 1841–1861; no Ruth; William (1799) is next lead
+- [[william-bunker-1776-familysearch]] — FamilySearch L2TY-LPT; 27 sources; two marriages (Burridge 1798, Bitchener 1808); Steppingley censuses 1841–1851; Ampthill 1861
 - [[john-bunker-1746-familysearch]] — FamilySearch K6SV-9TQ; married Elizabeth Cartwright 1768; 1 child recorded; buried Ampthill 1796
 - [[james-bunker-1749-familysearch]] — FamilySearch LCFV-1FS; married Elizabeth Pedder 1772; 5 children; died 1818
+- [[ruth-bunker-1840-familysearch]] — FamilySearch LKBG-11S; 6 sources; born 1 Aug 1840 Westoning; christened 5 May 1844 Steppingley; 5 census entries 1841–1881; Straw Plaiter; = RB-K
 - [[edward-bunker-1742-print-view-familysearch]] — FamilySearch print view (KCZP-L7Z); born Millbrook 1742; married Mary Ashby 1766; 10 children; Jesse's date discrepancy noted
 - [[edward-bunker-1742-sources-familysearch]] — FamilySearch sources page (KCZP-L7Z); 21 sources; christening dates confirmed for 7 children; Jesse baptised 18 Apr 1786 (not 1784)
 - [[joseph-bunker-1840-print-view-familysearch]] — FamilySearch print view (MM18-ML4); Joseph (1840–1914) and Mary Ann Wilcox; John (1803) and Maria West as parents; 9 siblings; 11 children
@@ -805,7 +821,8 @@
 - [[james-bunker-1807-sources-familysearch]] — FamilySearch sources page (M98P-14C); 12 sources; death Ampthill vol 3B p223; children's christening dates; Annie Bunker noted
 - [[caleb-bunker-1790-familysearch]] — FamilySearch M9S7-BXG; print view and 8 sources; Stevington; married Catherine Bull 1815; mass christening 1824; son Ephraim to Australia
 - [[joseph-bunker-1792-familysearch]] — FamilySearch MM18-MKN; print view and 14 sources; Stevington; married Mary Markham 1814; buried Stevington Baptist Chapel
-- [[ruth-bunker-1794-familysearch]] — FamilySearch MM14-4B7; print view; died 7 April 1806 (christening day)
+- [[ruth-bunker-1794-familysearch]] — FamilySearch MM14-4B7; print view; death date 7 April 1806 confirmed as data error — see [[bunker-millbrook-burials-fmp]]
+- [[bunker-millbrook-burials-fmp]] — FindMyPast: all Bunker burials at Millbrook St Michael & All Angels; 45 entries; confirms no Ruth Bunker burial in 1806; resolves Martha (1801) fate (died 1826)
 - [[phoebe-bunker-1796-familysearch]] — FamilySearch MM18-6P8; print view; 1841 Millbrook; buried Bedford September 1849
 - [[ebenezer-bunker-1798-familysearch]] — FamilySearch MM18-JWG; print view; died 9 March 1819 aged 20
 - [[lydia-bunker-1804-familysearch]] — FamilySearch MM1H-NXC; print view and 24 sources; married Thomas Inskip 1832; Baptist; buried Foster Hill Road Bedford 1883
@@ -852,3 +869,4 @@
 - [[joseph-sanders-familysearch]] — FamilySearch sources page (7 sources); baptism 1774 (son of John Sanders & Elizabeth); marriage 1799; children; burial 1810 (Shoemaker)
 - [[bartholomew-byu-studies-buckinghamshire-lds-1849]] — BYU Studies scholarly article (Bartholomew, 2009); LDS missionary work and emigration in Buckinghamshire 1849–1878; institutional history of the Whipsnade Branch → Edlesborough Branch chain; Kensworth Branch ("Hensworth") identified; 51% emigration rate across 4 branches
 - [[huett-effigies-1919-perplexity]] — Perplexity AI summary; 1919 Millbrook churchyard excavation; Huett effigies; Mrs Bunker and the sexton; britishfolklore.com synthesis
+- [[ruth-bunker-findmypast-register]] — FindMyPast search: all Ruth Bunker records in Bedfordshire; 4 pages compiled and deduplicated; 58 unique events; 18 proposed individuals; flags birth-place discrepancy for [[ruth-bunker-1855]]
