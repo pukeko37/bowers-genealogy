@@ -9,6 +9,8 @@ related-families:
   - "[[bunker-wilcox-1859]]"
 sources:
   - "[[joseph-bunker-1840-print-view-familysearch]]"
+  - "[[george-bunker-1845-print-view-familysearch]]"
+  - "[[elizabeth-west-bunker-print-view-familysearch]]"
 created: 2026-06-27
 updated: 2026-06-27
 ---
@@ -21,19 +23,20 @@ John spent his life in Millbrook. He appears in the 1861 census with his own hou
 
 ## Children
 
-Nine children documented, all born in Millbrook:
+Ten children documented, all born in Millbrook:
 
 | # | Name | Born | Died | Notes |
 |---|------|------|------|-------|
-| 1 | Elizabeth West Bunker | 1824 | 1878 | First name carries mother's surname |
-| 2 | Sarah Bunker | 1829 | Deceased | |
-| 3 | John Bunker | 1830 | Deceased | |
-| 4 | James Bunker | 1832 | Deceased | |
-| 5 | Hannah Bunker | 1835 | 1885 | |
-| 6 | Joseph Bunker | 1837 | 1839 | Died in infancy |
-| 7 | [[joseph-bunker-1840\|Joseph Bunker]] | 1840 | 1914 | Millbrook sexton candidate; life-long village resident |
-| 8 | Samuel Bunker | 1843 | Deceased | |
-| 9 | George Bunker | 1845 | Deceased | |
+| 1 | [[elizabeth-west-bunker-1824\|Elizabeth West Bunker]] | 1824 | 1878 | Married Mark Gillet 1845; Marston Moretaine then Maulden; 10 children; see [[gillet-bunker-1845]] |
+| 2 | Sarah Bunker | 1829 | Deceased | Untraced |
+| 3 | [[ruth-bunker-1830\|Ruth Bunker]] | 1830 | 1836 | Died in a fire aged five; burial register entry #35 confirmed; reported *Northampton Mercury* 14 May 1836 — see [[ruth-bunker-1830]] |
+| 4 | John Bunker | 1830 | Deceased | Possibly twin with Ruth; untraced |
+| 5 | James Bunker | 1832 | Deceased | Untraced |
+| 6 | Hannah Bunker | 1835 | 1885 | Untraced |
+| 7 | Joseph Bunker | 1837 | 1839 | Died in infancy; burial confirmed (#24 in register) |
+| 8 | [[joseph-bunker-1840\|Joseph Bunker]] | 1840 | 1914 | Millbrook sexton candidate; lifelong village resident |
+| 9 | Samuel Bunker | 1842 | 1913 | Clerk and sexton ~20 years; married Harriet Dean; see [[bunker-dean]] |
+| 10 | [[george-bunker-1845\|George Bunker]] | 1845 | Deceased | Christened 5 Nov 1848; married Harriet Brandon, Lambeth 1865; Tottenham by 1881; 8 children; see [[bunker-brandon-1865]] |
 
 ## In the censuses
 
@@ -52,5 +55,9 @@ The family is distinguished by its rootedness. While the cousins from James Bunk
 ## Open questions
 
 - What was Maria West's family background? She was born in 1806 but her parents are untraced.
-- What became of the majority of John and Maria's children? Six of the nine (Sarah, John, James, Hannah, Samuel, George) are noted as "Deceased" in FamilySearch but their marriages, children, and deaths are unknown.
+- ~~What became of Elizabeth West Bunker?~~ **Resolved.** [[elizabeth-west-bunker-1824|Elizabeth]] married Mark Gillet at Marston Moretaine 1845; settled Maulden; 10 children; died March 1878. See [[gillet-bunker-1845]].
+- ~~What became of George Bunker (1845)?~~ **Resolved.** [[george-bunker-1845|George]] married Harriet Brandon at Lambeth 1865; moved to Tottenham by 1881; 8 children. See [[bunker-brandon-1865]].
+- Were Ruth (1830) and John (1830) twins? FamilySearch gives both birth year 1830; they could be twins or the dates could be approximate.
+- ~~Is burial register entry #35 (Ruth 1836) Ruth (1830–1836) or the fire victim RB-H?~~ **Resolved.** The FMP transcript gives birth year 1830; the *Northampton Mercury* gives age five. Ruth died in a fire aged five — she is both the burial register entry and the newspaper's "fire victim." There was never a second Ruth.
+- What became of Sarah (1829), John (1830), James (1832), Hannah (1835), and George's children? The first four are completely untraced.
 - Did any of John's other sons also serve the Millbrook parish in some capacity?

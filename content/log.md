@@ -1,3 +1,33 @@
+## [2026-07-01] update | Grace Bunker (1902) — probable daughter of Mabel added
+
+Grace Bunker (born Luton Q3 1902) appears in the 1911 census as granddaughter of [[joseph-bunker-1840|Joseph (1840)]] and [[mary-ann-wilcox-1842|Mary Ann]], aged 8. The only Grace Bunker in the GRO index of the right age was born in Luton.
+
+The probable mother is **[[mabel-bunker-1883|Mabel Bunker (1883)]]**, Joseph's youngest daughter — documented as a domestic servant (Luton area) in the 1901 census, unmarried in 1902, who married Mark Edward Cook at Millbrook in May 1904 and was living in Luton with him by 1911 without Grace. Grace carries the Bunker surname (consistent with illegitimate birth to an unmarried Bunker woman) and was left with her grandparents when Mabel married. No other Bunker woman has been placed in Luton around 1902. Identification is probable but unconfirmed; the birth certificate would name the mother.
+
+Pages created: [[grace-bunker-1902]], [[mabel-bunker-1883]]
+Pages updated: [[joseph-bunker-1840]], [[bunker-wilcox-1859]], index
+
+## [2026-07-01] update | Ruth Bunker (1830–1836) — fire victim confirmed, identity resolved
+
+FMP transcript for burial register entry #35 (Ruth Bunker, 1836, XAUTO/FHS/BEDFORDSHIRE/BUR/00320155) examined. Both NBI and Bedfordshire Burials datasets give birth year **1830**. *Northampton Mercury* (14 May 1836) gives age **five years old** at death. Ruth died in a fire.
+
+This confirms she is [[ruth-bunker-1830|Ruth Bunker (1830–1836)]], daughter of [[john-bunker-1803|John Bunker (1803)]] and Maria West — and simultaneously the "fire victim RB-H" previously treated as an unidentified separate person in the Ruth Bunker research. There was never a second Ruth Bunker buried at Millbrook in 1836.
+
+Pages updated: [[ruth-bunker-1830]], [[bunker-millbrook-burials-fmp]], [[bunker-west-1824]]
+
+## [2026-07-01] ingest | Job Bunker (1780), George Bunker (1845), Elizabeth West Bunker (1824)
+
+Ingested five FamilySearch clippings: print views for Job Bunker (1780), George Bunker (1845), and Elizabeth West Bunker (1824–1878), plus sources pages for Job and George.
+
+**Job Bunker (1780)** — son of Joseph (1754) and Martha Garratt — confirmed as surviving to adulthood. Married **Rebecca Atterbury** (b. 1785) and had eight children in Millbrook 1807–1821: Samuel (1807), Joel (1808–1875), Patty (1810), Sarah (1812), Rebecca (1816), John (1818), Anne (1819, died in infancy), Anne (1821). This is a wholly new family branch previously unknown to the wiki, resolving a major open question in [[bunker-garratt-1777]].
+
+**George Bunker (1845)** — youngest child of John (1803) and Maria West — christened 5 November 1848 (three-year gap). Left Millbrook by 1865; married **Harriet Brandon** December 1865 at Lambeth; Lambeth 1871, Tottenham 1881–1901. Eight children. The George Bunker clipping also revealed a previously unknown sibling: **Ruth Bunker (1830–1836, P65Y-PJH)** — death year 1836 creates a conflict with the burial register's Ruth 1836 entry (previously attributed to the fire victim RB-H). Identification now open pending the original transcript's age. Children count for John (1803) revised from 9 to **10**.
+
+**Elizabeth West Bunker (1824–1878)** — eldest child of John (1803) — married **Mark Gillet** 14 April 1845 at Marston Moretaine. Settled Maulden, Bedfordshire (just 3 miles from Millbrook). Ten children. Died March 1878, Bedfordshire.
+
+Pages created: [[job-bunker-1780]], [[rebecca-atterbury-1785]], [[bunker-atterbury]], [[george-bunker-1845]], [[harriet-brandon-1846]], [[bunker-brandon-1865]], [[elizabeth-west-bunker-1824]], [[mark-gillet-1823]], [[gillet-bunker-1845]], [[ruth-bunker-1830]], [[job-bunker-1780-print-view-familysearch]], [[job-bunker-1780-sources-familysearch]], [[george-bunker-1845-print-view-familysearch]], [[george-bunker-1845-sources-familysearch]], [[elizabeth-west-bunker-print-view-familysearch]]
+Pages updated: [[bunker-garratt-1777]], [[bunker-west-1824]], [[bunker-millbrook-burials-fmp]], index
+
 ## [2026-06-28] ingest | Ruth Bunker (1840) — RB-K confirmed
 
 Ingested FamilySearch sources page (LKBG-11S) for Ruth Bunker (1840–Deceased), confirming her identity as RB-K in [[ruth-bunker-findmypast-register]].

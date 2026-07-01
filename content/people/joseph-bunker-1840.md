@@ -34,7 +34,7 @@ He married **Mary Ann Wilcox** (born 1842, Millbrook) on 2 October 1859 at Millb
 | 1881 | ~41 | — | Millbrook |
 | 1891 | 52 | Farm Labourer | Millbrook (RG12/1260/23) |
 | 1901 | 60 | Ordinary Agricultural Labourer | Millbrook; only Mary Ann in household |
-| 1911 | 72 | Formerly Farm Labourer | Millbrook; Mary Ann (69), Grace Bunker (8, granddaughter?), Edwin Whit (2, likely grandson) |
+| 1911 | 72 | Formerly Farm Labourer | Millbrook; Mary Ann (69), [[grace-bunker-1902\|Grace Bunker]] (8, granddaughter — probable illegitimate daughter of [[mabel-bunker-1883\|Mabel]]), Edwin Whit (2, likely grandson, parentage unknown) |
 
 By 1911 Joseph had retired. He died in 1914 in Ampthill — possibly in a workhouse infirmary or hospital. The Ampthill registration district covered Millbrook.
 

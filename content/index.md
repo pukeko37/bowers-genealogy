@@ -124,7 +124,10 @@
 - [[bunker-jakins-1846]] — Joseph Bunker (1810) & Fanny Jakins, married Eversholt 1846; Joseph born Alwalton Huntingdonshire; no children documented
 - [[bunker-inskipp-1839]] — Joel Bunker & Elizabeth Inskipp, married Flitton with Silsoe 1839; Joel's second marriage after Martha Taylor's death; no children recorded
 - [[bunker-ashby-1766]] — Edward Bunker (1742) & Mary Ashby, married Millbrook 1766; 10 children; Mark Ashby Bunker transported to Australia 1817
-- [[bunker-west-1824]] — John Bunker (1803–1889) & Maria West (1806), married Ampthill 1824; 9 children; last Millbrook-rooted generation of Edward (1742) line
+- [[bunker-west-1824]] — John Bunker (1803–1889) & Maria West (1806), married Ampthill 1824; 10 children; last Millbrook-rooted generation of Edward (1742) line
+- [[gillet-bunker-1845]] — Mark Gillet & Elizabeth West Bunker (1824–1878), married Marston Moretaine 1845; 10 children; settled Maulden
+- [[bunker-brandon-1865]] — George Bunker (1845) & Harriet Brandon, married Lambeth 1865; 8 children; Tottenham
+- [[bunker-atterbury]] — Job Bunker (1780) & Rebecca Atterbury; Millbrook; 8 children 1807–1821; previously unknown Joseph (1754) collateral line
 - [[bunker-wilcox-1859]] — Joseph Bunker (1840–1914) & Mary Ann Wilcox (1842); married Millbrook 1859; 11 children; Joseph probable church sexton; Mrs Bunker led 1919 Huett effigy excavation
 - [[bunker-dean]] — Samuel Bunker (1842–1913) & Harriet Dean (1844–1931); married Millbrook 25 Dec 1865; 2 children; Samuel confirmed as clerk and sexton ~20 years; Harriet is Mrs Bunker of 1919 Huett effigy story
 - [[bunker-sinfield-1761]] — Thomas Bunker (1738) & Martha Sinfield, married Millbrook 1761; Thomas buried Toddington 1825 aged 87
@@ -427,7 +430,16 @@
 - [[william-bunker-1767]] — William Bunker (1767–abt 1847), Edward's eldest; two marriages (Ann Denton 1792, Sarah Beal 1808); 8+ children; Millbrook all his life
 - [[john-bunker-1769]] — John Bunker (1768–1795), Edward's second son; died aged 27; unmarried; buried Millbrook
 - [[james-bunker-1777]] — James Bunker (1777–1864), Edward's son; three marriages; progenitor of Victorian Millbrook collateral line; died aged ~87
-- [[john-bunker-1803]] — John Bunker (1803–1889), son of James (1777); married Maria West 1824; 9 children; died aged ~86; last of the long-lived Millbrook patriarchs
+- [[john-bunker-1803]] — John Bunker (1803–1889), son of James (1777); married Maria West 1824; 10 children; died aged ~86; last of the long-lived Millbrook patriarchs
+- [[elizabeth-west-bunker-1824]] — Elizabeth West Bunker (1824–1878), John (1803)'s eldest; married Mark Gillet 1845 Marston Moretaine; settled Maulden; 10 children; died March 1878
+- [[mark-gillet-1823]] — Mark Gillet (1823–1895), husband of Elizabeth West Bunker; Marston Moretaine/Maulden; 10 children
+- [[ruth-bunker-1830]] — Ruth Bunker (1830–1836), daughter of John (1803) and Maria West; died aged ~6; candidate for burial register entry #35 (Ruth 1836)
+- [[george-bunker-1845]] — George Bunker (1845), John (1803)'s youngest child; christened 1848; married Harriet Brandon Lambeth 1865; Tottenham by 1881; 8 children
+- [[harriet-brandon-1846]] — Harriet Brandon (1846), wife of George Bunker (1845); married Lambeth 1865; Tottenham
+- [[job-bunker-1780]] — Job Bunker (1780), son of Joseph (1754); married Rebecca Atterbury; 8 children in Millbrook 1807–1821; previously unknown collateral line
+- [[rebecca-atterbury-1785]] — Rebecca Atterbury (1785), wife of Job Bunker (1780); origins unknown
+- [[mabel-bunker-1883]] — Mabel Bunker (1883), daughter of Joseph (1840); domestic servant Luton 1901; probably mother of Grace (1902); married Mark Cook Millbrook 1904; Luton by 1911
+- [[grace-bunker-1902]] — Grace Bunker (1902), probable illegitimate daughter of Mabel Bunker; born Luton Q3 1902; raised by grandparents Joseph and Mary Ann at Millbrook; in 1911 census aged 8
 - [[joseph-bunker-1840]] — Joseph Bunker (1840–1914), John's son; lifelong Millbrook farm labourer; probable church sexton; husband of Mrs Bunker who led the 1919 Huett effigy excavation
 - [[mary-ann-wilcox-1842]] — Mary Ann Wilcox (1842–after 1921), wife of Joseph (1840); the "Mrs Bunker" of the 1919 Huett effigy story; aged widow; in Millbrook 1921
 - [[samuel-bunker-1842]] — Samuel Bunker (1842–1913), John's son; confirmed clerk and sexton of Millbrook parish church ~20 years; husband of Harriet Dean; Mr Bunker of the 1919 Huett effigy story
@@ -870,3 +882,8 @@
 - [[bartholomew-byu-studies-buckinghamshire-lds-1849]] — BYU Studies scholarly article (Bartholomew, 2009); LDS missionary work and emigration in Buckinghamshire 1849–1878; institutional history of the Whipsnade Branch → Edlesborough Branch chain; Kensworth Branch ("Hensworth") identified; 51% emigration rate across 4 branches
 - [[huett-effigies-1919-perplexity]] — Perplexity AI summary; 1919 Millbrook churchyard excavation; Huett effigies; Mrs Bunker and the sexton; britishfolklore.com synthesis
 - [[ruth-bunker-findmypast-register]] — FindMyPast search: all Ruth Bunker records in Bedfordshire; 4 pages compiled and deduplicated; 58 unique events; 18 proposed individuals; flags birth-place discrepancy for [[ruth-bunker-1855]]
+- [[job-bunker-1780-print-view-familysearch]] — FamilySearch print view; Job Bunker (1780–Deceased); married Rebecca Atterbury; 8 children in Millbrook 1807–1821; resolves open question in bunker-garratt-1777
+- [[job-bunker-1780-sources-familysearch]] — FamilySearch sources (14); Job Bunker christening confirmed 14 May 1780 Millbrook; attached by Andrew Bowers 2021
+- [[george-bunker-1845-print-view-familysearch]] — FamilySearch print view; George Bunker (1845); christened 1848; Lambeth 1871 then Tottenham; 8 children; reveals Ruth Bunker (1830–1836) as new sibling
+- [[george-bunker-1845-sources-familysearch]] — FamilySearch sources (7); christening 5 Nov 1848 Millbrook confirmed; parents John Bunker & Maria
+- [[elizabeth-west-bunker-print-view-familysearch]] — FamilySearch print view; Elizabeth West Bunker (1824–1878); married Mark Gillet 1845 Marston Moretaine; Maulden 1861–1871; 10 children

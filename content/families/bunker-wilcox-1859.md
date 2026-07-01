@@ -36,7 +36,7 @@ Eleven children christened at Millbrook across 1859–1888:
 | 7 | Elizabeth Maria Bunker | 1875 | 1876 | Died in infancy |
 | 8 | Ellen Maria Bunker | 1877 | 1915 | Married Walter Davies, Millbrook, August 1904 |
 | 9 | Mary Eliza Bunker | 1879 | Deceased | |
-| 10 | Mabel Bunker | 1883 | Deceased | Married Mark Edward Cook, Millbrook, May 1904 |
+| 10 | [[mabel-bunker-1883\|Mabel Bunker]] | 1883 | Deceased | Domestic servant 1901 (Luton area); probably had illegitimate daughter [[grace-bunker-1902\|Grace]] (born Luton Q3 1902); married Mark Edward Cook, Millbrook, May 1904; with husband in Luton 1911 — Grace left with grandparents |
 | 11 | Annie May Bunker | 1888 | 1929 | |
 
 Bertha Florence Bunker (christened 25 September 1881, Millbrook) appears in FamilySearch source records as a daughter but is absent from the print view — she almost certainly died young.
@@ -61,4 +61,7 @@ When the Huett effigies were recovered in 1919, Joseph had been dead five years.
 - What is the date and place of Mary Ann's death?
 - Is there a Millbrook parish vestry record or churchwardens' account naming a Bunker as sexton?
 - What became of Albert Bunker (1865), with whom Mary Ann was living in 1921, and his wife Emma?
-- Are any of the daughters (Mary Eliza, Mabel, Annie May) traceable after their census appearances?
+- Are Mary Eliza or Annie May traceable after their census appearances?
+- Confirm Grace Bunker's parentage: birth certificate for Grace Bunker, Luton, Q3 1902 would name the mother. If it reads "Mabel Bunker" the identification is established.
+- What became of [[grace-bunker-1902|Grace Bunker]] after 1911? Joseph died 1914; Mary Ann's death date is unknown. Grace would have been ~12 at Joseph's death.
+- Did Mabel and Mark Cook have children of their own after 1904?
