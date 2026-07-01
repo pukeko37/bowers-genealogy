@@ -44,6 +44,97 @@ Ingested five FamilySearch clippings: print views for Job Bunker (1780), George 
 Pages created: [[job-bunker-1780]], [[rebecca-atterbury-1785]], [[bunker-atterbury]], [[george-bunker-1845]], [[harriet-brandon-1846]], [[bunker-brandon-1865]], [[elizabeth-west-bunker-1824]], [[mark-gillet-1823]], [[gillet-bunker-1845]], [[ruth-bunker-1830]], [[job-bunker-1780-print-view-familysearch]], [[job-bunker-1780-sources-familysearch]], [[george-bunker-1845-print-view-familysearch]], [[george-bunker-1845-sources-familysearch]], [[elizabeth-west-bunker-print-view-familysearch]]
 Pages updated: [[bunker-garratt-1777]], [[bunker-west-1824]], [[bunker-millbrook-burials-fmp]], index
 
+## [2026-06-27 to 2026-06-28] compressed | Ruth Bunker FindMyPast research — all identifications complete
+
+FindMyPast register compiled, Steppingley Bunkers documented, all major Ruth Bunker identities resolved, and Millbrook burial register closes the key open questions.
+
+Key findings:
+- **Millbrook burial register** (FindMyPast, 45 entries): no Ruth Bunker buried before 1836 — definitively rules out FamilySearch death date 7 Apr 1806 for Ruth (1794). **Martha Bunker (1801)** died Millbrook 1826 aged ~24–25, unmarried — closes the open question in [[bunker-brown-1788]]. Confirmed burials: Thomas (1704) 1784, Mary Reade 1775, Edward (1742) 1814, Joseph (1754) 1808, James Thomas (1764) 1824, Lydia Brown 1842.
+- **Northampton Mercury (14 May 1836)**: inquest at Millbrook 13 May 1836 on Ruth Bunker "aged five years" — clothes caught fire while left alone with another child. Confirms RB-H born ~1830, died 1836 by fire.
+- **Ruth Bunker FindMyPast register**: 58 unique events; 18 proposed individuals (RB-A through RB-R). Confirmed: RB-A (Ruth 1745, married Thomas Marshall 29 Jul 1776 Millbrook), RB-D (Ruth 1794, survived 1806), RB-H (fire victim ~1830), RB-K (Ruth 1840), RB-N (Ruth 1855).
+- **Ruth Bunker wiki survey**: six Ruth Bunkers across Thomas (1704) descendants — W-1 (1745), W-2 (Martha 1790, Joseph 1754's line), W-3 (1794), W-4 (1822 Stevington), W-5 (1855), W-6 (Brightman granddaughter).
+- **Ruth Bunker (1794)**: FamilySearch death date 7 April 1806 definitively withdrawn — same as christening date, no burial record. She married William Cook/Cooke at Millbrook 1816 and continued as Ruth Cook; [[bunker-millbrook-burials-fmp]] confirms no 1806 burial.
+- **Steppingley Bunkers**: Thomas Bunker (1767–1843, married Susannah Foulkes 1796, 5 children: Joseph 1798, William 1799, Mary 1801, Ann 1803, Thomas 1815); William Bunker (1776–1855, two marriages: Burridge 1798, Bitchener 1808, 5+ children).
+- **Joseph Bunker (1798–1868)**: married Mary Brown 1821 Steppingley; 8 children confirmed — **no Ruth**; RB-K cannot be his daughter.
+- **William Bunker (1799)**: died Steppingley 1828 aged ~29, unmarried — ruled out as RB-K's parent.
+- **RB-K confirmed as Ruth Bunker (1840)**: born 1 August 1840 Westoning; ancestry Thomas (1704) → James (1749) → Thomas (1779) → Samuel (~1818) → Ruth (1840); five census entries 1841–1881; Straw Plaiter → Hat Sewer; moved Little Munden, Hertfordshire by 1881; late christening 5 May 1844 (age 3 years 9 months) confirms nonconformist practice.
+
+Pages created: [[ruth-bunker-findmypast-register]], [[ruth-bunker-1840]], [[samuel-bunker-1818]], [[thomas-bunker-1779]], [[bunker-sear-1840]], [[bunker-burton-1810]], [[thomas-bunker-1767]], [[william-bunker-1776]], [[joseph-bunker-1798]], [[bunker-brown-1821]], [[bunker-foulkes-1796]], [[bunker-burridge-1798]], [[bunker-bitchener-1808]], [[ruth-bunker-1794]], [[bunker-millbrook-burials-fmp]], [[ruth-bunker-1840-familysearch]], plus source summaries
+Pages updated: [[bunker-pedder-1772]], [[bunker-millbrook-burials-fmp]], [[ruth-bunker-findmypast-register]], [[ruth-bunker-1794]], [[bunker-brown-1788]]
+
+---
+
+## [2026-06-27] compressed | Stevington branch — emigration corrected; Ruth Bunker (1855)
+
+Stevington branch fully documented; Ephraim/Ebenezer emigration order corrected; Ruth Bunker (1855) life established.
+
+Key findings:
+- **Stevington newspapers** (1800–1899): Ephraim Bunker (son of Caleb 1790) charged stealing peas aged 16 (1837); Ruth Bunker bastardy order June 1880; Jane Bunker theft 1872; "Miss Bunker" community events 1886–1892; "J. Bunker" flower show 1896 (James 1824).
+- **Emigration corrected**: Ebenezer (son of Joseph 1792) married Sarah Cocking Stevington 28 Nov 1844 before emigrating; settled Campbelltown NSW; 7 children; died 1902. Ephraim (son of Caleb 1790) arrived NSW 31 March 1845 on *Elizabeth* (assisted immigrant); both engaged to Robert Coopershaw, Rocky Point, Cooks River on arrival — the cousins sailed together. Ephraim married Mary Ann Betts 1852 Camden; settled Crookwell; died 1887.
+- **Ebenezer Bunker (1820, son of Caleb 1790)**: Jersey 1861 census record (Chelsea Pensioner, born Stevington) almost certainly a different person — probable army service.
+- **James Bunker (1824–1904)**: married Sophia Panter Christmas Day 1850 Stevington; lifelong Silver Street Stevington labourer; 4 daughters (Jane 1852, Ruth 1855, Hannah 1864, Mary Ann 1866).
+- **Ruth Bunker (1855–1910)**: born Lavendon; domestic servant; bastardy order against George Draper Whiting June 1880 (1s. 6d./week); married George Stevington 27 Sep 1880; 11 children; emigrated Sherbrooke, Quebec 1885; died 17 Feb 1910.
+- [[bunker-brown-1788]] Stevington section rewritten: brothers' settlement (1814); shared 26 Sep 1824 mass christening; *Elizabeth* voyage (31 Mar 1845); divergent Australian settlements.
+
+Pages created: [[james-bunker-1824]], [[ruth-bunker-1855]], [[bunker-panter-1850]], [[ephraim-bunker-1821]], [[ebenezer-bunker-1822]], [[bunker-stevington-newspapers-findmypast]], [[bunker-stevington-newspapers-1837]], [[ruth-bunker-1855-familysearch]], [[ephraim-bunker-1821-familysearch]], [[ebenezer-bunker-1822-familysearch]]
+Pages updated: [[caleb-bunker-1790]], [[joseph-bunker-1792]], [[bunker-brown-1788]]
+
+---
+
+## [2026-06-26 to 2026-06-27] compressed | James (1777) household; Millbrook sexton confirmed; Joseph (1840) established; nonconformity analysis
+
+Key findings:
+- **James (1777)'s 1841 household** (HO107/6/7): James, Catherine Blunt, Richard (~35, son by Sarah Pedder), grandson Richard (~4, Naomi's pre-marital son). Chapman family at same address (Rebecca Bunker's household — not a separate family).
+- **Naomi Bunker (1813)**: five children of James (1777) and Mary Somerfield — Naomi, Sally (twin), Rebecca (1815), James (1816), Mary (1818). Naomi's pre-marital son Richard (1837) is the "grandson Richard" of the 1841 census. Naomi married Robert Babbington 1845.
+- **Rebecca Bunker (1815)**: married John Chapman 8 June 1835 Millbrook; 3 children (Thomas 1836, Bettsey 1837, James 1843).
+- **Rachael Bunker (1824)**: found at Village Great Farm in service 1841 — NOT James (1777)'s daughter; probable child of William (1767) and Sarah Beal.
+- **Huett effigies**: William Huett (d. c.1621) and Mary Huett (d. 1602) Tudor altar-tomb dismantled 1857; effigies buried in churchyard; rediscovered 1919 when Millbrook sexton's widow Mrs Bunker directed excavation to where her husband had struck stone while digging. Primary source: britishfolklore.com/millbrook/ via Perplexity.
+- **Joseph Bunker (1840–1914)**: christened Millbrook 1840; lifelong farm labourer; 11 children with Mary Ann Wilcox (married 1859). Joseph probable sexton — his widow Mary Ann a strong candidate for the Mrs Bunker of the 1919 story, but ultimately secondary to Harriet Dean.
+- **Samuel Bunker (1842–1913)** and **Mrs Bunker confirmed**: *Bedfordshire Times* obituary 20 Jun 1913 — "about 20 years clerk and sexton at the parish church, until the present Rector came; his father also [served in the same capacity]." **Harriet Dean (1844–1931) is the definitive Mrs Bunker of the 1919 Huett effigy story.** John Bunker (1803) and Samuel (1842) form a two-generation sexton dynasty; Joseph (1840) and Mary Ann Wilcox eliminated as candidates.
+- **Newspaper searches** (1850–1899): Joseph — train fine 1872; witness 1883/1884; Labourers' Friend prizes 1873/1878. Samuel — school summons 1877; prizes 1882/1892. Possible trace of "lost Samuel (~1820)" aged 73 at Ampthill 1892.
+- **Bunker nonconformity analysis**: sustained six generations; 1795 enclosure → 1798/1804 meeting-house registrations → 1806 mass christening sequence; splits into Baptist (Stevington) and Wesleyan Methodist (Bedford/Derbyshire) at next generation; Edward (1742) line diverges to Anglican (two-generation sextons); Ron/Roland's atheism as final break. Analysis saved to `outputs/bunker-nonconformity-2026-06-27.md`.
+
+Pages created: [[naomi-bunker-1813]], [[mary-somerfield-1793]], [[bunker-somerfield-1811]], [[rebecca-bunker-1815]], [[john-chapman]], [[chapman-bunker-1835]], [[rachael-bunker-1824]], [[catherine-blunt]], [[richard-bunker-c1806]], [[samuel-bunker-1842]], [[harriet-dean-1844]], [[bunker-dean]], [[joseph-bunker-1840]], [[mary-ann-wilcox-1842]], [[bunker-wilcox-1859]], [[samuel-bunker-obituary-1913]], [[joseph-samuel-bunker-newspapers-findmypast]], [[bunker-nonconformity-2026-06-27]], [[huett-effigies-millbrook]], [[huett-effigies-1919-perplexity]], [[james-bunker-1777-census-1841]], [[rachael-bunker-1824-familysearch]], [[naomi-bunker-1813-familysearch]], plus source summaries
+Pages updated: [[millbrook]], [[john-bunker-1803]], [[james-bunker-1777]], [[bunker-west-1824]], [[huett-effigies-1919-perplexity]]
+
+---
+
+## [2026-06-25 to 2026-06-26] compressed | Thomas (1704) 18th-century tree — Joseph (1754) line, Edward (1742) line, Thomas's siblings; Martha Sinfield parentage; Lydia Brown origins
+
+Key findings:
+- **Thomas (1704)'s siblings documented**: Anne (married Daniel Brightman 1753 Millbrook, 12 children), Mary (married William Roffe 1764, buried Steppingley 1801), William (1740, Steppingley, married Ann Peet 1768, 6 children, died 1816), John (1746, married Elizabeth Cartwright 1768, buried Ampthill 1796), James (1749, married Elizabeth Pedder 1772, 5 children).
+- **Edward Bunker (1742–1814)**: 10 children with Mary Ashby; entire life Millbrook; Mark Ashby Bunker (1789, sheep stealer, transported 1817) confirmed as his son.
+- **Joseph Bunker (1754–1808)**: 12 children with Martha Garratt; cordwainer (1784 apprenticeship confirmed); died Millbrook 1808.
+- **Joel Bunker (c.1782–1861)**: married Martha Taylor 1809 Millbrook; Green Man Inn Eversholt from mid-1820s; Martha died there 11 Oct 1836; Joel remarried Elizabeth Inskipp 1839; left Eversholt Sep 1846; died Ampthill 1861. Children: Job (1804, Eversholt lifelong), Eliza (1815–1885, married excise officer Stephen Danby 1838, followed service through Thame/Staffordshire/Derbyshire, died Derby 1885), Joseph (1810, born Alwalton Hunts — no link to Millbrook Joseph), Patty (1817).
+- **Job Bunker (1804)**: born Ampthill; christened Eversholt Dec 1812; married Sarah Newton Eversholt 1834; 9 children. Ampthill 1804 baptism confirmed as Thomas+Mary Bunker's son (not Joel's Job — a FamilySearch confusion).
+- **William Bunker (1767)**: two marriages (Ann Denton 1792, Sarah Beal 1808 from Lidlington); 8+ children; Sarah Bunker chr. 1807 is Ann Denton's last child, not Beal's.
+- **John Bunker (1769)**: died 1795 aged 27, unmarried, no children.
+- **Martha Sinfield** (married Thomas Bunker 1738 in 1761): probable parents Christopher Sinfield and Elizabeth of Millbrook — Christopher had son John christened Millbrook 1722; Martha is a later sibling, not a granddaughter. A daughter named Martha Sinfeild (1757, died 1764) was John's child, not the bride.
+- **Lydia Brown (abt 1769)**: born Cranfield — corrects prior "Hertfordshire" claim. Parents Edward Brown (1732, Cranfield) and wife Lydia; an earlier sibling Lydia (born 1765) died young. The "14 April 1765" christening previously given for Lydia was the dead sibling's.
+- **Alfred John Watts (1875, Lidlington)**: illegitimate son of Sarah Ann Watts; first cousin twice removed of Lydia Lane (née Bunker); lodged with Lydia in Bedford 1891 as coal man carter.
+- **Millbrook Holland estate**: expanded history — d'Aubigny through Anne of Cleves, Henrietta Maria, Colonel Okey, Bruce/Upper Ossory, Baron Holland, Duke of Bedford (purchased 1840).
+
+Pages created: [[joel-bunker-1789]], [[martha-taylor-1786]], [[bunker-taylor-1809]], [[elizabeth-inskipp-1792]], [[bunker-inskipp-1839]], [[job-bunker-1804]], [[sarah-newton-1814]], [[bunker-newton-1834]], [[eliza-bunker-1815]], [[stephen-danby-1812]], [[danby-bunker-1838]], [[joseph-bunker-1810]], [[fanny-jakins]], [[bunker-jakins-1846]], [[joseph-bunker-1754]], [[martha-garratt-1756]], [[bunker-garratt-1777]], [[job-bunker-catalogue-findmypast]], [[edward-bunker-1742]], [[mark-ashby-bunker-1789]], [[bunker-ashby-1766]], [[william-bunker-1731]], [[anne-bunker-1732]], [[mary-bunker-1737]], [[william-bunker-1740]], [[john-bunker-1746]], [[james-bunker-1749]], [[daniel-brightman-1718]], [[william-roffe]], [[ann-peet-1746]], [[elizabeth-cartwright-1737]], [[elizabeth-pedder-1752]], [[brightman-bunker-1753]], [[roffe-bunker-1764]], [[bunker-peet-1768]], [[bunker-cartwright-1768]], [[bunker-pedder-1772]], [[john-bunker-1769]], [[william-bunker-1767]], [[edward-brown-1732]], [[sarah-beal-1776-print-view-familysearch]], [[alfred-john-watts-familysearch]], [[martha-sinfield-search-results-familysearch]], [[john-sinfield-search-results-familysearch]], [[edward-brown-familysearch]], plus source summaries
+Pages updated: [[bunker-reade-1728]], [[thomas-bunker-1704]], [[millbrook]], [[joel-bunker-1789-familysearch]], [[lydia-brown-1769]], [[martha-sinfield]], [[bunker-sinfield-1761]], [[bunker-brown-1788]], [[lydia-bunker-1833]], [[john-watts-1790]], [[watts-capel-1809]]
+
+---
+
+## [2026-06-23 to 2026-06-25] compressed | Millbrook community — blog, siblings, census spreadsheet; James Thomas Bunker's siblings; Bedfordshire Archives; Ron/Ivy updates
+
+Key findings:
+- **Millbrook WordPress blog** (11 clippings): two lineages from Thomas (1704); census snapshots 1841–1911; Millbrook Station opened 1846; pre-1858 Methodist community confirmed. WWI deaths: **Albert Edward Bunker** (1894–1917, 1st Bn Royal Fusiliers, Passchendaele 31 Jul 1917, Menin Gate) and **William Harold Bunker** (c.1881–1917, 10th Bn Lincolnshire Regiment, Tyne Cot) — first cousins, both grandsons of Joseph (1840), both killed at Third Ypres ten weeks apart.
+- **James (1807)'s children fully documented**: John Watts Bunker (shoesmith/hammer man, Bedford), David Bunker (railway storekeeper, Peterborough, died 1920 aged ~83, longest-lived sibling), Charles Bunker (dairyman→gardener, west London), Martha Sarah Bunker (married Joseph Sinfield 1863 Bedford; straw plaiter → hat sewer career; died 21 Cumberland Street Luton 7 July 1901), Comfort Ann Bunker ("Jane" in Sinfield household 1871–1891; married Henry Ewington 1892; died Luton March 1921 aged 72).
+- **Joseph Sinfield (1844–1914)**: christened Kempston; Hammerman → Police Constable Luton Borough 1881–1891; died 1914.
+- **Elizabeth Watts**: died Bedford August 1868; buried Foster Hill Road Cemetery. Closes the open question on her death.
+- **James Thomas Bunker (1764) siblings** (12 clippings from 1806 mass christening): Caleb (1790, Stevington, son Ephraim to NSW 1845), Joseph (1792, Stevington Baptist; sons Ephraim and Ebenezer), Ruth (1794, died day of christening 7 Apr 1806 aged 11), Phoebe (1796, last to leave Millbrook, buried Bedford 1849), Ebenezer (1798, died 1819 aged 20), Lydia (1804, married Thomas Inskip 1832 Bedford, Baptist affiliation).
+- **Millbrook census spreadsheet**: Martha Bunker (1801) confirmed alive at 1806 christening; James (1807)'s baptism absent from Millbrook register (nonconformist evidence); Holland estate tenancy confirmed; 1815 fence list; Albert Bunker school punishment 23 Sep 1902 ("fighting" aged 8 — this is Albert Edward, killed Passchendaele 1917); Mrs Bunker sexton story.
+- **Bedfordshire Archives P31/14/64a**: Joseph Bunker (1754) confirmed as **cordwainer** — first documented occupation for any member of that generation; 8 January 1784 apprenticeship indenture.
+- **Bartholomew BYU Studies (2009)**: Whipsnade Branch established 27 Feb 1848; "Hensworth Branch" = Kensworth Branch confirmed; 51% emigration rate across four Buckinghamshire LDS branches.
+- **Ron at de Havilland**: blackout curtains kept Thody Bros viable through 1940; naval reserve liability established as motivation to seek protected aircraft work. **Photo-destruction story** revised to Philippa's account: Ron destroyed photographs in last weeks of his life (while Ivy was at Bowls); Ivy discovered the loss after his death and was mortified.
+
+Pages created: [[bunker-sinfield-1863]], [[joseph-sinfield-1844]], [[bunker-woodland-1854]], [[bunker-bentley-1859]], [[comfort-ann-ewington-death-1921]], [[henry-ewington-death-1912]], [[martha-sinfield-death-notice-1901]], [[caleb-bunker-1790]], [[joseph-bunker-1792]], [[ruth-bunker-1794]], [[phoebe-bunker-1796]], [[ebenezer-bunker-1798]], [[lydia-bunker-1804]], [[bunkersmillbrook-wordpress-2013]], [[bunkermillbrookcensus-spreadsheet]], [[beds-archives-p31-14-64a-bunker-apprenticeship]], [[elizabeth-watts-death-burial-1868]], [[bartholomew-byu-studies-buckinghamshire-lds-1849]], plus source summaries
+Pages updated: [[bunker-watts-1830]], [[james-bunker-1807]], [[millbrook]], [[millbrook-wesleyan-methodist-chapel]], [[martha-sarah-bunker-1841]], [[comfort-ann-bunker-1848]], [[john-watts-bunker-1831]], [[david-bunker-1837]], [[charles-bunker-1839]], [[elizabeth-watts-1810]], [[bunker-brown-1788]], [[whipsnade]], [[kensworth]], [[matthews-wilson-1801]], [[roland-herbert-bunker-1898]], [[ivy-helen-norman-1899]]
+
 ## [2026-06-28] ingest | Ruth Bunker (1840) — RB-K confirmed
 
 Ingested FamilySearch sources page (LKBG-11S) for Ruth Bunker (1840–Deceased), confirming her identity as RB-K in [[ruth-bunker-findmypast-register]].
@@ -1143,99 +1234,18 @@ Compressed 6 entries (all 2026-06-13) into one block.
 ## [2026-06-24] compress | Bunker/Geary/Thody/Fensome/Perry enrichment
 Compressed 6 entries (all 2026-06-13) into one block.
 
-## [2026-06-25] ingest | James Thomas Bunker's siblings — Caleb, Joseph, Ruth, Phoebe, Ebenezer, Lydia
+## [2026-07-01] compress | Ruth Bunker FindMyPast research — all identifications complete
+Compressed 11 entries (2026-06-27 to 2026-06-28) into one block.
 
-Ingested 12 FamilySearch clippings (6 print views + 6 sources/person pages) covering the six documented siblings of James Bunker (1807) — all children of James Thomas Bunker (1764) and Lydia Brown identified in the 1806 mass christening. This resolves a long-standing gap in the Millbrook documentation.
+## [2026-07-01] compress | Stevington branch — emigration corrected; Ruth Bunker (1855)
+Compressed 6 entries (2026-06-27) into one block.
 
-Key findings:
-- **Stevington migration:** Caleb (1790) and Joseph (1792) both settled in Stevington, Bedfordshire together c.1814–1815; both married there. The Stevington branch adopted Baptist affiliation (Joseph buried Stevington Baptist Chapel Chapelyard).
-- **Australian emigrant:** Ephraim Bunker (1821–1887), son of Caleb, died at Crookwell, New South Wales — the earliest documented emigrant from the James Thomas Bunker line.
-- **Ruth (1794):** Died on the day of her christening, 7 April 1806, aged 11.
-- **Phoebe (1796):** Remained in Millbrook unmarried through 1841; buried Bedford September 1849 — the last sibling to leave the village.
-- **Lydia (1804):** Married Thomas Inskip 1832 Bedford; children registered at Mill Street Baptist — distinct Baptist affiliation from the Wesleyan Methodist main line.
-- **Martha (1801):** Confirmed in 1806 christening record but absent from all six FamilySearch sibling lists. Fate unknown.
+## [2026-07-01] compress | James (1777) household; Millbrook sexton; Joseph (1840) established; nonconformity analysis
+Compressed 10 entries (2026-06-26 to 2026-06-27) into one block.
 
-Pages created: [[caleb-bunker-1790]], [[joseph-bunker-1792]], [[ruth-bunker-1794]], [[phoebe-bunker-1796]], [[ebenezer-bunker-1798]], [[lydia-bunker-1804]]
-Sources created: [[caleb-bunker-1790-familysearch]], [[joseph-bunker-1792-familysearch]], [[ruth-bunker-1794-familysearch]], [[phoebe-bunker-1796-familysearch]], [[ebenezer-bunker-1798-familysearch]], [[lydia-bunker-1804-familysearch]]
-Pages updated: [[bunker-brown-1788]], [[millbrook]]
+## [2026-07-01] compress | Thomas (1704) 18th-century tree — Joseph (1754), Edward (1742), Thomas's siblings; Martha Sinfield; Lydia Brown
+Compressed 19 entries (2026-06-25 to 2026-06-26) into one block.
 
-## [2026-06-25] ingest | Millbrook Bunker census spreadsheet (bunkermillbrookcensus.xls)
+## [2026-07-01] compress | Millbrook community — blog, siblings, census spreadsheet; James Thomas Bunker's siblings
+Compressed 14 entries (2026-06-23 to 2026-06-25) into one block.
 
-Ingested a compiled research spreadsheet from a local collaborator containing all Millbrook Bunker census data 1841–1901, full Millbrook parish register transcriptions (baptisms, burials, marriages), and miscellaneous records.
-
-Key findings:
-- **Martha Bunker (1801)** confirmed in the Millbrook parish register at the 1806 mass christening; she was alive on 7 April 1806, ruling out early childhood death. Still untraced in any later record.
-- **James (1807)'s baptism not in the Millbrook register** — the seven 1806 siblings appear but James, born 1807, was never presented at the established church. Strongest evidence yet of sustained Nonconformist commitment.
-- **Holland estate tenancy confirmed** — James Bunker (1807) named as tenant of cottage and garden (nos. 423, 431, 432, co-tenant T. Cartwright) in the Lady Holland sale to the Duke of Bedford, 1840/41. Estate map held locally.
-- **1815 fence maintenance list** — James Thomas Bunker (1764) named as property occupier near the church, nine years before his death.
-- **Albert Bunker, school punishment book, 23 Sep 1902** — "Age 8, Offence: fighting." This is Albert Edward Bunker (b. Sept 1894), killed at Passchendaele 31 July 1917, commemorated on the Menin Gate.
-- **Mrs Bunker the sexton's widow, 1919** — led Bedford schoolboys to find the lost Huett stone effigies; Mary Huett's head had been in her shed. Sexton's identity unconfirmed.
-
-Source created: [[bunkermillbrookcensus-spreadsheet]]
-Pages updated: [[james-bunker-1807]], [[bunker-brown-1788]], [[millbrook]]
-
-## [2026-06-25] ingest | Bedfordshire Archives apprenticeship record P31/14/64a
-
-Ingested a Bedfordshire Archives catalogue result (item 1 of 31 from a search run while looking for the Holland estate map). The record itself is not the Holland estate map but an 1784 apprenticeship indenture: Jonathan Bunker of Maulden was bound to Joseph Bunker of Millbrook, cordwainer, on 8 January 1784.
-
-Key finding: Joseph Bunker (1754–1808), youngest son of Thomas (1704) and Mary Reade, was a **cordwainer** (shoemaker) — the first documented occupation for any member of that generation. The shoemaking trade appears continuously in the Millbrook Bunker community from at least 1784 through to Caleb (1845)'s early years.
-
-The Holland estate map was not found in these search results. The Bedford Estates (Russell) papers at Bedfordshire Archives remain the most likely repository.
-
-Source created: [[beds-archives-p31-14-64a-bunker-apprenticeship]]
-Pages updated: [[millbrook]], [[bunker-reade-1728]]
-
-## [2026-06-25] ingest | Martha Sinfield search results; Edward Brown (Lydia Brown's father)
-
-Ingested 4 clippings: FamilySearch search results for Martha Sinfield candidates, Martha Sinfield sources page (same 5 sources as previously), and Edward Brown print view and sources page.
-
-**Martha Sinfield:** No birth record found for the 1761 bride. A FamilySearch search identified a **John Sinfield** and wife **Martha** in Millbrook with a daughter Martha Sinfeild christened 18 May 1757 — too young to be the bride but almost certainly a younger sibling. John Sinfield and Martha of Millbrook are the probable parents, unconfirmed. A separate Marmaduke Sinfield family at Bedford (Nonconformist records) is less likely given the Millbrook connection.
-
-**Edward Brown — Lydia Brown's parentage resolved:** Edward Brown (abt 1732, Cranfield, Bedfordshire) and his wife Lydia (maiden name unknown, abt 1736) are confirmed as Lydia Brown's parents. All children baptised at Cranfield. Two daughters were named Lydia: the first (born 1765, K8SK-JJX) died young; the second (born 1769, LYHK-W98) is our Lydia who married James Thomas Bunker 1788. This resolves the long-standing "Lydia Brown's origins unknown" question — she was from Cranfield, 6 miles from Millbrook.
-
-**Correction:** The wiki previously gave Lydia Brown's birth as "14 April 1765" — this was the sibling Lydia, not our Lydia. Corrected to "abt 1769" throughout.
-
-Pages created: [[edward-brown-1732]]
-Sources created: [[martha-sinfield-search-results-familysearch]], [[edward-brown-familysearch]]
-Pages updated: [[lydia-brown-1769]], [[martha-sinfield]], [[bunker-sinfield-1761]], [[bunker-brown-1788]]
-
-## [2026-06-25] ingest | John Sinfield search results — Christopher Sinfield identified as probable grandfather
-
-FamilySearch search for John Sinfield born in Bedfordshire 1700–1800 (53 results). The single most relevant result: **John Sinfield christened 2 March 1722 at Millbrook, parents Christopher Sinfield and Elizabeth**. This is the only Millbrook-born John Sinfield in the dataset.
-
-This places one generation further back in the Sinfield line. If this John is Martha Bunker's father (as the earlier search established as probable via the 1757 daughter Martha Sinfeild in Millbrook), then **Christopher Sinfield and Elizabeth of Millbrook** are Martha's grandparents. Christopher's own parentage and Elizabeth's maiden name are unresearched.
-
-Sources created: [[john-sinfield-search-results-familysearch]]
-Pages updated: [[martha-sinfield]], [[bunker-sinfield-1761]]
-
-## [2026-06-25] update | Revised parentage for Martha Sinfield
-
-Two corrections to the Sinfield parentage hypothesis:
-
-1. A death record for Martha Sinfield in 1764 matches the 1757 christening of Martha Sinfeild (daughter of John Sinfeild and wife Martha). She died aged about 7 and is confirmed as a distinct person from our bride. John Sinfield is therefore **not** Martha Bunker's father.
-
-2. The better reading is that **Christopher Sinfield and Elizabeth of Millbrook** are Martha's probable parents directly — not her grandparents. Christopher had a son John (christened Millbrook 1722). Martha (~1737–41) is a later child of the same couple, a younger sibling of John. John naming his own daughter Martha (1757, died 1764) was likely naming her after his sister. This fits the ages, geography, and naming pattern.
-
-Martha's birth year revised to "abt 1737–1741" in the frontmatter; birth-place set to Millbrook. Parentage updated from "John Sinfield" to "probable Christopher Sinfield and Elizabeth." Family-of-origin remains unknown (no source yet directly names her parents).
-
-Pages updated: [[martha-sinfield]], [[bunker-sinfield-1761]], [[john-sinfield-search-results-familysearch]]
-
-## [2026-06-27] ingest | Huett effigies — 1919 Millbrook churchyard rediscovery
-
-Ingested the story of the Huett effigies of St Michael and All Angels, Millbrook. William Huett (died c.1621–22) and Mary Huett (died 1602) were commemorated on a Tudor altar-tomb that was dismantled in 1857. After dismantling, unexplained sounds in the church were attributed to the disturbed tomb; they were explained in 1888 by death-watch beetle in the roof timbers. The effigies were buried in the churchyard and their location forgotten. The Millbrook sexton — a Bunker, from the Edward (1742) line, identity unconfirmed — had previously struck stone while digging and kept the head he found. His widow Mrs Bunker used this to lead Rector H.P. Pollard's 1919 excavation (Bedfordshire Archaeological Society, Bedford Modern School Archaeology Society) to the spot. The effigies were recovered side by side and moved inside the church, where they now rest near the altar. Primary source is britishfolklore.com/millbrook/, accessed via a Perplexity AI summary. Three 1919 newspaper articles held by an unnamed local researcher remain to be located.
-
-Pages created: [[huett-effigies-millbrook]], [[huett-effigies-1919-perplexity]]
-Pages updated: [[millbrook]], index, log
-
-## [2026-06-28] ingest | Millbrook burial register — Ruth (1794) survived 1806; Martha (1801) died 1826
-
-Ingested FindMyPast Bedfordshire Burials search for Bunker surname at Millbrook St Michael & All Angels (3 pages, 45 entries total).
-
-**Primary finding:** No Ruth Bunker buried at Millbrook before 1836. The only Ruth Bunker in the register is the 1836 fire victim (RB-H). The FamilySearch death date of 7 April 1806 for [[ruth-bunker-1794|Ruth Bunker (1794)]] is definitively a data error. Combined with the earlier identification of the 1816 Millbrook marriage (husband: William Cook/Cooke, FamilySearch M98P-NR5, birth year ~1795), [[ruth-bunker-1794]] is now the **confirmed survivor of 1806** and the **provisional W-3 = RB-B** identification is strengthened to the point of near-certainty. She married at ~22 and moved to Tilsworth by 1825 (daughter Harriet Cooke christened there).
-
-**Martha Bunker (1801) resolved:** Entry #27 (Martha Bunker, 1826) confirms she died at Millbrook aged ~24–25, unmarried. The open question in [[bunker-brown-1788]] is closed.
-
-**Confirmed burials for known individuals:** Thomas (1704) 1784, Mary Reade 1775, Edward (1742) 1814, Joseph (1754) 1808, James Thomas (1764) 1824, Lydia Brown 1842 — all consistent with dates previously recorded in the wiki.
-
-Pages created: [[bunker-millbrook-burials-fmp]]
-Pages updated: [[ruth-bunker-1794]], [[bunker-brown-1788]], [[ruth-bunker-findmypast-register]], index
