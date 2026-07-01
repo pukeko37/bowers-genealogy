@@ -1,3 +1,19 @@
+## [2026-07-01] ingest | Children of Joseph Bunker (1840) — all ten surviving children
+
+Ingested 11 FamilySearch clippings: print views for all ten surviving children of Joseph Bunker (1840) and Mary Ann Wilcox, plus a rich sources page for Mabel Bunker.
+
+**Key findings:**
+- **Grace Bunker confirmed as Mabel's daughter**: the 1921 census lists Grace Bunker Cook as Mabel Cook's daughter at 15 Ashton Street, High Town, Luton. Resolves the open question from the previous session.
+- **Mabel's 1901 location corrected**: she was a parlour maid in the Millbrook vicarage (Sharpin household), not in the Luton area as previously assumed.
+- **Migration to South Normanton coalfields**: Thomas, Albert, George, and James all moved to Nottinghamshire/South Normanton Derbyshire by 1891, almost certainly for coal-mining work. James was the earliest mover, already married there in January 1893 at age 19.
+- **Roberts sisters at Moggerhanger**: Thomas married Charlotte Roberts (Christmas 1885) and Albert married Emma Roberts (April 1887) at the same Moggerhanger church — likely sisters.
+- **Richard's pre-marital child**: Harold William *Page* Bunker born 1881 before Richard and Emma Page married in March 1882; middle name acknowledges mother's maiden name.
+- **WWI losses**: five grandsons of Joseph and Mary Ann killed 1916–1917 across four brothers' families.
+- **Christening date anomaly**: George (1868), John (1871), and James (1873) all recorded with christening date 19 Oct 1873 — plausible for James, likely a data error or batch christening for George and John.
+
+Pages created: [[richard-bunker-1859]], [[thomas-bunker-1862]], [[albert-bunker-1865]], [[george-bunker-1868]], [[john-bunker-1871]], [[james-bunker-1873]], [[ellen-maria-bunker-1877]], [[mary-eliza-bunker-1879]], [[annie-may-bunker-1888]], [[bunker-page-1882]], [[bunker-roberts-1885]], [[bunker-roberts-1887]], [[bunker-ward-1896]], [[bunker-elston-1908]], [[bunker-roffe-1893]], [[bunker-carter-1893]], [[davies-bunker-1904]], [[freeman-bunker-1899]], [[bunker-cook-1904]], [[bunker-white-1908]], [[south-normanton]], [[joseph-bunker-children-print-familysearch]], [[mabel-bunker-1883-sources-familysearch]]
+Pages updated: [[mabel-bunker-1883]], [[bunker-wilcox-1859]], index
+
 ## [2026-07-01] update | Grace Bunker (1902) — probable daughter of Mabel added
 
 Grace Bunker (born Luton Q3 1902) appears in the 1911 census as granddaughter of [[joseph-bunker-1840|Joseph (1840)]] and [[mary-ann-wilcox-1842|Mary Ann]], aged 8. The only Grace Bunker in the GRO index of the right age was born in Luton.

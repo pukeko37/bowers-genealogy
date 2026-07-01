@@ -130,6 +130,17 @@
 - [[bunker-atterbury]] — Job Bunker (1780) & Rebecca Atterbury; Millbrook; 8 children 1807–1821; previously unknown Joseph (1754) collateral line
 - [[bunker-wilcox-1859]] — Joseph Bunker (1840–1914) & Mary Ann Wilcox (1842); married Millbrook 1859; 11 children; Joseph probable church sexton; Mrs Bunker led 1919 Huett effigy excavation
 - [[bunker-dean]] — Samuel Bunker (1842–1913) & Harriet Dean (1844–1931); married Millbrook 25 Dec 1865; 2 children; Samuel confirmed as clerk and sexton ~20 years; Harriet is Mrs Bunker of 1919 Huett effigy story
+- [[bunker-page-1882]] — Richard Bunker (1859) & Emma Page; married Millbrook 1882; pre-marital child Harold; 10 children; two WWI deaths; South Normanton then Flitwick
+- [[bunker-roberts-1885]] — Thomas Bunker (1862–1902) & Charlotte Roberts; married Moggerhanger Christmas 1885; no children; buried South Normanton Apr 1902
+- [[bunker-roberts-1887]] — Albert Bunker (1865) & Emma Roberts; married Moggerhanger Apr 1887; 11 children, high infant mortality; one WWI death; Mary Ann Wilcox living with them 1921
+- [[bunker-ward-1896]] — George Bunker (1868–1916) & Catherine Ward (d.1902); married Mansfield Notts 1896; 3 children; Catherine died 1902; George buried South Normanton
+- [[bunker-elston-1908]] — George Bunker (1868–1916) & Annie Maria Elston; married Notts 1908; one child Frank (1909–1993); George died Grimsby 1916
+- [[bunker-roffe-1893]] — John Bunker (1871–1900) & Ellen Mary Roffe; married Millbrook Oct 1893; 2 children; John died Ampthill 1900 aged ~29; one WWI death
+- [[bunker-carter-1893]] — James Bunker (1873–1945) & Julia Carter; married South Normanton Jan 1893; Collier; 6 children; one WWI death; James buried Derbyshire 1945
+- [[davies-bunker-1904]] — Walter Davies & Ellen Maria Bunker (1877–1915); married Millbrook Aug 1904; one daughter Beatrice Maud Davies (1906–2003); Ellen died Luton 1915
+- [[freeman-bunker-1899]] — Edward Freeman & Mary Eliza Bunker (1879); married Ampthill 1899; 4 children; lifelong Luton
+- [[bunker-cook-1904]] — Mabel Bunker (1883) & Mark Edward Cook (d.1955); married Millbrook May 1904; pre-marital daughter Grace; 6 children; Luton; 15 Ashton Street 1921
+- [[bunker-white-1908]] — Annie May Bunker (1888–1929) & Albert White; married Ampthill Jul 1908; no children; Annie May died 1929 aged ~41
 - [[bunker-sinfield-1761]] — Thomas Bunker (1738) & Martha Sinfield, married Millbrook 1761; Thomas buried Toddington 1825 aged 87
 - [[bunker-panter-1850]] — James Bunker (1824) & Sophia Panter, married Stevington Christmas Day 1850; 4 daughters including Ruth; lifelong Silver Street Stevington
 - [[bunker-brown-1788]] — James Thomas Bunker & Lydia Brown, married St Paul's Walden 1788; James Bunker's parents
@@ -438,8 +449,17 @@
 - [[harriet-brandon-1846]] — Harriet Brandon (1846), wife of George Bunker (1845); married Lambeth 1865; Tottenham
 - [[job-bunker-1780]] — Job Bunker (1780), son of Joseph (1754); married Rebecca Atterbury; 8 children in Millbrook 1807–1821; previously unknown collateral line
 - [[rebecca-atterbury-1785]] — Rebecca Atterbury (1785), wife of Job Bunker (1780); origins unknown
-- [[mabel-bunker-1883]] — Mabel Bunker (1883), daughter of Joseph (1840); domestic servant Luton 1901; probably mother of Grace (1902); married Mark Cook Millbrook 1904; Luton by 1911
-- [[grace-bunker-1902]] — Grace Bunker (1902), probable illegitimate daughter of Mabel Bunker; born Luton Q3 1902; raised by grandparents Joseph and Mary Ann at Millbrook; in 1911 census aged 8
+- [[richard-bunker-1859]] — Richard Bunker (1859), eldest child of Joseph (1840); married Emma Page Millbrook 1882; pre-marital child Harold; South Normanton then Flitwick; two sons killed WWI
+- [[thomas-bunker-1862]] — Thomas Bunker (1862–1902), second child of Joseph (1840); married Charlotte Roberts Moggerhanger 1885; no children; died South Normanton aged ~40
+- [[albert-bunker-1865]] — Albert Bunker (1865), third child of Joseph (1840); married Emma Roberts Moggerhanger 1887; 11 children high infant mortality; mother Mary Ann living with him 1921
+- [[george-bunker-1868]] — George Bunker (1868–1916), fourth child of Joseph (1840); two marriages (Ward 1896, Elston 1908); Nottinghamshire; died Grimsby; buried South Normanton
+- [[john-bunker-1871]] — John Bunker (1871–1900), fifth child of Joseph (1840); stayed Millbrook longest; married Ellen Roffe 1893; died Ampthill aged ~29; son killed WWI
+- [[james-bunker-1873]] — James Bunker (1873–1945), sixth child of Joseph (1840); Collier; married Julia Carter South Normanton 1893; 6 children; son killed WWI; buried Derbyshire 1945
+- [[ellen-maria-bunker-1877]] — Ellen Maria Bunker (1877–1915), eighth child of Joseph (1840); married Walter Davies Millbrook 1904; one daughter Beatrice Maud Davies; died Luton 1915
+- [[mary-eliza-bunker-1879]] — Mary Eliza Bunker (1879), ninth child of Joseph (1840); married Edward Freeman Ampthill 1899; lifelong Luton from 1901
+- [[mabel-bunker-1883]] — Mabel Bunker (1883), tenth child of Joseph (1840); parlour maid Millbrook vicarage 1901; pre-marital daughter Grace (1902); married Mark Cook Millbrook 1904; Luton; Grace confirmed her daughter 1921
+- [[annie-may-bunker-1888]] — Annie May Bunker (1888–1929), youngest child of Joseph (1840); married Albert White Ampthill 1908; no children; died Ampthill 1929 aged ~41
+- [[grace-bunker-1902]] — Grace Bunker Cook (1902), pre-marital daughter of Mabel Bunker; born Luton; raised Millbrook with grandparents 1911; confirmed Mabel's daughter in 1921 census
 - [[joseph-bunker-1840]] — Joseph Bunker (1840–1914), John's son; lifelong Millbrook farm labourer; probable church sexton; husband of Mrs Bunker who led the 1919 Huett effigy excavation
 - [[mary-ann-wilcox-1842]] — Mary Ann Wilcox (1842–after 1921), wife of Joseph (1840); the "Mrs Bunker" of the 1919 Huett effigy story; aged widow; in Millbrook 1921
 - [[samuel-bunker-1842]] — Samuel Bunker (1842–1913), John's son; confirmed clerk and sexton of Millbrook parish church ~20 years; husband of Harriet Dean; Mr Bunker of the 1919 Huett effigy story
@@ -501,6 +521,7 @@
 - [[luton]] — Luton, Bedfordshire; Frederick Bunker bricklayer/builder, Eliza and Beulah died here
 - [[new-tupton-derbyshire]] — New Tupton, North Derbyshire; convergence point ~1875 for George, Caleb, and Phoebe Bunker; Albert and Herbert T.B. both born here
 - [[millbrook]] — Millbrook, Bedfordshire; ancestral Bunker home, three generations born and died here; Capel/Watts family also rooted here; Wesleyan Methodist chapel built 1858
+- [[south-normanton]] — South Normanton, Derbyshire; coal-mining village; destination for elder sons of Joseph Bunker (1840) from ~1889; Thomas buried 1902, George 1916, James lived there to 1945
 - [[huett-effigies-millbrook]] — The Huett effigies, St Michael and All Angels, Millbrook; Tudor couple; lost 1857, recovered 1919; Bunker sexton central to rediscovery
 - [[maulden]] — Maulden, Bedfordshire; home of Edward Tall and Sarah Ward; Frederick Bunker raised here 1870–c.1881
 - [[bedford]] — Bedford, Bedfordshire; Bunkers moved here 1852; Howard Chapel marriage and burial; Tall family connections
@@ -809,6 +830,8 @@
 - [[ruth-bunker-1840-familysearch]] — FamilySearch LKBG-11S; 6 sources; born 1 Aug 1840 Westoning; christened 5 May 1844 Steppingley; 5 census entries 1841–1881; Straw Plaiter; = RB-K
 - [[edward-bunker-1742-print-view-familysearch]] — FamilySearch print view (KCZP-L7Z); born Millbrook 1742; married Mary Ashby 1766; 10 children; Jesse's date discrepancy noted
 - [[edward-bunker-1742-sources-familysearch]] — FamilySearch sources page (KCZP-L7Z); 21 sources; christening dates confirmed for 7 children; Jesse baptised 18 Apr 1786 (not 1784)
+- [[joseph-bunker-children-print-familysearch]] — FamilySearch print views for all 10 surviving children of Joseph Bunker (1840); vitals, marriages, children; South Normanton migration; Roberts sisters at Moggerhanger; WWI losses; christening date anomaly
+- [[mabel-bunker-1883-sources-familysearch]] — FamilySearch sources page (7 sources) for Mabel Bunker; confirms 1901 as Millbrook parlour maid (not Luton); 1911/1921 census; Grace Bunker Cook confirmed as her daughter in 1921
 - [[joseph-bunker-1840-print-view-familysearch]] — FamilySearch print view (MM18-ML4); Joseph (1840–1914) and Mary Ann Wilcox; John (1803) and Maria West as parents; 9 siblings; 11 children
 - [[joseph-bunker-1840-sources-familysearch]] — FamilySearch sources (26 sources, MM18-ML4); census trail 1841–1911; occupations; children's marriages; death 1914 Ampthill
 - [[john-bunker-1803-sources-familysearch]] — FamilySearch sources (21 sources, G9RB-9PR); born 22 Dec 1803; 1841 and 1851 censuses; Maria born Ampthill; George christened 5 Nov 1848
