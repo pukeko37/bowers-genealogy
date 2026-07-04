@@ -1,3 +1,7 @@
+## [2026-07-04] update | Roland Herbert Bunker (Ron) — photo destruction timeline
+
+Updated [[roland-herbert-bunker-1898]]: refined the source note and narrative around Ron's destruction of the photographs to reflect Philippa Bowers's feedback. The previous version implied the family learned of the destruction contemporaneously with Ron's death ("at the time"); Philippa clarified that the reveal to her, Andrew, and Richard via their mother Jacqueline could have been six months to three or four years later. Rough brackets: Ivy renovated the back garden within the first year, then moved next door within two to three years more. Jacqueline may have withheld details initially out of loyalty to Alan and Ron. Philippa's core observation — *"The gap in the story really is 'what mum knew'"* — now included verbatim in the page.
+
 ## [2026-07-01] ingest | Children of Joseph Bunker (1840) — all ten surviving children
 
 Ingested 11 FamilySearch clippings: print views for all ten surviving children of Joseph Bunker (1840) and Mary Ann Wilcox, plus a rich sources page for Mabel Bunker.

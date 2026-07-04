@@ -126,7 +126,9 @@ The surviving photographs — Alan and Norman as babies, Ron with the boys and t
 
 There is a question about what specifically he was erasing. The contents of the archive are not known. But the instinct is clear: this was not grief or confusion or a momentary impulse. It was the final act of the same account he had been giving of himself since at least 1930.
 
-*Source: Philippa Bowers, attributed to Jacqueline Bowers (their mother), who learned this at the time. Family oral history; the event is undocumented.*
+The timing of the revelation — when Ivy told anyone, and when the story reached the family in the UK — is uncertain. Philippa notes that her mother Jacqueline may not have shared what she knew immediately, partly out of loyalty to Alan and unwillingness to speak against Ron's character. The rough brackets available are: Ivy renovated the back garden within the first year after Ron's death, then moved next door a year or two later, with the house renovated around the same time — three to four years in all. Philippa believes the revelation was probably closer rather than further away, perhaps within six months, but the core of what Jacqueline knew, and when she shared it, cannot now be established. As Philippa puts it: *"The gap in the story really is 'what mum knew.'"*
+
+*Source: Philippa Bowers, via Jacqueline Bowers (their mother). Philippa's evidence is entirely from conversation with her mother; she saw no physical evidence before or after. Family oral history; the event is undocumented.*
 
 ### Character and Values
 
