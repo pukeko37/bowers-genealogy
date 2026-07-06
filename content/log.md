@@ -1253,3 +1253,6 @@ Compressed 19 entries (2026-06-25 to 2026-06-26) into one block.
 ## [2026-07-01] compress | Millbrook community — blog, siblings, census spreadsheet; James Thomas Bunker's siblings
 Compressed 14 entries (2026-06-23 to 2026-06-25) into one block.
 
+## [2026-07-06] lint | Full wiki
+328 people · 133 families · 33 places · 374 sources. One duplicate index entry fixed (susan-matthews-1800 in Matthews-LDS cluster, wrong description removed). ~80 missing person pages identified across Hartlepool Norman branch (21), Causer, Fensome, Woodcraft, Bunker-West and other families. Six missing place pages (ampthill, haynes, hemingford-abbots, peterborough, steppingley, stevington). Research-state stats are stale (last updated May 2026). Full findings at [[lint-2026-07-06]].
+

@@ -320,7 +320,6 @@
 - [[anne-matthews-1815]] — Anne Matthews (1815–1858), George Birchmore Plummer's first wife, chose husband over Mormon family
 - [[thomas-matthews-1767]] — Thomas Matthews (1767–1862), Anne's father, Whipsnade ag labourer, died aged ~94
 - [[mary-wilson-1779]] — Mary Wilson (b. 1779), Anne's mother, LDS baptism 4 Jan 1851, death date unknown
-- [[susan-matthews-1800]] — Susan Matthews (1800–1857), likely eldest Matthews child, born before marriage, died unmarried Whipsnade
 - [[sarah-matthews-1803]] — Sarah Matthews (christened 30 Jan 1803, Kensworth), Anne's sister; no further record found
 - [[thomas-matthews-1797]] — Thomas Matthews (the younger, christened 12 Aug 1798, Kensworth), Anne's eldest brother; lifelong Kensworth; married twice; died 1862
 - [[charles-matthews-1832]] — Charles Matthews (b. ~1832, Kensworth), son of Thomas the younger; settled Caddington; 5 children; did not emigrate
