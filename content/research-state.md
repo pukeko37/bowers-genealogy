@@ -6,7 +6,7 @@ updated: 2026-05-11
 
 # Research State
 
-_Updated 2026-05-12. Wiki: 211 sources · 171 people · 56 families · 15 places._
+_Updated 2026-07-06. Wiki: 374 sources · 411 people · 133 families · 39 places._
 
 Load this at session start to orient without reading the full log. The log remains the audit trail; this is the current picture.
 
@@ -64,7 +64,7 @@ Roland Bunker's line. The Millbrook, Bedfordshire ancestral home runs from Thoma
 - Martha Sarah Bunker (1841–1901): obituary published in Luton newspaper; not yet found
 - The three Lane daughters (Edith, Mary, Elizabeth — Lydia Bunker's children; father died 1872): unresearched
 - Mary Reade (1702–1775): parents unknown; Toddington 1728 register not checked
-- `batchelor-bingham-flamstead` family page: Joseph Batchelor (1755)'s parents; not yet created
+- `batchelor-bingham-flamstead` family page: Joseph Batchelor (1755)'s parents; created 2026-07-01
 
 ---
 

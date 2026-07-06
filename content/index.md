@@ -185,20 +185,50 @@
 - [[john-tabram-1836]] — John Tabram (1836–after 1901), Ann's brother; lifelong agricultural labourer in Fenstanton; married Elizabeth Lewis 1857; 7 children
 - [[john-tabram-1861]] — John Tabram (1861–1939), son of John (1836); died Buckden Huntingdonshire; probate to Ethel Fuller Lomas; effects £506
 - [[adeliza-fuller-1862]] — Adeliza Fuller (1862–1938), born Hemingford Abbots; parents Thomas & Rachael Fuller; wife of John Tabram (1861); died Buckden; effects £609
+- [[ellen-rachel-tabram-1881]] — Ellen Rachel Tabram (1881–1882), first child of John Tabram & Adeliza Fuller; died in infancy
+- [[ethel-fuller-tabram-1883]] — Ethel Fuller Tabram (born 1883), second child; married Lomas; executor of both parents' wills
+- [[mabel-sarah-tabram-1885]] — Mabel Sarah Tabram (born 1885), youngest child; no records traced
 - [[george-norman-1851]] — George Norman (1851–1903), Charles's eldest brother; left Swavesey for West Hartlepool c.1875; married Margaret J Garry; 10 children; died Hartlepool
 - [[margaret-j-garry-1854]] — Margaret J Garry (1854–1933), George Norman's wife; born Hartlepool; survived George by 30 years; Garry family not yet researched
 - [[richard-norman-1853]] — Richard Norman (1853–?), Charles's second brother; married Hartlepool 1875; County Durham; 11 children; wife from Fenstanton
 - [[ann-elizabeth-randall-1854]] — Ann Elizabeth Randall (1854–1933), Richard Norman's wife; born Fenstanton — the Norman family's ancestral Huntingdonshire village
+- [[charles-norman-1878]] — Charles Norman (1878–1878), first child of Richard & Ann; died in infancy; first of three sons named Charles
+- [[mary-elizabeth-norman-1878]] — Mary Elizabeth Norman (1878–1908), second child of Richard & Ann; died aged 30
+- [[charles-norman-abt-1880]] — Charles Norman (~1880–~1898), third child of Richard & Ann; died aged ~18; second son named Charles
+- [[frances-ann-norman-1882]] — Frances Ann Norman (born 1882), fourth child; still at home 1911
+- [[john-thomas-norman-1885]] — John Thomas Norman (born 1885), fifth child; West Hartlepool
+- [[richard-randall-norman-1886]] — Richard Randall Norman (1886–1969), sixth child; name combines both parents'; lived to 83
+- [[willie-h-norman-1891]] — Willie H Norman (born 1891), seventh child; West Hartlepool
+- [[albert-norman-1893]] — Albert Norman (born 1893), eighth child; West Hartlepool
+- [[george-norman-1895]] — George Norman (born 1895), ninth child; named after father's brother
+- [[annie-louisa-norman-1898]] — Annie Louisa Norman (1898–1945), tenth child
+- [[charles-norman-1900]] — Charles Norman (1900–1987), eleventh child; third son named Charles; survived to 87
 - [[tom-norman-1856]] — Tom Norman (1856–1925), Charles's older brother; Farm Bailiff 1891; beerhouse Eaton Socon; 9 children with Emily Thulborn
 - [[emily-thulborn-1856]] — Emily Thulborn (1856–1922), Tom Norman's wife; born Oakington 21 Aug 1856; daughter of Newman Thulborn; married 1877; 9 children
 - [[newman-thulborn-1821]] — Newman Thulborn (abt 1821–1888), Emily's father; agricultural labourer; lifelong Oakington; married Hannah How
 - [[hannah-how-1824]] — Hannah How (abt 1824–unknown), Newman Thulborn's wife; born Kingston, Cambridgeshire; Emily Thulborn's mother
 - [[albert-newman-norman-1888]] — Albert Newman Norman (1888–1970), Tom & Emily's son; Crown Beerhouse keeper Eaton Socon 1922–1931; middle name honours maternal grandfather Newman Thulborn
+- [[fred-norman-1878]] — Fred Norman (1878–1955), Tom & Emily's eldest; born Swavesey
+- [[charles-norman-1879]] — Charles Norman (born 1879, Swavesey), Tom & Emily's second child; no records traced
+- [[kate-norman-1881]] — Kate Norman (1881–1956), Tom & Emily's third; Huntingdonshire
+- [[alfred-norman-1884]] — Alfred Norman (1884–1949), Tom & Emily's fourth; born Alconbury Weston
+- [[florence-norman-1886]] — Florence Norman (born 1886, Huntingdonshire), Tom & Emily's fifth
+- [[emily-norman-1889]] — Emily Norman (born 1889, Huntingdonshire), Tom & Emily's seventh; named for her mother
+- [[thomas-norman-1891]] — Thomas Norman (1891–1981), Tom & Emily's eighth; longest-lived; still at Eaton Socon 1921
+- [[hannah-norman-1893]] — Hannah Norman (born 1893, Alconbury Hill), Tom & Emily's youngest
 - [[mary-ann-norman-1861]] — Mary Ann Norman (1861–1951), Charles's sister; married George Causer 1883; 6 children; widowed 1898; laundress/charwoman; died Chesterton
 - [[george-causer-1859]] — George Causer (1859–1898), Mary Ann Norman's husband; Engine Driver from Staffordshire; died leaving 6 children
+- [[elizabeth-ann-causer-1885]] — Elizabeth Ann Causer (1885–1974), eldest Causer child; Private Means 1939; lived with mother in Swavesey
+- [[ethel-kate-causer-1887]] — Ethel Kate Causer (1887–1957), second Causer child
+- [[fred-daniel-causer-1889]] — Fred Daniel Causer (1889–1969), third Causer child
+- [[harriet-causer-1892]] — Harriet Causer (1892–1920), fourth Causer child; died aged 28
+- [[frances-ellen-causer-1894]] — Frances Ellen Causer (1894–1980), fifth Causer child
+- [[louisa-causer-1895]] — Louisa Causer (1895–1992), youngest Causer child; reached ~97
 - [[alfred-eusden-norman-1865]] — Alfred Eusden Norman (1865–1896), Charles's brother; born and died Swavesey; single; predeceased both parents
 - [[robert-henry-norman-1868]] — Robert Henry Norman (1868–1954), Charles's youngest brother; married Ada Squires 1899; 2 daughters; Middle Watch Swavesey
 - [[ada-squires-1864]] — Ada Squires (1864–1923), Robert Henry Norman's wife; born Fendrayton, Cambridgeshire
+- [[elsie-norman-1900]] — Elsie Norman (1900–1987), elder daughter of Robert Henry Norman & Ada Squires
+- [[annie-norman-1902]] — Annie Norman (1902–1985), younger daughter of Robert Henry Norman & Ada Squires — Ada Squires (1864–1923), Robert Henry Norman's wife; born Fendrayton, Cambridgeshire
 - [[richard-tabraham-1807]] — Richard Tabraham (1807–1874), Elsworth/Fenstanton; Ann Tabram's father; also "Tabram"
 - [[mary-eusden-1807]] — Mary Eusden (abt 1807–1841), christened Ely; Ann Tabram's mother; died when Ann was twelve
 - [[thomas-euseden-1764]] — Thomas Euseden (1764–1842), Mary's father; buried Fenstanton; in Richard Tabraham's household 1841
@@ -234,6 +264,12 @@
 - [[daniel-cook-1790]] — Daniel Cook (abt 1790–1857), Ruth's father; born Whipsnade, ag labourer, died Flamstead
 - [[mary-birchmore-1785]] — Mary Birchmore (1785–?), Ruth's mother; Whipsnade Birchmore family; parents William Birchmore (1751) and Mary Simonds
 - [[david-cook-1816]] — David Cook (1816–1900), Ruth Cooke's brother; two marriages (Elizabeth Frost 1842, Charlotte Matthews 1856); father of Charles Cook (1843–1908)
+- [[anne-cooke-1858]] — Anne Cooke (born 1858, Whipsnade), eldest child of David Cook & Charlotte Matthews
+- [[sarah-cooke-1860]] — Sarah Cooke (born 1860, Whipsnade), second child
+- [[betsy-cook-1862]] — Betsy Cook (1862–1888, Whipsnade), third child; died aged 26
+- [[jesse-cooke-1863]] — Jesse Cooke (born 1863, Whipsnade), fourth child
+- [[daniel-cooke-1864]] — Daniel Cooke (born 1864, Whipsnade), fifth child
+- [[amy-cooke-1867]] — Amy Cooke (born 1867, Whipsnade), youngest child
 - [[george-cook-1815]] — George Cook (1815), Daniel Cook's son; only birth records; no marriage or children documented
 - [[james-cook-1813]] — James Cook (1813), Daniel Cook's son; in 1841 Whipsnade census; disappears after 1841
 - [[sarah-cook-1811]] — Sarah Cook (1811), eldest child of Daniel Cook; only christening record
@@ -264,6 +300,7 @@
 - [[minnie-rose-bransom-1884]] — Minnie Rose Bransom (1884–1960), 7th and youngest child of Edwin & Mary; housekeeper at Dell Farm 1911
 - [[walter-cook-1869]] — Walter Cook (1869), eldest son of Charles Cook (1843) & Lois Brandsom; witness at 1894 Thody-Cook wedding with cousin Florence Bransom
 - [[albert-ralph-cook-1886]] — Albert Ralph Cook (1886–1932), youngest child of Charles Cook (1843) & Lois Brandsom; Whipsnade
+- [[james-purton-turvey]] — James Purton Turvey (1867–1910), co-tenant of Dell Farm Whipsnade; father of Albert Cook's wife Hilda Kate
 - [[mary-ann-cook-1839]] — Mary Ann Cook (1839), daughter of David Cook & Elizabeth Frost; born before parents' 1842 marriage; fate unknown
 - [[james-cook-1843]] — James Cook (1843), son of David Cook & Elizabeth Frost; same birth year as brother Charles; probably the James Cook of Harpenden (children 1876–1882); see [[cook-harpenden-1876]]
 - [[thomas-cook-1882]] — Thomas Edward Cook (9 Apr 1882 – 3 Sep 1955), probable grandson of David Cook (1816); born Harpenden; married Alice Dumpleton 1906; buried Kensworth
@@ -274,6 +311,12 @@
 - [[thomas-batchelar-1803]] — Thomas Batchelar (1803–1872), Eliza Batchelor's father; born Dagnall, Bucks; son of David Batchelor; shepherd/labourer Whipsnade
 - [[susan-matthews-1800]] — Susan Matthews (1800–1857), Thomas Batchelar's wife; Eliza's mother; daughter of Peter Matthews; grocer; born and died Whipsnade
 - [[susan-maynard-1802]] — Susan Maynard (1802–?), Thomas Batchelar's second wife; née Maynard from Luton; widow of William Woodcraft and Edmund Durrant; school mistress Whipsnade 1851
+- [[william-woodcraft-1777]] — William Woodcraft (1777–1835), Susan Maynard's first husband; married Whipsnade 1827; origins undocumented; possibly prior family
+- [[ann-woodcraft-1828]] — Ann Woodcraft (christened 1828, Whipsnade), eldest child of William & Susan; no records traced
+- [[george-woodcraft-1829]] — George Woodcraft (christened 1829, Whipsnade), second child; in 1841 household
+- [[james-woodcraft-1832]] — James Woodcraft (christened 1832, Whipsnade), third child
+- [[amos-woodcraft-1834]] — Amos Woodcraft (christened 1834, Whipsnade), fourth child
+- [[charles-woodcraft-1836]] — Charles Woodcraft (1836–1876, Whipsnade), youngest child; possibly posthumous
 - [[david-batchelor-unknown]] — David Batchelor (dates unknown), Thomas Batchelar's father; married Ann 1801 Finsbury; children in Chilterns parishes
 - [[peter-matthews-1665]] — Peter Matthews (1665–1730), earliest known Matthews ancestor; Bedford/Dunstable; married Mary Jenkins; 7 children
 - [[mary-jenkins-1665]] — Mary Jenkins (1665–1748), wife of Peter Matthews (1665); outlived him by 18 years; origins unknown
@@ -296,6 +339,9 @@
 - [[william-allen-thody-1850]] — William Allen Thody (1850–1911), born Cotton End, US Army deserter 1873, Police Constable Bedfordshire, Lucy Cook's husband
 - [[allen-thody-1813]] — Allen Thody (5 Oct 1813–1898), farm labourer, born Spain to Waterloo veteran; William's father
 - [[elizabeth-saunders-1811]] — Elizabeth Saunders (1811–1898), baptised Cardington; illegitimate daughter of Rebecca Arnold (widow of Joseph Sanders); maternal grandfather Samuel Arnold, Cotton End farmer
+- [[mary-saunders-1800]] — Mary Saunders (born 28 Dec 1800, Cardington), eldest daughter of Joseph Sanders & Rebecca Arnold; orphaned 1812
+- [[anne-saunders-1804]] — Anne Saunders (christened 1804, Cardington), second daughter; orphaned 1812
+- [[sarah-saunders-1808]] — Sarah Saunders (born ~1808, Cardington), youngest daughter; christened with three-year delay 1811
 - [[rebecca-arnold-1778]] — Rebecca Arnold (abt 1778–1812), daughter of Samuel Arnold (farmer, Cotton End); wife of Joseph Sanders; mother of Elizabeth Saunders; died leaving Elizabeth an orphan at 14 months
 - [[joseph-sanders-1774]] — Joseph Sanders (1774–1810), Cardington shoemaker; husband of Rebecca Arnold; died 1810; not Elizabeth Saunders's father
 - [[mathilde-parent-1853]] — Mathilde Elizabeth Parent (1853–1892), "Tillie," born Sandwich Ontario, William's first wife
@@ -329,6 +375,8 @@
 - [[able-matthews-1813]] — Able Matthews (b. 19 Apr 1813), Anne's brother; married Mary Ann Walker 1840; emigrated 1855 via St. Louis; arrived Utah 1861 David H. Cannon Company; settled Lehi; died 1891
 - [[mary-walker-1817]] — Mary Ann Walker (b. ~1817, Buckinghamshire), Able Matthews's first wife; died St. Louis ~1855–1861 during emigration
 - [[william-abel-matthews-1848]] — William Abel Matthews Sr. (b. 18 Mar 1848, Whipsnade), Able's son; settled Virgin Utah; married Rebecca Vince; died 1917
+- [[sarah-matthews-1841]] — Sarah Matthews (born ~1841, Whipsnade), Able's eldest; sailed 1855; fate after St. Louis untraced
+- [[elizabeth-matthews-1847]] — Elizabeth Matthews (born ~1847, Whipsnade), Able's second; sailed 1855; fate untraced
 - [[david-matthews-1817]] — David Matthews (christened 12 Jun 1817, Whipsnade), Anne's brother; no record after christening
 - [[daniel-willis-matthews-1820]] — Daniel Willis Matthews (1820–1903), Anne's brother; sailed Liverpool 17 Jan 1853; died Virgin Utah
 - [[eliza-matthews-1843]] — Eliza Matthews (1843–1930), Daniel Willis's eldest daughter; survived 1853 trail crossing; married Taylor; died Tooele Utah
@@ -384,6 +432,10 @@
 - [[mary-ward-tall-1827]] — Mary Ward Tall (1827–1907), eldest child of Edward and Sarah; married Daniel Bass 1855 Maulden; moved to Lavendon 1901
 - [[daniel-bass-1829]] — Daniel Bass (1829–1868), husband of Mary Ward Tall; died leaving 3 children
 - [[sarah-bass-1859]] — Sarah Bass (1859–1951), eldest child of Daniel & Mary; married James Lay 1887; shopkeeper Lavendon; died Luton aged ~92
+- [[herman-vivian-lay-1888]] — Herman Vivian Lay (1888–1946), eldest child of James Lay & Sarah Bass; born Lavendon
+- [[beatrice-eva-lay-1890]] — Beatrice Eva Lay (born 1890, Lavendon), second child; death year unknown
+- [[gertrude-florence-lay-1892]] — Gertrude Florence Lay (1892–1954), third child; Lavendon
+- [[oliver-cecil-lay-1894]] — Oliver Cecil Lay (1894–1979), youngest child; Lavendon; lived to 85
 - [[florence-bass-1862]] — Florence Bass (1862–?), middle child; domestic servant Islington 1881; married Sidney Shotbolt 1889; settled Ampthill; 3 children
 - [[edward-ernest-bass-1864]] — Edward Ernest Bass (1864–1936), youngest child; carpenter; Maulden→Ampthill→Kettering→Flitwick; died 16 Maulden-road Flitwick
 - [[caleb-bunker-1790]] — Caleb Bunker (1790–1848), eldest sibling of James (1807); Stevington; married Catherine Bull; son Ephraim emigrated to NSW 1845, married Mary Ann Betts in Australia
@@ -391,6 +443,7 @@
 - [[joseph-bunker-1792]] — Joseph Bunker (1792–1853), second sibling; Stevington; married Mary Markham; buried Stevington Baptist Chapel
 - [[ebenezer-bunker-1822]] — Ebenezer Bunker (1822–1902), son of Joseph (1792); married Sarah Cocking Stevington 1844; emigrated NSW; 7 children; died Campbelltown
 - [[james-bunker-1824]] — James Bunker (1824–1904), son of Joseph (1792); lifelong Silver Street Stevington labourer; married Sophia Panter 1850; 4 daughters
+- [[sophia-panter-1829]] — Sophia Panter (1829–1903), James Bunker's wife; birthplace uncertain ("Warrington, Bedfordshire" possibly misread); died Stevington 1903
 - [[ruth-bunker-1855]] — Ruth Bunker (1855–1910), daughter of James (1824); domestic servant; bastardy order 1880; married George Draper Whiting Sep 1880; 11 children; emigrated Sherbrooke Quebec 1885
 - [[ruth-bunker-1794]] — Ruth Bunker (b. 1794, Millbrook); survived 1806 mass christening; provisionally married William Cook/Cooke at Millbrook 1816; thereafter Ruth Cook
 - [[phoebe-bunker-1796]] — Phoebe Bunker (1796–1849), stayed in Millbrook unmarried; last of the siblings to leave; buried Bedford
@@ -447,6 +500,7 @@
 - [[george-bunker-1845]] — George Bunker (1845), John (1803)'s youngest child; christened 1848; married Harriet Brandon Lambeth 1865; Tottenham by 1881; 8 children
 - [[harriet-brandon-1846]] — Harriet Brandon (1846), wife of George Bunker (1845); married Lambeth 1865; Tottenham
 - [[job-bunker-1780]] — Job Bunker (1780), son of Joseph (1754); married Rebecca Atterbury; 8 children in Millbrook 1807–1821; previously unknown collateral line
+- [[patty-bunker-1797]] — Patty Bunker (~1797, Millbrook), daughter of Joseph (1754) & Martha Garratt; Job's sister; entirely untraced
 - [[rebecca-atterbury-1785]] — Rebecca Atterbury (1785), wife of Job Bunker (1780); origins unknown
 - [[richard-bunker-1859]] — Richard Bunker (1859), eldest child of Joseph (1840); married Emma Page Millbrook 1882; pre-marital child Harold; South Normanton then Flitwick; two sons killed WWI
 - [[thomas-bunker-1862]] — Thomas Bunker (1862–1902), second child of Joseph (1840); married Charlotte Roberts Moggerhanger 1885; no children; died South Normanton aged ~40
@@ -475,6 +529,13 @@
 - [[martha-sinfield]] — Martha Sinfield (dates unknown), married Thomas Bunker 1738 at Millbrook 1761; no birth/death records found
 - [[john-watts-bunker-1831]] — John Watts Bunker (1831–1899), Caleb's eldest brother; Bedford area; died Ampthill
 - [[ann-woodland-1835]] — Ann Woodland (abt 1835–unknown), John Watts Bunker's wife; Ampthill; parentage unknown
+- [[james-richard-bunker-1855]] — James Richard Bunker (christened 1855, Millbrook), eldest child of John Watts & Ann; christened at ancestral parish
+- [[ann-elizabeth-bunker-1857]] — Ann Elizabeth Bunker (born 1857, Ampthill), second child
+- [[john-bunker-1860]] — John Bunker (~1860, Bedford), third child; christened 1867 in batch ceremony
+- [[emma-bunker-1863]] — Emma Bunker (~1863, Bedford), fourth child; christened 1867
+- [[harry-bunker-1867]] — Harry Bunker (christened 1867, St Mary's Bedford), fifth child
+- [[george-bunker-1869]] — George Bunker (~1869, Bedford), sixth child; no records traced
+- [[william-henry-bunker-1871]] — William Henry Bunker (christened 1871, St Mary's Bedford), youngest child
 - [[lydia-bunker-1833]] — Lydia Bunker (1833–1922), Caleb's sister; married Samuel Plackett Lane 1863; widowed 1872; Bedford then Barton Almshouse Turvey; died aged 89
 - [[samuel-plackett-lane-1841]] — Samuel Plackett Lane (abt 1841–1872), boot maker; married Lydia Bunker 1863; died aged 29 leaving 3 daughters
 - [[edith-mercy-lane-1865]] — Edith Mercy Lane (abt 1865–?), eldest Lane daughter; married Frank Humphries Locke 1884; 4 children
@@ -482,13 +543,33 @@
 - [[elizabeth-mary-ann-lane-1869]] — Elizabeth Mary Ann Lane (abt 1869–?), youngest Lane daughter; married John White 1890
 - [[george-bunker-1836]] — George Bunker (1836–1917), Caleb's brother; married Ann Pedder 1858; Storekeeper then General Labourer; Millbrook → Bedford → New Tupton → Derby
 - [[ann-pedder-1838]] — Ann Pedder (abt 1838–unknown), George Bunker's wife; Westoning, Bedfordshire; 5 children
+- [[sarah-ann-bunker-1860]] — Sarah Ann Bunker (born 19 Oct 1860, Bedford), eldest child of George & Ann; Wesleyan Methodist christening
+- [[harriett-bunker-1865]] — Harriett Bunker (~1865, Bedford), second child
+- [[alice-bunker-1872]] — Alice Bunker (~1872, Bedford), third child
+- [[albert-bunker-1875]] — Albert Bunker (~1875, New Tupton; died Derby 1924), fourth child; birthplace marks Derbyshire migration
+- [[amy-bunker-1878]] — Amy Bunker (~1878, Derby), youngest child; married Lewis Allsop 1 Jul 1911
 - [[david-bunker-1837]] — David Bunker (1837–1920), Caleb's brother; Millbrook → Peterborough; died aged ~83
 - [[marian-bentley-1831]] — Marian Bentley (abt 1831–1914), David Bunker's wife; born Biggleswade; six years David's senior; died Peterborough
+- [[elizabeth-jane-bunker-1860]] — Elizabeth Jane Bunker (~1860, Bedford), eldest child of David & Marian; last at home 1901 Peterborough
+- [[marian-bunker-1862]] — Marian Bunker (~1862, Bedford), second child; named for her mother
+- [[albert-bunker-1863]] — Albert Bunker (~1863, Bedford), third child; distinct from Albert Bunker (1875)
+- [[charles-bunker-1866]] — Charles Bunker (~1866, Bedford), youngest child; named for uncle Charles (1839)
 - [[charles-bunker-1839]] — Charles Bunker (1839–?), Caleb's brother; west London (Paddington, Kensington, Hammersmith)
 - [[martha-sarah-bunker-1841]] — Martha Sarah Bunker (1841–1901), married Joseph Sinfield 1863 Bedford; Straw Hat Sewer; died Luton 1901 as "Martha Sarah Sinfield"
 - [[joseph-sinfield-1844]] — Joseph Sinfield (1844–1914), christened Kempston; Hammerman→Police Constable Luton; parents William Sinfield & Sarah; died Luton 12 Apr 1914
+- [[annie-maria-sinfield-1864]] — Annie Maria Sinfield (~1864, Bedford), elder daughter; married Alfred John Hyde (blocker, straw hats); Luton
+- [[elizabeth-julia-sinfield-1867]] — Elizabeth Julia Sinfield (~1867, Bedford), younger daughter; married George Linger 1886 Luton
 - [[phoebe-alice-bunker-1843]] — Phoebe Alice Bunker (1843–1923), Caleb's sister; married Samuel Fensome 1863; 8 children; Pilsley Derbyshire then Yorkshire
 - [[samuel-fensome-1842]] — Samuel Fensome (abt 1841–1920), Phoebe Alice Bunker's husband; born Ravensden, Bedfordshire; parents Thomas Fensom & Sarah Barrick; died Mansfield, Nottinghamshire
+- [[helen-fensome-1864]] — Helen Fensome (~1864, Bedford), eldest Fensome child; married John George Mason 1891 Pilsley
+- [[herbert-charles-fensome-1866]] — Herbert Charles Fensome (1866–1950), born Pertenhall, Bedfordshire
+- [[edgar-fensome-1868]] — Edgar Fensome (1868–1953), born Ravensden, Bedfordshire
+- [[alice-jane-fensome-1872]] — Alice Jane Fensome (1872, Bedford), married John Hickman 1891 Pilsley
+- [[reginald-edwin-fensome-1873]] — Reginald Edwin Fensome (1873, Bedford), married Millicent Coope 1894 Pilsley
+- [[sidney-thomas-fensome-1877]] — Sidney Thomas Fensome (1877–1954), first Derbyshire-born Fensome child; Pilsley
+- [[percy-louis-fensome-1879]] — Percy Louis Fensome (1879–1965), born Pilsley; married Sarah Ann Grice 1902
+- [[maud-fensome-1882]] — Maud Fensome (born 1882, Pilsley); no records traced
+- [[florence-sarah-fensome-1884]] — Florence Sarah Fensome (born 1884, Pilsley); married Leonard Holland; family followed to Hucknall
 - [[comfort-ann-bunker-1848]] — Comfort Ann Bunker (abt 1848–Q1 1921), known as Jane/Annie; Sinfield household 1871–1891; married Henry Ewington 1892; died Luton Q1 1921 aged 72
 
 ### Bowers · Reynolds
@@ -496,6 +577,9 @@
 - [[norman-kenneth-bowers-1925]] — Norman Kenneth Bowers (1925–?), Roland and Ivy's elder son, stayed in UK Navy
 - [[alan-geoffrey-bowers-1928]] — Alan Geoffrey Bowers (1928–?), Roland and Ivy's younger son, emigrated NZ
 - [[jacqueline-reynolds-1930]] — Jacqueline Lucy Reynolds (1930–2014), Alan Bowers's wife, Liverpool University, emigrated Auckland
+- [[andrew-nicholas-bowers-1959]] — Andrew Nicholas Bowers (b. 1959), eldest child of Alan & Jacqueline; born Auckland
+- [[richard-ian-bowers-1962]] — Richard Ian Bowers (b. 1962), second child of Alan & Jacqueline; born Auckland
+- [[philippa-jane-bowers-1964]] — Philippa Jane Bowers (b. 1964), youngest child of Alan & Jacqueline; born Auckland
 
 ## Networks
 
@@ -536,6 +620,12 @@
 - [[eaton-bray]] — Eaton Bray, Bedfordshire; 4 miles from Whipsnade; Woodcraft family confirmed — probable origin of Alice Woodcroft who married Thomas Bachelor 1816
 - [[kensworth]] — Kensworth, Hertfordshire; home of Thomas Matthews (the younger); Daniel Willis Matthews & Sarah Garner married here 1842
 - [[virgin-utah]] — Virgin, Washington County, Utah; Daniel Willis Matthews settled and died here 1903; William Abel Matthews died here 1917
+- [[ampthill]] — Ampthill, Bedfordshire; John Bunker (1803) married here 1824; John Watts Bunker married here 1854; John Bunker (1746) buried here
+- [[haynes]] — Haynes, Bedfordshire; home of the Geary family across two generations; John Geary (1825–1895) buried here
+- [[hemingford-abbots]] — Hemingford Abbots, Huntingdonshire; birthplace of Adeliza Fuller (1862); adjacent to Fenstanton
+- [[peterborough]] — Peterborough, Cambridgeshire; David Bunker settled here 1881; railway storekeeper; died here 1920
+- [[steppingley]] — Steppingley, Bedfordshire; settled home of William Bunker (1740) line across four generations
+- [[stevington]] — Stevington, Bedfordshire; home of the Joseph Bunker (1792) branch; James Bunker (1824) lifelong resident
 
 ## Sources
 

@@ -7,7 +7,7 @@ parents:
 children:
   - "[[sarah-matthews-1841]]"
   - "[[elizabeth-matthews-1847]]"
-  - "[[william-matthews-1848]]"
+  - "[[william-abel-matthews-1848]]"
 places:
   - "[[whipsnade]]"
   - "[[dunstable]]"
